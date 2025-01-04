@@ -4,19 +4,19 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 10.399999999999999
+      "ganancia": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 10.399999999999999
+      "ganancia": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 23.4,
-      "ganancia": 7.799999999999999
+      "adeudo": 0,
+      "ganancia": 0
     },
     {
       "nombre": "Francisco",
@@ -80,33 +80,9 @@
     }
   ],
   "historialCompras": {
-    "Arturo": [
-      {
-        "producto": "prueba",
-        "piezas": 4,
-        "costoTotal": 31.2,
-        "fecha": "4/1/2025, 12:46:01 a.m.",
-        "ganancia": 10.399999999999999
-      }
-    ],
-    "Carlos": [
-      {
-        "producto": "prueba",
-        "piezas": 4,
-        "costoTotal": 31.2,
-        "fecha": "4/1/2025, 12:46:09 a.m.",
-        "ganancia": 10.399999999999999
-      }
-    ],
-    "Edgar": [
-      {
-        "producto": "prueba",
-        "piezas": 3,
-        "costoTotal": 23.4,
-        "fecha": "4/1/2025, 12:46:17 a.m.",
-        "ganancia": 7.799999999999999
-      }
-    ],
+    "Arturo": [],
+    "Carlos": [],
+    "Edgar": [],
     "Francisco": [],
     "Irvin": [],
     "Isac": [],
@@ -118,32 +94,11 @@
     "Vicente": [],
     "Externo": []
   },
-  "productos": [
-    {
-      "codigo": "1",
-      "descripcion": "prueba",
-      "precioCompra": 5.2,
-      "precioVenta": 7.8,
-      "piezas": 34,
-      "stockParciales": [
-        {
-          "cantidad": 34,
-          "costoUnitario": 5.2
-        }
-      ]
-    }
-  ],
-  "historialEntradas": [
-    {
-      "producto": "prueba",
-      "cantidad": 45,
-      "costoTotal": 234,
-      "fecha": "4/1/2025, 12:45:47 a.m."
-    }
-  ],
+  "productos": [],
+  "historialEntradas": [],
   "numInversionistas": 12,
   "totalInversion": 6000,
-  "gastoEnProductos": 234,
-  "inversionRecuperada": 57.2,
-  "gananciasTotales": 28.599999999999994
+  "gastoEnProductos": 0,
+  "inversionRecuperada": 0,
+  "gananciasTotales": 0
 }
