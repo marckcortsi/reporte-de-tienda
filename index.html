@@ -1,41 +1,117 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <title>Consulta de Datos</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sistema de Ventas - Consulta</title>
+
+  <!-- Manifest embebido (opcional) -->
+  <link rel="manifest" href='data:application/json,{"name":"Mi%20App%20de%20Ventas","short_name":"Ventas","start_url":"./index.html","display":"standalone","background_color":"%23FFFFFF","theme_color":"%23FFFFFF","icons":[{"src":"https://via.placeholder.com/512","sizes":"512x512","type":"image/png"}]}' />
+
+  <!-- Tema del navegador -->
+  <meta name="theme-color" content="#009ee3">
+
+  <!-- Archivo de estilos -->
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
-    <h1>Consulta de Datos</h1>
+  <!-- Encabezado a ancho completo -->
+  <header class="header">
+    <h1>Sistema de Ventas</h1>
   </header>
 
-  <div class="contenedor">
-    <!-- Botones para navegar entre secciones -->
-    <div class="menu">
-      <button onclick="mostrarSeccion('seccion-individual')">Consulta Individual</button>
-      <button onclick="mostrarSeccion('seccion-global')">Consulta Global</button>
-    </div>
-
-    <!-- SECCIÓN INDIVIDUAL -->
-    <section id="seccion-individual" class="oculta">
-      <h2>Consulta Individual</h2>
-      <select id="select-usuario" onchange="mostrarUsuario()"></select>
-
-      <div id="info-usuario" class="info-usuario">
-        <!-- Aquí se mostrará la información del usuario seleccionado -->
+  <div class="container">
+    <!-- Menú Principal (solo con 2 botones) -->
+    <section id="main-menu" class="section active">
+      <div class="menu-container">
+        <!-- Botón para Consulta Individual -->
+        <button class="menu-btn" onclick="showSection('consultas')">Consulta Individual</button>
+        <!-- Botón para Consulta Global -->
+        <button class="menu-btn" onclick="showSection('consulta-inversion'); actualizarConsultaInversion();">
+          Consulta Global
+        </button>
       </div>
     </section>
 
-    <!-- SECCIÓN GLOBAL -->
-    <section id="seccion-global" class="oculta">
-      <h2>Consulta Global</h2>
-      <div id="info-global">
-        <!-- Aquí se mostrará la información global -->
+    <!-- Sección CONSULTAS INDIVIDUAL (idéntica a tu código original) -->
+    <section id="consultas" class="section">
+      <h2>Consultas</h2>
+      <div class="form-group">
+        <label for="select-usuario-consulta">Seleccionar Usuario:</label>
+        <select id="select-usuario-consulta"></select>
+      </div>
+      <div class="btn-row">
+        <button class="btn" onclick="filtrarInformacionUsuario()">Ver Información</button>
+        <button class="btn" onclick="imprimirReporteUsuario()">Imprimir Reporte Usuario</button>
+      </div>
+
+      <div id="consulta-usuario" class="consulta-usuario hidden">
+        <div class="usuario-info">
+          <img id="foto-usuario" src="" alt="Foto Usuario" class="foto-usuario">
+          <h3 id="nombre-usuario"></h3>
+          <p>Inversión: <span id="inversion-usuario">$0.00</span></p>
+          <p>Ganancia Total: <span id="ganancia-usuario">$0.00</span></p>
+          <p id="adeudo-usuario-estado" class="adeudo-estado"></p>
+        </div>
+        <div class="table-container" id="usuario-table-container">
+          <div class="btn-row">
+            <button class="btn" onclick="toggleFullscreen('usuario-table-container')">Pantalla Completa</button>
+          </div>
+          <table id="tabla-historial">
+            <thead>
+              <tr>
+                <th>Producto</th>
+                <th>Piezas</th>
+                <th>Costo Total</th>
+                <th>Fecha</th>
+                <th>Ganancia</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="btn-row">
+        <button class="btn-cancel" onclick="showSection('main-menu')">Regresar</button>
+      </div>
+    </section>
+
+    <!-- Sección CONSULTA GLOBAL (idéntica a tu código original) -->
+    <section id="consulta-inversion" class="section">
+      <h2>Consulta de Inversión</h2>
+      <div class="inversion-info">
+        <p><strong>Inversión Total:</strong> <span id="inv-total">$0.00</span></p>
+        <p><strong>Saldo Actual de Inversión:</strong> <span id="inv-saldo" class="saldo-actual">$0.00</span></p>
+        <p><strong>Total de Adeudos:</strong> <span id="inv-adeudos" class="adeudos">$0.00</span></p>
+        <p><strong>Ganancias Totales:</strong> <span id="inv-ganancias">$0.00</span></p>
+      </div>
+
+      <div class="table-container" id="inversion-table-container">
+        <div class="btn-row">
+          <button class="btn" onclick="toggleFullscreen('inversion-table-container')">Pantalla Completa</button>
+        </div>
+        <table id="tabla-usuarios-ganancias">
+          <thead>
+            <tr>
+              <th>Foto</th>
+              <th>Usuario</th>
+              <th>Total de Compras</th>
+              <th>Ganancia</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <div class="btn-row">
+        <button class="btn" onclick="descargarBaseDeDatosJSON()">Descargar JSON</button>
+        <button class="btn-cancel" onclick="showSection('main-menu')">Regresar</button>
       </div>
     </section>
   </div>
 
-  <script src="script.js"></script>
+  <!-- Nuestro JS principal -->
+  <script src="app.js"></script>
 </body>
 </html>
