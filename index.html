@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Consulta de Datos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Consulta de Datos</h1>
+  </header>
+
+  <div class="contenedor">
+    <!-- Botones para navegar entre secciones -->
+    <div class="menu">
+      <button onclick="mostrarSeccion('seccion-individual')">Consulta Individual</button>
+      <button onclick="mostrarSeccion('seccion-global')">Consulta Global</button>
+    </div>
+
+    <!-- SECCIÓN INDIVIDUAL -->
+    <section id="seccion-individual" class="oculta">
+      <h2>Consulta Individual</h2>
+      <select id="select-usuario" onchange="mostrarUsuario()"></select>
+
+      <div id="info-usuario" class="info-usuario">
+        <!-- Aquí se mostrará la información del usuario seleccionado -->
+      </div>
+    </section>
+
+    <!-- SECCIÓN GLOBAL -->
+    <section id="seccion-global" class="oculta">
+      <h2>Consulta Global</h2>
+      <div id="info-global">
+        <!-- Aquí se mostrará la información global -->
+      </div>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

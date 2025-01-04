@@ -1,0 +1,125 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Arturo",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 0
+    },
+    {
+      "nombre": "Carlos",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 0
+    },
+    {
+      "nombre": "Edgar",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 0
+    },
+    {
+      "nombre": "Francisco",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 0
+    },
+    {
+      "nombre": "Irvin",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 0
+    },
+    {
+      "nombre": "Isac",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 0
+    },
+    {
+      "nombre": "Isrrael",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 0
+    },
+    {
+      "nombre": "Karen",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 0
+    },
+    {
+      "nombre": "Laura",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 0
+    },
+    {
+      "nombre": "Marcos",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 0
+    },
+    {
+      "nombre": "Rafael",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 0
+    },
+    {
+      "nombre": "Vicente",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 0
+    },
+    {
+      "nombre": "Externo",
+      "bloqueado": false,
+      "adeudo": 0,
+      "ganancia": 0
+    }
+  ],
+  "historialCompras": {
+    "Arturo": [],
+    "Carlos": [],
+    "Edgar": [],
+    "Francisco": [],
+    "Irvin": [],
+    "Isac": [],
+    "Isrrael": [],
+    "Karen": [],
+    "Laura": [],
+    "Marcos": [],
+    "Rafael": [],
+    "Vicente": [],
+    "Externo": []
+  },
+  "productos": [
+    {
+      "codigo": "1",
+      "descripcion": "prueba",
+      "precioCompra": 1,
+      "precioVenta": 1.5,
+      "piezas": 100,
+      "stockParciales": [
+        {
+          "cantidad": 100,
+          "costoUnitario": 1
+        }
+      ]
+    }
+  ],
+  "historialEntradas": [
+    {
+      "producto": "prueba",
+      "cantidad": 100,
+      "costoTotal": 100,
+      "fecha": "1/1/2025, 6:10:19 p.m."
+    }
+  ],
+  "numInversionistas": 12,
+  "totalInversion": 6000,
+  "gastoEnProductos": 100,
+  "inversionRecuperada": 0,
+  "gananciasTotales": 0
+}
