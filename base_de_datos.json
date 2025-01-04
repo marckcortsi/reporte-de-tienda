@@ -4,19 +4,19 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 0
+      "ganancia": 10.399999999999999
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 0
+      "ganancia": 10.399999999999999
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 0
+      "adeudo": 23.4,
+      "ganancia": 7.799999999999999
     },
     {
       "nombre": "Francisco",
@@ -80,9 +80,33 @@
     }
   ],
   "historialCompras": {
-    "Arturo": [],
-    "Carlos": [],
-    "Edgar": [],
+    "Arturo": [
+      {
+        "producto": "prueba",
+        "piezas": 4,
+        "costoTotal": 31.2,
+        "fecha": "4/1/2025, 12:46:01 a.m.",
+        "ganancia": 10.399999999999999
+      }
+    ],
+    "Carlos": [
+      {
+        "producto": "prueba",
+        "piezas": 4,
+        "costoTotal": 31.2,
+        "fecha": "4/1/2025, 12:46:09 a.m.",
+        "ganancia": 10.399999999999999
+      }
+    ],
+    "Edgar": [
+      {
+        "producto": "prueba",
+        "piezas": 3,
+        "costoTotal": 23.4,
+        "fecha": "4/1/2025, 12:46:17 a.m.",
+        "ganancia": 7.799999999999999
+      }
+    ],
     "Francisco": [],
     "Irvin": [],
     "Isac": [],
@@ -98,13 +122,13 @@
     {
       "codigo": "1",
       "descripcion": "prueba",
-      "precioCompra": 1,
-      "precioVenta": 1.5,
-      "piezas": 100,
+      "precioCompra": 5.2,
+      "precioVenta": 7.8,
+      "piezas": 34,
       "stockParciales": [
         {
-          "cantidad": 100,
-          "costoUnitario": 1
+          "cantidad": 34,
+          "costoUnitario": 5.2
         }
       ]
     }
@@ -112,14 +136,14 @@
   "historialEntradas": [
     {
       "producto": "prueba",
-      "cantidad": 100,
-      "costoTotal": 100,
-      "fecha": "1/1/2025, 6:10:19 p.m."
+      "cantidad": 45,
+      "costoTotal": 234,
+      "fecha": "4/1/2025, 12:45:47 a.m."
     }
   ],
   "numInversionistas": 12,
   "totalInversion": 6000,
-  "gastoEnProductos": 100,
-  "inversionRecuperada": 0,
-  "gananciasTotales": 0
+  "gastoEnProductos": 234,
+  "inversionRecuperada": 57.2,
+  "gananciasTotales": 28.599999999999994
 }
