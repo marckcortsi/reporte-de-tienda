@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Sistema de Ventas - Consulta</title>
+  <title>Tienda</title>
 
   <!-- Manifest embebido (opcional) -->
   <link rel="manifest" href='data:application/json,{"name":"Mi%20App%20de%20Ventas","short_name":"Ventas","start_url":"./index.html","display":"standalone","background_color":"%23FFFFFF","theme_color":"%23FFFFFF","icons":[{"src":"https://via.placeholder.com/512","sizes":"512x512","type":"image/png"}]}' />
@@ -17,7 +17,7 @@
 <body>
   <!-- Encabezado a ancho completo -->
   <header class="header">
-    <h1>Sistema de Ventas</h1>
+    <h1>Consultas</h1>
   </header>
 
   <div class="container">
@@ -41,8 +41,7 @@
         <select id="select-usuario-consulta"></select>
       </div>
       <div class="btn-row">
-        <button class="btn" onclick="filtrarInformacionUsuario()">Ver Información</button>
-        <button class="btn" onclick="imprimirReporteUsuario()">Imprimir Reporte Usuario</button>
+        <button class="btn" onclick="filtrarInformacionUsuario()">Buscar</button>
       </div>
 
       <div id="consulta-usuario" class="consulta-usuario hidden">
@@ -105,7 +104,6 @@
       </div>
 
       <div class="btn-row">
-        <button class="btn" onclick="descargarBaseDeDatosJSON()">Descargar JSON</button>
         <button class="btn-cancel" onclick="showSection('main-menu')">Regresar</button>
       </div>
     </section>
