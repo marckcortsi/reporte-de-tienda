@@ -94,11 +94,697 @@
     "Vicente": [],
     "Externo": []
   },
-  "productos": [],
-  "historialEntradas": [],
+  "productos": [
+    {
+      "codigo": "7506192505451",
+      "descripcion": "Vive 100 Original",
+      "precioCompra": 12.38,
+      "precioVenta": 18.56,
+      "piezas": 24,
+      "stockParciales": [
+        {
+          "cantidad": 24,
+          "costoUnitario": 12.375
+        }
+      ]
+    },
+    {
+      "codigo": "7506192510295",
+      "descripcion": "Vive 100 Blueberry",
+      "precioCompra": 13.66,
+      "precioVenta": 20.49,
+      "piezas": 24,
+      "stockParciales": [
+        {
+          "cantidad": 24,
+          "costoUnitario": 13.6625
+        }
+      ]
+    },
+    {
+      "codigo": "75071295",
+      "descripcion": "Cigarros Pall Mall",
+      "precioCompra": 3.35,
+      "precioVenta": 5.02,
+      "piezas": 100,
+      "stockParciales": [
+        {
+          "cantidad": 100,
+          "costoUnitario": 3.345
+        }
+      ]
+    },
+    {
+      "codigo": "75078843",
+      "descripcion": "Cigarros Shots",
+      "precioCompra": 1.91,
+      "precioVenta": 2.86,
+      "piezas": 200,
+      "stockParciales": [
+        {
+          "cantidad": 200,
+          "costoUnitario": 1.9084999999999999
+        }
+      ]
+    },
+    {
+      "codigo": "75001322",
+      "descripcion": "Cigarros Malvoro",
+      "precioCompra": 3.96,
+      "precioVenta": 5.93,
+      "piezas": 100,
+      "stockParciales": [
+        {
+          "cantidad": 100,
+          "costoUnitario": 3.955
+        }
+      ]
+    },
+    {
+      "codigo": "041789001987",
+      "descripcion": "Maruchan chile pikin",
+      "precioCompra": 14.08,
+      "precioVenta": 21.13,
+      "piezas": 24,
+      "stockParciales": [
+        {
+          "cantidad": 24,
+          "costoUnitario": 14.083333333333334
+        }
+      ]
+    },
+    {
+      "codigo": "7500366003811",
+      "descripcion": "Totis mix",
+      "precioCompra": 7.66,
+      "precioVenta": 11.49,
+      "piezas": 50,
+      "stockParciales": [
+        {
+          "cantidad": 50,
+          "costoUnitario": 7.6579999999999995
+        }
+      ]
+    },
+    {
+      "codigo": "7502217370028",
+      "descripcion": "Churros con ajonjoli",
+      "precioCompra": 60.48,
+      "precioVenta": 90.72,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 60.48333333333333
+        }
+      ]
+    },
+    {
+      "codigo": "7500478022519",
+      "descripcion": "Emperador Vainilla",
+      "precioCompra": 12.31,
+      "precioVenta": 18.47,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 12.313333333333333
+        }
+      ]
+    },
+    {
+      "codigo": "7500478022540",
+      "descripcion": "Emperador Nuez",
+      "precioCompra": 12.31,
+      "precioVenta": 18.47,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 12.313333333333333
+        }
+      ]
+    },
+    {
+      "codigo": "7500478022496",
+      "descripcion": "Emperador chocolate",
+      "precioCompra": 12.31,
+      "precioVenta": 18.47,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 12.313333333333333
+        }
+      ]
+    },
+    {
+      "codigo": "7500478021581",
+      "descripcion": "Emperador combinado",
+      "precioCompra": 13.7,
+      "precioVenta": 20.55,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 13.700000000000001
+        }
+      ]
+    },
+    {
+      "codigo": "7501059242920",
+      "descripcion": "Chocolate Tin Larin",
+      "precioCompra": 6.4,
+      "precioVenta": 9.6,
+      "piezas": 10,
+      "stockParciales": [
+        {
+          "cantidad": 10,
+          "costoUnitario": 6.4
+        }
+      ]
+    },
+    {
+      "codigo": "7500478010592",
+      "descripcion": "Galletas Marias",
+      "precioCompra": 12.73,
+      "precioVenta": 19.1,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 12.733333333333334
+        }
+      ]
+    },
+    {
+      "codigo": "038629002068",
+      "descripcion": "Galletas Marianitas Coco",
+      "precioCompra": 10.1,
+      "precioVenta": 15.15,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 10.1
+        }
+      ]
+    },
+    {
+      "codigo": "7501030490937",
+      "descripcion": "Galletas Canelitas",
+      "precioCompra": 20.87,
+      "precioVenta": 31.31,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 20.87333333333333
+        }
+      ]
+    },
+    {
+      "codigo": "7501006559019",
+      "descripcion": "Palomitas de mantequilla",
+      "precioCompra": 10.37,
+      "precioVenta": 15.56,
+      "piezas": 14,
+      "stockParciales": [
+        {
+          "cantidad": 14,
+          "costoUnitario": 10.37142857142857
+        }
+      ]
+    },
+    {
+      "codigo": "7501030490920",
+      "descripcion": "Polvorones",
+      "precioCompra": 20.87,
+      "precioVenta": 31.31,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 20.87333333333333
+        }
+      ]
+    },
+    {
+      "codigo": "038629002075",
+      "descripcion": "Galletas Marianistas Naranja",
+      "precioCompra": 10.1,
+      "precioVenta": 15.15,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 10.1
+        }
+      ]
+    },
+    {
+      "codigo": "038629002716",
+      "descripcion": "Galletas Marianistas Vainilla",
+      "precioCompra": 10.1,
+      "precioVenta": 15.15,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 10.1
+        }
+      ]
+    },
+    {
+      "codigo": "038629003225",
+      "descripcion": "Galletas Marianistas Chocolate",
+      "precioCompra": 10.1,
+      "precioVenta": 15.15,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 10.1
+        }
+      ]
+    },
+    {
+      "codigo": "703885005244",
+      "descripcion": "Zumba goma Mora Azul",
+      "precioCompra": 3.56,
+      "precioVenta": 5.34,
+      "piezas": 20,
+      "stockParciales": [
+        {
+          "cantidad": 20,
+          "costoUnitario": 3.5575
+        }
+      ]
+    },
+    {
+      "codigo": "703885005268",
+      "descripcion": "Zumba goma Fresa",
+      "precioCompra": 3.56,
+      "precioVenta": 5.34,
+      "piezas": 20,
+      "stockParciales": [
+        {
+          "cantidad": 20,
+          "costoUnitario": 3.5575
+        }
+      ]
+    },
+    {
+      "codigo": "703885005251",
+      "descripcion": "Zumba goma Sandia",
+      "precioCompra": 3.56,
+      "precioVenta": 5.34,
+      "piezas": 20,
+      "stockParciales": [
+        {
+          "cantidad": 20,
+          "costoUnitario": 3.5575
+        }
+      ]
+    },
+    {
+      "codigo": "7503030374552",
+      "descripcion": "Paletas de Tarrito",
+      "precioCompra": 1.63,
+      "precioVenta": 2.45,
+      "piezas": 40,
+      "stockParciales": [
+        {
+          "cantidad": 40,
+          "costoUnitario": 1.6300000000000001
+        }
+      ]
+    },
+    {
+      "codigo": "719886250330",
+      "descripcion": "Paleta Peloneta",
+      "precioCompra": 3.77,
+      "precioVenta": 5.65,
+      "piezas": 18,
+      "stockParciales": [
+        {
+          "cantidad": 18,
+          "costoUnitario": 3.7666666666666666
+        }
+      ]
+    },
+    {
+      "codigo": "7501011145566",
+      "descripcion": "Paleta Rocaleta",
+      "precioCompra": 5.52,
+      "precioVenta": 8.28,
+      "piezas": 18,
+      "stockParciales": [
+        {
+          "cantidad": 18,
+          "costoUnitario": 5.522222222222222
+        }
+      ]
+    },
+    {
+      "codigo": "7501056903190",
+      "descripcion": "Paleta Búbalo Xtreme",
+      "precioCompra": 3.6,
+      "precioVenta": 5.39,
+      "piezas": 20,
+      "stockParciales": [
+        {
+          "cantidad": 20,
+          "costoUnitario": 3.595
+        }
+      ]
+    },
+    {
+      "codigo": "7500366003941",
+      "descripcion": "Papas saladas totis",
+      "precioCompra": 14.03,
+      "precioVenta": 21.05,
+      "piezas": 6,
+      "stockParciales": [
+        {
+          "cantidad": 6,
+          "costoUnitario": 14.033333333333333
+        }
+      ]
+    },
+    {
+      "codigo": "018804002106",
+      "descripcion": "Chicles canels",
+      "precioCompra": 0.67,
+      "precioVenta": 1.01,
+      "piezas": 60,
+      "stockParciales": [
+        {
+          "cantidad": 60,
+          "costoUnitario": 0.67
+        }
+      ]
+    },
+    {
+      "codigo": "7500478037810",
+      "descripcion": "Papas picositas totis",
+      "precioCompra": 13.8,
+      "precioVenta": 20.7,
+      "piezas": 6,
+      "stockParciales": [
+        {
+          "cantidad": 6,
+          "costoUnitario": 13.796666666666667
+        }
+      ]
+    },
+    {
+      "codigo": "7500366004221",
+      "descripcion": "Totopos hot chili totis",
+      "precioCompra": 9.7,
+      "precioVenta": 14.55,
+      "piezas": 6,
+      "stockParciales": [
+        {
+          "cantidad": 6,
+          "costoUnitario": 9.700000000000001
+        }
+      ]
+    },
+    {
+      "codigo": "744886405053",
+      "descripcion": "Jarritos tutifruti",
+      "precioCompra": 18.95,
+      "precioVenta": 28.42,
+      "piezas": 8,
+      "stockParciales": [
+        {
+          "cantidad": 8,
+          "costoUnitario": 18.95
+        }
+      ]
+    },
+    {
+      "codigo": "744886375059",
+      "descripcion": "Jarritos mandarina",
+      "precioCompra": 18.95,
+      "precioVenta": 28.42,
+      "piezas": 8,
+      "stockParciales": [
+        {
+          "cantidad": 8,
+          "costoUnitario": 18.95
+        }
+      ]
+    },
+    {
+      "codigo": "097339000030",
+      "descripcion": "Salsa Valentina",
+      "precioCompra": 31.5,
+      "precioVenta": 47.25,
+      "piezas": 1,
+      "stockParciales": [
+        {
+          "cantidad": 1,
+          "costoUnitario": 31.5
+        }
+      ]
+    },
+    {
+      "codigo": "738545010016",
+      "descripcion": "Salsa Botanera",
+      "precioCompra": 32.9,
+      "precioVenta": 49.35,
+      "piezas": 1,
+      "stockParciales": [
+        {
+          "cantidad": 1,
+          "costoUnitario": 32.9
+        }
+      ]
+    }
+  ],
+  "historialEntradas": [
+    {
+      "producto": "Vive 100 Original",
+      "cantidad": 24,
+      "costoTotal": 297,
+      "fecha": "7/1/2025, 12:08:10 p.m."
+    },
+    {
+      "producto": "Vive 100 Blueberry",
+      "cantidad": 24,
+      "costoTotal": 327.9,
+      "fecha": "7/1/2025, 12:10:00 p.m."
+    },
+    {
+      "producto": "Cigarros Pall Mall",
+      "cantidad": 100,
+      "costoTotal": 334.5,
+      "fecha": "7/1/2025, 12:11:56 p.m."
+    },
+    {
+      "producto": "Cigarros Shots",
+      "cantidad": 200,
+      "costoTotal": 381.7,
+      "fecha": "7/1/2025, 12:13:36 p.m."
+    },
+    {
+      "producto": "Cigarros Malvoro",
+      "cantidad": 100,
+      "costoTotal": 395.5,
+      "fecha": "7/1/2025, 12:14:51 p.m."
+    },
+    {
+      "producto": "Maruchan chile pikin",
+      "cantidad": 24,
+      "costoTotal": 338,
+      "fecha": "7/1/2025, 12:16:16 p.m."
+    },
+    {
+      "producto": "Totis mix",
+      "cantidad": 50,
+      "costoTotal": 382.9,
+      "fecha": "7/1/2025, 12:21:16 p.m."
+    },
+    {
+      "producto": "Churros con ajonjoli",
+      "cantidad": 3,
+      "costoTotal": 181.45,
+      "fecha": "7/1/2025, 12:22:36 p.m."
+    },
+    {
+      "producto": "Emperador Vainilla",
+      "cantidad": 3,
+      "costoTotal": 36.94,
+      "fecha": "7/1/2025, 12:24:45 p.m."
+    },
+    {
+      "producto": "Emperador Nuez",
+      "cantidad": 3,
+      "costoTotal": 36.94,
+      "fecha": "7/1/2025, 12:25:34 p.m."
+    },
+    {
+      "producto": "Emperador chocolate",
+      "cantidad": 3,
+      "costoTotal": 36.94,
+      "fecha": "7/1/2025, 12:26:13 p.m."
+    },
+    {
+      "producto": "Emperador combinado",
+      "cantidad": 3,
+      "costoTotal": 41.1,
+      "fecha": "7/1/2025, 12:27:34 p.m."
+    },
+    {
+      "producto": "Chocolate Tin Larin",
+      "cantidad": 10,
+      "costoTotal": 64,
+      "fecha": "7/1/2025, 12:28:59 p.m."
+    },
+    {
+      "producto": "Galletas Marias",
+      "cantidad": 3,
+      "costoTotal": 38.2,
+      "fecha": "7/1/2025, 12:30:52 p.m."
+    },
+    {
+      "producto": "Galletas Marianitas Coco",
+      "cantidad": 3,
+      "costoTotal": 30.3,
+      "fecha": "7/1/2025, 12:32:29 p.m."
+    },
+    {
+      "producto": "Galletas Canelitas",
+      "cantidad": 3,
+      "costoTotal": 62.62,
+      "fecha": "7/1/2025, 12:34:00 p.m."
+    },
+    {
+      "producto": "Palomitas de mantequilla",
+      "cantidad": 14,
+      "costoTotal": 145.2,
+      "fecha": "7/1/2025, 12:35:32 p.m."
+    },
+    {
+      "producto": "Polvorones",
+      "cantidad": 3,
+      "costoTotal": 62.62,
+      "fecha": "7/1/2025, 12:37:00 p.m."
+    },
+    {
+      "producto": "Galletas Marianistas Naranja",
+      "cantidad": 3,
+      "costoTotal": 30.3,
+      "fecha": "7/1/2025, 12:38:15 p.m."
+    },
+    {
+      "producto": "Galletas Marianistas Vainilla",
+      "cantidad": 3,
+      "costoTotal": 30.3,
+      "fecha": "7/1/2025, 12:38:54 p.m."
+    },
+    {
+      "producto": "Galletas Marianistas Chocolate",
+      "cantidad": 3,
+      "costoTotal": 30.3,
+      "fecha": "7/1/2025, 12:39:30 p.m."
+    },
+    {
+      "producto": "Zumba goma Mora Azul",
+      "cantidad": 20,
+      "costoTotal": 71.15,
+      "fecha": "7/1/2025, 12:41:26 p.m."
+    },
+    {
+      "producto": "Zumba goma Fresa",
+      "cantidad": 20,
+      "costoTotal": 71.15,
+      "fecha": "7/1/2025, 12:42:10 p.m."
+    },
+    {
+      "producto": "Zumba goma Sandia",
+      "cantidad": 20,
+      "costoTotal": 71.15,
+      "fecha": "7/1/2025, 12:43:01 p.m."
+    },
+    {
+      "producto": "Paletas de Tarrito",
+      "cantidad": 40,
+      "costoTotal": 65.2,
+      "fecha": "7/1/2025, 12:44:35 p.m."
+    },
+    {
+      "producto": "Paleta Peloneta",
+      "cantidad": 18,
+      "costoTotal": 67.8,
+      "fecha": "7/1/2025, 12:45:39 p.m."
+    },
+    {
+      "producto": "Paleta Rocaleta",
+      "cantidad": 18,
+      "costoTotal": 99.4,
+      "fecha": "7/1/2025, 12:46:42 p.m."
+    },
+    {
+      "producto": "Paleta Búbalo Xtreme",
+      "cantidad": 20,
+      "costoTotal": 71.9,
+      "fecha": "7/1/2025, 12:48:20 p.m."
+    },
+    {
+      "producto": "Papas saladas totis",
+      "cantidad": 6,
+      "costoTotal": 84.2,
+      "fecha": "7/1/2025, 12:50:42 p.m."
+    },
+    {
+      "producto": "Chicles canels",
+      "cantidad": 60,
+      "costoTotal": 40.2,
+      "fecha": "7/1/2025, 12:51:49 p.m."
+    },
+    {
+      "producto": "Papas picositas totis",
+      "cantidad": 6,
+      "costoTotal": 82.78,
+      "fecha": "7/1/2025, 12:53:15 p.m."
+    },
+    {
+      "producto": "Totopos hot chili totis",
+      "cantidad": 6,
+      "costoTotal": 58.2,
+      "fecha": "7/1/2025, 12:55:22 p.m."
+    },
+    {
+      "producto": "Jarritos tutifruti",
+      "cantidad": 8,
+      "costoTotal": 151.6,
+      "fecha": "7/1/2025, 12:56:29 p.m."
+    },
+    {
+      "producto": "Jarritos mandarina",
+      "cantidad": 8,
+      "costoTotal": 151.6,
+      "fecha": "7/1/2025, 12:57:06 p.m."
+    },
+    {
+      "producto": "Salsa Valentina",
+      "cantidad": 1,
+      "costoTotal": 31.5,
+      "fecha": "7/1/2025, 12:57:56 p.m."
+    },
+    {
+      "producto": "Salsa Botanera",
+      "cantidad": 1,
+      "costoTotal": 32.9,
+      "fecha": "7/1/2025, 12:58:37 p.m."
+    }
+  ],
   "numInversionistas": 12,
   "totalInversion": 6000,
-  "gastoEnProductos": 0,
+  "gastoEnProductos": 4435.4400000000005,
   "inversionRecuperada": 0,
   "gananciasTotales": 0
 }
