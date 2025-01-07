@@ -1,5 +1,5 @@
 /************************************
- * Variables globales (replicando tu estructura)
+ * Variables globales
  ************************************/
 let usuarios            = [];
 let historialCompras    = {};
@@ -9,7 +9,7 @@ let gastoEnProductos    = 0;
 let inversionRecuperada = 0;
 let gananciasTotales    = 0;
 let productos           = [];
-let historialEntradas   = {};
+let historialEntradas   = [];
 
 /************************************
  * Al cargar la ventana, hacemos fetch del JSON
@@ -82,7 +82,6 @@ function filtrarInformacionUsuario() {
   const adeudoUsuario     = document.getElementById("adeudo-usuario-estado");
   const tablaHistorial    = document.getElementById("tabla-historial").querySelector("tbody");
 
-  // Mostramos la sección donde se verán los datos
   consultaUsuarioDiv.classList.remove("hidden");
 
   const userObj = usuarios.find(u => u.nombre === usuario);
@@ -96,13 +95,13 @@ function filtrarInformacionUsuario() {
     this.src = "fotos/default.png";
   };
 
-  // Rellenar datos principales
+  // Datos principales
   nombreUsuario.innerText = userObj.nombre;
   if (userObj.nombre === "Externo") {
     inversionUsuario.innerText = formatMoney(0);
     gananciaUsuario.innerText  = "No aplica (Externo)";
   } else {
-    // Según tu código original, cada inversionista tenía 500
+    // En tu código original, cada inversionista tenía 500
     inversionUsuario.innerText = formatMoney(500);
     gananciaUsuario.innerText  = formatMoney(userObj.ganancia);
   }
@@ -246,7 +245,6 @@ function actualizarConsultaInversion() {
   const invSaldoEl     = document.getElementById("inv-saldo");
   const invAdeudosEl   = document.getElementById("inv-adeudos");
 
-  // Cálculos tal cual tu código original
   let saldoActual  = totalInversion - (gastoEnProductos - inversionRecuperada);
   let totalAdeudos = usuarios.reduce((acum, u) => acum + u.adeudo, 0);
 
@@ -258,12 +256,9 @@ function actualizarConsultaInversion() {
   const tbody = document.getElementById("tabla-usuarios-ganancias").querySelector("tbody");
   tbody.innerHTML = "";
 
-  // Filtramos todos menos "Externo"
   let usuariosConGanancia = [...usuarios].filter(u => u.nombre !== "Externo");
-  // Ordenar por ganancia descendente
   usuariosConGanancia.sort((a, b) => b.ganancia - a.ganancia);
 
-  // Pintar la tabla
   usuariosConGanancia.forEach(u => {
     let totalCompras = 0;
     (historialCompras[u.nombre] || []).forEach(c => {
@@ -315,7 +310,33 @@ function descargarBaseDeDatosJSON() {
 }
 
 /************************************
- * FUNCIÓN: PANTALLA COMPLETA DE TABLA
+ * MOSTRAR INVENTARIO (solo lectura)
+ ************************************/
+function mostrarInventario() {
+  const tbody = document
+    .getElementById("tabla-inventario")
+    .querySelector("tbody");
+  tbody.innerHTML = "";
+
+  productos.forEach((prod) => {
+    const row = document.createElement("tr");
+    if (prod.piezas === 0) {
+      // Subrayar en rojo si no hay stock
+      row.style.backgroundColor = "#ffd4d4";
+    }
+    row.innerHTML = `
+      <td>${prod.codigo}</td>
+      <td>${prod.descripcion}</td>
+      <td>${formatMoney(prod.precioCompra)}</td>
+      <td>${formatMoney(prod.precioVenta)}</td>
+      <td>${prod.piezas}</td>
+    `;
+    tbody.appendChild(row);
+  });
+}
+
+/************************************
+ * PANTALLA COMPLETA DE TABLA
  ************************************/
 function toggleFullscreen(containerId) {
   const container = document.getElementById(containerId);
