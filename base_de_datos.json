@@ -15,8 +15,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 11.49,
-      "ganancia": 3.8320000000000007
+      "adeudo": 32.54,
+      "ganancia": 10.848666666666668
     },
     {
       "nombre": "Francisco",
@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 42.97,
-      "ganancia": 14.325333333333333
+      "adeudo": 161.24,
+      "ganancia": 53.756166666666665
     },
     {
       "nombre": "Rafael",
@@ -125,6 +125,13 @@
         "costoTotal": 11.49,
         "fecha": "7/1/2025, 1:23:09 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Papas saladas totis",
+        "piezas": 1,
+        "costoTotal": 21.05,
+        "fecha": "7/1/2025, 3:52:28 p.m.",
+        "ganancia": 7.0166666666666675
       }
     ],
     "Francisco": [],
@@ -198,6 +205,48 @@
         "costoTotal": 11.49,
         "fecha": "7/1/2025, 1:25:11 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "7/1/2025, 3:55:18 p.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "7/1/2025, 3:55:18 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "7/1/2025, 3:55:18 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Fresa",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "7/1/2025, 3:55:18 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Salsa Botanera",
+        "piezas": 1,
+        "costoTotal": 49.35,
+        "fecha": "7/1/2025, 3:55:18 p.m.",
+        "ganancia": 16.450000000000003
+      },
+      {
+        "producto": "Salsa Valentina",
+        "piezas": 1,
+        "costoTotal": 47.25,
+        "fecha": "7/1/2025, 3:55:18 p.m.",
+        "ganancia": 15.75
       }
     ],
     "Rafael": [
@@ -498,10 +547,10 @@
       "descripcion": "Zumba goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 3.5575
         }
       ]
@@ -511,10 +560,10 @@
       "descripcion": "Zumba goma Fresa",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 20,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 3.5575
         }
       ]
@@ -524,10 +573,10 @@
       "descripcion": "Zumba goma Sandia",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 20,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 3.5575
         }
       ]
@@ -550,10 +599,10 @@
       "descripcion": "Paleta Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 16,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -589,10 +638,10 @@
       "descripcion": "Papas saladas totis",
       "precioCompra": 14.03,
       "precioVenta": 21.05,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 14.033333333333333
         }
       ]
@@ -667,26 +716,16 @@
       "descripcion": "Salsa Valentina",
       "precioCompra": 31.5,
       "precioVenta": 47.25,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 31.5
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "738545010016",
       "descripcion": "Salsa Botanera",
       "precioCompra": 32.9,
       "precioVenta": 49.35,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 32.9
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     }
   ],
   "historialEntradas": [
@@ -910,6 +949,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 257.5803888888889,
-  "gananciasTotales": 128.72961111111113
+  "inversionRecuperada": 350.4528888888889,
+  "gananciasTotales": 175.17711111111112
 }
