@@ -9,14 +9,14 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 102.46000000000001,
-      "ganancia": 34.1175
+      "adeudo": 121.02000000000001,
+      "ganancia": 40.302499999999995
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 0
+      "adeudo": 11.49,
+      "ganancia": 3.8320000000000007
     },
     {
       "nombre": "Francisco",
@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 10.99,
-      "ganancia": 3.6658333333333335
+      "adeudo": 42.97,
+      "ganancia": 14.325333333333333
     },
     {
       "nombre": "Rafael",
@@ -109,9 +109,24 @@
         "costoTotal": 5.34,
         "fecha": "7/1/2025, 1:16:48 p.m.",
         "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "7/1/2025, 1:25:46 p.m.",
+        "ganancia": 6.184999999999999
       }
     ],
-    "Edgar": [],
+    "Edgar": [
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "7/1/2025, 1:23:09 p.m.",
+        "ganancia": 3.8320000000000007
+      }
+    ],
     "Francisco": [],
     "Irvin": [
       {
@@ -154,6 +169,20 @@
         "costoTotal": 5.34,
         "fecha": "7/1/2025, 1:19:09 p.m.",
         "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "7/1/2025, 1:25:11 p.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "7/1/2025, 1:25:11 p.m.",
+        "ganancia": 3.8320000000000007
       }
     ],
     "Rafael": [
@@ -181,10 +210,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 24,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 23,
           "costoUnitario": 12.375
         }
       ]
@@ -194,10 +223,10 @@
       "descripcion": "Vive 100 Blueberry",
       "precioCompra": 13.66,
       "precioVenta": 20.49,
-      "piezas": 24,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 23,
           "costoUnitario": 13.6625
         }
       ]
@@ -259,10 +288,10 @@
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 50,
+      "piezas": 48,
       "stockParciales": [
         {
-          "cantidad": 50,
+          "cantidad": 48,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -866,6 +895,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 195.76888888888894,
-  "gananciasTotales": 97.82111111111112
+  "inversionRecuperada": 237.1223888888889,
+  "gananciasTotales": 118.49761111111113
 }
