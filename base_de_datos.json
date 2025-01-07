@@ -9,8 +9,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 97.12,
-      "ganancia": 32.335
+      "adeudo": 102.46000000000001,
+      "ganancia": 34.1175
     },
     {
       "nombre": "Edgar",
@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 0
+      "adeudo": 10.99,
+      "ganancia": 3.6658333333333335
     },
     {
       "nombre": "Rafael",
@@ -102,6 +102,13 @@
         "costoTotal": 16.02,
         "fecha": "7/1/2025, 1:14:28 p.m.",
         "ganancia": 5.347499999999999
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "7/1/2025, 1:16:48 p.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Edgar": [],
@@ -133,7 +140,22 @@
     "Isrrael": [],
     "Karen": [],
     "Laura": [],
-    "Marcos": [],
+    "Marcos": [
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "7/1/2025, 1:19:09 p.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "7/1/2025, 1:19:09 p.m.",
+        "ganancia": 1.7824999999999998
+      }
+    ],
     "Rafael": [
       {
         "producto": "Papas picositas totis",
@@ -432,10 +454,10 @@
       "descripcion": "Zumba goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 17,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 15,
           "costoUnitario": 3.5575
         }
       ]
@@ -484,10 +506,10 @@
       "descripcion": "Paleta Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 17,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -844,6 +866,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 184.88722222222225,
-  "gananciasTotales": 92.37277777777778
+  "inversionRecuperada": 195.76888888888894,
+  "gananciasTotales": 97.82111111111112
 }
