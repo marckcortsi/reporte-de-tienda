@@ -27,8 +27,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 0
+      "adeudo": 144.89,
+      "ganancia": 48.284444444444446
     },
     {
       "nombre": "Isac",
@@ -63,8 +63,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 0
+      "adeudo": 35.25,
+      "ganancia": 11.753333333333332
     },
     {
       "nombre": "Vicente",
@@ -84,13 +84,50 @@
     "Carlos": [],
     "Edgar": [],
     "Francisco": [],
-    "Irvin": [],
+    "Irvin": [
+      {
+        "producto": "Churros con ajonjoli",
+        "piezas": 1,
+        "costoTotal": 90.72,
+        "fecha": "7/1/2025, 1:03:10 p.m.",
+        "ganancia": 30.23666666666667
+      },
+      {
+        "producto": "Papas saladas totis",
+        "piezas": 1,
+        "costoTotal": 21.05,
+        "fecha": "7/1/2025, 1:03:10 p.m.",
+        "ganancia": 7.0166666666666675
+      },
+      {
+        "producto": "Paleta Rocaleta",
+        "piezas": 4,
+        "costoTotal": 33.12,
+        "fecha": "7/1/2025, 1:04:27 p.m.",
+        "ganancia": 11.031111111111109
+      }
+    ],
     "Isac": [],
     "Isrrael": [],
     "Karen": [],
     "Laura": [],
     "Marcos": [],
-    "Rafael": [],
+    "Rafael": [
+      {
+        "producto": "Papas picositas totis",
+        "piezas": 1,
+        "costoTotal": 20.7,
+        "fecha": "7/1/2025, 1:03:56 p.m.",
+        "ganancia": 6.903333333333332
+      },
+      {
+        "producto": "Totopos hot chili totis",
+        "piezas": 1,
+        "costoTotal": 14.55,
+        "fecha": "7/1/2025, 1:03:56 p.m.",
+        "ganancia": 4.85
+      }
+    ],
     "Vicente": [],
     "Externo": []
   },
@@ -191,10 +228,10 @@
       "descripcion": "Churros con ajonjoli",
       "precioCompra": 60.48,
       "precioVenta": 90.72,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 60.48333333333333
         }
       ]
@@ -438,10 +475,10 @@
       "descripcion": "Paleta Rocaleta",
       "precioCompra": 5.52,
       "precioVenta": 8.28,
-      "piezas": 18,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 14,
           "costoUnitario": 5.522222222222222
         }
       ]
@@ -464,10 +501,10 @@
       "descripcion": "Papas saladas totis",
       "precioCompra": 14.03,
       "precioVenta": 21.05,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 14.033333333333333
         }
       ]
@@ -490,10 +527,10 @@
       "descripcion": "Papas picositas totis",
       "precioCompra": 13.8,
       "precioVenta": 20.7,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 13.796666666666667
         }
       ]
@@ -503,10 +540,10 @@
       "descripcion": "Totopos hot chili totis",
       "precioCompra": 9.7,
       "precioVenta": 14.55,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 9.700000000000001
         }
       ]
@@ -785,6 +822,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 0,
-  "gananciasTotales": 0
+  "inversionRecuperada": 120.10222222222222,
+  "gananciasTotales": 60.03777777777778
 }
