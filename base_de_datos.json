@@ -21,8 +21,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 0
+      "adeudo": 37.12,
+      "ganancia": 12.369999999999997
     },
     {
       "nombre": "Irvin",
@@ -45,8 +45,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 10.232
+      "adeudo": 49.32,
+      "ganancia": 26.673071428571433
     },
     {
       "nombre": "Laura",
@@ -134,7 +134,15 @@
         "ganancia": 7.0166666666666675
       }
     ],
-    "Francisco": [],
+    "Francisco": [
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 2,
+        "costoTotal": 37.12,
+        "fecha": "7/1/2025, 3:59:21 p.m.",
+        "ganancia": 12.369999999999997
+      }
+    ],
     "Irvin": [
       {
         "producto": "Churros con ajonjoli",
@@ -174,6 +182,27 @@
         "costoTotal": 19.2,
         "fecha": "7/1/2025, 2:13:59 p.m.",
         "ganancia": 6.399999999999999
+      },
+      {
+        "producto": "Palomitas de mantequilla",
+        "piezas": 1,
+        "costoTotal": 15.56,
+        "fecha": "7/1/2025, 4:00:36 p.m.",
+        "ganancia": 5.18857142857143
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "7/1/2025, 4:00:36 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Jarritos tutifruti",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "7/1/2025, 4:00:36 p.m.",
+        "ganancia": 9.470000000000002
       }
     ],
     "Laura": [],
@@ -274,10 +303,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 23,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 21,
           "costoUnitario": 12.375
         }
       ]
@@ -482,10 +511,10 @@
       "descripcion": "Palomitas de mantequilla",
       "precioCompra": 10.37,
       "precioVenta": 15.56,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 10.37142857142857
         }
       ]
@@ -573,10 +602,10 @@
       "descripcion": "Zumba goma Sandia",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 3.5575
         }
       ]
@@ -690,10 +719,10 @@
       "descripcion": "Jarritos tutifruti",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 18.95
         }
       ]
@@ -949,6 +978,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 350.4528888888889,
-  "gananciasTotales": 175.17711111111112
+  "inversionRecuperada": 408.08181746031744,
+  "gananciasTotales": 203.98818253968255
 }
