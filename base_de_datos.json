@@ -9,8 +9,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 0
+      "adeudo": 97.12,
+      "ganancia": 32.335
     },
     {
       "nombre": "Edgar",
@@ -81,7 +81,29 @@
   ],
   "historialCompras": {
     "Arturo": [],
-    "Carlos": [],
+    "Carlos": [
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 25,
+        "costoTotal": 71.5,
+        "fecha": "7/1/2025, 1:14:28 p.m.",
+        "ganancia": 23.7875
+      },
+      {
+        "producto": "Chocolate Tin Larin",
+        "piezas": 1,
+        "costoTotal": 9.6,
+        "fecha": "7/1/2025, 1:14:28 p.m.",
+        "ganancia": 3.1999999999999993
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 3,
+        "costoTotal": 16.02,
+        "fecha": "7/1/2025, 1:14:28 p.m.",
+        "ganancia": 5.347499999999999
+      }
+    ],
     "Edgar": [],
     "Francisco": [],
     "Irvin": [
@@ -176,10 +198,10 @@
       "descripcion": "Cigarros Shots",
       "precioCompra": 1.91,
       "precioVenta": 2.86,
-      "piezas": 200,
+      "piezas": 175,
       "stockParciales": [
         {
-          "cantidad": 200,
+          "cantidad": 175,
           "costoUnitario": 1.9084999999999999
         }
       ]
@@ -293,10 +315,10 @@
       "descripcion": "Chocolate Tin Larin",
       "precioCompra": 6.4,
       "precioVenta": 9.6,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 6.4
         }
       ]
@@ -410,10 +432,10 @@
       "descripcion": "Zumba goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 20,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 17,
           "costoUnitario": 3.5575
         }
       ]
@@ -822,6 +844,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 120.10222222222222,
-  "gananciasTotales": 60.03777777777778
+  "inversionRecuperada": 184.88722222222225,
+  "gananciasTotales": 92.37277777777778
 }
