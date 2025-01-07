@@ -46,7 +46,7 @@
       "nombre": "Karen",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 0
+      "ganancia": 10.232
     },
     {
       "nombre": "Laura",
@@ -153,7 +153,22 @@
     ],
     "Isac": [],
     "Isrrael": [],
-    "Karen": [],
+    "Karen": [
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "7/1/2025, 2:13:59 p.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Chocolate Tin Larin",
+        "piezas": 2,
+        "costoTotal": 19.2,
+        "fecha": "7/1/2025, 2:13:59 p.m.",
+        "ganancia": 6.399999999999999
+      }
+    ],
     "Laura": [],
     "Marcos": [
       {
@@ -288,10 +303,10 @@
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 48,
+      "piezas": 47,
       "stockParciales": [
         {
-          "cantidad": 48,
+          "cantidad": 47,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -366,10 +381,10 @@
       "descripcion": "Chocolate Tin Larin",
       "precioCompra": 6.4,
       "precioVenta": 9.6,
-      "piezas": 9,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 7,
           "costoUnitario": 6.4
         }
       ]
@@ -895,6 +910,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 237.1223888888889,
-  "gananciasTotales": 118.49761111111113
+  "inversionRecuperada": 257.5803888888889,
+  "gananciasTotales": 128.72961111111113
 }
