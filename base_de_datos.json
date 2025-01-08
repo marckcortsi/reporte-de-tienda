@@ -9,7 +9,7 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 191.44,
+      "adeudo": 0,
       "ganancia": 63.780833333333334
     },
     {
@@ -33,14 +33,14 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 72.39999999999999,
+      "adeudo": 0,
       "ganancia": 24.129166666666666
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 0
+      "adeudo": 28.42,
+      "ganancia": 9.470000000000002
     },
     {
       "nombre": "Karen",
@@ -246,7 +246,15 @@
         "ganancia": 1.6749999999999994
       }
     ],
-    "Isrrael": [],
+    "Isrrael": [
+      {
+        "producto": "Jarritos mandarina",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "8/1/2025, 3:19:52 p.m.",
+        "ganancia": 9.470000000000002
+      }
+    ],
     "Karen": [
       {
         "producto": "Totis mix",
@@ -874,10 +882,10 @@
       "descripcion": "Jarritos mandarina",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 18.95
         }
       ]
@@ -1120,6 +1128,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 608.1136507936509,
-  "gananciasTotales": 304.03634920634926
+  "inversionRecuperada": 627.0636507936509,
+  "gananciasTotales": 313.5063492063493
 }
