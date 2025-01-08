@@ -9,8 +9,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 142.15,
-      "ganancia": 47.34916666666666
+      "adeudo": 191.44,
+      "ganancia": 63.780833333333334
     },
     {
       "nombre": "Edgar",
@@ -27,14 +27,14 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 163.35999999999999,
-      "ganancia": 54.44111111111111
+      "adeudo": 184.48999999999998,
+      "ganancia": 61.48777777777778
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 38.959999999999994,
-      "ganancia": 12.984166666666665
+      "adeudo": 72.39999999999999,
+      "ganancia": 24.129166666666666
     },
     {
       "nombre": "Isrrael",
@@ -45,8 +45,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 26.673071428571433
+      "adeudo": 37.42,
+      "ganancia": 39.15340476190476
     },
     {
       "nombre": "Laura",
@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 18.47,
-      "ganancia": 59.91283333333333
+      "adeudo": 61.769999999999996,
+      "ganancia": 74.35649999999998
     },
     {
       "nombre": "Rafael",
@@ -131,6 +131,27 @@
         "costoTotal": 21.13,
         "fecha": "7/1/2025, 4:04:18 p.m.",
         "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "8/1/2025, 2:45:38 p.m.",
+        "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "8/1/2025, 2:45:38 p.m.",
+        "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Chocolate Tin Larin",
+        "piezas": 1,
+        "costoTotal": 9.6,
+        "fecha": "8/1/2025, 2:47:37 p.m.",
+        "ganancia": 3.1999999999999993
       }
     ],
     "Edgar": [
@@ -186,6 +207,13 @@
         "costoTotal": 18.47,
         "fecha": "8/1/2025, 8:51:30 a.m.",
         "ganancia": 6.156666666666666
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "8/1/2025, 2:46:52 p.m.",
+        "ganancia": 7.046666666666665
       }
     ],
     "Isac": [
@@ -202,6 +230,20 @@
         "costoTotal": 20.49,
         "fecha": "8/1/2025, 8:51:45 a.m.",
         "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Jarritos tutifruti",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "8/1/2025, 2:46:24 p.m.",
+        "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.02,
+        "fecha": "8/1/2025, 2:46:24 p.m.",
+        "ganancia": 1.6749999999999994
       }
     ],
     "Isrrael": [],
@@ -240,6 +282,41 @@
         "costoTotal": 28.42,
         "fecha": "7/1/2025, 4:00:36 p.m.",
         "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Chocolate Tin Larin",
+        "piezas": 1,
+        "costoTotal": 9.6,
+        "fecha": "8/1/2025, 2:48:42 p.m.",
+        "ganancia": 3.1999999999999993
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "8/1/2025, 2:48:42 p.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "8/1/2025, 2:48:42 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Fresa",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "8/1/2025, 2:48:42 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "8/1/2025, 2:48:42 p.m.",
+        "ganancia": 1.8833333333333337
       }
     ],
     "Laura": [],
@@ -320,6 +397,27 @@
         "costoTotal": 18.47,
         "fecha": "8/1/2025, 8:52:32 a.m.",
         "ganancia": 6.156666666666666
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "8/1/2025, 2:49:37 p.m.",
+        "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "8/1/2025, 2:49:37 p.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 2,
+        "costoTotal": 10.68,
+        "fecha": "8/1/2025, 2:49:37 p.m.",
+        "ganancia": 3.5649999999999995
       }
     ],
     "Rafael": [
@@ -347,10 +445,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 21,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 20,
           "costoUnitario": 12.375
         }
       ]
@@ -373,10 +471,10 @@
       "descripcion": "Cigarros Pall Mall",
       "precioCompra": 3.35,
       "precioVenta": 5.02,
-      "piezas": 100,
+      "piezas": 99,
       "stockParciales": [
         {
-          "cantidad": 100,
+          "cantidad": 99,
           "costoUnitario": 3.345
         }
       ]
@@ -412,10 +510,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14.08,
       "precioVenta": 21.13,
-      "piezas": 23,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 20,
           "costoUnitario": 14.083333333333334
         }
       ]
@@ -425,10 +523,10 @@
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 47,
+      "piezas": 45,
       "stockParciales": [
         {
-          "cantidad": 47,
+          "cantidad": 45,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -503,10 +601,10 @@
       "descripcion": "Chocolate Tin Larin",
       "precioCompra": 6.4,
       "precioVenta": 9.6,
-      "piezas": 7,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 5,
           "costoUnitario": 6.4
         }
       ]
@@ -620,10 +718,10 @@
       "descripcion": "Zumba goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 14,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 12,
           "costoUnitario": 3.5575
         }
       ]
@@ -633,10 +731,10 @@
       "descripcion": "Zumba goma Fresa",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 3.5575
         }
       ]
@@ -646,10 +744,10 @@
       "descripcion": "Zumba goma Sandia",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 17,
           "costoUnitario": 3.5575
         }
       ]
@@ -672,10 +770,10 @@
       "descripcion": "Paleta Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -763,10 +861,10 @@
       "descripcion": "Jarritos tutifruti",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 18.95
         }
       ]
@@ -1022,6 +1120,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 485.0809841269841,
-  "gananciasTotales": 242.48901587301586
+  "inversionRecuperada": 608.1136507936509,
+  "gananciasTotales": 304.03634920634926
 }
