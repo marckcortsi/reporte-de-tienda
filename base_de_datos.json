@@ -9,8 +9,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 63.780833333333334
+      "adeudo": 9.6,
+      "ganancia": 66.98083333333334
     },
     {
       "nombre": "Edgar",
@@ -27,20 +27,20 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 184.48999999999998,
-      "ganancia": 61.48777777777778
+      "adeudo": 194.08999999999997,
+      "ganancia": 64.68777777777778
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 24.129166666666666
+      "adeudo": 16.51,
+      "ganancia": 29.636166666666668
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 28.42,
-      "ganancia": 9.470000000000002
+      "adeudo": 138.34,
+      "ganancia": 46.10666666666667
     },
     {
       "nombre": "Karen",
@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 61.769999999999996,
-      "ganancia": 74.35649999999998
+      "adeudo": 93.75,
+      "ganancia": 85.01599999999999
     },
     {
       "nombre": "Rafael",
@@ -159,6 +159,13 @@
         "costoTotal": 9.6,
         "fecha": "8/1/2025, 2:47:37 p.m.",
         "ganancia": 3.1999999999999993
+      },
+      {
+        "producto": "Chocolate Tin Larin",
+        "piezas": 1,
+        "costoTotal": 9.6,
+        "fecha": "8/1/2025, 5:33:13 p.m.",
+        "ganancia": 3.1999999999999993
       }
     ],
     "Edgar": [
@@ -221,6 +228,13 @@
         "costoTotal": 21.13,
         "fecha": "8/1/2025, 2:46:52 p.m.",
         "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Chocolate Tin Larin",
+        "piezas": 1,
+        "costoTotal": 9.6,
+        "fecha": "8/1/2025, 5:32:18 p.m.",
+        "ganancia": 3.1999999999999993
       }
     ],
     "Isac": [
@@ -251,6 +265,20 @@
         "costoTotal": 5.02,
         "fecha": "8/1/2025, 2:46:24 p.m.",
         "ganancia": 1.6749999999999994
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "8/1/2025, 5:30:25 p.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.02,
+        "fecha": "8/1/2025, 5:30:25 p.m.",
+        "ganancia": 1.6749999999999994
       }
     ],
     "Isrrael": [
@@ -260,6 +288,20 @@
         "costoTotal": 28.42,
         "fecha": "8/1/2025, 3:19:52 p.m.",
         "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Chocolate Tin Larin",
+        "piezas": 2,
+        "costoTotal": 19.2,
+        "fecha": "8/1/2025, 5:31:15 p.m.",
+        "ganancia": 6.399999999999999
+      },
+      {
+        "producto": "Churros con ajonjoli",
+        "piezas": 1,
+        "costoTotal": 90.72,
+        "fecha": "8/1/2025, 5:33:44 p.m.",
+        "ganancia": 30.23666666666667
       }
     ],
     "Karen": [
@@ -440,6 +482,20 @@
         "costoTotal": 10.68,
         "fecha": "8/1/2025, 2:49:37 p.m.",
         "ganancia": 3.5649999999999995
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "8/1/2025, 5:31:51 p.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "8/1/2025, 5:31:51 p.m.",
+        "ganancia": 3.8320000000000007
       }
     ],
     "Rafael": [
@@ -480,10 +536,10 @@
       "descripcion": "Vive 100 Blueberry",
       "precioCompra": 13.66,
       "precioVenta": 20.49,
-      "piezas": 22,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 22,
+          "cantidad": 21,
           "costoUnitario": 13.6625
         }
       ]
@@ -493,10 +549,10 @@
       "descripcion": "Cigarros Pall Mall",
       "precioCompra": 3.35,
       "precioVenta": 5.02,
-      "piezas": 99,
+      "piezas": 98,
       "stockParciales": [
         {
-          "cantidad": 99,
+          "cantidad": 98,
           "costoUnitario": 3.345
         }
       ]
@@ -545,10 +601,10 @@
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 45,
+      "piezas": 43,
       "stockParciales": [
         {
-          "cantidad": 45,
+          "cantidad": 43,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -558,10 +614,10 @@
       "descripcion": "Churros con ajonjoli",
       "precioCompra": 60.48,
       "precioVenta": 90.72,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 60.48333333333333
         }
       ]
@@ -623,10 +679,10 @@
       "descripcion": "Chocolate Tin Larin",
       "precioCompra": 6.4,
       "precioVenta": 9.6,
-      "piezas": 5,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 1,
           "costoUnitario": 6.4
         }
       ]
@@ -1142,6 +1198,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 785.263650793651,
-  "gananciasTotales": 392.5063492063493
+  "inversionRecuperada": 903.6704841269843,
+  "gananciasTotales": 451.7095158730159
 }
