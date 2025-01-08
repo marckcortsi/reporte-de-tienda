@@ -39,8 +39,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 138.34,
-      "ganancia": 46.10666666666667
+      "adeudo": 156.9,
+      "ganancia": 52.29166666666667
     },
     {
       "nombre": "Karen",
@@ -302,6 +302,13 @@
         "costoTotal": 90.72,
         "fecha": "8/1/2025, 5:33:44 p.m.",
         "ganancia": 30.23666666666667
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "8/1/2025, 5:49:05 p.m.",
+        "ganancia": 6.184999999999999
       }
     ],
     "Karen": [
@@ -523,10 +530,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 20,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 12.375
         }
       ]
@@ -1198,6 +1205,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 903.6704841269843,
-  "gananciasTotales": 451.7095158730159
+  "inversionRecuperada": 916.0454841269843,
+  "gananciasTotales": 457.8945158730159
 }
