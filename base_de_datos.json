@@ -9,8 +9,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 9.6,
-      "ganancia": 66.98083333333334
+      "adeudo": 38.02,
+      "ganancia": 76.45083333333334
     },
     {
       "nombre": "Edgar",
@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 114.3,
-      "ganancia": 91.86599999999999
+      "adeudo": 148.41,
+      "ganancia": 103.23377777777776
     },
     {
       "nombre": "Rafael",
@@ -166,6 +166,13 @@
         "costoTotal": 9.6,
         "fecha": "8/1/2025, 5:33:13 p.m.",
         "ganancia": 3.1999999999999993
+      },
+      {
+        "producto": "Jarritos tutifruti",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "9/1/2025, 11:01:42 a.m.",
+        "ganancia": 9.470000000000002
       }
     ],
     "Edgar": [
@@ -531,6 +538,27 @@
         "costoTotal": 20.55,
         "fecha": "9/1/2025, 8:33:59 a.m.",
         "ganancia": 6.85
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "9/1/2025, 10:56:59 a.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "9/1/2025, 11:02:55 a.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Paleta Rocaleta",
+        "piezas": 1,
+        "costoTotal": 8.28,
+        "fecha": "9/1/2025, 11:02:55 a.m.",
+        "ganancia": 2.757777777777777
       }
     ],
     "Rafael": [
@@ -571,10 +599,10 @@
       "descripcion": "Vive 100 Blueberry",
       "precioCompra": 13.66,
       "precioVenta": 20.49,
-      "piezas": 21,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 20,
           "costoUnitario": 13.6625
         }
       ]
@@ -831,10 +859,10 @@
       "descripcion": "Zumba goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 3.5575
         }
       ]
@@ -896,10 +924,10 @@
       "descripcion": "Paleta Rocaleta",
       "precioCompra": 5.52,
       "precioVenta": 8.28,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 5.522222222222222
         }
       ]
@@ -974,10 +1002,10 @@
       "descripcion": "Jarritos tutifruti",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 18.95
         }
       ]
@@ -1233,6 +1261,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 968.7964841269844,
-  "gananciasTotales": 484.2835158730159
+  "inversionRecuperada": 1010.4887063492067,
+  "gananciasTotales": 505.12129365079375
 }
