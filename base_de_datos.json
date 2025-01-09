@@ -3,14 +3,14 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 137.07,
-      "ganancia": 45.65666666666666
+      "adeudo": 165.49,
+      "ganancia": 55.126666666666665
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 38.02,
-      "ganancia": 76.45083333333334
+      "adeudo": 80.28,
+      "ganancia": 90.54416666666667
     },
     {
       "nombre": "Edgar",
@@ -45,8 +45,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 139.15,
-      "ganancia": 85.50340476190475
+      "adeudo": 188.7,
+      "ganancia": 102.02007142857141
     },
     {
       "nombre": "Laura",
@@ -94,6 +94,13 @@
         "costoTotal": 118.6,
         "fecha": "8/1/2025, 3:42:35 p.m.",
         "ganancia": 39.49999999999999
+      },
+      {
+        "producto": "Jarritos tutifruti",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "9/1/2025, 2:45:47 p.m.",
+        "ganancia": 9.470000000000002
       }
     ],
     "Carlos": [
@@ -173,6 +180,13 @@
         "costoTotal": 28.42,
         "fecha": "9/1/2025, 11:01:42 a.m.",
         "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 2,
+        "costoTotal": 42.26,
+        "fecha": "9/1/2025, 2:45:25 p.m.",
+        "ganancia": 14.09333333333333
       }
     ],
     "Edgar": [
@@ -416,6 +430,20 @@
         "costoTotal": 20.55,
         "fecha": "9/1/2025, 8:41:23 a.m.",
         "ganancia": 6.85
+      },
+      {
+        "producto": "Jarritos mandarina",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "9/1/2025, 2:44:53 p.m.",
+        "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "9/1/2025, 2:44:53 p.m.",
+        "ganancia": 7.046666666666665
       }
     ],
     "Laura": [],
@@ -651,10 +679,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14.08,
       "precioVenta": 21.13,
-      "piezas": 20,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 17,
           "costoUnitario": 14.083333333333334
         }
       ]
@@ -1002,10 +1030,10 @@
       "descripcion": "Jarritos tutifruti",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 18.95
         }
       ]
@@ -1015,10 +1043,10 @@
       "descripcion": "Jarritos mandarina",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 18.95
         }
       ]
@@ -1261,6 +1289,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 1010.4887063492067,
-  "gananciasTotales": 505.12129365079375
+  "inversionRecuperada": 1090.6387063492068,
+  "gananciasTotales": 545.2012936507938
 }
