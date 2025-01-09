@@ -9,14 +9,14 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 80.28,
-      "ganancia": 90.54416666666667
+      "adeudo": 151.78,
+      "ganancia": 114.33166666666668
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 32.54,
-      "ganancia": 10.848666666666668
+      "adeudo": 43.22,
+      "ganancia": 14.413666666666668
     },
     {
       "nombre": "Francisco",
@@ -33,14 +33,14 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 31.57,
-      "ganancia": 34.66116666666667
+      "adeudo": 52.06,
+      "ganancia": 41.48866666666667
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 156.9,
-      "ganancia": 52.29166666666667
+      "adeudo": 166.5,
+      "ganancia": 55.491666666666674
     },
     {
       "nombre": "Karen",
@@ -187,6 +187,13 @@
         "costoTotal": 42.26,
         "fecha": "9/1/2025, 2:45:25 p.m.",
         "ganancia": 14.09333333333333
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 25,
+        "costoTotal": 71.5,
+        "fecha": "9/1/2025, 5:24:51 p.m.",
+        "ganancia": 23.7875
       }
     ],
     "Edgar": [
@@ -203,6 +210,20 @@
         "costoTotal": 21.05,
         "fecha": "7/1/2025, 3:52:28 p.m.",
         "ganancia": 7.0166666666666675
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "9/1/2025, 5:27:02 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "9/1/2025, 5:27:02 p.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Francisco": [
@@ -314,6 +335,13 @@
         "costoTotal": 15.059999999999999,
         "fecha": "9/1/2025, 8:36:22 a.m.",
         "ganancia": 5.024999999999999
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "9/1/2025, 5:26:16 p.m.",
+        "ganancia": 6.827499999999999
       }
     ],
     "Isrrael": [
@@ -344,6 +372,13 @@
         "costoTotal": 18.56,
         "fecha": "8/1/2025, 5:49:05 p.m.",
         "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Chocolate Tin Larin",
+        "piezas": 1,
+        "costoTotal": 9.6,
+        "fecha": "9/1/2025, 5:25:55 p.m.",
+        "ganancia": 3.1999999999999993
       }
     ],
     "Karen": [
@@ -627,10 +662,10 @@
       "descripcion": "Vive 100 Blueberry",
       "precioCompra": 13.66,
       "precioVenta": 20.49,
-      "piezas": 20,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 13.6625
         }
       ]
@@ -653,10 +688,10 @@
       "descripcion": "Cigarros Shots",
       "precioCompra": 1.91,
       "precioVenta": 2.86,
-      "piezas": 175,
+      "piezas": 150,
       "stockParciales": [
         {
-          "cantidad": 175,
+          "cantidad": 150,
           "costoUnitario": 1.9084999999999999
         }
       ]
@@ -770,13 +805,8 @@
       "descripcion": "Chocolate Tin Larin",
       "precioCompra": 6.4,
       "precioVenta": 9.6,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 6.4
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478010592",
@@ -887,10 +917,10 @@
       "descripcion": "Zumba goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 3.5575
         }
       ]
@@ -913,10 +943,10 @@
       "descripcion": "Zumba goma Sandia",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 16,
           "costoUnitario": 3.5575
         }
       ]
@@ -1289,6 +1319,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 1090.6387063492068,
-  "gananciasTotales": 545.2012936507938
+  "inversionRecuperada": 1165.5287063492067,
+  "gananciasTotales": 582.5812936507939
 }
