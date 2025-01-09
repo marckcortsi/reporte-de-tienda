@@ -21,8 +21,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 37.12,
-      "ganancia": 12.369999999999997
+      "adeudo": 60.099999999999994,
+      "ganancia": 20.034
     },
     {
       "nombre": "Irvin",
@@ -33,8 +33,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 16.51,
-      "ganancia": 29.636166666666668
+      "adeudo": 31.57,
+      "ganancia": 34.66116666666667
     },
     {
       "nombre": "Isrrael",
@@ -45,8 +45,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 118.6,
-      "ganancia": 78.65340476190475
+      "adeudo": 139.15,
+      "ganancia": 85.50340476190475
     },
     {
       "nombre": "Laura",
@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 93.75,
-      "ganancia": 85.01599999999999
+      "adeudo": 114.3,
+      "ganancia": 91.86599999999999
     },
     {
       "nombre": "Rafael",
@@ -191,6 +191,13 @@
         "costoTotal": 37.12,
         "fecha": "7/1/2025, 3:59:21 p.m.",
         "ganancia": 12.369999999999997
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 2,
+        "costoTotal": 22.98,
+        "fecha": "9/1/2025, 9:47:24 a.m.",
+        "ganancia": 7.6640000000000015
       }
     ],
     "Irvin": [
@@ -279,6 +286,13 @@
         "costoTotal": 5.02,
         "fecha": "8/1/2025, 5:30:25 p.m.",
         "ganancia": 1.6749999999999994
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 3,
+        "costoTotal": 15.059999999999999,
+        "fecha": "9/1/2025, 8:36:22 a.m.",
+        "ganancia": 5.024999999999999
       }
     ],
     "Isrrael": [
@@ -388,6 +402,13 @@
         "costoTotal": 118.6,
         "fecha": "8/1/2025, 3:43:05 p.m.",
         "ganancia": 39.49999999999999
+      },
+      {
+        "producto": "Emperador combinado",
+        "piezas": 1,
+        "costoTotal": 20.55,
+        "fecha": "9/1/2025, 8:41:23 a.m.",
+        "ganancia": 6.85
       }
     ],
     "Laura": [],
@@ -503,6 +524,13 @@
         "costoTotal": 11.49,
         "fecha": "8/1/2025, 5:31:51 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Emperador combinado",
+        "piezas": 1,
+        "costoTotal": 20.55,
+        "fecha": "9/1/2025, 8:33:59 a.m.",
+        "ganancia": 6.85
       }
     ],
     "Rafael": [
@@ -556,10 +584,10 @@
       "descripcion": "Cigarros Pall Mall",
       "precioCompra": 3.35,
       "precioVenta": 5.02,
-      "piezas": 98,
+      "piezas": 95,
       "stockParciales": [
         {
-          "cantidad": 98,
+          "cantidad": 95,
           "costoUnitario": 3.345
         }
       ]
@@ -608,10 +636,10 @@
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 43,
+      "piezas": 41,
       "stockParciales": [
         {
-          "cantidad": 43,
+          "cantidad": 41,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -673,10 +701,10 @@
       "descripcion": "Emperador combinado",
       "precioCompra": 13.7,
       "precioVenta": 20.55,
-      "piezas": 3,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 1,
           "costoUnitario": 13.700000000000001
         }
       ]
@@ -1205,6 +1233,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 916.0454841269843,
-  "gananciasTotales": 457.8945158730159
+  "inversionRecuperada": 968.7964841269844,
+  "gananciasTotales": 484.2835158730159
 }
