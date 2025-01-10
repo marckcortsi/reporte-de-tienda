@@ -15,8 +15,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 43.22,
-      "ganancia": 14.413666666666668
+      "adeudo": 61.69,
+      "ganancia": 20.570333333333334
     },
     {
       "nombre": "Francisco",
@@ -27,8 +27,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 194.08999999999997,
-      "ganancia": 64.68777777777778
+      "adeudo": 212.55999999999997,
+      "ganancia": 70.84444444444445
     },
     {
       "nombre": "Isac",
@@ -231,6 +231,13 @@
         "costoTotal": 5.34,
         "fecha": "9/1/2025, 5:27:02 p.m.",
         "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 18.47,
+        "fecha": "10/1/2025, 9:18:56 a.m.",
+        "ganancia": 6.156666666666666
       }
     ],
     "Francisco": [
@@ -291,6 +298,13 @@
         "costoTotal": 9.6,
         "fecha": "8/1/2025, 5:32:18 p.m.",
         "ganancia": 3.1999999999999993
+      },
+      {
+        "producto": "Emperador Nuez",
+        "piezas": 1,
+        "costoTotal": 18.47,
+        "fecha": "10/1/2025, 9:19:07 a.m.",
+        "ganancia": 6.156666666666666
       }
     ],
     "Isac": [
@@ -789,10 +803,10 @@
       "descripcion": "Emperador Nuez",
       "precioCompra": 12.31,
       "precioVenta": 18.47,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.313333333333333
         }
       ]
@@ -802,13 +816,8 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 12.31,
       "precioVenta": 18.47,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.313333333333333
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478021581",
@@ -1337,6 +1346,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 1224.7287063492065,
-  "gananciasTotales": 612.1812936507938
+  "inversionRecuperada": 1249.355373015873,
+  "gananciasTotales": 624.4946269841271
 }
