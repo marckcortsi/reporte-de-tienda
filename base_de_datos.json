@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 186.04000000000002,
-      "ganancia": 61.97666666666667
+      "adeudo": 242.34000000000003,
+      "ganancia": 80.74666666666667
     },
     {
       "nombre": "Carlos",
@@ -33,7 +33,7 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 70.53,
+      "adeudo": 0,
       "ganancia": 47.64533333333333
     },
     {
@@ -45,8 +45,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 18.47,
-      "ganancia": 108.17673809523808
+      "adeudo": 39.17,
+      "ganancia": 115.08007142857142
     },
     {
       "nombre": "Laura",
@@ -58,13 +58,13 @@
       "nombre": "Marcos",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 113.67044444444443
+      "ganancia": 127.5446111111111
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 11.753333333333332
+      "ganancia": 25.627499999999998
     },
     {
       "nombre": "Vicente",
@@ -108,6 +108,27 @@
         "costoTotal": 20.55,
         "fecha": "10/1/2025, 8:54:02 a.m.",
         "ganancia": 6.85
+      },
+      {
+        "producto": "Totopos hot chili totis",
+        "piezas": 1,
+        "costoTotal": 14.55,
+        "fecha": "10/1/2025, 11:53:46 a.m.",
+        "ganancia": 4.85
+      },
+      {
+        "producto": "Papas picositas totis",
+        "piezas": 1,
+        "costoTotal": 20.7,
+        "fecha": "10/1/2025, 11:53:46 a.m.",
+        "ganancia": 6.903333333333332
+      },
+      {
+        "producto": "Papas saladas totis",
+        "piezas": 1,
+        "costoTotal": 21.05,
+        "fecha": "10/1/2025, 11:53:46 a.m.",
+        "ganancia": 7.0166666666666675
       }
     ],
     "Carlos": [
@@ -514,6 +535,13 @@
         "costoTotal": 18.47,
         "fecha": "10/1/2025, 8:54:19 a.m.",
         "ganancia": 6.156666666666666
+      },
+      {
+        "producto": "Papas picositas totis",
+        "piezas": 1,
+        "costoTotal": 20.7,
+        "fecha": "10/1/2025, 11:15:36 a.m.",
+        "ganancia": 6.903333333333332
       }
     ],
     "Laura": [],
@@ -664,6 +692,20 @@
         "costoTotal": 31.31,
         "fecha": "10/1/2025, 8:54:56 a.m.",
         "ganancia": 10.436666666666667
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "10/1/2025, 11:07:39 a.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "10/1/2025, 11:07:39 a.m.",
+        "ganancia": 7.046666666666665
       }
     ],
     "Rafael": [
@@ -680,6 +722,20 @@
         "costoTotal": 14.55,
         "fecha": "7/1/2025, 1:03:56 p.m.",
         "ganancia": 4.85
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "10/1/2025, 11:07:21 a.m.",
+        "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "10/1/2025, 11:07:21 a.m.",
+        "ganancia": 6.827499999999999
       }
     ],
     "Vicente": [],
@@ -704,10 +760,10 @@
       "descripcion": "Vive 100 Blueberry",
       "precioCompra": 13.66,
       "precioVenta": 20.49,
-      "piezas": 19,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 17,
           "costoUnitario": 13.6625
         }
       ]
@@ -756,10 +812,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14.08,
       "precioVenta": 21.13,
-      "piezas": 17,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 15,
           "costoUnitario": 14.083333333333334
         }
       ]
@@ -1035,10 +1091,10 @@
       "descripcion": "Papas saladas totis",
       "precioCompra": 14.03,
       "precioVenta": 21.05,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 14.033333333333333
         }
       ]
@@ -1061,10 +1117,10 @@
       "descripcion": "Papas picositas totis",
       "precioCompra": 13.8,
       "precioVenta": 20.7,
-      "piezas": 5,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 3,
           "costoUnitario": 13.796666666666667
         }
       ]
@@ -1074,10 +1130,10 @@
       "descripcion": "Totopos hot chili totis",
       "precioCompra": 9.7,
       "precioVenta": 14.55,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 9.700000000000001
         }
       ]
@@ -1346,6 +1402,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 1249.355373015873,
-  "gananciasTotales": 624.4946269841271
+  "inversionRecuperada": 1356.173706349206,
+  "gananciasTotales": 677.9162936507936
 }
