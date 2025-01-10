@@ -21,13 +21,13 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 60.099999999999994,
+      "adeudo": 0,
       "ganancia": 20.034
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 212.55999999999997,
+      "adeudo": 0,
       "ganancia": 70.84444444444445
     },
     {
@@ -57,13 +57,13 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 179.72,
+      "adeudo": 0,
       "ganancia": 113.67044444444443
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 35.25,
+      "adeudo": 0,
       "ganancia": 11.753333333333332
     },
     {
