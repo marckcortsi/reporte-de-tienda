@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 165.49,
-      "ganancia": 55.126666666666665
+      "adeudo": 186.04000000000002,
+      "ganancia": 61.97666666666667
     },
     {
       "nombre": "Carlos",
@@ -33,8 +33,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 52.06,
-      "ganancia": 41.48866666666667
+      "adeudo": 70.53,
+      "ganancia": 47.64533333333333
     },
     {
       "nombre": "Isrrael",
@@ -45,8 +45,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 102.02007142857141
+      "adeudo": 18.47,
+      "ganancia": 108.17673809523808
     },
     {
       "nombre": "Laura",
@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 148.41,
-      "ganancia": 103.23377777777776
+      "adeudo": 179.72,
+      "ganancia": 113.67044444444443
     },
     {
       "nombre": "Rafael",
@@ -101,6 +101,13 @@
         "costoTotal": 28.42,
         "fecha": "9/1/2025, 2:45:47 p.m.",
         "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Emperador combinado",
+        "piezas": 1,
+        "costoTotal": 20.55,
+        "fecha": "10/1/2025, 8:54:02 a.m.",
+        "ganancia": 6.85
       }
     ],
     "Carlos": [
@@ -342,6 +349,13 @@
         "costoTotal": 20.49,
         "fecha": "9/1/2025, 5:26:16 p.m.",
         "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Emperador Vainilla",
+        "piezas": 1,
+        "costoTotal": 18.47,
+        "fecha": "10/1/2025, 8:54:35 a.m.",
+        "ganancia": 6.156666666666666
       }
     ],
     "Isrrael": [
@@ -479,6 +493,13 @@
         "costoTotal": 21.13,
         "fecha": "9/1/2025, 2:44:53 p.m.",
         "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Emperador Vainilla",
+        "piezas": 1,
+        "costoTotal": 18.47,
+        "fecha": "10/1/2025, 8:54:19 a.m.",
+        "ganancia": 6.156666666666666
       }
     ],
     "Laura": [],
@@ -622,6 +643,13 @@
         "costoTotal": 8.28,
         "fecha": "9/1/2025, 11:02:55 a.m.",
         "ganancia": 2.757777777777777
+      },
+      {
+        "producto": "Galletas Canelitas",
+        "piezas": 1,
+        "costoTotal": 31.31,
+        "fecha": "10/1/2025, 8:54:56 a.m.",
+        "ganancia": 10.436666666666667
       }
     ],
     "Rafael": [
@@ -753,13 +781,8 @@
       "descripcion": "Emperador Vainilla",
       "precioCompra": 12.31,
       "precioVenta": 18.47,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 12.313333333333333
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478022540",
@@ -792,13 +815,8 @@
       "descripcion": "Emperador combinado",
       "precioCompra": 13.7,
       "precioVenta": 20.55,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 13.700000000000001
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501059242920",
@@ -839,10 +857,10 @@
       "descripcion": "Galletas Canelitas",
       "precioCompra": 20.87,
       "precioVenta": 31.31,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 20.87333333333333
         }
       ]
@@ -1319,6 +1337,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 1165.5287063492067,
-  "gananciasTotales": 582.5812936507939
+  "inversionRecuperada": 1224.7287063492065,
+  "gananciasTotales": 612.1812936507938
 }
