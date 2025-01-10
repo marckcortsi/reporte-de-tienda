@@ -4,7 +4,7 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 80.74666666666667
+      "ganancia": 120.24666666666667
     },
     {
       "nombre": "Carlos",
@@ -45,7 +45,7 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 39.17,
+      "adeudo": 0,
       "ganancia": 115.08007142857142
     },
     {
@@ -129,6 +129,13 @@
         "costoTotal": 21.05,
         "fecha": "10/1/2025, 11:53:46 a.m.",
         "ganancia": 7.0166666666666675
+      },
+      {
+        "producto": "Cigarros Malvoro",
+        "piezas": 20,
+        "costoTotal": 118.6,
+        "fecha": "10/1/2025, 5:37:00 p.m.",
+        "ganancia": 39.49999999999999
       }
     ],
     "Carlos": [
@@ -806,10 +813,10 @@
       "descripcion": "Cigarros Malvoro",
       "precioCompra": 3.96,
       "precioVenta": 5.93,
-      "piezas": 60,
+      "piezas": 40,
       "stockParciales": [
         {
-          "cantidad": 60,
+          "cantidad": 40,
           "costoUnitario": 3.955
         }
       ]
@@ -1409,6 +1416,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 1370.2070396825393,
-  "gananciasTotales": 684.9329603174602
+  "inversionRecuperada": 1449.3070396825392,
+  "gananciasTotales": 724.4329603174602
 }
