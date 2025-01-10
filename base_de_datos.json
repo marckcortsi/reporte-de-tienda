@@ -39,8 +39,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 55.491666666666674
+      "adeudo": 21.05,
+      "ganancia": 62.50833333333334
     },
     {
       "nombre": "Karen",
@@ -428,6 +428,13 @@
         "costoTotal": 9.6,
         "fecha": "9/1/2025, 5:25:55 p.m.",
         "ganancia": 3.1999999999999993
+      },
+      {
+        "producto": "Papas saladas totis",
+        "piezas": 1,
+        "costoTotal": 21.05,
+        "fecha": "10/1/2025, 5:26:46 p.m.",
+        "ganancia": 7.0166666666666675
       }
     ],
     "Karen": [
@@ -1091,10 +1098,10 @@
       "descripcion": "Papas saladas totis",
       "precioCompra": 14.03,
       "precioVenta": 21.05,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 14.033333333333333
         }
       ]
@@ -1402,6 +1409,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 1356.173706349206,
-  "gananciasTotales": 677.9162936507936
+  "inversionRecuperada": 1370.2070396825393,
+  "gananciasTotales": 684.9329603174602
 }
