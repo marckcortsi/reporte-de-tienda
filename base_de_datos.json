@@ -15,14 +15,14 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 30.590000000000003,
-      "ganancia": 30.769000000000002
+      "adeudo": 51.72,
+      "ganancia": 37.815666666666665
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 11.49,
-      "ganancia": 23.866
+      "adeudo": 34.47,
+      "ganancia": 31.53
     },
     {
       "nombre": "Irvin",
@@ -39,8 +39,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 18.56,
-      "ganancia": 68.69333333333334
+      "adeudo": 37.12,
+      "ganancia": 74.87833333333334
     },
     {
       "nombre": "Karen",
@@ -329,6 +329,13 @@
         "costoTotal": 11.49,
         "fecha": "13/1/2025, 1:17:08 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "13/1/2025, 3:06:00 p.m.",
+        "ganancia": 7.046666666666665
       }
     ],
     "Francisco": [
@@ -352,6 +359,13 @@
         "costoTotal": 11.49,
         "fecha": "13/1/2025, 1:25:27 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 2,
+        "costoTotal": 22.98,
+        "fecha": "13/1/2025, 1:54:26 p.m.",
+        "ganancia": 7.6640000000000015
       }
     ],
     "Irvin": [
@@ -560,6 +574,13 @@
         "piezas": 1,
         "costoTotal": 18.56,
         "fecha": "13/1/2025, 1:15:00 p.m.",
+        "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "13/1/2025, 3:06:49 p.m.",
         "ganancia": 6.184999999999999
       }
     ],
@@ -1013,10 +1034,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 17,
           "costoUnitario": 12.375
         }
       ]
@@ -1078,10 +1099,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14.08,
       "precioVenta": 21.13,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 14.083333333333334
         }
       ]
@@ -1091,10 +1112,10 @@
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 33,
+      "piezas": 31,
       "stockParciales": [
         {
-          "cantidad": 33,
+          "cantidad": 31,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -1663,6 +1684,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 1861.3813968253942,
-  "gananciasTotales": 930.4486031746031
+  "inversionRecuperada": 1903.1557301587275,
+  "gananciasTotales": 951.3442698412697
 }
