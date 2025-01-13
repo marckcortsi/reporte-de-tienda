@@ -9,14 +9,14 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 71.72,
-      "ganancia": 162.03283333333331
+      "adeudo": 143.22,
+      "ganancia": 185.8203333333333
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 51.72,
-      "ganancia": 37.815666666666665
+      "adeudo": 57.06,
+      "ganancia": 39.598166666666664
     },
     {
       "nombre": "Francisco",
@@ -33,8 +33,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 100.63,
-      "ganancia": 81.18816666666667
+      "adeudo": 175.93,
+      "ganancia": 106.31316666666666
     },
     {
       "nombre": "Isrrael",
@@ -278,6 +278,13 @@
         "costoTotal": 28.42,
         "fecha": "13/1/2025, 1:30:54 p.m.",
         "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 25,
+        "costoTotal": 71.5,
+        "fecha": "13/1/2025, 4:17:14 p.m.",
+        "ganancia": 23.7875
       }
     ],
     "Edgar": [
@@ -336,6 +343,13 @@
         "costoTotal": 21.13,
         "fecha": "13/1/2025, 3:06:00 p.m.",
         "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "13/1/2025, 4:18:26 p.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Francisco": [
@@ -538,6 +552,13 @@
         "costoTotal": 21.13,
         "fecha": "13/1/2025, 3:10:50 p.m.",
         "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 15,
+        "costoTotal": 75.3,
+        "fecha": "13/1/2025, 4:18:06 p.m.",
+        "ganancia": 25.12499999999999
       }
     ],
     "Isrrael": [
@@ -1081,10 +1102,10 @@
       "descripcion": "Cigarros Pall Mall",
       "precioCompra": 3.35,
       "precioVenta": 5.02,
-      "piezas": 95,
+      "piezas": 80,
       "stockParciales": [
         {
-          "cantidad": 95,
+          "cantidad": 80,
           "costoUnitario": 3.345
         }
       ]
@@ -1094,10 +1115,10 @@
       "descripcion": "Cigarros Shots",
       "precioCompra": 1.91,
       "precioVenta": 2.86,
-      "piezas": 125,
+      "piezas": 100,
       "stockParciales": [
         {
-          "cantidad": 125,
+          "cantidad": 100,
           "costoUnitario": 1.9084999999999999
         }
       ]
@@ -1329,10 +1350,10 @@
       "descripcion": "Zumba goma Sandia",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 3.5575
         }
       ]
@@ -1705,6 +1726,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 1945.4057301587272,
-  "gananciasTotales": 972.4842698412696
+  "inversionRecuperada": 2046.8507301587272,
+  "gananciasTotales": 1023.1792698412696
 }
