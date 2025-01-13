@@ -27,14 +27,14 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 42.8,
-      "ganancia": 85.11311111111112
+      "adeudo": 63.92999999999999,
+      "ganancia": 92.15977777777779
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 79.5,
-      "ganancia": 74.14150000000001
+      "adeudo": 100.63,
+      "ganancia": 81.18816666666667
     },
     {
       "nombre": "Isrrael",
@@ -431,6 +431,13 @@
         "costoTotal": 11.49,
         "fecha": "13/1/2025, 1:16:43 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "13/1/2025, 3:10:32 p.m.",
+        "ganancia": 7.046666666666665
       }
     ],
     "Isac": [
@@ -524,6 +531,13 @@
         "costoTotal": 11.49,
         "fecha": "13/1/2025, 1:16:56 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "13/1/2025, 3:10:50 p.m.",
+        "ganancia": 7.046666666666665
       }
     ],
     "Isrrael": [
@@ -1099,10 +1113,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14.08,
       "precioVenta": 21.13,
-      "piezas": 12,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 10,
           "costoUnitario": 14.083333333333334
         }
       ]
@@ -1684,6 +1698,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 1903.1557301587275,
-  "gananciasTotales": 951.3442698412697
+  "inversionRecuperada": 1931.322396825394,
+  "gananciasTotales": 965.4376031746029
 }
