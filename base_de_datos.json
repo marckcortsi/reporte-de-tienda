@@ -15,8 +15,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 20.570333333333334
+      "adeudo": 19.1,
+      "ganancia": 26.937
     },
     {
       "nombre": "Francisco",
@@ -27,14 +27,14 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 70.84444444444445
+      "adeudo": 31.31,
+      "ganancia": 81.28111111111112
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 47.64533333333333
+      "adeudo": 19.1,
+      "ganancia": 54.012
     },
     {
       "nombre": "Isrrael",
@@ -280,6 +280,13 @@
         "costoTotal": 18.47,
         "fecha": "10/1/2025, 9:18:56 a.m.",
         "ganancia": 6.156666666666666
+      },
+      {
+        "producto": "Galletas Marias",
+        "piezas": 1,
+        "costoTotal": 19.1,
+        "fecha": "13/1/2025, 9:16:56 a.m.",
+        "ganancia": 6.366666666666667
       }
     ],
     "Francisco": [
@@ -347,6 +354,13 @@
         "costoTotal": 18.47,
         "fecha": "10/1/2025, 9:19:07 a.m.",
         "ganancia": 6.156666666666666
+      },
+      {
+        "producto": "Polvorones",
+        "piezas": 1,
+        "costoTotal": 31.31,
+        "fecha": "13/1/2025, 9:16:44 a.m.",
+        "ganancia": 10.436666666666667
       }
     ],
     "Isac": [
@@ -412,6 +426,13 @@
         "costoTotal": 18.47,
         "fecha": "10/1/2025, 8:54:35 a.m.",
         "ganancia": 6.156666666666666
+      },
+      {
+        "producto": "Galletas Marias",
+        "piezas": 1,
+        "costoTotal": 19.1,
+        "fecha": "13/1/2025, 9:17:18 a.m.",
+        "ganancia": 6.366666666666667
       }
     ],
     "Isrrael": [
@@ -961,10 +982,10 @@
       "descripcion": "Galletas Marias",
       "precioCompra": 12.73,
       "precioVenta": 19.1,
-      "piezas": 3,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 1,
           "costoUnitario": 12.733333333333334
         }
       ]
@@ -1013,10 +1034,10 @@
       "descripcion": "Polvorones",
       "precioCompra": 20.87,
       "precioVenta": 31.31,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 20.87333333333333
         }
       ]
@@ -1467,6 +1488,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 1573.0665634920626,
-  "gananciasTotales": 786.2634365079364
+  "inversionRecuperada": 1619.4065634920626,
+  "gananciasTotales": 809.4334365079364
 }
