@@ -4,7 +4,7 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 120.24666666666667
+      "ganancia": 130.68333333333334
     },
     {
       "nombre": "Carlos",
@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 127.5446111111111
+      "adeudo": 49.64,
+      "ganancia": 144.09377777777775
     },
     {
       "nombre": "Rafael",
@@ -136,6 +136,13 @@
         "costoTotal": 118.6,
         "fecha": "10/1/2025, 5:37:00 p.m.",
         "ganancia": 39.49999999999999
+      },
+      {
+        "producto": "Polvorones",
+        "piezas": 1,
+        "costoTotal": 31.31,
+        "fecha": "13/1/2025, 8:45:58 a.m.",
+        "ganancia": 10.436666666666667
       }
     ],
     "Carlos": [
@@ -741,6 +748,34 @@
         "costoTotal": 21.13,
         "fecha": "10/1/2025, 11:07:39 a.m.",
         "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Emperador Nuez",
+        "piezas": 1,
+        "costoTotal": 18.47,
+        "fecha": "13/1/2025, 8:42:47 a.m.",
+        "ganancia": 6.156666666666666
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "13/1/2025, 8:42:47 a.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "13/1/2025, 8:42:47 a.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "13/1/2025, 8:42:47 a.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Rafael": [
@@ -795,10 +830,10 @@
       "descripcion": "Vive 100 Blueberry",
       "precioCompra": 13.66,
       "precioVenta": 20.49,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 16,
           "costoUnitario": 13.6625
         }
       ]
@@ -894,13 +929,8 @@
       "descripcion": "Emperador Nuez",
       "precioCompra": 12.31,
       "precioVenta": 18.47,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.313333333333333
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478022496",
@@ -983,10 +1013,10 @@
       "descripcion": "Polvorones",
       "precioCompra": 20.87,
       "precioVenta": 31.31,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 20.87333333333333
         }
       ]
@@ -1035,10 +1065,10 @@
       "descripcion": "Zumba goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 3.5575
         }
       ]
@@ -1061,10 +1091,10 @@
       "descripcion": "Zumba goma Sandia",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 3.5575
         }
       ]
@@ -1437,6 +1467,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 1519.1023968253965,
-  "gananciasTotales": 759.2776031746031
+  "inversionRecuperada": 1573.0665634920626,
+  "gananciasTotales": 786.2634365079364
 }
