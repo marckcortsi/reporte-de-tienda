@@ -33,8 +33,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 175.93,
-      "ganancia": 106.31316666666666
+      "adeudo": 212.21,
+      "ganancia": 118.40983333333332
     },
     {
       "nombre": "Isrrael",
@@ -45,8 +45,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 48.809999999999995,
-      "ganancia": 142.41121428571427
+      "adeudo": 80.11999999999999,
+      "ganancia": 152.84788095238093
     },
     {
       "nombre": "Laura",
@@ -57,14 +57,14 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 124.42,
-      "ganancia": 169.0307777777777
+      "adeudo": 188.35,
+      "ganancia": 190.34611111111101
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 21.13,
-      "ganancia": 50.75416666666666
+      "adeudo": 41.83,
+      "ganancia": 57.6575
     },
     {
       "nombre": "Vicente",
@@ -559,6 +559,20 @@
         "costoTotal": 75.3,
         "fecha": "13/1/2025, 4:18:06 p.m.",
         "ganancia": 25.12499999999999
+      },
+      {
+        "producto": "Galletas Marianistas Vainilla",
+        "piezas": 1,
+        "costoTotal": 15.15,
+        "fecha": "14/1/2025, 9:20:43 a.m.",
+        "ganancia": 5.050000000000001
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "14/1/2025, 9:23:57 a.m.",
+        "ganancia": 7.046666666666665
       }
     ],
     "Isrrael": [
@@ -773,6 +787,13 @@
         "costoTotal": 11.49,
         "fecha": "13/1/2025, 1:31:47 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Polvorones",
+        "piezas": 1,
+        "costoTotal": 31.31,
+        "fecha": "14/1/2025, 9:23:23 a.m.",
+        "ganancia": 10.436666666666667
       }
     ],
     "Laura": [],
@@ -1007,6 +1028,27 @@
         "costoTotal": 5.65,
         "fecha": "13/1/2025, 1:33:44 p.m.",
         "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Galletas Canelitas",
+        "piezas": 1,
+        "costoTotal": 31.31,
+        "fecha": "14/1/2025, 9:22:12 a.m.",
+        "ganancia": 10.436666666666667
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "14/1/2025, 9:22:12 a.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "14/1/2025, 9:24:12 a.m.",
+        "ganancia": 7.046666666666665
       }
     ],
     "Rafael": [
@@ -1065,6 +1107,13 @@
         "costoTotal": 21.13,
         "fecha": "13/1/2025, 3:33:14 p.m.",
         "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Papas picositas totis",
+        "piezas": 1,
+        "costoTotal": 20.7,
+        "fecha": "14/1/2025, 10:53:46 a.m.",
+        "ganancia": 6.903333333333332
       }
     ],
     "Vicente": [],
@@ -1141,10 +1190,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14.08,
       "precioVenta": 21.13,
-      "piezas": 9,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 7,
           "costoUnitario": 14.083333333333334
         }
       ]
@@ -1154,10 +1203,10 @@
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 31,
+      "piezas": 30,
       "stockParciales": [
         {
-          "cantidad": 31,
+          "cantidad": 30,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -1246,10 +1295,10 @@
       "descripcion": "Galletas Canelitas",
       "precioCompra": 20.87,
       "precioVenta": 31.31,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 20.87333333333333
         }
       ]
@@ -1272,13 +1321,8 @@
       "descripcion": "Polvorones",
       "precioCompra": 20.87,
       "precioVenta": 31.31,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 20.87333333333333
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "038629002075",
@@ -1298,10 +1342,10 @@
       "descripcion": "Galletas Marianistas Vainilla",
       "precioCompra": 10.1,
       "precioVenta": 15.15,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 10.1
         }
       ]
@@ -1441,10 +1485,10 @@
       "descripcion": "Papas picositas totis",
       "precioCompra": 13.8,
       "precioVenta": 20.7,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 13.796666666666667
         }
       ]
@@ -1726,6 +1770,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 2046.8507301587272,
-  "gananciasTotales": 1023.1792698412696
+  "inversionRecuperada": 2148.3187301587277,
+  "gananciasTotales": 1073.9312698412698
 }
