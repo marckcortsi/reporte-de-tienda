@@ -9,8 +9,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 143.22,
-      "ganancia": 185.8203333333333
+      "adeudo": 164.35,
+      "ganancia": 192.86699999999996
     },
     {
       "nombre": "Edgar",
@@ -27,14 +27,14 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 63.92999999999999,
-      "ganancia": 92.15977777777779
+      "adeudo": 84.41999999999999,
+      "ganancia": 98.98727777777779
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 212.21,
-      "ganancia": 118.40983333333332
+      "adeudo": 232.70000000000002,
+      "ganancia": 125.23733333333332
     },
     {
       "nombre": "Isrrael",
@@ -285,6 +285,13 @@
         "costoTotal": 71.5,
         "fecha": "13/1/2025, 4:17:14 p.m.",
         "ganancia": 23.7875
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "14/1/2025, 2:28:25 p.m.",
+        "ganancia": 7.046666666666665
       }
     ],
     "Edgar": [
@@ -452,6 +459,13 @@
         "costoTotal": 21.13,
         "fecha": "13/1/2025, 3:10:32 p.m.",
         "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "14/1/2025, 2:08:34 p.m.",
+        "ganancia": 6.827499999999999
       }
     ],
     "Isac": [
@@ -573,6 +587,13 @@
         "costoTotal": 21.13,
         "fecha": "14/1/2025, 9:23:57 a.m.",
         "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "14/1/2025, 2:28:40 p.m.",
+        "ganancia": 6.827499999999999
       }
     ],
     "Isrrael": [
@@ -1152,10 +1173,10 @@
       "descripcion": "Vive 100 Blueberry",
       "precioCompra": 13.66,
       "precioVenta": 20.49,
-      "piezas": 11,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 9,
           "costoUnitario": 13.6625
         }
       ]
@@ -1204,10 +1225,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14.08,
       "precioVenta": 21.13,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 14.083333333333334
         }
       ]
@@ -1784,6 +1805,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 2174.3562301587276,
-  "gananciasTotales": 1086.9437698412698
+  "inversionRecuperada": 2215.764563492061,
+  "gananciasTotales": 1107.6454365079367
 }
