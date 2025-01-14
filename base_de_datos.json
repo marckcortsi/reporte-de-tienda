@@ -57,14 +57,14 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 188.35,
-      "ganancia": 190.34611111111101
+      "adeudo": 208.84,
+      "ganancia": 197.173611111111
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 41.83,
-      "ganancia": 57.6575
+      "adeudo": 60.39,
+      "ganancia": 63.8425
     },
     {
       "nombre": "Vicente",
@@ -1049,6 +1049,13 @@
         "costoTotal": 21.13,
         "fecha": "14/1/2025, 9:24:12 a.m.",
         "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "14/1/2025, 1:27:35 p.m.",
+        "ganancia": 6.827499999999999
       }
     ],
     "Rafael": [
@@ -1114,6 +1121,13 @@
         "costoTotal": 20.7,
         "fecha": "14/1/2025, 10:53:46 a.m.",
         "ganancia": 6.903333333333332
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "14/1/2025, 1:27:09 p.m.",
+        "ganancia": 6.184999999999999
       }
     ],
     "Vicente": [],
@@ -1125,10 +1139,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 16,
           "costoUnitario": 12.375
         }
       ]
@@ -1138,10 +1152,10 @@
       "descripcion": "Vive 100 Blueberry",
       "precioCompra": 13.66,
       "precioVenta": 20.49,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 13.6625
         }
       ]
@@ -1770,6 +1784,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 2148.3187301587277,
-  "gananciasTotales": 1073.9312698412698
+  "inversionRecuperada": 2174.3562301587276,
+  "gananciasTotales": 1086.9437698412698
 }
