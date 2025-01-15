@@ -9,14 +9,14 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 264.75,
-      "ganancia": 226.36699999999996
+      "adeudo": 318.5,
+      "ganancia": 244.2923333333333
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 104.89,
-      "ganancia": 55.557333333333325
+      "adeudo": 133.31,
+      "ganancia": 65.02733333333333
     },
     {
       "nombre": "Francisco",
@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 18.56,
-      "ganancia": 212.18777777777765
+      "adeudo": 58.47,
+      "ganancia": 225.48977777777765
     },
     {
       "nombre": "Rafael",
@@ -299,6 +299,20 @@
         "costoTotal": 100.39999999999999,
         "fecha": "15/1/2025, 8:32:19 a.m.",
         "ganancia": 33.499999999999986
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 2,
+        "costoTotal": 42.26,
+        "fecha": "15/1/2025, 2:10:43 p.m.",
+        "ganancia": 14.09333333333333
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "15/1/2025, 2:11:20 p.m.",
+        "ganancia": 3.8320000000000007
       }
     ],
     "Edgar": [
@@ -392,6 +406,13 @@
         "costoTotal": 21.13,
         "fecha": "15/1/2025, 10:06:39 a.m.",
         "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Jarritos tutifruti",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "15/1/2025, 2:13:08 p.m.",
+        "ganancia": 9.470000000000002
       }
     ],
     "Francisco": [
@@ -1168,6 +1189,20 @@
         "costoTotal": 18.56,
         "fecha": "15/1/2025, 1:50:13 p.m.",
         "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "15/1/2025, 2:12:11 p.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Jarritos mandarina",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "15/1/2025, 2:12:11 p.m.",
+        "ganancia": 9.470000000000002
       }
     ],
     "Rafael": [
@@ -1365,23 +1400,18 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14.08,
       "precioVenta": 21.13,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 14.083333333333334
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500366003811",
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 29,
+      "piezas": 27,
       "stockParciales": [
         {
-          "cantidad": 29,
+          "cantidad": 27,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -1686,10 +1716,10 @@
       "descripcion": "Jarritos tutifruti",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 18.95
         }
       ]
@@ -1699,10 +1729,10 @@
       "descripcion": "Jarritos mandarina",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 18.95
         }
       ]
@@ -1945,6 +1975,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 2435.094230158728,
-  "gananciasTotales": 1217.4157698412703
+  "inversionRecuperada": 2516.476896825394,
+  "gananciasTotales": 1258.1131031746038
 }
