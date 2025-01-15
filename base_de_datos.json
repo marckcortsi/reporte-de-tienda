@@ -9,8 +9,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 164.35,
-      "ganancia": 192.86699999999996
+      "adeudo": 264.75,
+      "ganancia": 226.36699999999996
     },
     {
       "nombre": "Edgar",
@@ -292,6 +292,13 @@
         "costoTotal": 21.13,
         "fecha": "14/1/2025, 2:28:25 p.m.",
         "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 20,
+        "costoTotal": 100.39999999999999,
+        "fecha": "15/1/2025, 8:32:19 a.m.",
+        "ganancia": 33.499999999999986
       }
     ],
     "Edgar": [
@@ -1186,10 +1193,10 @@
       "descripcion": "Cigarros Pall Mall",
       "precioCompra": 3.35,
       "precioVenta": 5.02,
-      "piezas": 80,
+      "piezas": 60,
       "stockParciales": [
         {
-          "cantidad": 80,
+          "cantidad": 60,
           "costoUnitario": 3.345
         }
       ]
@@ -1805,6 +1812,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 2215.764563492061,
-  "gananciasTotales": 1107.6454365079367
+  "inversionRecuperada": 2282.664563492061,
+  "gananciasTotales": 1141.1454365079367
 }
