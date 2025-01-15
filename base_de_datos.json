@@ -15,20 +15,20 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 57.06,
-      "ganancia": 39.598166666666664
+      "adeudo": 104.89,
+      "ganancia": 55.557333333333325
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 34.47,
-      "ganancia": 31.53
+      "adeudo": 42.57,
+      "ganancia": 43.70333333333333
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 84.41999999999999,
-      "ganancia": 98.98727777777779
+      "adeudo": 105.54999999999998,
+      "ganancia": 106.03394444444446
     },
     {
       "nombre": "Isac",
@@ -57,14 +57,14 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 208.84,
-      "ganancia": 197.173611111111
+      "adeudo": 235.31,
+      "ganancia": 206.00277777777765
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 60.39,
-      "ganancia": 63.8425
+      "adeudo": 92.50999999999999,
+      "ganancia": 74.555
     },
     {
       "nombre": "Vicente",
@@ -364,6 +364,34 @@
         "costoTotal": 5.34,
         "fecha": "13/1/2025, 4:18:26 p.m.",
         "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Fresa",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "15/1/2025, 10:01:16 a.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "15/1/2025, 10:01:16 a.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 3,
+        "costoTotal": 16.02,
+        "fecha": "15/1/2025, 10:01:16 a.m.",
+        "ganancia": 5.347499999999999
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "15/1/2025, 10:06:39 a.m.",
+        "ganancia": 7.046666666666665
       }
     ],
     "Francisco": [
@@ -394,6 +422,27 @@
         "costoTotal": 22.98,
         "fecha": "13/1/2025, 1:54:26 p.m.",
         "ganancia": 7.6640000000000015
+      },
+      {
+        "producto": "Paletas de Tarrito",
+        "piezas": 1,
+        "costoTotal": 2.45,
+        "fecha": "15/1/2025, 10:04:56 a.m.",
+        "ganancia": 0.8200000000000001
+      },
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "15/1/2025, 10:04:56 a.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Jarritos mandarina",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "15/1/2025, 10:05:17 a.m.",
+        "ganancia": 9.470000000000002
       }
     ],
     "Irvin": [
@@ -473,6 +522,13 @@
         "costoTotal": 20.49,
         "fecha": "14/1/2025, 2:08:34 p.m.",
         "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "15/1/2025, 10:06:25 a.m.",
+        "ganancia": 7.046666666666665
       }
     ],
     "Isac": [
@@ -1084,6 +1140,20 @@
         "costoTotal": 20.49,
         "fecha": "14/1/2025, 1:27:35 p.m.",
         "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "15/1/2025, 10:06:59 a.m.",
+        "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "15/1/2025, 10:06:59 a.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Rafael": [
@@ -1156,6 +1226,27 @@
         "costoTotal": 18.56,
         "fecha": "14/1/2025, 1:27:09 p.m.",
         "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21.13,
+        "fecha": "15/1/2025, 10:01:52 a.m.",
+        "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "15/1/2025, 10:01:52 a.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "15/1/2025, 10:01:52 a.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Vicente": [],
@@ -1232,10 +1323,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14.08,
       "precioVenta": 21.13,
-      "piezas": 6,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 2,
           "costoUnitario": 14.083333333333334
         }
       ]
@@ -1410,10 +1501,10 @@
       "descripcion": "Zumba goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 6,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 4,
           "costoUnitario": 3.5575
         }
       ]
@@ -1423,10 +1514,10 @@
       "descripcion": "Zumba goma Fresa",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 3.5575
         }
       ]
@@ -1436,10 +1527,10 @@
       "descripcion": "Zumba goma Sandia",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 12,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 8,
           "costoUnitario": 3.5575
         }
       ]
@@ -1449,10 +1540,10 @@
       "descripcion": "Paletas de Tarrito",
       "precioCompra": 1.63,
       "precioVenta": 2.45,
-      "piezas": 40,
+      "piezas": 39,
       "stockParciales": [
         {
-          "cantidad": 40,
+          "cantidad": 39,
           "costoUnitario": 1.6300000000000001
         }
       ]
@@ -1462,10 +1553,10 @@
       "descripcion": "Paleta Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 14,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 12,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -1566,10 +1657,10 @@
       "descripcion": "Jarritos mandarina",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 18.95
         }
       ]
@@ -1812,6 +1903,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 2282.664563492061,
-  "gananciasTotales": 1141.1454365079367
+  "inversionRecuperada": 2392.0137301587283,
+  "gananciasTotales": 1195.8662698412702
 }
