@@ -27,8 +27,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 105.54999999999998,
-      "ganancia": 106.03394444444446
+      "adeudo": 117.03999999999998,
+      "ganancia": 109.86594444444447
     },
     {
       "nombre": "Isac",
@@ -57,14 +57,14 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 235.31,
+      "adeudo": 0,
       "ganancia": 206.00277777777765
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 92.50999999999999,
-      "ganancia": 74.555
+      "adeudo": 127.08999999999999,
+      "ganancia": 86.0875
     },
     {
       "nombre": "Vicente",
@@ -529,6 +529,13 @@
         "costoTotal": 21.13,
         "fecha": "15/1/2025, 10:06:25 a.m.",
         "ganancia": 7.046666666666665
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "15/1/2025, 1:08:03 p.m.",
+        "ganancia": 3.8320000000000007
       }
     ],
     "Isac": [
@@ -1247,6 +1254,34 @@
         "costoTotal": 5.34,
         "fecha": "15/1/2025, 10:01:52 a.m.",
         "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Fresa",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "15/1/2025, 12:48:38 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "15/1/2025, 12:48:38 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "15/1/2025, 12:48:38 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "15/1/2025, 12:48:38 p.m.",
+        "ganancia": 6.184999999999999
       }
     ],
     "Vicente": [],
@@ -1258,10 +1293,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 12.375
         }
       ]
@@ -1336,10 +1371,10 @@
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 30,
+      "piezas": 29,
       "stockParciales": [
         {
-          "cantidad": 30,
+          "cantidad": 29,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -1501,10 +1536,10 @@
       "descripcion": "Zumba goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 3.5575
         }
       ]
@@ -1514,10 +1549,10 @@
       "descripcion": "Zumba goma Fresa",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 3.5575
         }
       ]
@@ -1527,10 +1562,10 @@
       "descripcion": "Zumba goma Sandia",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 3.5575
         }
       ]
@@ -1903,6 +1938,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 2392.0137301587283,
-  "gananciasTotales": 1195.8662698412702
+  "inversionRecuperada": 2422.719230158728,
+  "gananciasTotales": 1211.2307698412703
 }
