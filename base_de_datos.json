@@ -9,8 +9,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 27.05,
-      "ganancia": 253.31290476190472
+      "adeudo": 37.730000000000004,
+      "ganancia": 256.87790476190474
     },
     {
       "nombre": "Edgar",
@@ -57,14 +57,14 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 123.80999999999999,
-      "ganancia": 247.27788888888875
+      "adeudo": 129.45999999999998,
+      "ganancia": 249.16122222222208
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 159.95,
-      "ganancia": 97.03000000000002
+      "adeudo": 170.63,
+      "ganancia": 100.59500000000001
     },
     {
       "nombre": "Vicente",
@@ -334,6 +334,13 @@
         "costoTotal": 11.49,
         "fecha": "16/1/2025, 12:42:16 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 2,
+        "costoTotal": 10.68,
+        "fecha": "16/1/2025, 4:10:29 p.m.",
+        "ganancia": 3.5649999999999995
       }
     ],
     "Edgar": [
@@ -1364,6 +1371,13 @@
         "costoTotal": 5.65,
         "fecha": "16/1/2025, 4:04:00 p.m.",
         "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "16/1/2025, 4:11:04 p.m.",
+        "ganancia": 1.8833333333333337
       }
     ],
     "Rafael": [
@@ -1506,6 +1520,13 @@
         "costoTotal": 5.72,
         "fecha": "16/1/2025, 12:39:47 p.m.",
         "ganancia": 1.903
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 2,
+        "costoTotal": 10.68,
+        "fecha": "16/1/2025, 4:10:14 p.m.",
+        "ganancia": 3.5649999999999995
       }
     ],
     "Vicente": [],
@@ -1781,10 +1802,10 @@
       "descripcion": "Zumba goma Sandia",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 6,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 2,
           "costoUnitario": 3.5575
         }
       ]
@@ -1807,10 +1828,10 @@
       "descripcion": "Paleta Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -2152,6 +2173,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 2849.716404761901,
-  "gananciasTotales": 1424.6235952380962
+  "inversionRecuperada": 2867.713071428567,
+  "gananciasTotales": 1433.6369285714297
 }
