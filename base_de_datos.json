@@ -45,8 +45,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 80.11999999999999,
-      "ganancia": 152.84788095238093
+      "adeudo": 95.67999999999999,
+      "ganancia": 158.03645238095237
     },
     {
       "nombre": "Laura",
@@ -57,14 +57,14 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 58.47,
-      "ganancia": 225.48977777777765
+      "adeudo": 77.03,
+      "ganancia": 231.67477777777765
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 127.08999999999999,
-      "ganancia": 86.0875
+      "adeudo": 135.67,
+      "ganancia": 88.94200000000001
     },
     {
       "nombre": "Vicente",
@@ -906,6 +906,13 @@
         "costoTotal": 31.31,
         "fecha": "14/1/2025, 9:23:23 a.m.",
         "ganancia": 10.436666666666667
+      },
+      {
+        "producto": "Palomitas de mantequilla",
+        "piezas": 1,
+        "costoTotal": 15.56,
+        "fecha": "16/1/2025, 9:52:14 a.m.",
+        "ganancia": 5.18857142857143
       }
     ],
     "Laura": [],
@@ -1203,6 +1210,13 @@
         "costoTotal": 28.42,
         "fecha": "15/1/2025, 2:12:11 p.m.",
         "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "16/1/2025, 9:18:48 a.m.",
+        "ganancia": 6.184999999999999
       }
     ],
     "Rafael": [
@@ -1324,6 +1338,13 @@
         "costoTotal": 18.56,
         "fecha": "15/1/2025, 12:48:38 p.m.",
         "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 3,
+        "costoTotal": 8.58,
+        "fecha": "16/1/2025, 8:41:49 a.m.",
+        "ganancia": 2.8545
       }
     ],
     "Vicente": [],
@@ -1335,10 +1356,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 12.375
         }
       ]
@@ -1374,10 +1395,10 @@
       "descripcion": "Cigarros Shots",
       "precioCompra": 1.91,
       "precioVenta": 2.86,
-      "piezas": 100,
+      "piezas": 97,
       "stockParciales": [
         {
-          "cantidad": 100,
+          "cantidad": 97,
           "costoUnitario": 1.9084999999999999
         }
       ]
@@ -1513,10 +1534,10 @@
       "descripcion": "Palomitas de mantequilla",
       "precioCompra": 10.37,
       "precioVenta": 15.56,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 10.37142857142857
         }
       ]
@@ -1975,6 +1996,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 2516.476896825394,
-  "gananciasTotales": 1258.1131031746038
+  "inversionRecuperada": 2544.9488253968225,
+  "gananciasTotales": 1272.341174603175
 }
