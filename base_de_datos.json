@@ -9,8 +9,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 244.2923333333333
+      "adeudo": 27.05,
+      "ganancia": 253.31290476190472
     },
     {
       "nombre": "Edgar",
@@ -21,14 +21,14 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 42.57,
-      "ganancia": 43.70333333333333
+      "adeudo": 54.06,
+      "ganancia": 47.535333333333334
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 117.03999999999998,
-      "ganancia": 109.86594444444447
+      "adeudo": 140.01999999999998,
+      "ganancia": 117.52994444444445
     },
     {
       "nombre": "Isac",
@@ -39,14 +39,14 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 37.12,
-      "ganancia": 74.87833333333334
+      "adeudo": 81.1,
+      "ganancia": 89.53690476190478
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 95.67999999999999,
-      "ganancia": 158.03645238095237
+      "adeudo": 107.16999999999999,
+      "ganancia": 161.86845238095236
     },
     {
       "nombre": "Laura",
@@ -57,14 +57,14 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 77.03,
-      "ganancia": 231.67477777777765
+      "adeudo": 88.52,
+      "ganancia": 235.50677777777764
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 135.67,
-      "ganancia": 88.94200000000001
+      "adeudo": 159.95,
+      "ganancia": 97.03000000000002
     },
     {
       "nombre": "Vicente",
@@ -313,6 +313,20 @@
         "costoTotal": 11.49,
         "fecha": "15/1/2025, 2:11:20 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Palomitas de mantequilla",
+        "piezas": 1,
+        "costoTotal": 15.56,
+        "fecha": "16/1/2025, 12:40:34 p.m.",
+        "ganancia": 5.18857142857143
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "16/1/2025, 12:42:16 p.m.",
+        "ganancia": 3.8320000000000007
       }
     ],
     "Edgar": [
@@ -464,6 +478,13 @@
         "costoTotal": 28.42,
         "fecha": "15/1/2025, 10:05:17 a.m.",
         "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "16/1/2025, 12:41:00 p.m.",
+        "ganancia": 3.8320000000000007
       }
     ],
     "Irvin": [
@@ -556,6 +577,20 @@
         "piezas": 1,
         "costoTotal": 11.49,
         "fecha": "15/1/2025, 1:08:03 p.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "16/1/2025, 12:36:56 p.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "16/1/2025, 12:37:42 p.m.",
         "ganancia": 3.8320000000000007
       }
     ],
@@ -743,6 +778,20 @@
         "costoTotal": 18.56,
         "fecha": "13/1/2025, 3:06:49 p.m.",
         "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Palomitas de mantequilla",
+        "piezas": 1,
+        "costoTotal": 15.56,
+        "fecha": "16/1/2025, 12:41:50 p.m.",
+        "ganancia": 5.18857142857143
+      },
+      {
+        "producto": "Jarritos tutifruti",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "16/1/2025, 12:42:35 p.m.",
+        "ganancia": 9.470000000000002
       }
     ],
     "Karen": [
@@ -913,6 +962,13 @@
         "costoTotal": 15.56,
         "fecha": "16/1/2025, 9:52:14 a.m.",
         "ganancia": 5.18857142857143
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "16/1/2025, 12:38:39 p.m.",
+        "ganancia": 3.8320000000000007
       }
     ],
     "Laura": [],
@@ -1217,6 +1273,13 @@
         "costoTotal": 18.56,
         "fecha": "16/1/2025, 9:18:48 a.m.",
         "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "16/1/2025, 12:38:08 p.m.",
+        "ganancia": 3.8320000000000007
       }
     ],
     "Rafael": [
@@ -1345,6 +1408,20 @@
         "costoTotal": 8.58,
         "fecha": "16/1/2025, 8:41:49 a.m.",
         "ganancia": 2.8545
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "16/1/2025, 12:39:47 p.m.",
+        "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 2,
+        "costoTotal": 5.72,
+        "fecha": "16/1/2025, 12:39:47 p.m.",
+        "ganancia": 1.903
       }
     ],
     "Vicente": [],
@@ -1356,10 +1433,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 12.375
         }
       ]
@@ -1395,10 +1472,10 @@
       "descripcion": "Cigarros Shots",
       "precioCompra": 1.91,
       "precioVenta": 2.86,
-      "piezas": 97,
+      "piezas": 95,
       "stockParciales": [
         {
-          "cantidad": 97,
+          "cantidad": 95,
           "costoUnitario": 1.9084999999999999
         }
       ]
@@ -1429,10 +1506,10 @@
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 27,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 27,
+          "cantidad": 21,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -1534,10 +1611,10 @@
       "descripcion": "Palomitas de mantequilla",
       "precioCompra": 10.37,
       "precioVenta": 15.56,
-      "piezas": 10,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 8,
           "costoUnitario": 10.37142857142857
         }
       ]
@@ -1737,13 +1814,8 @@
       "descripcion": "Jarritos tutifruti",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 18.95
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "744886375059",
@@ -1996,6 +2068,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 2544.9488253968225,
-  "gananciasTotales": 1272.341174603175
+  "inversionRecuperada": 2646.781682539679,
+  "gananciasTotales": 1323.2683174603183
 }
