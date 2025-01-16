@@ -4,7 +4,7 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 130.68333333333334
+      "ganancia": 140.15333333333334
     },
     {
       "nombre": "Carlos",
@@ -27,8 +27,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 140.01999999999998,
-      "ganancia": 117.52994444444445
+      "adeudo": 161.07,
+      "ganancia": 124.54661111111112
     },
     {
       "nombre": "Isac",
@@ -45,8 +45,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 107.16999999999999,
-      "ganancia": 161.86845238095236
+      "adeudo": 135.58999999999997,
+      "ganancia": 171.33845238095236
     },
     {
       "nombre": "Laura",
@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 88.52,
-      "ganancia": 235.50677777777764
+      "adeudo": 99.19999999999999,
+      "ganancia": 239.07177777777764
     },
     {
       "nombre": "Rafael",
@@ -143,6 +143,13 @@
         "costoTotal": 31.31,
         "fecha": "13/1/2025, 8:45:58 a.m.",
         "ganancia": 10.436666666666667
+      },
+      {
+        "producto": "Jarritos mandarina",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "16/1/2025, 2:43:42 p.m.",
+        "ganancia": 9.470000000000002
       }
     ],
     "Carlos": [
@@ -592,6 +599,13 @@
         "costoTotal": 11.49,
         "fecha": "16/1/2025, 12:37:42 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Papas saladas totis",
+        "piezas": 1,
+        "costoTotal": 21.05,
+        "fecha": "16/1/2025, 2:45:15 p.m.",
+        "ganancia": 7.0166666666666675
       }
     ],
     "Isac": [
@@ -969,6 +983,13 @@
         "costoTotal": 11.49,
         "fecha": "16/1/2025, 12:38:39 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Jarritos mandarina",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "16/1/2025, 2:43:25 p.m.",
+        "ganancia": 9.470000000000002
       }
     ],
     "Laura": [],
@@ -1280,6 +1301,20 @@
         "costoTotal": 11.49,
         "fecha": "16/1/2025, 12:38:08 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "16/1/2025, 2:44:45 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Fresa",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "16/1/2025, 2:44:45 p.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Rafael": [
@@ -1671,10 +1706,10 @@
       "descripcion": "Zumba goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 3.5575
         }
       ]
@@ -1684,10 +1719,10 @@
       "descripcion": "Zumba goma Fresa",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 3.5575
         }
       ]
@@ -1762,10 +1797,10 @@
       "descripcion": "Papas saladas totis",
       "precioCompra": 14.03,
       "precioVenta": 21.05,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 14.033333333333333
         }
       ]
@@ -1822,10 +1857,10 @@
       "descripcion": "Jarritos mandarina",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 3,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 1,
           "costoUnitario": 18.95
         }
       ]
@@ -2068,6 +2103,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 2646.781682539679,
-  "gananciasTotales": 1323.2683174603183
+  "inversionRecuperada": 2705.8300158730117,
+  "gananciasTotales": 1352.789984126985
 }
