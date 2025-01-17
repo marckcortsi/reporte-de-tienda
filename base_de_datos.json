@@ -9,8 +9,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 37.730000000000004,
-      "ganancia": 256.87790476190474
+      "adeudo": 109.23,
+      "ganancia": 280.66540476190477
     },
     {
       "nombre": "Edgar",
@@ -341,6 +341,13 @@
         "costoTotal": 10.68,
         "fecha": "16/1/2025, 4:10:29 p.m.",
         "ganancia": 3.5649999999999995
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 25,
+        "costoTotal": 71.5,
+        "fecha": "17/1/2025, 5:28:16 p.m.",
+        "ganancia": 23.7875
       }
     ],
     "Edgar": [
@@ -1675,10 +1682,10 @@
       "descripcion": "Cigarros Shots",
       "precioCompra": 1.91,
       "precioVenta": 2.86,
-      "piezas": 70,
+      "piezas": 45,
       "stockParciales": [
         {
-          "cantidad": 70,
+          "cantidad": 45,
           "costoUnitario": 1.9084999999999999
         }
       ]
@@ -2261,6 +2268,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 3031.005349206345,
-  "gananciasTotales": 1515.274650793653
+  "inversionRecuperada": 3078.717849206345,
+  "gananciasTotales": 1539.062150793653
 }
