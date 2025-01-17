@@ -33,8 +33,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 232.70000000000002,
-      "ganancia": 125.23733333333332
+      "adeudo": 258.84000000000003,
+      "ganancia": 133.94816666666665
     },
     {
       "nombre": "Isrrael",
@@ -45,8 +45,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 255.2,
-      "ganancia": 211.17845238095236
+      "adeudo": 274.96999999999997,
+      "ganancia": 217.76823015873015
     },
     {
       "nombre": "Laura",
@@ -63,8 +63,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 170.63,
-      "ganancia": 100.59500000000001
+      "adeudo": 196.05,
+      "ganancia": 109.06811111111114
     },
     {
       "nombre": "Vicente",
@@ -741,6 +741,20 @@
         "costoTotal": 20.49,
         "fecha": "14/1/2025, 2:28:40 p.m.",
         "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "17/1/2025, 10:27:20 a.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "17/1/2025, 10:27:20 a.m.",
+        "ganancia": 6.827499999999999
       }
     ],
     "Isrrael": [
@@ -1018,6 +1032,20 @@
         "costoTotal": 1.01,
         "fecha": "16/1/2025, 4:02:19 p.m.",
         "ganancia": 0.33999999999999997
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "17/1/2025, 10:27:45 a.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Paleta Rocaleta",
+        "piezas": 1,
+        "costoTotal": 8.28,
+        "fecha": "17/1/2025, 10:27:45 a.m.",
+        "ganancia": 2.757777777777777
       }
     ],
     "Laura": [],
@@ -1527,6 +1555,27 @@
         "costoTotal": 10.68,
         "fecha": "16/1/2025, 4:10:14 p.m.",
         "ganancia": 3.5649999999999995
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "17/1/2025, 10:26:47 a.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Paleta Rocaleta",
+        "piezas": 1,
+        "costoTotal": 8.28,
+        "fecha": "17/1/2025, 10:26:47 a.m.",
+        "ganancia": 2.757777777777777
+      },
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "17/1/2025, 10:26:47 a.m.",
+        "ganancia": 1.8833333333333337
       }
     ],
     "Vicente": [],
@@ -1551,10 +1600,10 @@
       "descripcion": "Vive 100 Blueberry",
       "precioCompra": 13.66,
       "precioVenta": 20.49,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 13.6625
         }
       ]
@@ -1611,10 +1660,10 @@
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 21,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 19,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -1828,10 +1877,10 @@
       "descripcion": "Paleta Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 10,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 8,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -1841,10 +1890,10 @@
       "descripcion": "Paleta Rocaleta",
       "precioCompra": 5.52,
       "precioVenta": 8.28,
-      "piezas": 12,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 10,
           "costoUnitario": 5.522222222222222
         }
       ]
@@ -2173,6 +2222,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 2867.713071428567,
-  "gananciasTotales": 1433.6369285714297
+  "inversionRecuperada": 2915.2693492063454,
+  "gananciasTotales": 1457.4106507936526
 }
