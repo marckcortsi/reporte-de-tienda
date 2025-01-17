@@ -39,8 +39,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 113.32440476190479
+      "adeudo": 119.14,
+      "ganancia": 153.03107142857147
     },
     {
       "nombre": "Karen",
@@ -841,6 +841,20 @@
         "costoTotal": 71.5,
         "fecha": "16/1/2025, 4:03:23 p.m.",
         "ganancia": 23.7875
+      },
+      {
+        "producto": "Churros con ajonjoli",
+        "piezas": 1,
+        "costoTotal": 90.72,
+        "fecha": "17/1/2025, 4:47:08 p.m.",
+        "ganancia": 30.23666666666667
+      },
+      {
+        "producto": "Jarritos mandarina",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "17/1/2025, 4:47:08 p.m.",
+        "ganancia": 9.470000000000002
       }
     ],
     "Karen": [
@@ -1708,13 +1722,8 @@
       "descripcion": "Churros con ajonjoli",
       "precioCompra": 60.48,
       "precioVenta": 90.72,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 60.48333333333333
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478022519",
@@ -2011,13 +2020,8 @@
       "descripcion": "Jarritos mandarina",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 18.95
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "097339000030",
@@ -2257,6 +2261,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 2951.572015873012,
-  "gananciasTotales": 1475.5679841269864
+  "inversionRecuperada": 3031.005349206345,
+  "gananciasTotales": 1515.274650793653
 }
