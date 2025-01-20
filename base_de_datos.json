@@ -3,12 +3,12 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 140.15333333333334
+      "adeudo": 15.15,
+      "ganancia": 145.20333333333335
     },
     {
       "nombre": "Carlos",
-      "bloqueado": false,
+      "bloqueado": true,
       "adeudo": 109.23,
       "ganancia": 280.66540476190477
     },
@@ -27,8 +27,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 124.54661111111112
+      "adeudo": 31.31,
+      "ganancia": 134.9832777777778
     },
     {
       "nombre": "Isac",
@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 263.4865555555554
+      "adeudo": 42.97,
+      "ganancia": 277.81188888888875
     },
     {
       "nombre": "Rafael",
@@ -150,6 +150,13 @@
         "costoTotal": 28.42,
         "fecha": "16/1/2025, 2:43:42 p.m.",
         "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Galletas Marianistas Naranja",
+        "piezas": 1,
+        "costoTotal": 15.15,
+        "fecha": "20/1/2025, 10:22:40 a.m.",
+        "ganancia": 5.050000000000001
       }
     ],
     "Carlos": [
@@ -620,6 +627,13 @@
         "costoTotal": 21.05,
         "fecha": "16/1/2025, 2:45:15 p.m.",
         "ganancia": 7.0166666666666675
+      },
+      {
+        "producto": "Galletas Canelitas",
+        "piezas": 1,
+        "costoTotal": 31.31,
+        "fecha": "20/1/2025, 10:22:08 a.m.",
+        "ganancia": 10.436666666666667
       }
     ],
     "Isac": [
@@ -1462,6 +1476,34 @@
         "costoTotal": 11.49,
         "fecha": "17/1/2025, 12:16:55 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "20/1/2025, 10:24:01 a.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "20/1/2025, 10:24:01 a.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Zumba goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "20/1/2025, 10:24:01 a.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "20/1/2025, 10:24:01 a.m.",
+        "ganancia": 6.827499999999999
       }
     ],
     "Rafael": [
@@ -1656,10 +1698,10 @@
       "descripcion": "Vive 100 Blueberry",
       "precioCompra": 13.66,
       "precioVenta": 20.49,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 13.6625
         }
       ]
@@ -1716,10 +1758,10 @@
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 16,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -1803,13 +1845,8 @@
       "descripcion": "Galletas Canelitas",
       "precioCompra": 20.87,
       "precioVenta": 31.31,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 20.87333333333333
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501006559019",
@@ -1837,10 +1874,10 @@
       "descripcion": "Galletas Marianistas Naranja",
       "precioCompra": 10.1,
       "precioVenta": 15.15,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 10.1
         }
       ]
@@ -1876,13 +1913,8 @@
       "descripcion": "Zumba goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 3.5575
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "703885005268",
@@ -1928,10 +1960,10 @@
       "descripcion": "Paleta Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -2268,6 +2300,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 3078.717849206345,
-  "gananciasTotales": 1539.062150793653
+  "inversionRecuperada": 3138.335849206345,
+  "gananciasTotales": 1568.8741507936534
 }
