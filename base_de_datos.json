@@ -45,8 +45,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 217.76823015873015
+      "adeudo": 13.62,
+      "ganancia": 222.30850793650794
     },
     {
       "nombre": "Laura",
@@ -1109,6 +1109,20 @@
         "costoTotal": 8.28,
         "fecha": "17/1/2025, 10:27:45 a.m.",
         "ganancia": 2.757777777777777
+      },
+      {
+        "producto": "Paleta Rocaleta",
+        "piezas": 1,
+        "costoTotal": 8.28,
+        "fecha": "20/1/2025, 11:33:19 a.m.",
+        "ganancia": 2.757777777777777
+      },
+      {
+        "producto": "Zumba goma Fresa",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "20/1/2025, 11:33:19 a.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Laura": [],
@@ -1942,10 +1956,10 @@
       "descripcion": "Zumba goma Fresa",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 3.5575
         }
       ]
@@ -1989,10 +2003,10 @@
       "descripcion": "Paleta Rocaleta",
       "precioCompra": 5.52,
       "precioVenta": 8.28,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 5.522222222222222
         }
       ]
@@ -2316,6 +2330,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 3157.8633492063445,
-  "gananciasTotales": 1578.6366507936534
+  "inversionRecuperada": 3166.943071428567,
+  "gananciasTotales": 1583.1769285714313
 }
