@@ -8,9 +8,9 @@
     },
     {
       "nombre": "Carlos",
-      "bloqueado": true,
-      "adeudo": 109.23,
-      "ganancia": 280.66540476190477
+      "bloqueado": false,
+      "adeudo": 127.79,
+      "ganancia": 286.85040476190477
     },
     {
       "nombre": "Edgar",
@@ -33,8 +33,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 11.49,
-      "ganancia": 137.78016666666664
+      "adeudo": 22.22,
+      "ganancia": 141.35766666666663
     },
     {
       "nombre": "Isrrael",
@@ -355,6 +355,13 @@
         "costoTotal": 71.5,
         "fecha": "17/1/2025, 5:28:16 p.m.",
         "ganancia": 23.7875
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "20/1/2025, 11:24:21 a.m.",
+        "ganancia": 6.184999999999999
       }
     ],
     "Edgar": [
@@ -783,6 +790,20 @@
         "costoTotal": 11.49,
         "fecha": "17/1/2025, 12:16:07 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Paleta Búbalo Xtreme",
+        "piezas": 1,
+        "costoTotal": 5.39,
+        "fecha": "20/1/2025, 11:24:00 a.m.",
+        "ganancia": 1.7949999999999995
+      },
+      {
+        "producto": "Zumba goma Sandia",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "20/1/2025, 11:24:00 a.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Isrrael": [
@@ -1685,10 +1706,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 12.375
         }
       ]
@@ -1934,13 +1955,8 @@
       "descripcion": "Zumba goma Sandia",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 3.5575
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7503030374552",
@@ -1986,10 +2002,10 @@
       "descripcion": "Paleta Búbalo Xtreme",
       "precioCompra": 3.6,
       "precioVenta": 5.39,
-      "piezas": 20,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 3.595
         }
       ]
@@ -2300,6 +2316,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 3138.335849206345,
-  "gananciasTotales": 1568.8741507936534
+  "inversionRecuperada": 3157.8633492063445,
+  "gananciasTotales": 1578.6366507936534
 }
