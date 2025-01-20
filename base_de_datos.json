@@ -21,8 +21,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 47.535333333333334
+      "adeudo": 18.56,
+      "ganancia": 53.72033333333333
     },
     {
       "nombre": "Irvin",
@@ -33,8 +33,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 22.22,
-      "ganancia": 141.35766666666663
+      "adeudo": 42.709999999999994,
+      "ganancia": 148.18516666666662
     },
     {
       "nombre": "Isrrael",
@@ -527,6 +527,13 @@
         "costoTotal": 11.49,
         "fecha": "16/1/2025, 12:41:00 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "20/1/2025, 4:08:10 p.m.",
+        "ganancia": 6.184999999999999
       }
     ],
     "Irvin": [
@@ -811,6 +818,13 @@
         "costoTotal": 5.34,
         "fecha": "20/1/2025, 11:24:00 a.m.",
         "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "20/1/2025, 4:08:00 p.m.",
+        "ganancia": 6.827499999999999
       }
     ],
     "Isrrael": [
@@ -1727,10 +1741,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 12.375
         }
       ]
@@ -1740,10 +1754,10 @@
       "descripcion": "Vive 100 Blueberry",
       "precioCompra": 13.66,
       "precioVenta": 20.49,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 13.6625
         }
       ]
@@ -2337,6 +2351,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 3174.6010714285667,
-  "gananciasTotales": 1587.0089285714314
+  "inversionRecuperada": 3200.6385714285666,
+  "gananciasTotales": 1600.0214285714314
 }
