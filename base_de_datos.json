@@ -9,8 +9,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 15.56,
-      "ganancia": 292.0389761904762
+      "adeudo": 26.55,
+      "ganancia": 295.70480952380956
     },
     {
       "nombre": "Edgar",
@@ -57,14 +57,14 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 72.21000000000001,
-      "ganancia": 287.5618888888888
+      "adeudo": 96.87,
+      "ganancia": 295.78049999999996
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 16.83,
-      "ganancia": 114.68261111111113
+      "adeudo": 27.82,
+      "ganancia": 118.34844444444447
     },
     {
       "nombre": "Vicente",
@@ -376,6 +376,20 @@
         "costoTotal": 15.56,
         "fecha": "21/1/2025, 1:23:43 p.m.",
         "ganancia": 5.18857142857143
+      },
+      {
+        "producto": "Zumba goma Fresa",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "21/1/2025, 4:45:51 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "21/1/2025, 4:45:51 p.m.",
+        "ganancia": 1.8833333333333337
       }
     ],
     "Edgar": [
@@ -1651,6 +1665,34 @@
         "costoTotal": 5.34,
         "fecha": "21/1/2025, 11:41:56 a.m.",
         "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "21/1/2025, 4:37:29 p.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Paleta Búbalo Xtreme",
+        "piezas": 1,
+        "costoTotal": 5.39,
+        "fecha": "21/1/2025, 4:37:29 p.m.",
+        "ganancia": 1.7949999999999995
+      },
+      {
+        "producto": "Paleta Rocaleta",
+        "piezas": 1,
+        "costoTotal": 8.28,
+        "fecha": "21/1/2025, 4:37:29 p.m.",
+        "ganancia": 2.757777777777777
+      },
+      {
+        "producto": "Zumba goma Fresa",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "21/1/2025, 4:37:29 p.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Rafael": [
@@ -1835,6 +1877,20 @@
         "costoTotal": 11.49,
         "fecha": "21/1/2025, 1:16:30 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Zumba goma Fresa",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "21/1/2025, 4:45:07 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "21/1/2025, 4:45:07 p.m.",
+        "ganancia": 1.8833333333333337
       }
     ],
     "Vicente": [],
@@ -2082,10 +2138,10 @@
       "descripcion": "Zumba goma Fresa",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 7,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 4,
           "costoUnitario": 3.5575
         }
       ]
@@ -2116,10 +2172,10 @@
       "descripcion": "Paleta Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 6,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 3,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -2129,10 +2185,10 @@
       "descripcion": "Paleta Rocaleta",
       "precioCompra": 5.52,
       "precioVenta": 8.28,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 5.522222222222222
         }
       ]
@@ -2142,10 +2198,10 @@
       "descripcion": "Paleta Búbalo Xtreme",
       "precioCompra": 3.6,
       "precioVenta": 5.39,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 3.595
         }
       ]
@@ -2451,6 +2507,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 3328.617261904756,
-  "gananciasTotales": 1664.0427380952412
+  "inversionRecuperada": 3359.7069841269786,
+  "gananciasTotales": 1679.5930158730196
 }
