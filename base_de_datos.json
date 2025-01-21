@@ -9,8 +9,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 26.55,
-      "ganancia": 295.70480952380956
+      "adeudo": 129.17000000000002,
+      "ganancia": 329.86945238095245
     },
     {
       "nombre": "Edgar",
@@ -39,8 +39,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 153.03107142857147
+      "adeudo": 13.93,
+      "ganancia": 157.67218253968258
     },
     {
       "nombre": "Karen",
@@ -390,6 +390,20 @@
         "costoTotal": 5.65,
         "fecha": "21/1/2025, 4:45:51 p.m.",
         "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 25,
+        "costoTotal": 71.5,
+        "fecha": "21/1/2025, 5:25:36 p.m.",
+        "ganancia": 23.7875
+      },
+      {
+        "producto": "Palomitas de mantequilla",
+        "piezas": 2,
+        "costoTotal": 31.12,
+        "fecha": "21/1/2025, 5:25:36 p.m.",
+        "ganancia": 10.37714285714286
       }
     ],
     "Edgar": [
@@ -974,6 +988,20 @@
         "costoTotal": 28.42,
         "fecha": "17/1/2025, 4:47:08 p.m.",
         "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "21/1/2025, 5:11:44 p.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Paleta Rocaleta",
+        "piezas": 1,
+        "costoTotal": 8.28,
+        "fecha": "21/1/2025, 5:11:44 p.m.",
+        "ganancia": 2.757777777777777
       }
     ],
     "Karen": [
@@ -1941,10 +1969,10 @@
       "descripcion": "Cigarros Shots",
       "precioCompra": 1.91,
       "precioVenta": 2.86,
-      "piezas": 45,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 45,
+          "cantidad": 20,
           "costoUnitario": 1.9084999999999999
         }
       ]
@@ -2070,10 +2098,10 @@
       "descripcion": "Palomitas de mantequilla",
       "precioCompra": 10.37,
       "precioVenta": 15.56,
-      "piezas": 6,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 4,
           "costoUnitario": 10.37142857142857
         }
       ]
@@ -2172,10 +2200,10 @@
       "descripcion": "Paleta Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -2185,10 +2213,10 @@
       "descripcion": "Paleta Rocaleta",
       "precioCompra": 5.52,
       "precioVenta": 8.28,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 5.522222222222222
         }
       ]
@@ -2507,6 +2535,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 3359.7069841269786,
-  "gananciasTotales": 1679.5930158730196
+  "inversionRecuperada": 3437.451230158725,
+  "gananciasTotales": 1718.3987698412736
 }
