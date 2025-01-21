@@ -45,8 +45,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 13.62,
-      "ganancia": 222.30850793650794
+      "adeudo": 39.86,
+      "ganancia": 231.06207936507937
     },
     {
       "nombre": "Laura",
@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 42.97,
-      "ganancia": 277.81188888888875
+      "adeudo": 72.21000000000001,
+      "ganancia": 287.5618888888888
     },
     {
       "nombre": "Rafael",
@@ -1144,6 +1144,20 @@
         "costoTotal": 5.34,
         "fecha": "20/1/2025, 11:33:19 a.m.",
         "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Palomitas de mantequilla",
+        "piezas": 1,
+        "costoTotal": 15.56,
+        "fecha": "21/1/2025, 10:51:13 a.m.",
+        "ganancia": 5.18857142857143
+      },
+      {
+        "producto": "Zumba goma Fresa",
+        "piezas": 2,
+        "costoTotal": 10.68,
+        "fecha": "21/1/2025, 11:41:15 a.m.",
+        "ganancia": 3.5649999999999995
       }
     ],
     "Laura": [],
@@ -1560,6 +1574,27 @@
         "costoTotal": 20.49,
         "fecha": "20/1/2025, 10:24:01 a.m.",
         "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "21/1/2025, 11:31:11 a.m.",
+        "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Zumba goma Fresa",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "21/1/2025, 11:31:11 a.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba goma Fresa",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "21/1/2025, 11:41:56 a.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Rafael": [
@@ -1741,10 +1776,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 12.375
         }
       ]
@@ -1909,10 +1944,10 @@
       "descripcion": "Palomitas de mantequilla",
       "precioCompra": 10.37,
       "precioVenta": 15.56,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 10.37142857142857
         }
       ]
@@ -1977,10 +2012,10 @@
       "descripcion": "Zumba goma Fresa",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 12,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 8,
           "costoUnitario": 3.5575
         }
       ]
@@ -2351,6 +2386,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 3200.6385714285666,
-  "gananciasTotales": 1600.0214285714314
+  "inversionRecuperada": 3237.614999999995,
+  "gananciasTotales": 1618.5250000000028
 }
