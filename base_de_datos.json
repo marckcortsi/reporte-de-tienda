@@ -21,8 +21,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 18.56,
-      "ganancia": 53.72033333333333
+      "adeudo": 37.12,
+      "ganancia": 59.90533333333333
     },
     {
       "nombre": "Irvin",
@@ -45,8 +45,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 51.35,
-      "ganancia": 234.89407936507936
+      "adeudo": 69.91,
+      "ganancia": 241.07907936507937
     },
     {
       "nombre": "Laura",
@@ -554,6 +554,13 @@
         "piezas": 1,
         "costoTotal": 18.56,
         "fecha": "20/1/2025, 4:08:10 p.m.",
+        "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "21/1/2025, 1:58:36 p.m.",
         "ganancia": 6.184999999999999
       }
     ],
@@ -1200,6 +1207,13 @@
         "costoTotal": 11.49,
         "fecha": "21/1/2025, 1:15:53 p.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "21/1/2025, 1:58:25 p.m.",
+        "ganancia": 6.184999999999999
       }
     ],
     "Laura": [],
@@ -1832,10 +1846,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 9,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 7,
           "costoUnitario": 12.375
         }
       ]
@@ -2437,6 +2451,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 3303.867261904756,
-  "gananciasTotales": 1651.6727380952414
+  "inversionRecuperada": 3328.617261904756,
+  "gananciasTotales": 1664.0427380952412
 }
