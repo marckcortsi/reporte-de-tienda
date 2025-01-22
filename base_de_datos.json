@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 21.05,
-      "ganancia": 152.22000000000003
+      "adeudo": 67.79,
+      "ganancia": 167.80533333333335
     },
     {
       "nombre": "Carlos",
@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 119.04,
-      "ganancia": 303.17749999999995
+      "adeudo": 139.53,
+      "ganancia": 310.00499999999994
     },
     {
       "nombre": "Rafael",
@@ -164,6 +164,27 @@
         "costoTotal": 21.05,
         "fecha": "21/1/2025, 1:24:41 p.m.",
         "ganancia": 7.0166666666666675
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "22/1/2025, 12:32:25 p.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Papas picositas totis",
+        "piezas": 1,
+        "costoTotal": 20.7,
+        "fecha": "22/1/2025, 12:32:25 p.m.",
+        "ganancia": 6.903333333333332
+      },
+      {
+        "producto": "Totopos hot chili totis",
+        "piezas": 1,
+        "costoTotal": 14.55,
+        "fecha": "22/1/2025, 12:32:25 p.m.",
+        "ganancia": 4.85
       }
     ],
     "Carlos": [
@@ -1785,6 +1806,13 @@
         "costoTotal": 11.49,
         "fecha": "22/1/2025, 10:54:52 a.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "22/1/2025, 12:33:08 p.m.",
+        "ganancia": 6.827499999999999
       }
     ],
     "Rafael": [
@@ -2007,10 +2035,10 @@
       "descripcion": "Vive 100 Blueberry",
       "precioCompra": 13.66,
       "precioVenta": 20.49,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 13.6625
         }
       ]
@@ -2067,10 +2095,10 @@
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -2319,10 +2347,10 @@
       "descripcion": "Papas picositas totis",
       "precioCompra": 13.8,
       "precioVenta": 20.7,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 13.796666666666667
         }
       ]
@@ -2332,10 +2360,10 @@
       "descripcion": "Totopos hot chili totis",
       "precioCompra": 9.7,
       "precioVenta": 14.55,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 9.700000000000001
         }
       ]
@@ -2594,6 +2622,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 3491.6338968253913,
-  "gananciasTotales": 1745.5161031746072
+  "inversionRecuperada": 3536.4510634920575,
+  "gananciasTotales": 1767.9289365079408
 }
