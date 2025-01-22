@@ -45,8 +45,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 69.91,
-      "ganancia": 241.07907936507937
+      "adeudo": 86.74,
+      "ganancia": 246.69357936507936
     },
     {
       "nombre": "Laura",
@@ -1284,6 +1284,20 @@
         "costoTotal": 18.56,
         "fecha": "21/1/2025, 1:58:25 p.m.",
         "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "22/1/2025, 11:33:23 a.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Zumba goma Fresa",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "22/1/2025, 11:33:23 a.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Laura": [
@@ -2053,10 +2067,10 @@
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -2216,13 +2230,8 @@
       "descripcion": "Zumba goma Fresa",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 3.5575
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "703885005251",
@@ -2585,6 +2594,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 3480.4183968253915,
-  "gananciasTotales": 1739.901603174607
+  "inversionRecuperada": 3491.6338968253913,
+  "gananciasTotales": 1745.5161031746072
 }
