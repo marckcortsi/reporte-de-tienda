@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 4.6100000000000065,
-      "ganancia": 167.80533333333335
+      "adeudo": 34.61000000000001,
+      "ganancia": 177.80533333333335
     },
     {
       "nombre": "Carlos",
@@ -45,8 +45,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 86.74,
-      "ganancia": 246.69357936507936
+      "adeudo": 102.3,
+      "ganancia": 251.8821507936508
     },
     {
       "nombre": "Laura",
@@ -185,6 +185,20 @@
         "costoTotal": 14.55,
         "fecha": "22/1/2025, 12:32:25 p.m.",
         "ganancia": 4.85
+      },
+      {
+        "producto": "Cremax fresa",
+        "piezas": 1,
+        "costoTotal": 15,
+        "fecha": "23/1/2025, 11:56:12 a.m.",
+        "ganancia": 5
+      },
+      {
+        "producto": "Arcoiris",
+        "piezas": 1,
+        "costoTotal": 15,
+        "fecha": "23/1/2025, 11:56:12 a.m.",
+        "ganancia": 5
       }
     ],
     "Carlos": [
@@ -1361,6 +1375,13 @@
         "costoTotal": 5.34,
         "fecha": "22/1/2025, 11:33:23 a.m.",
         "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Palomitas de mantequilla",
+        "piezas": 1,
+        "costoTotal": 15.56,
+        "fecha": "23/1/2025, 11:57:16 a.m.",
+        "ganancia": 5.18857142857143
       }
     ],
     "Laura": [
@@ -2302,10 +2323,10 @@
       "descripcion": "Palomitas de mantequilla",
       "precioCompra": 10.37,
       "precioVenta": 15.56,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 10.37142857142857
         }
       ]
@@ -2520,10 +2541,10 @@
       "descripcion": "Cremax fresa",
       "precioCompra": 10,
       "precioVenta": 15,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 10
         }
       ]
@@ -2533,13 +2554,8 @@
       "descripcion": "Arcoiris",
       "precioCompra": 10,
       "precioVenta": 15,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 10
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     }
   ],
   "historialEntradas": [
@@ -2781,6 +2797,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4595.4400000000005,
-  "inversionRecuperada": 3737.15297619047,
-  "gananciasTotales": 1868.3170238095283
+  "inversionRecuperada": 3767.5244047618985,
+  "gananciasTotales": 1883.5055952380997
 }
