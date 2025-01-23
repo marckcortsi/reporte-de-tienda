@@ -33,8 +33,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 69.35,
-      "ganancia": 157.06716666666662
+      "adeudo": 77.92999999999999,
+      "ganancia": 159.92166666666662
     },
     {
       "nombre": "Isrrael",
@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 139.53,
-      "ganancia": 310.00499999999994
+      "adeudo": 158.09,
+      "ganancia": 316.18999999999994
     },
     {
       "nombre": "Rafael",
@@ -944,6 +944,13 @@
         "costoTotal": 15.15,
         "fecha": "22/1/2025, 8:15:35 a.m.",
         "ganancia": 5.050000000000001
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 3,
+        "costoTotal": 8.58,
+        "fecha": "23/1/2025, 9:28:55 a.m.",
+        "ganancia": 2.8545
       }
     ],
     "Isrrael": [
@@ -1813,6 +1820,13 @@
         "costoTotal": 20.49,
         "fecha": "22/1/2025, 12:33:08 p.m.",
         "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "22/1/2025, 3:05:10 p.m.",
+        "ganancia": 6.184999999999999
       }
     ],
     "Rafael": [
@@ -2022,10 +2036,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 12.375
         }
       ]
@@ -2061,10 +2075,10 @@
       "descripcion": "Cigarros Shots",
       "precioCompra": 1.91,
       "precioVenta": 2.86,
-      "piezas": 20,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 17,
           "costoUnitario": 1.9084999999999999
         }
       ]
@@ -2399,6 +2413,45 @@
       "precioVenta": 49.35,
       "piezas": 0,
       "stockParciales": []
+    },
+    {
+      "codigo": "7501000606566",
+      "descripcion": "Cremax chocolate",
+      "precioCompra": 10,
+      "precioVenta": 15,
+      "piezas": 7,
+      "stockParciales": [
+        {
+          "cantidad": 7,
+          "costoUnitario": 10
+        }
+      ]
+    },
+    {
+      "codigo": "7501000606580",
+      "descripcion": "Cremax fresa",
+      "precioCompra": 10,
+      "precioVenta": 15,
+      "piezas": 7,
+      "stockParciales": [
+        {
+          "cantidad": 7,
+          "costoUnitario": 10
+        }
+      ]
+    },
+    {
+      "codigo": "7500478037636",
+      "descripcion": "Arcoiris",
+      "precioCompra": 10,
+      "precioVenta": 15,
+      "piezas": 2,
+      "stockParciales": [
+        {
+          "cantidad": 2,
+          "costoUnitario": 10
+        }
+      ]
     }
   ],
   "historialEntradas": [
@@ -2617,11 +2670,29 @@
       "cantidad": 1,
       "costoTotal": 32.9,
       "fecha": "7/1/2025, 12:58:37 p.m."
+    },
+    {
+      "producto": "Cremax chocolate",
+      "cantidad": 7,
+      "costoTotal": 70,
+      "fecha": "23/1/2025, 8:25:44 a.m."
+    },
+    {
+      "producto": "Cremax fresa",
+      "cantidad": 7,
+      "costoTotal": 70,
+      "fecha": "23/1/2025, 8:26:12 a.m."
+    },
+    {
+      "producto": "Arcoiris",
+      "cantidad": 2,
+      "costoTotal": 20,
+      "fecha": "23/1/2025, 8:26:36 a.m."
     }
   ],
   "numInversionistas": 12,
   "totalInversion": 6000,
-  "gastoEnProductos": 4435.4400000000005,
-  "inversionRecuperada": 3536.4510634920575,
-  "gananciasTotales": 1767.9289365079408
+  "gastoEnProductos": 4595.4400000000005,
+  "inversionRecuperada": 3554.5515634920575,
+  "gananciasTotales": 1776.9684365079406
 }
