@@ -39,8 +39,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 29.490000000000002,
-      "ganancia": 162.86075396825402
+      "adeudo": 129.89000000000001,
+      "ganancia": 196.36075396825402
     },
     {
       "nombre": "Karen",
@@ -1086,6 +1086,13 @@
         "costoTotal": 15.56,
         "fecha": "23/1/2025, 11:12:49 a.m.",
         "ganancia": 5.18857142857143
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 20,
+        "costoTotal": 100.39999999999999,
+        "fecha": "23/1/2025, 11:28:17 a.m.",
+        "ganancia": 33.499999999999986
       }
     ],
     "Karen": [
@@ -2153,10 +2160,10 @@
       "descripcion": "Cigarros Pall Mall",
       "precioCompra": 3.35,
       "precioVenta": 5.02,
-      "piezas": 60,
+      "piezas": 40,
       "stockParciales": [
         {
-          "cantidad": 60,
+          "cantidad": 40,
           "costoUnitario": 3.345
         }
       ]
@@ -2774,6 +2781,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4595.4400000000005,
-  "inversionRecuperada": 3670.25297619047,
-  "gananciasTotales": 1834.8170238095283
+  "inversionRecuperada": 3737.15297619047,
+  "gananciasTotales": 1868.3170238095283
 }
