@@ -33,8 +33,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 77.92999999999999,
-      "ganancia": 159.92166666666662
+      "adeudo": 92.47999999999999,
+      "ganancia": 164.77166666666662
     },
     {
       "nombre": "Isrrael",
@@ -57,14 +57,14 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 158.09,
-      "ganancia": 316.18999999999994
+      "adeudo": 195.46,
+      "ganancia": 328.64449999999994
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 27.82,
-      "ganancia": 118.34844444444447
+      "adeudo": 88.33,
+      "ganancia": 138.5153888888889
     },
     {
       "nombre": "Vicente",
@@ -951,6 +951,13 @@
         "costoTotal": 8.58,
         "fecha": "23/1/2025, 9:28:55 a.m.",
         "ganancia": 2.8545
+      },
+      {
+        "producto": "Totopos hot chili totis",
+        "piezas": 1,
+        "costoTotal": 14.55,
+        "fecha": "23/1/2025, 10:53:55 a.m.",
+        "ganancia": 4.85
       }
     ],
     "Isrrael": [
@@ -1827,6 +1834,27 @@
         "costoTotal": 18.56,
         "fecha": "22/1/2025, 3:05:10 p.m.",
         "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "23/1/2025, 10:55:02 a.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "23/1/2025, 10:55:02 a.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Paleta Búbalo Xtreme",
+        "piezas": 1,
+        "costoTotal": 5.39,
+        "fecha": "23/1/2025, 10:55:02 a.m.",
+        "ganancia": 1.7949999999999995
       }
     ],
     "Rafael": [
@@ -2025,6 +2053,41 @@
         "costoTotal": 5.65,
         "fecha": "21/1/2025, 4:45:07 p.m.",
         "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Papas picositas totis",
+        "piezas": 1,
+        "costoTotal": 20.7,
+        "fecha": "23/1/2025, 10:53:40 a.m.",
+        "ganancia": 6.903333333333332
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "23/1/2025, 10:53:40 a.m.",
+        "ganancia": 6.827499999999999
+      },
+      {
+        "producto": "Paleta Búbalo Xtreme",
+        "piezas": 1,
+        "costoTotal": 5.39,
+        "fecha": "23/1/2025, 10:53:40 a.m.",
+        "ganancia": 1.7949999999999995
+      },
+      {
+        "producto": "Paleta Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "23/1/2025, 10:53:40 a.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Paleta Rocaleta",
+        "piezas": 1,
+        "costoTotal": 8.28,
+        "fecha": "23/1/2025, 10:53:40 a.m.",
+        "ganancia": 2.757777777777777
       }
     ],
     "Vicente": [],
@@ -2049,10 +2112,10 @@
       "descripcion": "Vive 100 Blueberry",
       "precioCompra": 13.66,
       "precioVenta": 20.49,
-      "piezas": 4,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 2,
           "costoUnitario": 13.6625
         }
       ]
@@ -2109,10 +2172,10 @@
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -2301,23 +2364,18 @@
       "descripcion": "Paleta Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 3.7666666666666666
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501011145566",
       "descripcion": "Paleta Rocaleta",
       "precioCompra": 5.52,
       "precioVenta": 8.28,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 5.522222222222222
         }
       ]
@@ -2327,10 +2385,10 @@
       "descripcion": "Paleta Búbalo Xtreme",
       "precioCompra": 3.6,
       "precioVenta": 5.39,
-      "piezas": 18,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 16,
           "costoUnitario": 3.595
         }
       ]
@@ -2361,23 +2419,18 @@
       "descripcion": "Papas picositas totis",
       "precioCompra": 13.8,
       "precioVenta": 20.7,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 13.796666666666667
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500366004221",
       "descripcion": "Totopos hot chili totis",
       "precioCompra": 9.7,
       "precioVenta": 14.55,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 9.700000000000001
         }
       ]
@@ -2693,6 +2746,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4595.4400000000005,
-  "inversionRecuperada": 3554.5515634920575,
-  "gananciasTotales": 1776.9684365079406
+  "inversionRecuperada": 3629.5101190476125,
+  "gananciasTotales": 1814.4398809523857
 }
