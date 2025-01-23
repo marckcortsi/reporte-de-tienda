@@ -39,8 +39,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 13.93,
-      "ganancia": 157.67218253968258
+      "adeudo": 29.490000000000002,
+      "ganancia": 162.86075396825402
     },
     {
       "nombre": "Karen",
@@ -63,8 +63,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 88.33,
-      "ganancia": 138.5153888888889
+      "adeudo": 103.33,
+      "ganancia": 143.5153888888889
     },
     {
       "nombre": "Vicente",
@@ -1079,6 +1079,13 @@
         "costoTotal": 8.28,
         "fecha": "21/1/2025, 5:11:44 p.m.",
         "ganancia": 2.757777777777777
+      },
+      {
+        "producto": "Palomitas de mantequilla",
+        "piezas": 1,
+        "costoTotal": 15.56,
+        "fecha": "23/1/2025, 11:12:49 a.m.",
+        "ganancia": 5.18857142857143
       }
     ],
     "Karen": [
@@ -2102,6 +2109,13 @@
         "costoTotal": 8.28,
         "fecha": "23/1/2025, 10:53:40 a.m.",
         "ganancia": 2.757777777777777
+      },
+      {
+        "producto": "Cremax fresa",
+        "piezas": 1,
+        "costoTotal": 15,
+        "fecha": "23/1/2025, 11:12:36 a.m.",
+        "ganancia": 5
       }
     ],
     "Vicente": [],
@@ -2281,10 +2295,10 @@
       "descripcion": "Palomitas de mantequilla",
       "precioCompra": 10.37,
       "precioVenta": 15.56,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 10.37142857142857
         }
       ]
@@ -2499,10 +2513,10 @@
       "descripcion": "Cremax fresa",
       "precioCompra": 10,
       "precioVenta": 15,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 10
         }
       ]
@@ -2760,6 +2774,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4595.4400000000005,
-  "inversionRecuperada": 3649.881547619041,
-  "gananciasTotales": 1824.628452380957
+  "inversionRecuperada": 3670.25297619047,
+  "gananciasTotales": 1834.8170238095283
 }
