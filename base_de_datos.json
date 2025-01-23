@@ -9,8 +9,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 141.17000000000002,
-      "ganancia": 333.8752857142858
+      "adeudo": 171.73000000000002,
+      "ganancia": 344.0638571428572
     },
     {
       "nombre": "Edgar",
@@ -446,6 +446,20 @@
         "costoTotal": 5.65,
         "fecha": "22/1/2025, 10:55:40 a.m.",
         "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Arcoiris",
+        "piezas": 1,
+        "costoTotal": 15,
+        "fecha": "23/1/2025, 11:05:55 a.m.",
+        "ganancia": 5
+      },
+      {
+        "producto": "Palomitas de mantequilla",
+        "piezas": 1,
+        "costoTotal": 15.56,
+        "fecha": "23/1/2025, 11:05:55 a.m.",
+        "ganancia": 5.18857142857143
       }
     ],
     "Edgar": [
@@ -2267,10 +2281,10 @@
       "descripcion": "Palomitas de mantequilla",
       "precioCompra": 10.37,
       "precioVenta": 15.56,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 10.37142857142857
         }
       ]
@@ -2498,10 +2512,10 @@
       "descripcion": "Arcoiris",
       "precioCompra": 10,
       "precioVenta": 15,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 10
         }
       ]
@@ -2746,6 +2760,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4595.4400000000005,
-  "inversionRecuperada": 3629.5101190476125,
-  "gananciasTotales": 1814.4398809523857
+  "inversionRecuperada": 3649.881547619041,
+  "gananciasTotales": 1824.628452380957
 }
