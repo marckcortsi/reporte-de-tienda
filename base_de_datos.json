@@ -33,8 +33,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 92.47999999999999,
-      "ganancia": 164.77166666666662
+      "adeudo": 112.96999999999998,
+      "ganancia": 171.5991666666666
     },
     {
       "nombre": "Isrrael",
@@ -45,8 +45,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 102.3,
-      "ganancia": 251.8821507936508
+      "adeudo": 122.78999999999999,
+      "ganancia": 258.7096507936508
     },
     {
       "nombre": "Laura",
@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 195.46,
-      "ganancia": 328.64449999999994
+      "adeudo": 214.02,
+      "ganancia": 334.82949999999994
     },
     {
       "nombre": "Rafael",
@@ -986,6 +986,13 @@
         "costoTotal": 14.55,
         "fecha": "23/1/2025, 10:53:55 a.m.",
         "ganancia": 4.85
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "23/1/2025, 4:30:05 p.m.",
+        "ganancia": 6.827499999999999
       }
     ],
     "Isrrael": [
@@ -1382,6 +1389,13 @@
         "costoTotal": 15.56,
         "fecha": "23/1/2025, 11:57:16 a.m.",
         "ganancia": 5.18857142857143
+      },
+      {
+        "producto": "Vive 100 Blueberry",
+        "piezas": 1,
+        "costoTotal": 20.49,
+        "fecha": "23/1/2025, 4:29:28 p.m.",
+        "ganancia": 6.827499999999999
       }
     ],
     "Laura": [
@@ -1904,6 +1918,13 @@
         "costoTotal": 5.39,
         "fecha": "23/1/2025, 10:55:02 a.m.",
         "ganancia": 1.7949999999999995
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "23/1/2025, 4:30:23 p.m.",
+        "ganancia": 6.184999999999999
       }
     ],
     "Rafael": [
@@ -2155,10 +2176,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 12.375
         }
       ]
@@ -2168,13 +2189,8 @@
       "descripcion": "Vive 100 Blueberry",
       "precioCompra": 13.66,
       "precioVenta": 20.49,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 13.6625
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "75071295",
@@ -2797,6 +2813,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4595.4400000000005,
-  "inversionRecuperada": 3767.5244047618985,
-  "gananciasTotales": 1883.5055952380997
+  "inversionRecuperada": 3807.2244047618983,
+  "gananciasTotales": 1903.3455952380998
 }
