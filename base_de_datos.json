@@ -9,19 +9,19 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 195.48000000000002,
-      "ganancia": 351.9868571428572
+      "adeudo": 238.38000000000002,
+      "ganancia": 366.2593571428572
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 34.47,
+      "adeudo": 0,
       "ganancia": 76.52333333333331
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 37.12,
+      "adeudo": 0,
       "ganancia": 59.90533333333333
     },
     {
@@ -45,7 +45,7 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 137.34,
+      "adeudo": 0,
       "ganancia": 263.5596507936508
     },
     {
@@ -63,7 +63,7 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 141.66,
+      "adeudo": 0,
       "ganancia": 156.2901666666667
     },
     {
@@ -502,6 +502,13 @@
         "costoTotal": 3.0300000000000002,
         "fecha": "24/1/2025, 1:31:15 p.m.",
         "ganancia": 1.02
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 15,
+        "costoTotal": 42.9,
+        "fecha": "24/1/2025, 5:31:44 p.m.",
+        "ganancia": 14.2725
       }
     ],
     "Edgar": [
@@ -2308,13 +2315,8 @@
       "descripcion": "Cigarros Shots",
       "precioCompra": 1.91,
       "precioVenta": 2.86,
-      "piezas": 15,
-      "stockParciales": [
-        {
-          "cantidad": 15,
-          "costoUnitario": 1.9084999999999999
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "75001322",
@@ -2901,6 +2903,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4595.4400000000005,
-  "inversionRecuperada": 3925.8138492063426,
-  "gananciasTotales": 1962.6561507936558
+  "inversionRecuperada": 3954.4413492063427,
+  "gananciasTotales": 1976.9286507936558
 }
