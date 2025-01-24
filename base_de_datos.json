@@ -9,14 +9,14 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 171.73000000000002,
-      "ganancia": 344.0638571428572
+      "adeudo": 186.73000000000002,
+      "ganancia": 349.0638571428572
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 22.98,
-      "ganancia": 72.69133333333332
+      "adeudo": 34.47,
+      "ganancia": 76.52333333333331
     },
     {
       "nombre": "Francisco",
@@ -51,20 +51,20 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 5.050000000000001
+      "adeudo": 15.15,
+      "ganancia": 10.100000000000001
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 214.02,
-      "ganancia": 334.82949999999994
+      "adeudo": 239.18,
+      "ganancia": 343.21427777777774
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 103.33,
-      "ganancia": 143.5153888888889
+      "adeudo": 141.66,
+      "ganancia": 156.2901666666667
     },
     {
       "nombre": "Vicente",
@@ -474,6 +474,13 @@
         "costoTotal": 15.56,
         "fecha": "23/1/2025, 11:05:55 a.m.",
         "ganancia": 5.18857142857143
+      },
+      {
+        "producto": "Cremax fresa",
+        "piezas": 1,
+        "costoTotal": 15,
+        "fecha": "24/1/2025, 11:40:13 a.m.",
+        "ganancia": 5
       }
     ],
     "Edgar": [
@@ -587,6 +594,13 @@
         "piezas": 1,
         "costoTotal": 11.49,
         "fecha": "21/1/2025, 1:16:03 p.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "24/1/2025, 11:40:58 a.m.",
         "ganancia": 3.8320000000000007
       }
     ],
@@ -1405,6 +1419,13 @@
         "costoTotal": 15.15,
         "fecha": "22/1/2025, 9:11:27 a.m.",
         "ganancia": 5.050000000000001
+      },
+      {
+        "producto": "Galletas Marianitas Coco",
+        "piezas": 1,
+        "costoTotal": 15.15,
+        "fecha": "24/1/2025, 11:41:11 a.m.",
+        "ganancia": 5.050000000000001
       }
     ],
     "Marcos": [
@@ -1925,6 +1946,27 @@
         "costoTotal": 18.56,
         "fecha": "23/1/2025, 4:30:23 p.m.",
         "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "24/1/2025, 11:41:58 a.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Paleta Búbalo Xtreme",
+        "piezas": 1,
+        "costoTotal": 5.39,
+        "fecha": "24/1/2025, 11:41:58 a.m.",
+        "ganancia": 1.7949999999999995
+      },
+      {
+        "producto": "Paleta Rocaleta",
+        "piezas": 1,
+        "costoTotal": 8.28,
+        "fecha": "24/1/2025, 11:41:58 a.m.",
+        "ganancia": 2.757777777777777
       }
     ],
     "Rafael": [
@@ -2165,6 +2207,27 @@
         "costoTotal": 15,
         "fecha": "23/1/2025, 11:12:36 a.m.",
         "ganancia": 5
+      },
+      {
+        "producto": "Totis mix",
+        "piezas": 1,
+        "costoTotal": 11.49,
+        "fecha": "24/1/2025, 11:40:41 a.m.",
+        "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Paleta Rocaleta",
+        "piezas": 1,
+        "costoTotal": 8.28,
+        "fecha": "24/1/2025, 11:40:41 a.m.",
+        "ganancia": 2.757777777777777
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "24/1/2025, 11:40:41 a.m.",
+        "ganancia": 6.184999999999999
       }
     ],
     "Vicente": [],
@@ -2176,10 +2239,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 12.375
         }
       ]
@@ -2244,10 +2307,10 @@
       "descripcion": "Totis mix",
       "precioCompra": 7.66,
       "precioVenta": 11.49,
-      "piezas": 6,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 3,
           "costoUnitario": 7.6579999999999995
         }
       ]
@@ -2318,13 +2381,8 @@
       "descripcion": "Galletas Marianitas Coco",
       "precioCompra": 10.1,
       "precioVenta": 15.15,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 10.1
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501030490937",
@@ -2444,10 +2502,10 @@
       "descripcion": "Paleta Rocaleta",
       "precioCompra": 5.52,
       "precioVenta": 8.28,
-      "piezas": 6,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 4,
           "costoUnitario": 5.522222222222222
         }
       ]
@@ -2457,10 +2515,10 @@
       "descripcion": "Paleta Búbalo Xtreme",
       "precioCompra": 3.6,
       "precioVenta": 5.39,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 3.595
         }
       ]
@@ -2557,10 +2615,10 @@
       "descripcion": "Cremax fresa",
       "precioCompra": 10,
       "precioVenta": 15,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 10
         }
       ]
@@ -2813,6 +2871,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 4595.4400000000005,
-  "inversionRecuperada": 3807.2244047618983,
-  "gananciasTotales": 1903.3455952380998
+  "inversionRecuperada": 3877.3128492063424,
+  "gananciasTotales": 1938.3871507936558
 }
