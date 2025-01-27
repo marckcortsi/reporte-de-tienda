@@ -2290,14 +2290,6 @@
       ]
     },
     {
-      "codigo": "7506192510295",
-      "descripcion": "Vive 100 Blueberry",
-      "precioCompra": 13.66,
-      "precioVenta": 20.49,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "75071295",
       "descripcion": "Cigarros Pall Mall",
       "precioCompra": 3.35,
@@ -2309,14 +2301,6 @@
           "costoUnitario": 3.345
         }
       ]
-    },
-    {
-      "codigo": "75078843",
-      "descripcion": "Cigarros Shots",
-      "precioCompra": 1.91,
-      "precioVenta": 2.86,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "75001322",
@@ -2332,70 +2316,6 @@
       ]
     },
     {
-      "codigo": "041789001987",
-      "descripcion": "Maruchan chile pikin",
-      "precioCompra": 14.08,
-      "precioVenta": 21.13,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7500366003811",
-      "descripcion": "Totis mix",
-      "precioCompra": 7.66,
-      "precioVenta": 11.49,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7502217370028",
-      "descripcion": "Churros con ajonjoli",
-      "precioCompra": 60.48,
-      "precioVenta": 90.72,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7500478022519",
-      "descripcion": "Emperador Vainilla",
-      "precioCompra": 12.31,
-      "precioVenta": 18.47,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7500478022540",
-      "descripcion": "Emperador Nuez",
-      "precioCompra": 12.31,
-      "precioVenta": 18.47,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7500478022496",
-      "descripcion": "Emperador chocolate",
-      "precioCompra": 12.31,
-      "precioVenta": 18.47,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7500478021581",
-      "descripcion": "Emperador combinado",
-      "precioCompra": 13.7,
-      "precioVenta": 20.55,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7501059242920",
-      "descripcion": "Chocolate Tin Larin",
-      "precioCompra": 6.4,
-      "precioVenta": 9.6,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "7500478010592",
       "descripcion": "Galletas Marias",
       "precioCompra": 12.73,
@@ -2409,22 +2329,6 @@
       ]
     },
     {
-      "codigo": "038629002068",
-      "descripcion": "Galletas Marianitas Coco",
-      "precioCompra": 10.1,
-      "precioVenta": 15.15,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7501030490937",
-      "descripcion": "Galletas Canelitas",
-      "precioCompra": 20.87,
-      "precioVenta": 31.31,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "7501006559019",
       "descripcion": "Palomitas de mantequilla",
       "precioCompra": 10.37,
@@ -2436,14 +2340,6 @@
           "costoUnitario": 10.37142857142857
         }
       ]
-    },
-    {
-      "codigo": "7501030490920",
-      "descripcion": "Polvorones",
-      "precioCompra": 20.87,
-      "precioVenta": 31.31,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "038629002075",
@@ -2485,30 +2381,6 @@
       ]
     },
     {
-      "codigo": "703885005244",
-      "descripcion": "Zumba goma Mora Azul",
-      "precioCompra": 3.56,
-      "precioVenta": 5.34,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "703885005268",
-      "descripcion": "Zumba goma Fresa",
-      "precioCompra": 3.56,
-      "precioVenta": 5.34,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "703885005251",
-      "descripcion": "Zumba goma Sandia",
-      "precioCompra": 3.56,
-      "precioVenta": 5.34,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "7503030374552",
       "descripcion": "Paletas de Tarrito",
       "precioCompra": 1.63,
@@ -2520,14 +2392,6 @@
           "costoUnitario": 1.6300000000000001
         }
       ]
-    },
-    {
-      "codigo": "719886250330",
-      "descripcion": "Paleta Peloneta",
-      "precioCompra": 3.77,
-      "precioVenta": 5.65,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "7501011145566",
@@ -2556,14 +2420,6 @@
       ]
     },
     {
-      "codigo": "7500366003941",
-      "descripcion": "Papas saladas totis",
-      "precioCompra": 14.03,
-      "precioVenta": 21.05,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "018804002106",
       "descripcion": "Chicles canels",
       "precioCompra": 0.67,
@@ -2577,14 +2433,6 @@
       ]
     },
     {
-      "codigo": "7500478037810",
-      "descripcion": "Papas picositas totis",
-      "precioCompra": 13.8,
-      "precioVenta": 20.7,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "7500366004221",
       "descripcion": "Totopos hot chili totis",
       "precioCompra": 9.7,
@@ -2596,38 +2444,6 @@
           "costoUnitario": 9.700000000000001
         }
       ]
-    },
-    {
-      "codigo": "744886405053",
-      "descripcion": "Jarritos tutifruti",
-      "precioCompra": 18.95,
-      "precioVenta": 28.42,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "744886375059",
-      "descripcion": "Jarritos mandarina",
-      "precioCompra": 18.95,
-      "precioVenta": 28.42,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "097339000030",
-      "descripcion": "Salsa Valentina",
-      "precioCompra": 31.5,
-      "precioVenta": 47.25,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "738545010016",
-      "descripcion": "Salsa Botanera",
-      "precioCompra": 32.9,
-      "precioVenta": 49.35,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "7501000606566",
@@ -2656,12 +2472,147 @@
       ]
     },
     {
-      "codigo": "7500478037636",
-      "descripcion": "Arcoiris",
-      "precioCompra": 10,
-      "precioVenta": 15,
-      "piezas": 0,
-      "stockParciales": []
+      "codigo": "75078843",
+      "descripcion": "Cigarros Shots",
+      "precioCompra": 1.91,
+      "precioVenta": 2.86,
+      "piezas": 200,
+      "stockParciales": [
+        {
+          "cantidad": 200,
+          "costoUnitario": 1.9084999999999999
+        }
+      ]
+    },
+    {
+      "codigo": "7500478008926",
+      "descripcion": "Galletas Chokis",
+      "precioCompra": 11,
+      "precioVenta": 16.5,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 11
+        }
+      ]
+    },
+    {
+      "codigo": "7622210833662",
+      "descripcion": "Galletas Oreo",
+      "precioCompra": 13.07,
+      "precioVenta": 19.6,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 13.066666666666668
+        }
+      ]
+    },
+    {
+      "codigo": "7500478022496",
+      "descripcion": "Emperador Chocolate",
+      "precioCompra": 12.13,
+      "precioVenta": 18.19,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 12.126666666666667
+        }
+      ]
+    },
+    {
+      "codigo": "7500478022519",
+      "descripcion": "Emperador Vainilla",
+      "precioCompra": 12.13,
+      "precioVenta": 18.19,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 12.126666666666667
+        }
+      ]
+    },
+    {
+      "codigo": "7500478022540",
+      "descripcion": "Emperador Nuez",
+      "precioCompra": 12.13,
+      "precioVenta": 18.19,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 12.126666666666667
+        }
+      ]
+    },
+    {
+      "codigo": "7500366004825",
+      "descripcion": "Totis Sal y limón",
+      "precioCompra": 13.2,
+      "precioVenta": 19.8,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 13.200000000000001
+        }
+      ]
+    },
+    {
+      "codigo": "7500366004832",
+      "descripcion": "Totis chile y limón",
+      "precioCompra": 13.2,
+      "precioVenta": 19.8,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 13.200000000000001
+        }
+      ]
+    },
+    {
+      "codigo": "703885005244",
+      "descripcion": "Zumba Goma Mora Azul",
+      "precioCompra": 3.56,
+      "precioVenta": 5.34,
+      "piezas": 20,
+      "stockParciales": [
+        {
+          "cantidad": 20,
+          "costoUnitario": 3.5575
+        }
+      ]
+    },
+    {
+      "codigo": "703885005251",
+      "descripcion": "Zumba Goma Sandia",
+      "precioCompra": 3.24,
+      "precioVenta": 4.86,
+      "piezas": 40,
+      "stockParciales": [
+        {
+          "cantidad": 40,
+          "costoUnitario": 3.2399999999999998
+        }
+      ]
+    },
+    {
+      "codigo": "7501059242913",
+      "descripcion": "Chocolate Larin",
+      "precioCompra": 6.33,
+      "precioVenta": 9.5,
+      "piezas": 30,
+      "stockParciales": [
+        {
+          "cantidad": 30,
+          "costoUnitario": 6.333333333333333
+        }
+      ]
     }
   ],
   "historialEntradas": [
@@ -2898,11 +2849,77 @@
       "cantidad": 2,
       "costoTotal": 20,
       "fecha": "23/1/2025, 8:26:36 a.m."
+    },
+    {
+      "producto": "Cigarros Shots",
+      "cantidad": 200,
+      "costoTotal": 381.7,
+      "fecha": "26/1/2025, 7:26:31 p.m."
+    },
+    {
+      "producto": "Galletas Chokis",
+      "cantidad": 3,
+      "costoTotal": 33,
+      "fecha": "26/1/2025, 7:30:26 p.m."
+    },
+    {
+      "producto": "Galletas Oreo",
+      "cantidad": 3,
+      "costoTotal": 39.2,
+      "fecha": "26/1/2025, 7:31:28 p.m."
+    },
+    {
+      "producto": "Emperador Chocolate",
+      "cantidad": 3,
+      "costoTotal": 36.38,
+      "fecha": "26/1/2025, 7:32:26 p.m."
+    },
+    {
+      "producto": "Emperador Vainilla",
+      "cantidad": 3,
+      "costoTotal": 36.38,
+      "fecha": "26/1/2025, 7:33:27 p.m."
+    },
+    {
+      "producto": "Emperador Nuez",
+      "cantidad": 3,
+      "costoTotal": 36.38,
+      "fecha": "26/1/2025, 7:34:02 p.m."
+    },
+    {
+      "producto": "Totis Sal y limón",
+      "cantidad": 3,
+      "costoTotal": 39.6,
+      "fecha": "26/1/2025, 7:34:55 p.m."
+    },
+    {
+      "producto": "Totis chile y limón",
+      "cantidad": 3,
+      "costoTotal": 39.6,
+      "fecha": "26/1/2025, 7:35:33 p.m."
+    },
+    {
+      "producto": "Zumba Goma Mora Azul",
+      "cantidad": 20,
+      "costoTotal": 71.15,
+      "fecha": "26/1/2025, 7:37:44 p.m."
+    },
+    {
+      "producto": "Zumba Goma Sandia",
+      "cantidad": 40,
+      "costoTotal": 129.6,
+      "fecha": "26/1/2025, 7:39:04 p.m."
+    },
+    {
+      "producto": "Chocolate Larin",
+      "cantidad": 30,
+      "costoTotal": 190,
+      "fecha": "26/1/2025, 7:40:31 p.m."
     }
   ],
   "numInversionistas": 12,
   "totalInversion": 6000,
-  "gastoEnProductos": 4595.4400000000005,
+  "gastoEnProductos": 5628.430000000001,
   "inversionRecuperada": 3954.4413492063427,
   "gananciasTotales": 1976.9286507936558
 }
