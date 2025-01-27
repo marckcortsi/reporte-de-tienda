@@ -57,8 +57,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 40.66,
-      "ganancia": 386.4177777777778
+      "adeudo": 64.19,
+      "ganancia": 394.2636111111112
     },
     {
       "nombre": "Rafael",
@@ -2086,6 +2086,20 @@
         "costoTotal": 18.56,
         "fecha": "27/1/2025, 8:43:00 a.m.",
         "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Emperador Vainilla",
+        "piezas": 1,
+        "costoTotal": 18.19,
+        "fecha": "27/1/2025, 9:04:22 a.m.",
+        "ganancia": 6.063333333333334
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "27/1/2025, 9:04:22 a.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Rafael": [
@@ -2612,10 +2626,10 @@
       "descripcion": "Emperador Vainilla",
       "precioCompra": 12.13,
       "precioVenta": 18.19,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 12.126666666666667
         }
       ]
@@ -2664,10 +2678,10 @@
       "descripcion": "Zumba Goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 3.5575
         }
       ]
@@ -3042,6 +3056,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 5982.030000000002,
-  "inversionRecuperada": 4127.159682539676,
-  "gananciasTotales": 2063.2203174603223
+  "inversionRecuperada": 4142.843849206343,
+  "gananciasTotales": 2071.0661507936557
 }
