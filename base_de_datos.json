@@ -39,14 +39,14 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 196.36075396825402
+      "adeudo": 19,
+      "ganancia": 202.69408730158736
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 263.5596507936508
+      "adeudo": 19,
+      "ganancia": 269.8929841269841
     },
     {
       "nombre": "Laura",
@@ -69,8 +69,8 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 0
+      "adeudo": 18.56,
+      "ganancia": 6.184999999999999
     },
     {
       "nombre": "Externo",
@@ -1226,6 +1226,13 @@
         "costoTotal": 100.39999999999999,
         "fecha": "23/1/2025, 11:28:17 a.m.",
         "ganancia": 33.499999999999986
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 2,
+        "costoTotal": 19,
+        "fecha": "27/1/2025, 1:28:33 p.m.",
+        "ganancia": 6.333333333333334
       }
     ],
     "Karen": [
@@ -1515,6 +1522,13 @@
         "costoTotal": 14.55,
         "fecha": "24/1/2025, 2:10:08 p.m.",
         "ganancia": 4.85
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 2,
+        "costoTotal": 19,
+        "fecha": "27/1/2025, 1:28:17 p.m.",
+        "ganancia": 6.333333333333334
       }
     ],
     "Laura": [
@@ -2405,7 +2419,15 @@
         "ganancia": 7.366666666666667
       }
     ],
-    "Vicente": [],
+    "Vicente": [
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "27/1/2025, 1:33:22 p.m.",
+        "ganancia": 6.184999999999999
+      }
+    ],
     "Externo": []
   },
   "productos": [
@@ -2414,10 +2436,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 12.375
         }
       ]
@@ -2739,10 +2761,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 6.33,
       "precioVenta": 9.5,
-      "piezas": 30,
+      "piezas": 26,
       "stockParciales": [
         {
-          "cantidad": 30,
+          "cantidad": 26,
           "costoUnitario": 6.333333333333333
         }
       ]
@@ -3091,6 +3113,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 5982.030000000002,
-  "inversionRecuperada": 4245.607182539677,
-  "gananciasTotales": 2122.5028174603226
+  "inversionRecuperada": 4283.315515873011,
+  "gananciasTotales": 2141.3544841269895
 }
