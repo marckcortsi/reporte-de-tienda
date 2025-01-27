@@ -15,8 +15,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 76.52333333333331
+      "adeudo": 18.19,
+      "ganancia": 82.58666666666664
     },
     {
       "nombre": "Francisco",
@@ -33,8 +33,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 15,
-      "ganancia": 176.5991666666666
+      "adeudo": 37.1,
+      "ganancia": 183.96583333333328
     },
     {
       "nombre": "Isrrael",
@@ -63,8 +63,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 156.2901666666667
+      "adeudo": 22.1,
+      "ganancia": 163.65683333333337
     },
     {
       "nombre": "Vicente",
@@ -644,6 +644,13 @@
         "costoTotal": 11.49,
         "fecha": "24/1/2025, 11:40:58 a.m.",
         "ganancia": 3.8320000000000007
+      },
+      {
+        "producto": "Emperador Chocolate",
+        "piezas": 1,
+        "costoTotal": 18.19,
+        "fecha": "27/1/2025, 8:56:34 a.m.",
+        "ganancia": 6.063333333333334
       }
     ],
     "Francisco": [
@@ -1056,6 +1063,13 @@
         "costoTotal": 15,
         "fecha": "27/1/2025, 8:40:30 a.m.",
         "ganancia": 5
+      },
+      {
+        "producto": "Maruchan Pikin",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "27/1/2025, 8:56:21 a.m.",
+        "ganancia": 7.366666666666667
       }
     ],
     "Isrrael": [
@@ -2333,6 +2347,13 @@
         "costoTotal": 18.56,
         "fecha": "24/1/2025, 11:40:41 a.m.",
         "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Maruchan Pikin",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "27/1/2025, 8:56:44 a.m.",
+        "ganancia": 7.366666666666667
       }
     ],
     "Vicente": [],
@@ -2578,10 +2599,10 @@
       "descripcion": "Emperador Chocolate",
       "precioCompra": 12.13,
       "precioVenta": 18.19,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 12.126666666666667
         }
       ]
@@ -2695,10 +2716,10 @@
       "descripcion": "Maruchan Pikin",
       "precioCompra": 14.73,
       "precioVenta": 22.1,
-      "piezas": 11,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 9,
           "costoUnitario": 14.733333333333334
         }
       ]
@@ -3021,6 +3042,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 5982.030000000002,
-  "inversionRecuperada": 4085.5663492063422,
-  "gananciasTotales": 2042.4236507936555
+  "inversionRecuperada": 4127.159682539676,
+  "gananciasTotales": 2063.2203174603223
 }
