@@ -3,14 +3,14 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 49.61000000000001,
+      "adeudo": 0,
       "ganancia": 182.80533333333335
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 42.900000000000034,
-      "ganancia": 366.2593571428572
+      "adeudo": 114.40000000000003,
+      "ganancia": 390.0468571428572
     },
     {
       "nombre": "Edgar",
@@ -51,14 +51,14 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 15.15,
+      "adeudo": 0,
       "ganancia": 10.100000000000001
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 354.7102777777777
+      "adeudo": 54.46,
+      "ganancia": 372.86611111111114
     },
     {
       "nombre": "Rafael",
@@ -509,6 +509,13 @@
         "costoTotal": 42.9,
         "fecha": "24/1/2025, 5:31:44 p.m.",
         "ganancia": 14.2725
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 25,
+        "costoTotal": 71.5,
+        "fecha": "27/1/2025, 8:14:39 a.m.",
+        "ganancia": 23.7875
       }
     ],
     "Edgar": [
@@ -2009,6 +2016,34 @@
         "costoTotal": 34.47,
         "fecha": "24/1/2025, 11:46:23 a.m.",
         "ganancia": 11.496000000000002
+      },
+      {
+        "producto": "Galletas Oreo",
+        "piezas": 1,
+        "costoTotal": 19.6,
+        "fecha": "27/1/2025, 8:15:52 a.m.",
+        "ganancia": 6.533333333333333
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "27/1/2025, 8:15:52 a.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 2,
+        "costoTotal": 9.72,
+        "fecha": "27/1/2025, 8:15:52 a.m.",
+        "ganancia": 3.240000000000001
+      },
+      {
+        "producto": "Totis chile y limón",
+        "piezas": 1,
+        "costoTotal": 19.8,
+        "fecha": "27/1/2025, 8:15:52 a.m.",
+        "ganancia": 6.6
       }
     ],
     "Rafael": [
@@ -2476,10 +2511,10 @@
       "descripcion": "Cigarros Shots",
       "precioCompra": 1.91,
       "precioVenta": 2.86,
-      "piezas": 200,
+      "piezas": 175,
       "stockParciales": [
         {
-          "cantidad": 200,
+          "cantidad": 175,
           "costoUnitario": 1.9084999999999999
         }
       ]
@@ -2502,10 +2537,10 @@
       "descripcion": "Galletas Oreo",
       "precioCompra": 13.07,
       "precioVenta": 19.6,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 13.066666666666668
         }
       ]
@@ -2567,10 +2602,10 @@
       "descripcion": "Totis chile y limón",
       "precioCompra": 13.2,
       "precioVenta": 19.8,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 13.200000000000001
         }
       ]
@@ -2580,10 +2615,10 @@
       "descripcion": "Zumba Goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 20,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 3.5575
         }
       ]
@@ -2593,10 +2628,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 40,
+      "piezas": 38,
       "stockParciales": [
         {
-          "cantidad": 40,
+          "cantidad": 38,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -2611,6 +2646,32 @@
         {
           "cantidad": 30,
           "costoUnitario": 6.333333333333333
+        }
+      ]
+    },
+    {
+      "codigo": "041789001864",
+      "descripcion": "Maruchan Habanero",
+      "precioCompra": 14.73,
+      "precioVenta": 22.1,
+      "piezas": 12,
+      "stockParciales": [
+        {
+          "cantidad": 12,
+          "costoUnitario": 14.733333333333334
+        }
+      ]
+    },
+    {
+      "codigo": "041789001987",
+      "descripcion": "Maruchan Pikin",
+      "precioCompra": 14.73,
+      "precioVenta": 22.1,
+      "piezas": 12,
+      "stockParciales": [
+        {
+          "cantidad": 12,
+          "costoUnitario": 14.733333333333334
         }
       ]
     }
@@ -2915,11 +2976,23 @@
       "cantidad": 30,
       "costoTotal": 190,
       "fecha": "26/1/2025, 7:40:31 p.m."
+    },
+    {
+      "producto": "Maruchan Habanero",
+      "cantidad": 12,
+      "costoTotal": 176.8,
+      "fecha": "27/1/2025, 8:17:57 a.m."
+    },
+    {
+      "producto": "Maruchan Pikin",
+      "cantidad": 12,
+      "costoTotal": 176.8,
+      "fecha": "27/1/2025, 8:18:48 a.m."
     }
   ],
   "numInversionistas": 12,
   "totalInversion": 6000,
-  "gastoEnProductos": 5628.430000000001,
-  "inversionRecuperada": 3954.4413492063427,
-  "gananciasTotales": 1976.9286507936558
+  "gastoEnProductos": 5982.030000000002,
+  "inversionRecuperada": 4038.458015873009,
+  "gananciasTotales": 2018.871984126989
 }
