@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 59.90533333333333,
+      "adeudo": 38.36,
+      "ganancia": 72.69033333333333,
       "saldoFavor": 0
     },
     {
@@ -792,6 +792,20 @@
         "costoTotal": 18.56,
         "fecha": "21/1/2025, 1:58:36 p.m.",
         "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "28/1/2025, 9:30:09 a.m.",
+        "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Totis Sal y limón",
+        "piezas": 1,
+        "costoTotal": 19.8,
+        "fecha": "28/1/2025, 9:30:40 a.m.",
+        "ganancia": 6.6
       }
     ],
     "Irvin": [
@@ -2519,13 +2533,8 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.375
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "75071295",
@@ -2777,10 +2786,10 @@
       "descripcion": "Totis Sal y limón",
       "precioCompra": 13.2,
       "precioVenta": 19.8,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 13.200000000000001
         }
       ]
@@ -3181,6 +3190,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 5982.030000000002,
-  "inversionRecuperada": 4453.683849206344,
-  "gananciasTotales": 2226.486150793656
+  "inversionRecuperada": 4479.258849206344,
+  "gananciasTotales": 2239.271150793656
 }
