@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 64.19,
-      "ganancia": 394.2636111111112,
+      "adeudo": 98.03,
+      "ganancia": 405.5461111111112,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 38.6,
-      "ganancia": 169.15683333333337,
+      "adeudo": 76.00999999999999,
+      "ganancia": 181.6251666666667,
       "saldoFavor": 0
     },
     {
@@ -2239,6 +2239,20 @@
         "costoTotal": 5.34,
         "fecha": "27/1/2025, 9:04:22 a.m.",
         "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "28/1/2025, 12:33:10 p.m.",
+        "ganancia": 5.7225
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "28/1/2025, 12:33:10 p.m.",
+        "ganancia": 5.559999999999999
       }
     ],
     "Rafael": [
@@ -2514,6 +2528,20 @@
         "costoTotal": 16.5,
         "fecha": "28/1/2025, 8:49:28 a.m.",
         "ganancia": 5.5
+      },
+      {
+        "producto": "Coca de vidrio 500 ml",
+        "piezas": 1,
+        "costoTotal": 17.81,
+        "fecha": "28/1/2025, 12:30:50 p.m.",
+        "ganancia": 5.934999999999999
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.6,
+        "fecha": "28/1/2025, 12:30:50 p.m.",
+        "ganancia": 6.533333333333335
       }
     ],
     "Vicente": [
@@ -2858,10 +2886,10 @@
       "descripcion": "Coca de vidrio 500 ml",
       "precioCompra": 11.88,
       "precioVenta": 17.81,
-      "piezas": 24,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 23,
           "costoUnitario": 11.875
         }
       ]
@@ -2871,10 +2899,10 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 24,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 23,
           "costoUnitario": 11.4375
         }
       ]
@@ -2949,10 +2977,10 @@
       "descripcion": "Doritos",
       "precioCompra": 13.07,
       "precioVenta": 19.6,
-      "piezas": 30,
+      "piezas": 29,
       "stockParciales": [
         {
-          "cantidad": 30,
+          "cantidad": 29,
           "costoUnitario": 13.066666666666666
         }
       ]
@@ -2962,10 +2990,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -3557,6 +3585,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 4479.258849206344,
-  "gananciasTotales": 2239.271150793656
+  "inversionRecuperada": 4526.758015873011,
+  "gananciasTotales": 2263.021984126989
 }
