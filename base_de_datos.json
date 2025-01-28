@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 37.19,
-      "ganancia": 275.95631746031745,
+      "adeudo": 56.79,
+      "ganancia": 282.4896507936508,
       "saldoFavor": 0
     },
     {
@@ -1654,6 +1654,13 @@
         "costoTotal": 18.19,
         "fecha": "28/1/2025, 8:41:05 a.m.",
         "ganancia": 6.063333333333334
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.6,
+        "fecha": "28/1/2025, 12:56:54 p.m.",
+        "ganancia": 6.533333333333335
       }
     ],
     "Laura": [
@@ -3012,10 +3019,10 @@
       "descripcion": "Doritos",
       "precioCompra": 13.07,
       "precioVenta": 19.6,
-      "piezas": 29,
+      "piezas": 28,
       "stockParciales": [
         {
-          "cantidad": 29,
+          "cantidad": 28,
           "costoUnitario": 13.066666666666666
         }
       ]
@@ -3620,6 +3627,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 4593.953015873011,
-  "gananciasTotales": 2296.6169841269893
+  "inversionRecuperada": 4607.019682539678,
+  "gananciasTotales": 2303.1503174603226
 }
