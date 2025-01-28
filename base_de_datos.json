@@ -4,79 +4,92 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 233.36866666666668
+      "ganancia": 233.36866666666668,
+      "saldoFavor": 299.6
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
       "adeudo": 129.40000000000003,
-      "ganancia": 395.0468571428572
+      "ganancia": 395.0468571428572,
+      "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
       "adeudo": 18.19,
-      "ganancia": 82.58666666666664
+      "ganancia": 82.58666666666664,
+      "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 59.90533333333333
+      "ganancia": 59.90533333333333,
+      "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
       "adeudo": 62.4,
-      "ganancia": 145.34861111111113
+      "ganancia": 145.34861111111113,
+      "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
       "adeudo": 138.51,
-      "ganancia": 217.80583333333325
+      "ganancia": 217.80583333333325,
+      "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
       "adeudo": 19,
-      "ganancia": 202.69408730158736
+      "ganancia": 202.69408730158736,
+      "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
       "adeudo": 19,
-      "ganancia": 269.8929841269841
+      "ganancia": 269.8929841269841,
+      "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 10.100000000000001
+      "ganancia": 10.100000000000001,
+      "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
       "adeudo": 64.19,
-      "ganancia": 394.2636111111112
+      "ganancia": 394.2636111111112,
+      "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
       "adeudo": 22.1,
-      "ganancia": 163.65683333333337
+      "ganancia": 163.65683333333337,
+      "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
       "adeudo": 18.56,
-      "ganancia": 6.184999999999999
+      "ganancia": 6.184999999999999,
+      "saldoFavor": 0
     },
     {
       "nombre": "Externo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 0
+      "ganancia": 0,
+      "saldoFavor": 0
     }
   ],
   "historialCompras": {

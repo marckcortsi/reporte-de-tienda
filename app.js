@@ -18,6 +18,13 @@ window.onload = () => {
   fetch('base_de_datos.json')
     .then(response => response.json())
     .then(data => {
+      // Si el JSON no trae "saldoFavor", le ponemos 0 a cada usuario
+      data.usuarios.forEach(u => {
+        if (typeof u.saldoFavor === "undefined") {
+          u.saldoFavor = 0;
+        }
+      });
+
       // Cargar datos desde el JSON
       usuarios            = data.usuarios;
       historialCompras    = data.historialCompras;
@@ -80,6 +87,7 @@ function filtrarInformacionUsuario() {
   const inversionUsuario  = document.getElementById("inversion-usuario");
   const gananciaUsuario   = document.getElementById("ganancia-usuario");
   const adeudoUsuario     = document.getElementById("adeudo-usuario-estado");
+  const saldoFavorEl      = document.getElementById("saldo-favor-usuario"); // NUEVO
   const tablaHistorial    = document.getElementById("tabla-historial").querySelector("tbody");
 
   consultaUsuarioDiv.classList.remove("hidden");
@@ -101,7 +109,7 @@ function filtrarInformacionUsuario() {
     inversionUsuario.innerText = formatMoney(0);
     gananciaUsuario.innerText  = "No aplica (Externo)";
   } else {
-    // En tu código original, cada inversionista tenía 500
+    // Cada inversionista tenía 500, igual que en tu app principal
     inversionUsuario.innerText = formatMoney(500);
     gananciaUsuario.innerText  = formatMoney(userObj.ganancia);
   }
@@ -116,6 +124,9 @@ function filtrarInformacionUsuario() {
     adeudoUsuario.classList.add("green");
     adeudoUsuario.classList.remove("red");
   }
+
+  // Saldo a favor (NUEVO)
+  saldoFavorEl.innerText = formatMoney(userObj.saldoFavor || 0);
 
   // Historial de compras
   tablaHistorial.innerHTML = "";
@@ -159,6 +170,8 @@ function imprimirReporteUsuario() {
     contenidoHTML += `<p><strong>Ganancia Total:</strong> N/A (Externo)</p>`;
   }
   contenidoHTML += `<p><strong>Adeudo:</strong> ${formatMoney(userObj.adeudo)}</p>`;
+  // Agregamos saldoFavor también
+  contenidoHTML += `<p><strong>Saldo a favor:</strong> ${formatMoney(userObj.saldoFavor || 0)}</p>`;
 
   const historial = historialCompras[userObj.nombre];
   if (!historial || historial.length === 0) {
@@ -246,7 +259,7 @@ function actualizarConsultaInversion() {
   const invAdeudosEl   = document.getElementById("inv-adeudos");
 
   let saldoActual  = totalInversion - (gastoEnProductos - inversionRecuperada);
-  let totalAdeudos = usuarios.reduce((acum, u) => acum + u.adeudo, 0);
+  let totalAdeudos = usuarios.reduce((acum, u) => acum + (u.adeudo || 0), 0);
 
   invTotalEl.innerText     = formatMoney(totalInversion);
   invGananciasEl.innerText = formatMoney(gananciasTotales);
@@ -274,6 +287,8 @@ function actualizarConsultaInversion() {
       <td>${u.nombre}</td>
       <td>${formatMoney(totalCompras)}</td>
       <td>${formatMoney(u.ganancia)}</td>
+      <td>${formatMoney(u.adeudo || 0)}</td>
+      <td>${formatMoney(u.saldoFavor || 0)}</td>
     `;
     if (u.adeudo > 0) {
       row.classList.add("con-adeudo");
