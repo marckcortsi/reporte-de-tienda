@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 62.4,
-      "ganancia": 145.34861111111113,
+      "adeudo": 101.18,
+      "ganancia": 158.2752777777778,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 158.10999999999999,
-      "ganancia": 224.33916666666659,
+      "adeudo": 220.11999999999998,
+      "ganancia": 245.00749999999994,
       "saldoFavor": 0
     },
     {
@@ -941,6 +941,20 @@
         "costoTotal": 19.6,
         "fecha": "27/1/2025, 9:37:27 a.m.",
         "ganancia": 6.533333333333333
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "28/1/2025, 12:51:12 p.m.",
+        "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Maruchan Habanero",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "28/1/2025, 12:52:21 p.m.",
+        "ganancia": 7.366666666666667
       }
     ],
     "Isac": [
@@ -1181,6 +1195,27 @@
         "costoTotal": 19.6,
         "fecha": "28/1/2025, 8:49:19 a.m.",
         "ganancia": 6.533333333333333
+      },
+      {
+        "producto": "Maruchan Habanero",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "28/1/2025, 12:50:42 p.m.",
+        "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Coca de vidrio 500 ml",
+        "piezas": 1,
+        "costoTotal": 17.81,
+        "fecha": "28/1/2025, 12:50:42 p.m.",
+        "ganancia": 5.934999999999999
+      },
+      {
+        "producto": "Maruchan Habanero",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "28/1/2025, 12:52:35 p.m.",
+        "ganancia": 7.366666666666667
       }
     ],
     "Isrrael": [
@@ -2847,10 +2882,10 @@
       "descripcion": "Maruchan Habanero",
       "precioCompra": 14.73,
       "precioVenta": 22.1,
-      "piezas": 12,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 9,
           "costoUnitario": 14.733333333333334
         }
       ]
@@ -2886,10 +2921,10 @@
       "descripcion": "Coca de vidrio 500 ml",
       "precioCompra": 11.88,
       "precioVenta": 17.81,
-      "piezas": 23,
+      "piezas": 22,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 22,
           "costoUnitario": 11.875
         }
       ]
@@ -2990,10 +3025,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -3585,6 +3620,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 4526.758015873011,
-  "gananciasTotales": 2263.021984126989
+  "inversionRecuperada": 4593.953015873011,
+  "gananciasTotales": 2296.6169841269893
 }
