@@ -2529,14 +2529,6 @@
   },
   "productos": [
     {
-      "codigo": "7506192505451",
-      "descripcion": "Vive 100 Original",
-      "precioCompra": 12.38,
-      "precioVenta": 18.56,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "75071295",
       "descripcion": "Cigarros Pall Mall",
       "precioCompra": 3.35,
@@ -2548,14 +2540,6 @@
           "costoUnitario": 3.345
         }
       ]
-    },
-    {
-      "codigo": "75001322",
-      "descripcion": "Cigarros Malvoro",
-      "precioCompra": 3.96,
-      "precioVenta": 5.93,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "7500478010592",
@@ -2740,14 +2724,6 @@
       ]
     },
     {
-      "codigo": "7622210833662",
-      "descripcion": "Galletas Oreo",
-      "precioCompra": 13.07,
-      "precioVenta": 19.6,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "7500478022496",
       "descripcion": "Emperador Chocolate",
       "precioCompra": 12.13,
@@ -2759,14 +2735,6 @@
           "costoUnitario": 12.126666666666667
         }
       ]
-    },
-    {
-      "codigo": "7500478022519",
-      "descripcion": "Emperador Vainilla",
-      "precioCompra": 12.13,
-      "precioVenta": 18.19,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "7500478022540",
@@ -2869,6 +2837,279 @@
         {
           "cantidad": 9,
           "costoUnitario": 14.733333333333334
+        }
+      ]
+    },
+    {
+      "codigo": "7501055313068",
+      "descripcion": "Coca de 3 litros",
+      "precioCompra": 31.67,
+      "precioVenta": 47.5,
+      "piezas": 12,
+      "stockParciales": [
+        {
+          "cantidad": 12,
+          "costoUnitario": 31.666666666666668
+        }
+      ]
+    },
+    {
+      "codigo": "75004699",
+      "descripcion": "Coca de vidrio 500 ml",
+      "precioCompra": 11.88,
+      "precioVenta": 17.81,
+      "piezas": 24,
+      "stockParciales": [
+        {
+          "cantidad": 24,
+          "costoUnitario": 11.875
+        }
+      ]
+    },
+    {
+      "codigo": "7506192510295",
+      "descripcion": "Vive 100 blueberry",
+      "precioCompra": 11.44,
+      "precioVenta": 17.16,
+      "piezas": 24,
+      "stockParciales": [
+        {
+          "cantidad": 24,
+          "costoUnitario": 11.4375
+        }
+      ]
+    },
+    {
+      "codigo": "7506192505451",
+      "descripcion": "Vive 100 original",
+      "precioCompra": 12.21,
+      "precioVenta": 18.31,
+      "piezas": 24,
+      "stockParciales": [
+        {
+          "cantidad": 24,
+          "costoUnitario": 12.208333333333334
+        }
+      ]
+    },
+    {
+      "codigo": "744886375059",
+      "descripcion": "Jarrito Mandarina",
+      "precioCompra": 18.95,
+      "precioVenta": 28.42,
+      "piezas": 8,
+      "stockParciales": [
+        {
+          "cantidad": 8,
+          "costoUnitario": 18.95
+        }
+      ]
+    },
+    {
+      "codigo": "7502217370028",
+      "descripcion": "Churros grandes de ajonjoli",
+      "precioCompra": 60.48,
+      "precioVenta": 90.72,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 60.48333333333333
+        }
+      ]
+    },
+    {
+      "codigo": "7503018627083",
+      "descripcion": "Donitas luna",
+      "precioCompra": 1.32,
+      "precioVenta": 1.98,
+      "piezas": 25,
+      "stockParciales": [
+        {
+          "cantidad": 25,
+          "costoUnitario": 1.32
+        }
+      ]
+    },
+    {
+      "codigo": "719886250330",
+      "descripcion": "Peloneta",
+      "precioCompra": 3.77,
+      "precioVenta": 5.65,
+      "piezas": 18,
+      "stockParciales": [
+        {
+          "cantidad": 18,
+          "costoUnitario": 3.7666666666666666
+        }
+      ]
+    },
+    {
+      "codigo": "7501011115729",
+      "descripcion": "Doritos",
+      "precioCompra": 13.07,
+      "precioVenta": 19.6,
+      "piezas": 30,
+      "stockParciales": [
+        {
+          "cantidad": 30,
+          "costoUnitario": 13.066666666666666
+        }
+      ]
+    },
+    {
+      "codigo": "7501000318599",
+      "descripcion": "Takis",
+      "precioCompra": 11.12,
+      "precioVenta": 16.68,
+      "piezas": 15,
+      "stockParciales": [
+        {
+          "cantidad": 15,
+          "costoUnitario": 11.120000000000001
+        }
+      ]
+    },
+    {
+      "codigo": "738545010559",
+      "descripcion": "Salsa Botanera",
+      "precioCompra": 37.6,
+      "precioVenta": 56.4,
+      "piezas": 1,
+      "stockParciales": [
+        {
+          "cantidad": 1,
+          "costoUnitario": 37.6
+        }
+      ]
+    },
+    {
+      "codigo": "7503022458512",
+      "descripcion": "Papas Sol limon",
+      "precioCompra": 12.9,
+      "precioVenta": 19.35,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 12.9
+        }
+      ]
+    },
+    {
+      "codigo": "7503022458758",
+      "descripcion": "Papas Sol habanero",
+      "precioCompra": 12.9,
+      "precioVenta": 19.35,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 12.9
+        }
+      ]
+    },
+    {
+      "codigo": "7503022458741",
+      "descripcion": "Papas Sol jalapeño",
+      "precioCompra": 12.9,
+      "precioVenta": 19.35,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 12.9
+        }
+      ]
+    },
+    {
+      "codigo": "7503022458505",
+      "descripcion": "Papas Sol chipotle",
+      "precioCompra": 12.9,
+      "precioVenta": 19.35,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 12.9
+        }
+      ]
+    },
+    {
+      "codigo": "7503022458307",
+      "descripcion": "Solchetitos",
+      "precioCompra": 8.67,
+      "precioVenta": 13,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 8.67
+        }
+      ]
+    },
+    {
+      "codigo": "7503020760020",
+      "descripcion": "Churritos sal y limon",
+      "precioCompra": 7.5,
+      "precioVenta": 11.25,
+      "piezas": 4,
+      "stockParciales": [
+        {
+          "cantidad": 4,
+          "costoUnitario": 7.5
+        }
+      ]
+    },
+    {
+      "codigo": "7503020760006",
+      "descripcion": "Churritos chile",
+      "precioCompra": 7.5,
+      "precioVenta": 11.25,
+      "piezas": 4,
+      "stockParciales": [
+        {
+          "cantidad": 4,
+          "costoUnitario": 7.5
+        }
+      ]
+    },
+    {
+      "codigo": "75001322",
+      "descripcion": "Malboro",
+      "precioCompra": 3.83,
+      "precioVenta": 5.75,
+      "piezas": 100,
+      "stockParciales": [
+        {
+          "cantidad": 100,
+          "costoUnitario": 3.835
+        }
+      ]
+    },
+    {
+      "codigo": "750712952",
+      "descripcion": "Pall mall",
+      "precioCompra": 3.5,
+      "precioVenta": 5.24,
+      "piezas": 100,
+      "stockParciales": [
+        {
+          "cantidad": 100,
+          "costoUnitario": 3.495
+        }
+      ]
+    },
+    {
+      "codigo": "1",
+      "descripcion": "Palomitas de Maiz",
+      "precioCompra": 10.42,
+      "precioVenta": 15.63,
+      "piezas": 14,
+      "stockParciales": [
+        {
+          "cantidad": 14,
+          "costoUnitario": 10.421428571428573
         }
       ]
     }
@@ -3185,11 +3426,137 @@
       "cantidad": 12,
       "costoTotal": 176.8,
       "fecha": "27/1/2025, 8:18:48 a.m."
+    },
+    {
+      "producto": "Coca de 3 litros",
+      "cantidad": 12,
+      "costoTotal": 380,
+      "fecha": "28/1/2025, 11:58:00 a.m."
+    },
+    {
+      "producto": "Coca de vidrio 500 ml",
+      "cantidad": 24,
+      "costoTotal": 285,
+      "fecha": "28/1/2025, 11:59:07 a.m."
+    },
+    {
+      "producto": "Vive 100 blueberry",
+      "cantidad": 24,
+      "costoTotal": 274.5,
+      "fecha": "28/1/2025, 12:02:32 p.m."
+    },
+    {
+      "producto": "Vive 100 original",
+      "cantidad": 24,
+      "costoTotal": 293,
+      "fecha": "28/1/2025, 12:03:46 p.m."
+    },
+    {
+      "producto": "Jarrito Mandarina",
+      "cantidad": 8,
+      "costoTotal": 151.6,
+      "fecha": "28/1/2025, 12:05:00 p.m."
+    },
+    {
+      "producto": "Churros grandes de ajonjoli",
+      "cantidad": 3,
+      "costoTotal": 181.45,
+      "fecha": "28/1/2025, 12:06:33 p.m."
+    },
+    {
+      "producto": "Donitas luna",
+      "cantidad": 25,
+      "costoTotal": 33,
+      "fecha": "28/1/2025, 12:08:36 p.m."
+    },
+    {
+      "producto": "Peloneta",
+      "cantidad": 18,
+      "costoTotal": 67.8,
+      "fecha": "28/1/2025, 12:09:57 p.m."
+    },
+    {
+      "producto": "Doritos",
+      "cantidad": 30,
+      "costoTotal": 392,
+      "fecha": "28/1/2025, 12:11:30 p.m."
+    },
+    {
+      "producto": "Takis",
+      "cantidad": 15,
+      "costoTotal": 166.8,
+      "fecha": "28/1/2025, 12:12:53 p.m."
+    },
+    {
+      "producto": "Salsa Botanera",
+      "cantidad": 1,
+      "costoTotal": 37.6,
+      "fecha": "28/1/2025, 12:14:04 p.m."
+    },
+    {
+      "producto": "Papas Sol limon",
+      "cantidad": 3,
+      "costoTotal": 38.7,
+      "fecha": "28/1/2025, 12:17:47 p.m."
+    },
+    {
+      "producto": "Papas Sol habanero",
+      "cantidad": 3,
+      "costoTotal": 38.7,
+      "fecha": "28/1/2025, 12:18:07 p.m."
+    },
+    {
+      "producto": "Papas Sol jalapeño",
+      "cantidad": 3,
+      "costoTotal": 38.7,
+      "fecha": "28/1/2025, 12:18:23 p.m."
+    },
+    {
+      "producto": "Papas Sol chipotle",
+      "cantidad": 3,
+      "costoTotal": 38.7,
+      "fecha": "28/1/2025, 12:18:41 p.m."
+    },
+    {
+      "producto": "Solchetitos",
+      "cantidad": 3,
+      "costoTotal": 26.01,
+      "fecha": "28/1/2025, 12:20:18 p.m."
+    },
+    {
+      "producto": "Churritos sal y limon",
+      "cantidad": 4,
+      "costoTotal": 30,
+      "fecha": "28/1/2025, 12:21:31 p.m."
+    },
+    {
+      "producto": "Churritos chile",
+      "cantidad": 4,
+      "costoTotal": 30,
+      "fecha": "28/1/2025, 12:21:49 p.m."
+    },
+    {
+      "producto": "Malboro",
+      "cantidad": 100,
+      "costoTotal": 383.5,
+      "fecha": "28/1/2025, 12:24:23 p.m."
+    },
+    {
+      "producto": "Pall mall",
+      "cantidad": 100,
+      "costoTotal": 349.5,
+      "fecha": "28/1/2025, 12:26:24 p.m."
+    },
+    {
+      "producto": "Palomitas de Maiz",
+      "cantidad": 14,
+      "costoTotal": 145.9,
+      "fecha": "28/1/2025, 12:28:15 p.m."
     }
   ],
   "numInversionistas": 12,
   "totalInversion": 6000,
-  "gastoEnProductos": 5982.030000000002,
+  "gastoEnProductos": 9364.490000000005,
   "inversionRecuperada": 4479.258849206344,
   "gananciasTotales": 2239.271150793656
 }
