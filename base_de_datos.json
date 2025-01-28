@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 157.09000000000003,
-      "ganancia": 404.27685714285724,
+      "adeudo": 166.59000000000003,
+      "ganancia": 407.4435238095239,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 56.79,
-      "ganancia": 282.4896507936508,
+      "adeudo": 62.129999999999995,
+      "ganancia": 284.27215079365084,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 120.13,
-      "ganancia": 412.9127777777779,
+      "adeudo": 131.12,
+      "ganancia": 416.57861111111123,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 76.00999999999999,
-      "ganancia": 181.6251666666667,
+      "adeudo": 86.52,
+      "ganancia": 185.12850000000003,
       "saldoFavor": 0
     },
     {
@@ -571,6 +571,13 @@
         "costoTotal": 18.19,
         "fecha": "28/1/2025, 8:50:06 a.m.",
         "ganancia": 6.063333333333334
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "28/1/2025, 3:56:43 p.m.",
+        "ganancia": 3.166666666666667
       }
     ],
     "Edgar": [
@@ -1682,6 +1689,13 @@
         "costoTotal": 19.6,
         "fecha": "28/1/2025, 12:56:54 p.m.",
         "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "28/1/2025, 3:57:22 p.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Laura": [
@@ -2323,6 +2337,20 @@
         "costoTotal": 22.1,
         "fecha": "28/1/2025, 2:45:27 p.m.",
         "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "28/1/2025, 3:58:18 p.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "28/1/2025, 3:58:18 p.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Rafael": [
@@ -2612,6 +2640,20 @@
         "costoTotal": 19.6,
         "fecha": "28/1/2025, 12:30:50 p.m.",
         "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "28/1/2025, 3:56:59 p.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "28/1/2025, 3:56:59 p.m.",
+        "ganancia": 1.8833333333333337
       }
     ],
     "Vicente": [
@@ -2878,10 +2920,10 @@
       "descripcion": "Zumba Goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 18,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 16,
           "costoUnitario": 3.5575
         }
       ]
@@ -2891,10 +2933,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 37,
+      "piezas": 36,
       "stockParciales": [
         {
-          "cantidad": 37,
+          "cantidad": 36,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -2904,10 +2946,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 6.33,
       "precioVenta": 9.5,
-      "piezas": 25,
+      "piezas": 24,
       "stockParciales": [
         {
-          "cantidad": 25,
+          "cantidad": 24,
           "costoUnitario": 6.333333333333333
         }
       ]
@@ -3034,10 +3076,10 @@
       "descripcion": "Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 18,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 16,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -3655,6 +3697,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 4707.994682539678,
-  "gananciasTotales": 2353.6253174603225
+  "inversionRecuperada": 4732.216349206344,
+  "gananciasTotales": 2365.743650793655
 }
