@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 18.19,
-      "ganancia": 82.58666666666664,
+      "adeudo": 39.55,
+      "ganancia": 89.70666666666665,
       "saldoFavor": 0
     },
     {
@@ -699,6 +699,20 @@
         "costoTotal": 18.19,
         "fecha": "27/1/2025, 8:56:34 a.m.",
         "ganancia": 6.063333333333334
+      },
+      {
+        "producto": "Galletas Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "28/1/2025, 8:51:23 a.m.",
+        "ganancia": 5.5
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "28/1/2025, 8:51:23 a.m.",
+        "ganancia": 1.6200000000000006
       }
     ],
     "Francisco": [
@@ -2701,10 +2715,10 @@
       "descripcion": "Galletas Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 11
         }
       ]
@@ -2795,10 +2809,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 38,
+      "piezas": 37,
       "stockParciales": [
         {
-          "cantidad": 38,
+          "cantidad": 37,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -3160,6 +3174,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 5982.030000000002,
-  "inversionRecuperada": 4427.068849206345,
-  "gananciasTotales": 2213.1811507936563
+  "inversionRecuperada": 4441.308849206344,
+  "gananciasTotales": 2220.3011507936562
 }
