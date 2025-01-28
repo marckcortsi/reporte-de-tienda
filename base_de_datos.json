@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 19,
-      "ganancia": 269.8929841269841,
+      "adeudo": 37.19,
+      "ganancia": 275.95631746031745,
       "saldoFavor": 0
     },
     {
@@ -1549,6 +1549,13 @@
         "costoTotal": 19,
         "fecha": "27/1/2025, 1:28:17 p.m.",
         "ganancia": 6.333333333333334
+      },
+      {
+        "producto": "Emperador Vainilla",
+        "piezas": 1,
+        "costoTotal": 18.19,
+        "fecha": "28/1/2025, 8:41:05 a.m.",
+        "ganancia": 6.063333333333334
       }
     ],
     "Laura": [
@@ -2698,13 +2705,8 @@
       "descripcion": "Emperador Vainilla",
       "precioCompra": 12.13,
       "precioVenta": 18.19,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.126666666666667
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478022540",
@@ -3128,6 +3130,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 5982.030000000002,
-  "inversionRecuperada": 4362.415515873011,
-  "gananciasTotales": 2180.8544841269895
+  "inversionRecuperada": 4374.542182539678,
+  "gananciasTotales": 2186.917817460323
 }
