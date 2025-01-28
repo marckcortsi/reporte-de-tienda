@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 34,
-      "ganancia": 207.69408730158736,
+      "adeudo": 109.92,
+      "ganancia": 232.9974206349207,
       "saldoFavor": 0
     },
     {
@@ -1351,6 +1351,20 @@
         "costoTotal": 15,
         "fecha": "28/1/2025, 8:49:50 a.m.",
         "ganancia": 5
+      },
+      {
+        "producto": "Coca de 3 litros",
+        "piezas": 1,
+        "costoTotal": 47.5,
+        "fecha": "28/1/2025, 1:25:34 p.m.",
+        "ganancia": 15.833333333333332
+      },
+      {
+        "producto": "Jarrito Mandarina",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "28/1/2025, 1:25:34 p.m.",
+        "ganancia": 9.470000000000002
       }
     ],
     "Karen": [
@@ -2915,10 +2929,10 @@
       "descripcion": "Coca de 3 litros",
       "precioCompra": 31.67,
       "precioVenta": 47.5,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 31.666666666666668
         }
       ]
@@ -2967,10 +2981,10 @@
       "descripcion": "Jarrito Mandarina",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 18.95
         }
       ]
@@ -3627,6 +3641,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 4607.019682539678,
-  "gananciasTotales": 2303.1503174603226
+  "inversionRecuperada": 4657.636349206345,
+  "gananciasTotales": 2328.453650793656
 }
