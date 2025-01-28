@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 39.55,
-      "ganancia": 89.70666666666665,
+      "adeudo": 58.11,
+      "ganancia": 95.89166666666665,
       "saldoFavor": 0
     },
     {
@@ -713,6 +713,13 @@
         "costoTotal": 4.86,
         "fecha": "28/1/2025, 8:51:23 a.m.",
         "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Vive 100 Original",
+        "piezas": 1,
+        "costoTotal": 18.56,
+        "fecha": "28/1/2025, 9:02:55 a.m.",
+        "ganancia": 6.184999999999999
       }
     ],
     "Francisco": [
@@ -2512,10 +2519,10 @@
       "descripcion": "Vive 100 Original",
       "precioCompra": 12.38,
       "precioVenta": 18.56,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.375
         }
       ]
@@ -3174,6 +3181,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 5982.030000000002,
-  "inversionRecuperada": 4441.308849206344,
-  "gananciasTotales": 2220.3011507936562
+  "inversionRecuperada": 4453.683849206344,
+  "gananciasTotales": 2226.486150793656
 }
