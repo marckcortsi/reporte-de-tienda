@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 129.40000000000003,
-      "ganancia": 395.0468571428572,
+      "adeudo": 157.09000000000003,
+      "ganancia": 404.27685714285724,
       "saldoFavor": 0
     },
     {
@@ -38,15 +38,15 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 138.51,
-      "ganancia": 217.80583333333325,
+      "adeudo": 158.10999999999999,
+      "ganancia": 224.33916666666659,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 19,
-      "ganancia": 202.69408730158736,
+      "adeudo": 34,
+      "ganancia": 207.69408730158736,
       "saldoFavor": 0
     },
     {
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 22.1,
-      "ganancia": 163.65683333333337,
+      "adeudo": 38.6,
+      "ganancia": 169.15683333333337,
       "saldoFavor": 0
     },
     {
@@ -557,6 +557,20 @@
         "costoTotal": 15,
         "fecha": "27/1/2025, 8:41:48 a.m.",
         "ganancia": 5
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "28/1/2025, 8:50:06 a.m.",
+        "ganancia": 3.166666666666667
+      },
+      {
+        "producto": "Emperador Nuez",
+        "piezas": 1,
+        "costoTotal": 18.19,
+        "fecha": "28/1/2025, 8:50:06 a.m.",
+        "ganancia": 6.063333333333334
       }
     ],
     "Edgar": [
@@ -1125,6 +1139,13 @@
         "costoTotal": 1.01,
         "fecha": "27/1/2025, 1:24:00 p.m.",
         "ganancia": 0.33999999999999997
+      },
+      {
+        "producto": "Galletas Oreo",
+        "piezas": 1,
+        "costoTotal": 19.6,
+        "fecha": "28/1/2025, 8:49:19 a.m.",
+        "ganancia": 6.533333333333333
       }
     ],
     "Isrrael": [
@@ -1253,6 +1274,13 @@
         "costoTotal": 19,
         "fecha": "27/1/2025, 1:28:33 p.m.",
         "ganancia": 6.333333333333334
+      },
+      {
+        "producto": "Cremax chocolate",
+        "piezas": 1,
+        "costoTotal": 15,
+        "fecha": "28/1/2025, 8:49:50 a.m.",
+        "ganancia": 5
       }
     ],
     "Karen": [
@@ -2444,6 +2472,13 @@
         "costoTotal": 22.1,
         "fecha": "27/1/2025, 8:56:44 a.m.",
         "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Galletas Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "28/1/2025, 8:49:28 a.m.",
+        "ganancia": 5.5
       }
     ],
     "Vicente": [
@@ -2627,10 +2662,10 @@
       "descripcion": "Cremax chocolate",
       "precioCompra": 10,
       "precioVenta": 15,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 10
         }
       ]
@@ -2666,10 +2701,10 @@
       "descripcion": "Galletas Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 11
         }
       ]
@@ -2679,13 +2714,8 @@
       "descripcion": "Galletas Oreo",
       "precioCompra": 13.07,
       "precioVenta": 19.6,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 13.066666666666668
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478022496",
@@ -2713,10 +2743,10 @@
       "descripcion": "Emperador Nuez",
       "precioCompra": 12.13,
       "precioVenta": 18.19,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 12.126666666666667
         }
       ]
@@ -2778,10 +2808,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 6.33,
       "precioVenta": 9.5,
-      "piezas": 26,
+      "piezas": 25,
       "stockParciales": [
         {
-          "cantidad": 26,
+          "cantidad": 25,
           "costoUnitario": 6.333333333333333
         }
       ]
@@ -3130,6 +3160,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 5982.030000000002,
-  "inversionRecuperada": 4374.542182539678,
-  "gananciasTotales": 2186.917817460323
+  "inversionRecuperada": 4427.068849206345,
+  "gananciasTotales": 2213.1811507936563
 }
