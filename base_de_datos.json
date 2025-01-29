@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 109.92,
-      "ganancia": 232.9974206349207,
+      "adeudo": 124.92,
+      "ganancia": 237.9974206349207,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 131.12,
-      "ganancia": 416.57861111111123,
+      "adeudo": 147.8,
+      "ganancia": 422.13861111111123,
       "saldoFavor": 0
     },
     {
@@ -1407,6 +1407,13 @@
         "costoTotal": 28.42,
         "fecha": "28/1/2025, 1:25:34 p.m.",
         "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Cremax chocolate",
+        "piezas": 1,
+        "costoTotal": 15,
+        "fecha": "29/1/2025, 8:35:10 a.m.",
+        "ganancia": 5
       }
     ],
     "Karen": [
@@ -2407,6 +2414,13 @@
         "costoTotal": 5.34,
         "fecha": "28/1/2025, 3:58:18 p.m.",
         "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "29/1/2025, 8:35:46 a.m.",
+        "ganancia": 5.559999999999999
       }
     ],
     "Rafael": [
@@ -2867,10 +2881,10 @@
       "descripcion": "Cremax chocolate",
       "precioCompra": 10,
       "precioVenta": 15,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 10
         }
       ]
@@ -3153,10 +3167,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -3748,6 +3762,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 4879.3917063492,
-  "gananciasTotales": 2439.198293650797
+  "inversionRecuperada": 4900.5117063492,
+  "gananciasTotales": 2449.758293650797
 }
