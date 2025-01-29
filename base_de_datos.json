@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 86.53,
-      "ganancia": 105.36166666666665,
+      "adeudo": 121.02000000000001,
+      "ganancia": 116.85666666666665,
       "saldoFavor": 0
     },
     {
@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 116.18,
-      "ganancia": 163.2752777777778,
+      "adeudo": 132.86,
+      "ganancia": 168.8352777777778,
       "saldoFavor": 0
     },
     {
@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 124.92,
-      "ganancia": 237.9974206349207,
+      "adeudo": 215.64,
+      "ganancia": 268.23408730158735,
       "saldoFavor": 0
     },
     {
@@ -776,6 +776,20 @@
         "costoTotal": 28.42,
         "fecha": "29/1/2025, 12:02:32 p.m.",
         "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Coca de vidrio 500 ml",
+        "piezas": 1,
+        "costoTotal": 17.81,
+        "fecha": "29/1/2025, 12:38:03 p.m.",
+        "ganancia": 5.934999999999999
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "29/1/2025, 12:38:03 p.m.",
+        "ganancia": 5.559999999999999
       }
     ],
     "Francisco": [
@@ -1025,6 +1039,13 @@
         "costoTotal": 15,
         "fecha": "29/1/2025, 8:39:06 a.m.",
         "ganancia": 5
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "29/1/2025, 12:35:52 p.m.",
+        "ganancia": 5.559999999999999
       }
     ],
     "Isac": [
@@ -1463,6 +1484,13 @@
         "costoTotal": 15,
         "fecha": "29/1/2025, 8:35:10 a.m.",
         "ganancia": 5
+      },
+      {
+        "producto": "Churros grandes de ajonjoli",
+        "piezas": 1,
+        "costoTotal": 90.72,
+        "fecha": "29/1/2025, 12:36:05 p.m.",
+        "ganancia": 30.23666666666667
       }
     ],
     "Karen": [
@@ -3144,10 +3172,10 @@
       "descripcion": "Coca de vidrio 500 ml",
       "precioCompra": 11.88,
       "precioVenta": 17.81,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 17,
           "costoUnitario": 11.875
         }
       ]
@@ -3196,10 +3224,10 @@
       "descripcion": "Churros grandes de ajonjoli",
       "precioCompra": 60.48,
       "precioVenta": 90.72,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 60.48333333333333
         }
       ]
@@ -3248,10 +3276,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 12,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 10,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -3843,6 +3871,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5069.698373015867,
-  "gananciasTotales": 2534.3516269841302
+  "inversionRecuperada": 5164.296706349201,
+  "gananciasTotales": 2581.6432936507967
 }
