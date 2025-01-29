@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 58.11,
-      "ganancia": 95.89166666666665,
+      "adeudo": 86.53,
+      "ganancia": 105.36166666666665,
       "saldoFavor": 0
     },
     {
@@ -769,6 +769,13 @@
         "costoTotal": 18.56,
         "fecha": "28/1/2025, 9:02:55 a.m.",
         "ganancia": 6.184999999999999
+      },
+      {
+        "producto": "Jarrito Mandarina",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "29/1/2025, 12:02:32 p.m.",
+        "ganancia": 9.470000000000002
       }
     ],
     "Francisco": [
@@ -3176,10 +3183,10 @@
       "descripcion": "Jarrito Mandarina",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 18.95
         }
       ]
@@ -3836,6 +3843,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5050.748373015867,
-  "gananciasTotales": 2524.8816269841304
+  "inversionRecuperada": 5069.698373015867,
+  "gananciasTotales": 2534.3516269841302
 }
