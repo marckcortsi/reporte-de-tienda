@@ -59,15 +59,15 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 10.100000000000001,
+      "adeudo": 18.19,
+      "ganancia": 16.163333333333334,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 147.8,
-      "ganancia": 422.13861111111123,
+      "adeudo": 223.71,
+      "ganancia": 447.44444444444457,
       "saldoFavor": 0
     },
     {
@@ -1817,6 +1817,13 @@
         "costoTotal": 15.15,
         "fecha": "24/1/2025, 11:41:11 a.m.",
         "ganancia": 5.050000000000001
+      },
+      {
+        "producto": "Emperador Chocolate",
+        "piezas": 1,
+        "costoTotal": 18.19,
+        "fecha": "29/1/2025, 8:43:50 a.m.",
+        "ganancia": 6.063333333333334
       }
     ],
     "Marcos": [
@@ -2463,6 +2470,27 @@
         "costoTotal": 16.68,
         "fecha": "29/1/2025, 8:35:46 a.m.",
         "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Coca de 3 litros",
+        "piezas": 1,
+        "costoTotal": 47.5,
+        "fecha": "29/1/2025, 8:43:18 a.m.",
+        "ganancia": 15.833333333333332
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "29/1/2025, 8:45:08 a.m.",
+        "ganancia": 5.7225
+      },
+      {
+        "producto": "Churritos chile",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "29/1/2025, 8:45:08 a.m.",
+        "ganancia": 3.75
       }
     ],
     "Rafael": [
@@ -2984,13 +3012,8 @@
       "descripcion": "Emperador Chocolate",
       "precioCompra": 12.13,
       "precioVenta": 18.19,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.126666666666667
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478022540",
@@ -3101,10 +3124,10 @@
       "descripcion": "Coca de 3 litros",
       "precioCompra": 31.67,
       "precioVenta": 47.5,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 31.666666666666668
         }
       ]
@@ -3127,10 +3150,10 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 22,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 22,
+          "cantidad": 21,
           "costoUnitario": 11.4375
         }
       ]
@@ -3322,10 +3345,10 @@
       "descripcion": "Churritos chile",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 7.5
         }
       ]
@@ -3813,6 +3836,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 4988.017539682533,
-  "gananciasTotales": 2493.5124603174636
+  "inversionRecuperada": 5050.748373015867,
+  "gananciasTotales": 2524.8816269841304
 }
