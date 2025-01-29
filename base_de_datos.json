@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 307.35,
-      "ganancia": 454.3195952380954,
+      "adeudo": 316.85,
+      "ganancia": 457.4862619047621,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 261.78,
-      "ganancia": 258.8966666666666,
+      "adeudo": 281.13,
+      "ganancia": 265.3466666666666,
       "saldoFavor": 0
     },
     {
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 120.83,
-      "ganancia": 196.56350000000003,
+      "adeudo": 137.51,
+      "ganancia": 202.12350000000004,
       "saldoFavor": 0
     },
     {
@@ -619,6 +619,13 @@
         "piezas": 1,
         "costoTotal": 9.5,
         "fecha": "29/1/2025, 8:37:22 a.m.",
+        "ganancia": 3.166666666666667
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "29/1/2025, 12:46:47 p.m.",
         "ganancia": 3.166666666666667
       }
     ],
@@ -1328,6 +1335,13 @@
         "costoTotal": 17.16,
         "fecha": "29/1/2025, 8:39:21 a.m.",
         "ganancia": 5.7225
+      },
+      {
+        "producto": "Papas Sol chipotle",
+        "piezas": 1,
+        "costoTotal": 19.35,
+        "fecha": "29/1/2025, 12:46:37 p.m.",
+        "ganancia": 6.450000000000001
       }
     ],
     "Isrrael": [
@@ -2843,6 +2857,13 @@
         "costoTotal": 17.81,
         "fecha": "29/1/2025, 8:37:33 a.m.",
         "ganancia": 5.934999999999999
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "29/1/2025, 12:46:25 p.m.",
+        "ganancia": 5.559999999999999
       }
     ],
     "Vicente": [
@@ -3120,10 +3141,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 6.33,
       "precioVenta": 9.5,
-      "piezas": 21,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 20,
           "costoUnitario": 6.333333333333333
         }
       ]
@@ -3276,10 +3297,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -3341,10 +3362,10 @@
       "descripcion": "Papas Sol chipotle",
       "precioCompra": 12.9,
       "precioVenta": 19.35,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 12.9
         }
       ]
@@ -3871,6 +3892,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5164.296706349201,
-  "gananciasTotales": 2581.6432936507967
+  "inversionRecuperada": 5194.650039682533,
+  "gananciasTotales": 2596.819960317463
 }
