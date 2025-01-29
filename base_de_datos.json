@@ -4,14 +4,14 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 233.36866666666668,
-      "saldoFavor": 299.6
+      "ganancia": 239.43200000000002,
+      "saldoFavor": 281.41
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 275.75,
-      "ganancia": 443.78626190476206,
+      "adeudo": 307.35,
+      "ganancia": 454.3195952380954,
       "saldoFavor": 0
     },
     {
@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 101.18,
-      "ganancia": 158.2752777777778,
+      "adeudo": 116.18,
+      "ganancia": 163.2752777777778,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 229.61999999999998,
-      "ganancia": 248.1741666666666,
+      "adeudo": 261.78,
+      "ganancia": 258.8966666666666,
       "saldoFavor": 0
     },
     {
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 86.52,
-      "ganancia": 185.12850000000003,
+      "adeudo": 120.83,
+      "ganancia": 196.56350000000003,
       "saldoFavor": 0
     },
     {
@@ -240,6 +240,13 @@
         "costoTotal": 118.6,
         "fecha": "27/1/2025, 4:22:49 p.m.",
         "ganancia": 39.49999999999999
+      },
+      {
+        "producto": "Emperador Chocolate",
+        "piezas": 1,
+        "costoTotal": 18.19,
+        "fecha": "29/1/2025, 8:38:31 a.m.",
+        "ganancia": 6.063333333333334
       }
     ],
     "Carlos": [
@@ -599,6 +606,20 @@
         "costoTotal": 71.5,
         "fecha": "28/1/2025, 6:06:52 p.m.",
         "ganancia": 23.7875
+      },
+      {
+        "producto": "Maruchan Pikin",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "29/1/2025, 8:37:22 a.m.",
+        "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "29/1/2025, 8:37:22 a.m.",
+        "ganancia": 3.166666666666667
       }
     ],
     "Edgar": [
@@ -990,6 +1011,13 @@
         "costoTotal": 22.1,
         "fecha": "28/1/2025, 12:52:21 p.m.",
         "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Cremax fresa",
+        "piezas": 1,
+        "costoTotal": 15,
+        "fecha": "29/1/2025, 8:39:06 a.m.",
+        "ganancia": 5
       }
     ],
     "Isac": [
@@ -1258,6 +1286,20 @@
         "costoTotal": 9.5,
         "fecha": "28/1/2025, 6:04:35 p.m.",
         "ganancia": 3.166666666666667
+      },
+      {
+        "producto": "Cremax fresa",
+        "piezas": 1,
+        "costoTotal": 15,
+        "fecha": "29/1/2025, 8:37:44 a.m.",
+        "ganancia": 5
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "29/1/2025, 8:39:21 a.m.",
+        "ganancia": 5.7225
       }
     ],
     "Isrrael": [
@@ -2724,6 +2766,20 @@
         "costoTotal": 5.65,
         "fecha": "28/1/2025, 3:56:59 p.m.",
         "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Galletas Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "29/1/2025, 8:37:33 a.m.",
+        "ganancia": 5.5
+      },
+      {
+        "producto": "Coca de vidrio 500 ml",
+        "piezas": 1,
+        "costoTotal": 17.81,
+        "fecha": "29/1/2025, 8:37:33 a.m.",
+        "ganancia": 5.934999999999999
       }
     ],
     "Vicente": [
@@ -2894,10 +2950,10 @@
       "descripcion": "Cremax fresa",
       "precioCompra": 10,
       "precioVenta": 15,
-      "piezas": 3,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 1,
           "costoUnitario": 10
         }
       ]
@@ -2920,23 +2976,18 @@
       "descripcion": "Galletas Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 11
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478022496",
       "descripcion": "Emperador Chocolate",
       "precioCompra": 12.13,
       "precioVenta": 18.19,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.126666666666667
         }
       ]
@@ -3011,10 +3062,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 6.33,
       "precioVenta": 9.5,
-      "piezas": 22,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 22,
+          "cantidad": 21,
           "costoUnitario": 6.333333333333333
         }
       ]
@@ -3037,10 +3088,10 @@
       "descripcion": "Maruchan Pikin",
       "precioCompra": 14.73,
       "precioVenta": 22.1,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 14.733333333333334
         }
       ]
@@ -3063,10 +3114,10 @@
       "descripcion": "Coca de vidrio 500 ml",
       "precioCompra": 11.88,
       "precioVenta": 17.81,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 11.875
         }
       ]
@@ -3076,10 +3127,10 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 23,
+      "piezas": 22,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 22,
           "costoUnitario": 11.4375
         }
       ]
@@ -3762,6 +3813,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 4900.5117063492,
-  "gananciasTotales": 2449.758293650797
+  "inversionRecuperada": 4988.017539682533,
+  "gananciasTotales": 2493.5124603174636
 }
