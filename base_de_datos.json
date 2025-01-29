@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 166.59000000000003,
-      "ganancia": 407.4435238095239,
+      "adeudo": 275.75,
+      "ganancia": 443.78626190476206,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 220.11999999999998,
-      "ganancia": 245.00749999999994,
+      "adeudo": 229.61999999999998,
+      "ganancia": 248.1741666666666,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 62.129999999999995,
-      "ganancia": 284.27215079365084,
+      "adeudo": 164.1,
+      "ganancia": 318.217388888889,
       "saldoFavor": 0
     },
     {
@@ -578,6 +578,27 @@
         "costoTotal": 9.5,
         "fecha": "28/1/2025, 3:56:43 p.m.",
         "ganancia": 3.166666666666667
+      },
+      {
+        "producto": "Palomitas de mantequilla",
+        "piezas": 1,
+        "costoTotal": 15.56,
+        "fecha": "28/1/2025, 6:04:16 p.m.",
+        "ganancia": 5.18857142857143
+      },
+      {
+        "producto": "Maruchan Pikin",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "28/1/2025, 6:04:16 p.m.",
+        "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 25,
+        "costoTotal": 71.5,
+        "fecha": "28/1/2025, 6:06:52 p.m.",
+        "ganancia": 23.7875
       }
     ],
     "Edgar": [
@@ -1230,6 +1251,13 @@
         "costoTotal": 22.1,
         "fecha": "28/1/2025, 12:52:35 p.m.",
         "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "28/1/2025, 6:04:35 p.m.",
+        "ganancia": 3.166666666666667
       }
     ],
     "Isrrael": [
@@ -1696,6 +1724,34 @@
         "costoTotal": 5.34,
         "fecha": "28/1/2025, 3:57:22 p.m.",
         "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "28/1/2025, 6:05:54 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "28/1/2025, 6:05:54 p.m.",
+        "ganancia": 3.166666666666667
+      },
+      {
+        "producto": "Palomitas de Maiz",
+        "piezas": 1,
+        "costoTotal": 15.63,
+        "fecha": "28/1/2025, 6:05:54 p.m.",
+        "ganancia": 5.208571428571428
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 25,
+        "costoTotal": 71.5,
+        "fecha": "28/1/2025, 6:05:54 p.m.",
+        "ganancia": 23.7875
       }
     ],
     "Laura": [
@@ -2699,13 +2755,8 @@
       "descripcion": "Palomitas de mantequilla",
       "precioCompra": 10.37,
       "precioVenta": 15.56,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 10.37142857142857
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "038629002075",
@@ -2842,10 +2893,10 @@
       "descripcion": "Cigarros Shots",
       "precioCompra": 1.91,
       "precioVenta": 2.86,
-      "piezas": 175,
+      "piezas": 125,
       "stockParciales": [
         {
-          "cantidad": 175,
+          "cantidad": 125,
           "costoUnitario": 1.9084999999999999
         }
       ]
@@ -2920,10 +2971,10 @@
       "descripcion": "Zumba Goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 3.5575
         }
       ]
@@ -2946,10 +2997,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 6.33,
       "precioVenta": 9.5,
-      "piezas": 24,
+      "piezas": 22,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 22,
           "costoUnitario": 6.333333333333333
         }
       ]
@@ -2972,10 +3023,10 @@
       "descripcion": "Maruchan Pikin",
       "precioCompra": 14.73,
       "precioVenta": 22.1,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 14.733333333333334
         }
       ]
@@ -3245,10 +3296,10 @@
       "descripcion": "Palomitas de Maiz",
       "precioCompra": 10.42,
       "precioVenta": 15.63,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 10.421428571428573
         }
       ]
@@ -3697,6 +3748,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 4732.216349206344,
-  "gananciasTotales": 2365.743650793655
+  "inversionRecuperada": 4879.3917063492,
+  "gananciasTotales": 2439.198293650797
 }
