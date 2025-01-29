@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 223.71,
-      "ganancia": 447.44444444444457,
+      "adeudo": 243.06,
+      "ganancia": 453.89444444444456,
       "saldoFavor": 0
     },
     {
@@ -2554,6 +2554,13 @@
         "costoTotal": 11.25,
         "fecha": "29/1/2025, 8:45:08 a.m.",
         "ganancia": 3.75
+      },
+      {
+        "producto": "Papas Sol chipotle",
+        "piezas": 1,
+        "costoTotal": 19.35,
+        "fecha": "29/1/2025, 3:05:51 p.m.",
+        "ganancia": 6.450000000000001
       }
     ],
     "Rafael": [
@@ -3390,10 +3397,10 @@
       "descripcion": "Papas Sol chipotle",
       "precioCompra": 12.9,
       "precioVenta": 19.35,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.9
         }
       ]
@@ -3920,6 +3927,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5239.300039682533,
-  "gananciasTotales": 2619.1399603174627
+  "inversionRecuperada": 5252.200039682532,
+  "gananciasTotales": 2625.5899603174626
 }
