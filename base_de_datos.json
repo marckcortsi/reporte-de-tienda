@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 285.08000000000004,
-      "ganancia": 467.89944444444455,
+      "adeudo": 302.24000000000007,
+      "ganancia": 473.6219444444446,
       "saldoFavor": 0
     },
     {
@@ -2687,6 +2687,13 @@
         "costoTotal": 17.81,
         "fecha": "30/1/2025, 12:38:36 p.m.",
         "ganancia": 5.934999999999999
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "30/1/2025, 3:13:34 p.m.",
+        "ganancia": 5.7225
       }
     ],
     "Rafael": [
@@ -3378,10 +3385,10 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 20,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 11.4375
         }
       ]
@@ -4064,6 +4071,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5580.713968253962,
-  "gananciasTotales": 2789.786031746034
+  "inversionRecuperada": 5592.151468253962,
+  "gananciasTotales": 2795.508531746034
 }
