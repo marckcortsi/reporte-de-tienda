@@ -4,8 +4,8 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 239.43200000000002,
-      "saldoFavor": 281.41
+      "ganancia": 277.732,
+      "saldoFavor": 166.41000000000003
     },
     {
       "nombre": "Carlos",
@@ -247,6 +247,13 @@
         "costoTotal": 18.19,
         "fecha": "29/1/2025, 8:38:31 a.m.",
         "ganancia": 6.063333333333334
+      },
+      {
+        "producto": "Malboro",
+        "piezas": 20,
+        "costoTotal": 115,
+        "fecha": "29/1/2025, 5:59:13 p.m.",
+        "ganancia": 38.3
       }
     ],
     "Carlos": [
@@ -3449,10 +3456,10 @@
       "descripcion": "Malboro",
       "precioCompra": 3.83,
       "precioVenta": 5.75,
-      "piezas": 100,
+      "piezas": 80,
       "stockParciales": [
         {
-          "cantidad": 100,
+          "cantidad": 80,
           "costoUnitario": 3.835
         }
       ]
@@ -3927,6 +3934,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5252.200039682532,
-  "gananciasTotales": 2625.5899603174626
+  "inversionRecuperada": 5328.900039682532,
+  "gananciasTotales": 2663.8899603174627
 }
