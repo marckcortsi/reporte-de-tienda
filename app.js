@@ -77,7 +77,38 @@ function llenarSelectUsuarios(selectId) {
 }
 
 /************************************
- * CONSULTA INDIVIDUAL
+ * Función para parsear la fecha:
+ * "DD/M/YYYY, HH:MM:SS a.m./p.m." -> objeto Date
+ ************************************/
+function parseFechaManual(fechaStr) {
+  // Ejemplo de fechaStr: "8/1/2025, 2:49:37 p.m."
+  // 1) Separamos la parte de fecha de la hora
+  let [parteFecha, parteHora] = fechaStr.split(",").map(s => s.trim());
+  // parteFecha = "8/1/2025"
+  // parteHora  = "2:49:37 p.m."
+
+  // 2) Parseamos la fecha "D/M/YYYY"
+  let [dia, mes, anio] = parteFecha.split("/").map(num => parseInt(num));
+
+  // 3) Parseamos la hora "2:49:37" y am/pm
+  let [horaMinSeg, ampm] = parteHora.split(" ");
+  let [hh, mm, ss] = horaMinSeg.split(":").map(num => parseInt(num));
+
+  // Ajustamos si es "p.m." o "a.m."
+  ampm = ampm.toLowerCase(); 
+  if (ampm.includes("p.m.") && hh < 12) {
+    hh += 12;
+  }
+  if (ampm.includes("a.m.") && hh === 12) {
+    hh = 0;
+  }
+
+  // 4) Creamos el objeto Date
+  return new Date(anio, mes - 1, dia, hh, mm, ss);
+}
+
+/************************************
+ * CONSULTA INDIVIDUAL (Mostrar info)
  ************************************/
 function filtrarInformacionUsuario() {
   const usuario           = document.getElementById("select-usuario-consulta").value;
@@ -87,7 +118,7 @@ function filtrarInformacionUsuario() {
   const inversionUsuario  = document.getElementById("inversion-usuario");
   const gananciaUsuario   = document.getElementById("ganancia-usuario");
   const adeudoUsuario     = document.getElementById("adeudo-usuario-estado");
-  const saldoFavorEl      = document.getElementById("saldo-favor-usuario"); // NUEVO
+  const saldoFavorEl      = document.getElementById("saldo-favor-usuario");
   const tablaHistorial    = document.getElementById("tabla-historial").querySelector("tbody");
 
   consultaUsuarioDiv.classList.remove("hidden");
@@ -109,7 +140,7 @@ function filtrarInformacionUsuario() {
     inversionUsuario.innerText = formatMoney(0);
     gananciaUsuario.innerText  = "No aplica (Externo)";
   } else {
-    // Cada inversionista tenía 500, igual que en tu app principal
+    // Cada inversionista tenía 500
     inversionUsuario.innerText = formatMoney(500);
     gananciaUsuario.innerText  = formatMoney(userObj.ganancia);
   }
@@ -125,10 +156,10 @@ function filtrarInformacionUsuario() {
     adeudoUsuario.classList.remove("red");
   }
 
-  // Saldo a favor (NUEVO)
+  // Saldo a favor
   saldoFavorEl.innerText = formatMoney(userObj.saldoFavor || 0);
 
-  // Historial de compras
+  // Historial de compras completo (sin filtro de fechas aún)
   tablaHistorial.innerHTML = "";
   const historial = historialCompras[userObj.nombre];
   if (!historial || historial.length === 0) {
@@ -151,6 +182,71 @@ function filtrarInformacionUsuario() {
 }
 
 /************************************
+ * FILTRAR HISTORIAL POR FECHA
+ ************************************/
+function filtrarHistorialPorFecha() {
+  const usuario = document.getElementById("select-usuario-consulta").value;
+  const userObj = usuarios.find(u => u.nombre === usuario);
+  if (!userObj) return;
+
+  const startDateValue = document.getElementById("start-date").value; // "YYYY-MM-DD"
+  const endDateValue   = document.getElementById("end-date").value;   // "YYYY-MM-DD"
+
+  // Creamos Date desde esos strings
+  let start = startDateValue ? new Date(startDateValue) : null;
+  let end   = endDateValue   ? new Date(endDateValue)   : null;
+
+  // Ajustar end date a 23:59:59 para incluir todo ese día
+  if (end) {
+    end.setHours(23, 59, 59, 999);
+  }
+
+  // Historial completo del usuario
+  let historial = historialCompras[userObj.nombre] || [];
+
+  // Filtramos solo si ambas fechas existen
+  if (start && end) {
+    historial = historial.filter(compra => {
+      const compraDate = parseFechaManual(compra.fecha);
+      return (compraDate >= start && compraDate <= end);
+    });
+  }
+
+  // Renderizamos la tabla filtrada
+  const tablaHistorial = document.getElementById("tabla-historial").querySelector("tbody");
+  tablaHistorial.innerHTML = "";
+
+  if (historial.length === 0) {
+    let row = document.createElement("tr");
+    row.innerHTML = `<td colspan="5">Sin compras registradas en este rango</td>`;
+    tablaHistorial.appendChild(row);
+  } else {
+    historial.forEach(compra => {
+      const row = document.createElement("tr");
+      row.innerHTML = `
+        <td>${compra.producto}</td>
+        <td>${compra.piezas}</td>
+        <td>${formatMoney(compra.costoTotal)}</td>
+        <td>${compra.fecha}</td>
+        <td>${formatMoney(compra.ganancia)}</td>
+      `;
+      tablaHistorial.appendChild(row);
+    });
+  }
+}
+
+/************************************
+ * BOTÓN BORRAR FILTRO
+ ************************************/
+function limpiarFiltroHistorial() {
+  // Limpiamos los inputs de fecha
+  document.getElementById("start-date").value = "";
+  document.getElementById("end-date").value   = "";
+  // Volvemos a mostrar todo el historial (sin filtros)
+  filtrarInformacionUsuario();
+}
+
+/************************************
  * IMPRIMIR REPORTE DE USUARIO
  ************************************/
 function imprimirReporteUsuario() {
@@ -170,7 +266,6 @@ function imprimirReporteUsuario() {
     contenidoHTML += `<p><strong>Ganancia Total:</strong> N/A (Externo)</p>`;
   }
   contenidoHTML += `<p><strong>Adeudo:</strong> ${formatMoney(userObj.adeudo)}</p>`;
-  // Agregamos saldoFavor también
   contenidoHTML += `<p><strong>Saldo a favor:</strong> ${formatMoney(userObj.saldoFavor || 0)}</p>`;
 
   const historial = historialCompras[userObj.nombre];
@@ -336,7 +431,7 @@ function mostrarInventario() {
   productos.forEach((prod) => {
     const row = document.createElement("tr");
     if (prod.piezas === 0) {
-      // Subrayar en rojo si no hay stock
+      // Resaltar en rojo si no hay stock
       row.style.backgroundColor = "#ffd4d4";
     }
     row.innerHTML = `

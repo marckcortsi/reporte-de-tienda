@@ -51,16 +51,32 @@
         <button class="btn" onclick="imprimirReporteUsuario()">Imprimir Reporte Usuario</button>
       </div>
 
-      <div id="consulta-usuario" class="consulta-usuario hidden">
-        <div class="usuario-info">
-          <img id="foto-usuario" src="" alt="Foto Usuario" class="foto-usuario">
-          <h3 id="nombre-usuario"></h3>
-          <p>Inversión: <span id="inversion-usuario">$0.00</span></p>
-          <p>Ganancia Total: <span id="ganancia-usuario">$0.00</span></p>
-          <p id="adeudo-usuario-estado" class="adeudo-estado"></p>
-          <!-- Nuevo: saldo a favor -->
-          <p>Saldo a favor: <span id="saldo-favor-usuario">$0.00</span></p>
+      <!-- Nueva sección de filtros de fecha con botón adicional para Borrar Filtro -->
+      <div class="form-group date-filter-group">
+        <label for="start-date">Fecha inicio:</label>
+        <input type="date" id="start-date">
+        <label for="end-date">Fecha fin:</label>
+        <input type="date" id="end-date">
+        
+        <div class="btn-row">
+          <button class="btn" onclick="filtrarHistorialPorFecha()">Filtrar</button>
+          <button class="btn" onclick="limpiarFiltroHistorial()">Borrar Filtro</button>
         </div>
+      </div>
+
+      <div id="consulta-usuario" class="consulta-usuario hidden">
+        <!-- Ajuste de estilo para que se parezca al ejemplo (fondo oscuro) -->
+        <div class="usuario-info-card">
+          <img id="foto-usuario" src="" alt="Foto Usuario" class="foto-usuario">
+          <div class="info-text">
+            <h2 id="nombre-usuario"></h2>
+            <p>Inversión: <span id="inversion-usuario">$0.00</span></p>
+            <p>Ganancia Total: <span id="ganancia-usuario">$0.00</span></p>
+            <p id="adeudo-usuario-estado" class="adeudo-estado"></p>
+            <p>Saldo a favor: <span id="saldo-favor-usuario">$0.00</span></p>
+          </div>
+        </div>
+
         <div class="table-container" id="usuario-table-container">
           <div class="btn-row">
             <button class="btn" onclick="toggleFullscreen('usuario-table-container')">Pantalla Completa</button>
@@ -99,7 +115,6 @@
         <div class="btn-row">
           <button class="btn" onclick="toggleFullscreen('inversion-table-container')">Pantalla Completa</button>
         </div>
-        <!-- Nuevo: agregamos columnas Adeudo y Saldo a Favor -->
         <table id="tabla-usuarios-ganancias">
           <thead>
             <tr>
