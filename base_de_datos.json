@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 331.85,
-      "ganancia": 462.4862619047621,
+      "adeudo": 353.95000000000005,
+      "ganancia": 469.8529285714288,
       "saldoFavor": 0
     },
     {
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 155.82,
-      "ganancia": 208.2251666666667,
+      "adeudo": 195.73,
+      "ganancia": 221.52683333333337,
       "saldoFavor": 0
     },
     {
@@ -648,6 +648,13 @@
         "costoTotal": 15,
         "fecha": "30/1/2025, 9:32:09 a.m.",
         "ganancia": 5
+      },
+      {
+        "producto": "Maruchan Pikin",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "30/1/2025, 10:15:59 a.m.",
+        "ganancia": 7.366666666666667
       }
     ],
     "Edgar": [
@@ -2969,6 +2976,20 @@
         "costoTotal": 18.31,
         "fecha": "29/1/2025, 12:49:34 p.m.",
         "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Coca de vidrio 500 ml",
+        "piezas": 1,
+        "costoTotal": 17.81,
+        "fecha": "30/1/2025, 10:15:44 a.m.",
+        "ganancia": 5.934999999999999
+      },
+      {
+        "producto": "Maruchan Pikin",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "30/1/2025, 10:15:44 a.m.",
+        "ganancia": 7.366666666666667
       }
     ],
     "Vicente": [
@@ -3269,10 +3290,10 @@
       "descripcion": "Maruchan Pikin",
       "precioCompra": 14.73,
       "precioVenta": 22.1,
-      "piezas": 6,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 4,
           "costoUnitario": 14.733333333333334
         }
       ]
@@ -3295,10 +3316,10 @@
       "descripcion": "Coca de vidrio 500 ml",
       "precioCompra": 11.88,
       "precioVenta": 17.81,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 11.875
         }
       ]
@@ -3994,6 +4015,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5430.834206349199,
-  "gananciasTotales": 2714.865793650796
+  "inversionRecuperada": 5472.175873015866,
+  "gananciasTotales": 2735.5341269841297
 }
