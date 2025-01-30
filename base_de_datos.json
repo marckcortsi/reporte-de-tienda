@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 323.47999999999996,
-      "ganancia": 279.46916666666664,
+      "adeudo": 345.58,
+      "ganancia": 286.8358333333333,
       "saldoFavor": 0
     },
     {
@@ -1433,6 +1433,13 @@
         "costoTotal": 17.16,
         "fecha": "30/1/2025, 9:37:01 a.m.",
         "ganancia": 5.7225
+      },
+      {
+        "producto": "Maruchan Pikin",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "30/1/2025, 3:16:46 p.m.",
+        "ganancia": 7.366666666666667
       }
     ],
     "Isrrael": [
@@ -3346,10 +3353,10 @@
       "descripcion": "Maruchan Pikin",
       "precioCompra": 14.73,
       "precioVenta": 22.1,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 14.733333333333334
         }
       ]
@@ -4071,6 +4078,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5592.151468253962,
-  "gananciasTotales": 2795.508531746034
+  "inversionRecuperada": 5606.884801587295,
+  "gananciasTotales": 2802.8751984127007
 }
