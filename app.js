@@ -87,7 +87,7 @@ function parseInputDay(value) {
 
 /************************************
  * Del historial (p.ej. "10/1/2025, 9:19:07 a.m.")
- * solo tomamos el día/mes/año y formamos YYYYMMDD
+ * solo tomamos el día/mes/año => YYYYMMDD
  ************************************/
 function parseHistorialDay(fechaStr) {
   // "DD/M/YYYY, HH:MM:SS a.m."
