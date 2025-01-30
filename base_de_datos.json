@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 316.85,
-      "ganancia": 457.4862619047621,
+      "adeudo": 331.85,
+      "ganancia": 462.4862619047621,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 247.92000000000002,
-      "ganancia": 455.51444444444456,
+      "adeudo": 267.27000000000004,
+      "ganancia": 461.96444444444455,
       "saldoFavor": 0
     },
     {
@@ -641,6 +641,13 @@
         "costoTotal": 9.5,
         "fecha": "29/1/2025, 12:46:47 p.m.",
         "ganancia": 3.166666666666667
+      },
+      {
+        "producto": "Cremax fresa",
+        "piezas": 1,
+        "costoTotal": 15,
+        "fecha": "30/1/2025, 9:32:09 a.m.",
+        "ganancia": 5
       }
     ],
     "Edgar": [
@@ -2610,6 +2617,13 @@
         "costoTotal": 4.86,
         "fecha": "30/1/2025, 9:13:37 a.m.",
         "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Papas Sol limon",
+        "piezas": 1,
+        "costoTotal": 19.35,
+        "fecha": "30/1/2025, 9:33:33 a.m.",
+        "ganancia": 6.450000000000001
       }
     ],
     "Rafael": [
@@ -3113,13 +3127,8 @@
       "descripcion": "Cremax fresa",
       "precioCompra": 10,
       "precioVenta": 15,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 10
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "75078843",
@@ -3402,10 +3411,10 @@
       "descripcion": "Papas Sol limon",
       "precioCompra": 12.9,
       "precioVenta": 19.35,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 12.9
         }
       ]
@@ -3971,6 +3980,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5389.8067063492,
-  "gananciasTotales": 2694.3432936507966
+  "inversionRecuperada": 5412.7067063491995,
+  "gananciasTotales": 2705.7932936507964
 }
