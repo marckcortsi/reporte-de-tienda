@@ -15,12 +15,12 @@ let historialEntradas   = [];
  * Al cargar la ventana
  ************************************/
 window.onload = () => {
-  fetch('base_de_datos.json')
+  // Forzar no cache al recargar
+  fetch('base_de_datos.json?nocache=' + new Date().getTime())
     .then(response => response.json())
     .then(data => {
-      // Ajuste por si no existe saldoFavor
       data.usuarios.forEach(u => {
-        if (typeof u.saldoFavor === "undefined") {
+        if (u.saldoFavor === undefined) {
           u.saldoFavor = 0;
         }
       });
@@ -61,7 +61,7 @@ function formatMoney(amount) {
 }
 
 /************************************
- * Llenar select de usuarios
+ * Llenar select
  ************************************/
 function llenarSelectUsuarios(selectId) {
   const sel = document.getElementById(selectId);
@@ -76,46 +76,35 @@ function llenarSelectUsuarios(selectId) {
 }
 
 /************************************
- * Obtener "YYYYMMDD" de un string "YYYY-MM-DD"
+ * Del input date => YYYYMMDD
  ************************************/
 function parseInputDay(value) {
-  // value = "2025-01-10"
   if (!value) return null;
-  const [yyyy, mm, dd] = value.split("-").map(x => parseInt(x));
+  let [yyyy, mm, dd] = value.split("-").map(x => parseInt(x));
   return (yyyy * 10000) + (mm * 100) + dd;
 }
 
 /************************************
- * Del historial (p.ej. "10/1/2025, 9:19:07 a.m.")
- * solo tomamos el día/mes/año => YYYYMMDD
+ * De "DD/M/YYYY, HH:MM..." => YYYYMMDD
  ************************************/
 function parseHistorialDay(fechaStr) {
-  // "DD/M/YYYY, HH:MM:SS a.m."
-  const parteFecha = fechaStr.split(",")[0].trim(); // "10/1/2025"
+  const parteFecha = fechaStr.split(",")[0].trim();
   let [dia, mes, anio] = parteFecha.split("/").map(x => parseInt(x));
   return (anio * 10000) + (mes * 100) + dia;
 }
 
 /************************************
- * Consulta Individual - Ver usuario
+ * Ver datos del usuario
  ************************************/
 function filtrarInformacionUsuario() {
   const usuario = document.getElementById("select-usuario-consulta").value;
-  const divConsulta = document.getElementById("consulta-usuario");
-  const foto = document.getElementById("foto-usuario");
-  const nomEl = document.getElementById("nombre-usuario");
-  const invEl = document.getElementById("inversion-usuario");
-  const ganEl = document.getElementById("ganancia-usuario");
-  const adeudoEl = document.getElementById("adeudo-usuario-estado");
-  const saldoFavorEl = document.getElementById("saldo-favor-usuario");
-  const tbody = document.querySelector("#tabla-historial tbody");
-
-  divConsulta.classList.remove("hidden");
-
   const userObj = usuarios.find(u => u.nombre === usuario);
   if (!userObj) return;
 
+  document.getElementById("consulta-usuario").classList.remove("hidden");
+
   // Foto
+  const foto = document.getElementById("foto-usuario");
   foto.src = `fotos/${userObj.nombre}.jpg`;
   foto.alt = userObj.nombre;
   foto.onerror = function() {
@@ -123,8 +112,13 @@ function filtrarInformacionUsuario() {
     this.src = "fotos/default.png";
   };
 
-  // Datos
-  nomEl.textContent = userObj.nombre;
+  // Labels
+  document.getElementById("nombre-usuario").textContent = userObj.nombre;
+  const invEl = document.getElementById("inversion-usuario");
+  const ganEl = document.getElementById("ganancia-usuario");
+  const adeudoEl = document.getElementById("adeudo-usuario-estado");
+  const saldoEl = document.getElementById("saldo-favor-usuario");
+
   if (userObj.nombre === "Externo") {
     invEl.textContent = formatMoney(0);
     ganEl.textContent = "No aplica";
@@ -133,7 +127,6 @@ function filtrarInformacionUsuario() {
     ganEl.textContent = formatMoney(userObj.ganancia);
   }
 
-  // Adeudo
   if (userObj.adeudo > 0) {
     adeudoEl.textContent = `Adeudo: ${formatMoney(userObj.adeudo)}`;
     adeudoEl.classList.add("red");
@@ -144,12 +137,12 @@ function filtrarInformacionUsuario() {
     adeudoEl.classList.remove("red");
   }
 
-  // Saldo a favor
-  saldoFavorEl.textContent = formatMoney(userObj.saldoFavor || 0);
+  saldoEl.textContent = formatMoney(userObj.saldoFavor || 0);
 
-  // Llenar tabla sin filtro
+  // Mostrar historial sin filtros
+  const tbody = document.querySelector("#tabla-historial tbody");
   tbody.innerHTML = "";
-  let historial = historialCompras[userObj.nombre] || [];
+  const historial = historialCompras[userObj.nombre] || [];
   if (historial.length === 0) {
     let row = document.createElement("tr");
     row.innerHTML = `<td colspan="5">Sin compras registradas</td>`;
@@ -170,40 +163,35 @@ function filtrarInformacionUsuario() {
 }
 
 /************************************
- * Filtrar por fechas (un solo día funciona)
+ * Filtrar por rango de fechas
  ************************************/
 function filtrarHistorialPorFecha() {
   const usuario = document.getElementById("select-usuario-consulta").value;
   const userObj = usuarios.find(u => u.nombre === usuario);
   if (!userObj) return;
 
-  // Tomar los "YYYY-MM-DD"
   const startVal = document.getElementById("start-date").value;
   const endVal   = document.getElementById("end-date").value;
+  const startDay = parseInputDay(startVal);
+  const endDay   = parseInputDay(endVal);
 
-  const startDay = parseInputDay(startVal); // 20250110
-  const endDay   = parseInputDay(endVal);   // 20250110
-
-  // Historial completo
   const tbody = document.querySelector("#tabla-historial tbody");
+  tbody.innerHTML = "";
+
   let historial = historialCompras[userObj.nombre] || [];
 
-  // Si tenemos ambos rangos:
   if (startDay && endDay) {
-    // Aseguramos que endDay >= startDay
     let minDay = Math.min(startDay, endDay);
     let maxDay = Math.max(startDay, endDay);
 
-    historial = historial.filter(compra => {
-      const compraDay = parseHistorialDay(compra.fecha);
-      return (compraDay >= minDay && compraDay <= maxDay);
+    historial = historial.filter(h => {
+      const cDay = parseHistorialDay(h.fecha);
+      return (cDay >= minDay && cDay <= maxDay);
     });
   }
 
-  // Render
-  tbody.innerHTML = "";
   if (historial.length === 0) {
-    const row = document.createElement("tr");
+    let row = document.createElement("tr");
     row.innerHTML = `<td colspan="5">Sin compras registradas en este rango</td>`;
     tbody.appendChild(row);
   } else {
@@ -222,16 +210,16 @@ function filtrarHistorialPorFecha() {
 }
 
 /************************************
- * Borrar Filtro -> mostrar todo
+ * Borrar Filtro
  ************************************/
 function limpiarFiltroHistorial() {
   document.getElementById("start-date").value = "";
   document.getElementById("end-date").value   = "";
-  filtrarInformacionUsuario(); // Muestra todo el historial sin filtros
+  filtrarInformacionUsuario();
 }
 
 /************************************
- * Imprimir reporte de un usuario
+ * Imprimir reporte
  ************************************/
 function imprimirReporteUsuario() {
   const usuario = document.getElementById("select-usuario-consulta").value;
@@ -241,22 +229,22 @@ function imprimirReporteUsuario() {
     return;
   }
 
-  let contenidoHTML = `<p><strong>Usuario:</strong> ${userObj.nombre}</p>`;
+  let html = `<p><strong>Usuario:</strong> ${userObj.nombre}</p>`;
   if (userObj.nombre !== "Externo") {
-    contenidoHTML += `<p><strong>Inversión:</strong> ${formatMoney(500)}</p>`;
-    contenidoHTML += `<p><strong>Ganancia Total:</strong> ${formatMoney(userObj.ganancia)}</p>`;
+    html += `<p><strong>Inversión:</strong> ${formatMoney(500)}</p>`;
+    html += `<p><strong>Ganancia Total:</strong> ${formatMoney(userObj.ganancia)}</p>`;
   } else {
-    contenidoHTML += `<p><strong>Inversión:</strong> 0 (Externo)</p>`;
-    contenidoHTML += `<p><strong>Ganancia Total:</strong> N/A (Externo)</p>`;
+    html += `<p><strong>Inversión:</strong> 0 (Externo)</p>`;
+    html += `<p><strong>Ganancia Total:</strong> N/A (Externo)</p>`;
   }
-  contenidoHTML += `<p><strong>Adeudo:</strong> ${formatMoney(userObj.adeudo)}</p>`;
-  contenidoHTML += `<p><strong>Saldo a favor:</strong> ${formatMoney(userObj.saldoFavor || 0)}</p>`;
+  html += `<p><strong>Adeudo:</strong> ${formatMoney(userObj.adeudo)}</p>`;
+  html += `<p><strong>Saldo a favor:</strong> ${formatMoney(userObj.saldoFavor || 0)}</p>`;
 
-  const historial = historialCompras[userObj.nombre];
-  if (!historial || historial.length === 0) {
-    contenidoHTML += `<p>Sin compras registradas</p>`;
+  const hist = historialCompras[userObj.nombre];
+  if (!hist || hist.length === 0) {
+    html += `<p>Sin compras registradas</p>`;
   } else {
-    contenidoHTML += `
+    html += `
       <table>
         <thead>
           <tr>
@@ -269,40 +257,35 @@ function imprimirReporteUsuario() {
         </thead>
         <tbody>
     `;
-    historial.forEach(compra => {
-      contenidoHTML += `
+    hist.forEach(c => {
+      html += `
           <tr>
-            <td>${compra.producto}</td>
-            <td>${compra.piezas}</td>
-            <td>${formatMoney(compra.costoTotal)}</td>
-            <td>${compra.fecha}</td>
-            <td>${formatMoney(compra.ganancia)}</td>
+            <td>${c.producto}</td>
+            <td>${c.piezas}</td>
+            <td>${formatMoney(c.costoTotal)}</td>
+            <td>${c.fecha}</td>
+            <td>${formatMoney(c.ganancia)}</td>
           </tr>
       `;
     });
-    contenidoHTML += `</tbody></table>`;
+    html += `</tbody></table>`;
   }
-
-  mostrarVentanaImpresion(contenidoHTML, "Reporte de Usuario");
+  mostrarVentanaImpresion(html, "Reporte de Usuario");
 }
 
 /************************************
- * Ventana emergente para imprimir
+ * Ventana emergente de impresión
  ************************************/
-function mostrarVentanaImpresion(htmlContenido, titulo) {
-  const w = window.open("", "Reporte", "width=900,height=600");
+function mostrarVentanaImpresion(content, title) {
+  let w = window.open("", "Reporte", "width=900,height=600");
   w.document.write(`
     <html>
       <head>
-        <title>${titulo}</title>
+        <title>${title}</title>
         <style>
-          body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 20px;
-          }
+          body { font-family: Arial,sans-serif; text-align:center; margin:20px; }
           table {
-            margin: 0 auto;
+            margin: 0 auto; 
             border-collapse: collapse; 
             width: 80%;
           }
@@ -323,8 +306,8 @@ function mostrarVentanaImpresion(htmlContenido, titulo) {
         </style>
       </head>
       <body>
-        <h2>${titulo}</h2>
-        ${htmlContenido}
+        <h2>${title}</h2>
+        ${content}
         <button onclick="window.print()">Imprimir</button>
       </body>
     </html>
@@ -344,10 +327,10 @@ function actualizarConsultaInversion() {
   let saldoActual  = totalInversion - (gastoEnProductos - inversionRecuperada);
   let totalAdeudos = usuarios.reduce((acum, u) => acum + (u.adeudo || 0), 0);
 
-  invTotalEl.innerText     = formatMoney(totalInversion);
-  invGananciasEl.innerText = formatMoney(gananciasTotales);
-  invSaldoEl.innerText     = formatMoney(saldoActual);
-  invAdeudosEl.innerText   = formatMoney(totalAdeudos);
+  invTotalEl.textContent     = formatMoney(totalInversion);
+  invGananciasEl.textContent = formatMoney(gananciasTotales);
+  invSaldoEl.textContent     = formatMoney(saldoActual);
+  invAdeudosEl.textContent   = formatMoney(totalAdeudos);
 
   const tbody = document.querySelector("#tabla-usuarios-ganancias tbody");
   tbody.innerHTML = "";
@@ -377,7 +360,7 @@ function actualizarConsultaInversion() {
 }
 
 /************************************
- * Descargar base de datos
+ * Descargar DB
  ************************************/
 function descargarBaseDeDatosJSON() {
   const data = {
@@ -413,7 +396,6 @@ function mostrarInventario() {
   productos.forEach(p => {
     const row = document.createElement("tr");
     if (p.piezas === 0) row.style.backgroundColor = "#ffd4d4";
-
     row.innerHTML = `
       <td>${p.codigo}</td>
       <td>${p.descripcion}</td>
