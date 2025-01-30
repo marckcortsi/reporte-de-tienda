@@ -4,8 +4,8 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 284.0986666666667,
-      "saldoFavor": 147.31000000000003
+      "ganancia": 309.40200000000004,
+      "saldoFavor": 71.39000000000003
     },
     {
       "nombre": "Carlos",
@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 148.01000000000002,
-      "ganancia": 173.88527777777782,
+      "adeudo": 165.82000000000002,
+      "ganancia": 179.82027777777782,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 267.27000000000004,
-      "ganancia": 461.96444444444455,
+      "adeudo": 285.08000000000004,
+      "ganancia": 467.89944444444455,
       "saldoFavor": 0
     },
     {
@@ -261,6 +261,20 @@
         "costoTotal": 19.1,
         "fecha": "30/1/2025, 8:31:18 a.m.",
         "ganancia": 6.366666666666667
+      },
+      {
+        "producto": "Jarrito Mandarina",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "30/1/2025, 12:38:20 p.m.",
+        "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Coca de 3 litros",
+        "piezas": 1,
+        "costoTotal": 47.5,
+        "fecha": "30/1/2025, 12:38:20 p.m.",
+        "ganancia": 15.833333333333332
       }
     ],
     "Carlos": [
@@ -1095,6 +1109,13 @@
         "costoTotal": 15.15,
         "fecha": "30/1/2025, 9:12:50 a.m.",
         "ganancia": 5.050000000000001
+      },
+      {
+        "producto": "Coca de vidrio 500 ml",
+        "piezas": 1,
+        "costoTotal": 17.81,
+        "fecha": "30/1/2025, 12:39:10 p.m.",
+        "ganancia": 5.934999999999999
       }
     ],
     "Isac": [
@@ -2645,6 +2666,13 @@
         "costoTotal": 19.35,
         "fecha": "30/1/2025, 9:33:33 a.m.",
         "ganancia": 6.450000000000001
+      },
+      {
+        "producto": "Coca de vidrio 500 ml",
+        "piezas": 1,
+        "costoTotal": 17.81,
+        "fecha": "30/1/2025, 12:38:36 p.m.",
+        "ganancia": 5.934999999999999
       }
     ],
     "Rafael": [
@@ -3303,10 +3331,10 @@
       "descripcion": "Coca de 3 litros",
       "precioCompra": 31.67,
       "precioVenta": 47.5,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 31.666666666666668
         }
       ]
@@ -3316,10 +3344,10 @@
       "descripcion": "Coca de vidrio 500 ml",
       "precioCompra": 11.88,
       "precioVenta": 17.81,
-      "piezas": 15,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 13,
           "costoUnitario": 11.875
         }
       ]
@@ -3355,10 +3383,10 @@
       "descripcion": "Jarrito Mandarina",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 18.95
         }
       ]
@@ -4015,6 +4043,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5472.175873015866,
-  "gananciasTotales": 2735.5341269841297
+  "inversionRecuperada": 5546.542539682533,
+  "gananciasTotales": 2772.707460317463
 }
