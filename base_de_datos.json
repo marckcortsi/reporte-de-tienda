@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 121.02000000000001,
-      "ganancia": 116.85666666666665,
+      "adeudo": 136.02,
+      "ganancia": 121.85666666666665,
       "saldoFavor": 0
     },
     {
@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 132.86,
-      "ganancia": 168.8352777777778,
+      "adeudo": 148.01000000000002,
+      "ganancia": 173.88527777777782,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 281.13,
-      "ganancia": 265.3466666666666,
+      "adeudo": 296.28,
+      "ganancia": 270.3966666666666,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 243.06,
-      "ganancia": 453.89444444444456,
+      "adeudo": 247.92000000000002,
+      "ganancia": 455.51444444444456,
       "saldoFavor": 0
     },
     {
@@ -811,6 +811,13 @@
         "costoTotal": 16.68,
         "fecha": "29/1/2025, 12:38:03 p.m.",
         "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Cremax chocolate",
+        "piezas": 1,
+        "costoTotal": 15,
+        "fecha": "30/1/2025, 9:13:10 a.m.",
+        "ganancia": 5
       }
     ],
     "Francisco": [
@@ -1067,6 +1074,13 @@
         "costoTotal": 16.68,
         "fecha": "29/1/2025, 12:35:52 p.m.",
         "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Galletas Marianistas Vainilla",
+        "piezas": 1,
+        "costoTotal": 15.15,
+        "fecha": "30/1/2025, 9:12:50 a.m.",
+        "ganancia": 5.050000000000001
       }
     ],
     "Isac": [
@@ -1356,6 +1370,13 @@
         "costoTotal": 19.35,
         "fecha": "29/1/2025, 12:46:37 p.m.",
         "ganancia": 6.450000000000001
+      },
+      {
+        "producto": "Galletas Marianistas Naranja",
+        "piezas": 1,
+        "costoTotal": 15.15,
+        "fecha": "30/1/2025, 9:13:00 a.m.",
+        "ganancia": 5.050000000000001
       }
     ],
     "Isrrael": [
@@ -2582,6 +2603,13 @@
         "costoTotal": 19.35,
         "fecha": "29/1/2025, 3:05:51 p.m.",
         "ganancia": 6.450000000000001
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "30/1/2025, 9:13:37 a.m.",
+        "ganancia": 1.6200000000000006
       }
     ],
     "Rafael": [
@@ -2968,10 +2996,10 @@
       "descripcion": "Galletas Marianistas Naranja",
       "precioCompra": 10.1,
       "precioVenta": 15.15,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 10.1
         }
       ]
@@ -2981,10 +3009,10 @@
       "descripcion": "Galletas Marianistas Vainilla",
       "precioCompra": 10.1,
       "precioVenta": 15.15,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 10.1
         }
       ]
@@ -3072,10 +3100,10 @@
       "descripcion": "Cremax chocolate",
       "precioCompra": 10,
       "precioVenta": 15,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 10
         }
       ]
@@ -3179,10 +3207,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 36,
+      "piezas": 35,
       "stockParciales": [
         {
-          "cantidad": 36,
+          "cantidad": 35,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -3943,6 +3971,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5356.366706349199,
-  "gananciasTotales": 2677.6232936507963
+  "inversionRecuperada": 5389.8067063492,
+  "gananciasTotales": 2694.3432936507966
 }
