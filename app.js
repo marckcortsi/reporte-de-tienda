@@ -11,7 +11,6 @@ let gananciasTotales    = 0;
 let productos           = [];
 let historialEntradas   = [];
 
-// Para simular "pull to refresh"
 let touchStartY = 0;
 let isPulling   = false;
 
@@ -19,7 +18,7 @@ let isPulling   = false;
  * Al cargar la ventana
  ************************************/
 window.onload = () => {
-  // Evitar caché con un timestamp
+  // Evitar caché
   fetch('base_de_datos.json?nocache=' + Date.now())
     .then(r => r.json())
     .then(data => {
@@ -39,17 +38,16 @@ window.onload = () => {
       inversionRecuperada = data.inversionRecuperada;
       gananciasTotales    = data.gananciasTotales;
 
-      // Llenar select
+      // Llenar el select
       llenarSelectUsuarios("select-usuario-consulta");
 
-      // Manejar History API: inyectar el state inicial
+      // Reemplazar el state inicial
       history.replaceState({ section: 'main-menu' }, "", "#main-menu");
     })
     .catch(err => console.error("Error al cargar base_de_datos.json:", err));
 
-  // Detectar si el usuario hace "pull down" para refrescar
+  // Pull-to-refresh casero
   document.addEventListener('touchstart', e => {
-    // Al tocar la pantalla, revisamos si está scrolleado arriba
     if (document.documentElement.scrollTop === 0) {
       touchStartY = e.touches[0].clientY;
       isPulling = true;
@@ -62,41 +60,35 @@ window.onload = () => {
     const currentY = e.touches[0].clientY;
     const diff = currentY - touchStartY;
     if (diff > 80) {
-      // Pull to refresh (arbitrario 80px)
       isPulling = false;
-      location.reload(); 
+      location.reload();
     }
   });
 
-  // Cuando el usuario presione "back" en el navegador
+  // Botón "atrás" del navegador
   window.addEventListener('popstate', e => {
-    // e.state.section
     if (e.state && e.state.section) {
-      showSection(e.state.section, false); // false -> no push al history
+      showSection(e.state.section, false);
     } else {
-      // Si no hay state, ir al menú
       showSection('main-menu', false);
     }
   });
 };
 
 /************************************
- * Usar History API para transiciones
+ * Navegación con History API
  ************************************/
 function navigateTo(sectionId) {
-  // Cambiamos la sección
   showSection(sectionId, true);
-  // Metemos state
   history.pushState({ section: sectionId }, "", "#" + sectionId);
 }
 
 function navigateBack() {
-  // Simular un click en "atrás" del navegador:
   history.back();
 }
 
 /************************************
- * Mostrar secciones con animación
+ * Transición de secciones
  ************************************/
 function showSection(sectionId, push = false) {
   document.querySelectorAll(".section").forEach(s => {
@@ -125,7 +117,7 @@ function llenarSelectUsuarios(selectId) {
 }
 
 /************************************
- * Formato dinero
+ * Formato Dinero
  ************************************/
 function formatMoney(amount) {
   return "$" + Number(amount).toLocaleString("en-US", {
@@ -153,14 +145,13 @@ function parseHistorialDay(str) {
 }
 
 /************************************
- * Consulta individual
+ * Consulta Individual
  ************************************/
 function filtrarInformacionUsuario() {
   const user = document.getElementById("select-usuario-consulta").value;
   const userObj = usuarios.find(u => u.nombre === user);
   if (!userObj) return;
 
-  // Mostrar la tarjeta
   document.getElementById("consulta-usuario").classList.remove("hidden");
 
   // Foto
@@ -192,7 +183,7 @@ function filtrarInformacionUsuario() {
   }
   document.getElementById("saldo-favor-usuario").textContent = formatMoney(userObj.saldoFavor || 0);
 
-  // Llenar historial
+  // Llenar historial sin filtros
   const tbody = document.querySelector("#tabla-historial tbody");
   tbody.innerHTML = "";
   const hist = (historialCompras[userObj.nombre] || []);
@@ -216,7 +207,7 @@ function filtrarInformacionUsuario() {
 }
 
 /************************************
- * Filtrar Historial
+ * Filtrar Historial por fecha
  ************************************/
 function filtrarHistorialPorFecha() {
   const user = document.getElementById("select-usuario-consulta").value;
@@ -271,32 +262,175 @@ function limpiarFiltroHistorial() {
 }
 
 /************************************
- * Imprimir
+ * Imprimir Reporte Usuario
  ************************************/
 function imprimirReporteUsuario() {
-  // ...
-  alert("Aquí colocas tu lógica para imprimir, similar a lo anterior");
-  // (Por brevedad omitimos la implementación,
-  // puedes copiar lo de tu versión anterior)
+  const usuario = document.getElementById("select-usuario-consulta").value;
+  const userObj = usuarios.find(u => u.nombre === usuario);
+  if (!userObj) {
+    alert("Usuario no encontrado.");
+    return;
+  }
+
+  let contenidoHTML = `<p><strong>Usuario:</strong> ${userObj.nombre}</p>`;
+  if (userObj.nombre !== "Externo") {
+    contenidoHTML += `<p><strong>Inversión:</strong> ${formatMoney(500)}</p>`;
+    contenidoHTML += `<p><strong>Ganancia Total:</strong> ${formatMoney(userObj.ganancia)}</p>`;
+  } else {
+    contenidoHTML += `<p><strong>Inversión:</strong> 0 (Externo)</p>`;
+    contenidoHTML += `<p><strong>Ganancia Total:</strong> N/A (Externo)</p>`;
+  }
+  contenidoHTML += `<p><strong>Adeudo:</strong> ${formatMoney(userObj.adeudo)}</p>`;
+  contenidoHTML += `<p><strong>Saldo a favor:</strong> ${formatMoney(userObj.saldoFavor || 0)}</p>`;
+
+  const historial = historialCompras[userObj.nombre];
+  if (!historial || historial.length === 0) {
+    contenidoHTML += `<p>Sin compras registradas</p>`;
+  } else {
+    contenidoHTML += `
+      <table>
+        <thead>
+          <tr>
+            <th>Producto</th>
+            <th>Piezas</th>
+            <th>Costo</th>
+            <th>Fecha</th>
+            <th>Ganancia</th>
+          </tr>
+        </thead>
+        <tbody>
+    `;
+    historial.forEach(c => {
+      contenidoHTML += `
+        <tr>
+          <td>${c.producto}</td>
+          <td>${c.piezas}</td>
+          <td>${formatMoney(c.costoTotal)}</td>
+          <td>${c.fecha}</td>
+          <td>${formatMoney(c.ganancia)}</td>
+        </tr>
+      `;
+    });
+    contenidoHTML += `</tbody></table>`;
+  }
+
+  mostrarVentanaImpresion(contenidoHTML, "Reporte de Usuario");
+}
+
+/************************************
+ * Ventana emergente de impresión
+ ************************************/
+function mostrarVentanaImpresion(content, title) {
+  let w = window.open("", "Reporte", "width=900,height=600");
+  w.document.write(`
+    <html>
+      <head>
+        <title>${title}</title>
+        <style>
+          body { font-family: Arial,sans-serif; text-align:center; margin:20px; }
+          table {
+            margin: 0 auto; 
+            border-collapse: collapse; 
+            width: 80%;
+          }
+          th, td {
+            border: 1px solid #ccc; 
+            padding: 8px; 
+            text-align: center;
+          }
+          button {
+            background-color: #009ee3; 
+            color: #fff; 
+            border: none; 
+            padding: 10px 20px; 
+            border-radius: 6px; 
+            cursor: pointer;
+            margin: 10px;
+          }
+        </style>
+      </head>
+      <body>
+        <h2>${title}</h2>
+        ${content}
+        <button onclick="window.print()">Imprimir</button>
+      </body>
+    </html>
+  `);
+  w.document.close();
 }
 
 /************************************
  * Consulta Global
  ************************************/
 function actualizarConsultaInversion() {
-  // Igual que antes: setear inv-total, inv-ganancias, etc.
-  // ...
+  const invTotalEl     = document.getElementById("inv-total");
+  const invGananciasEl = document.getElementById("inv-ganancias");
+  const invSaldoEl     = document.getElementById("inv-saldo");
+  const invAdeudosEl   = document.getElementById("inv-adeudos");
+
+  let saldoActual  = totalInversion - (gastoEnProductos - inversionRecuperada);
+  let totalAdeudos = usuarios.reduce((acum, u) => acum + (u.adeudo || 0), 0);
+
+  invTotalEl.textContent     = formatMoney(totalInversion);
+  invGananciasEl.textContent = formatMoney(gananciasTotales);
+  invSaldoEl.textContent     = formatMoney(saldoActual);
+  invAdeudosEl.textContent   = formatMoney(totalAdeudos);
+
+  const tbody = document.querySelector("#tabla-usuarios-ganancias tbody");
+  tbody.innerHTML = "";
+
+  // Excluir "Externo"
+  let invers = usuarios.filter(u => u.nombre !== "Externo");
+  // Ordenar por ganancia descendente
+  invers.sort((a, b) => b.ganancia - a.ganancia);
+
+  invers.forEach(u => {
+    let totalCompras = 0;
+    (historialCompras[u.nombre] || []).forEach(c => {
+      totalCompras += c.costoTotal;
+    });
+
+    const row = document.createElement("tr");
+    row.innerHTML = `
+      <td>
+        <img src="fotos/${u.nombre}.jpg" alt="${u.nombre}" class="foto-usuario-tabla"
+          onerror="this.onerror=null; this.src='fotos/default.png';"/>
+      </td>
+      <td>${u.nombre}</td>
+      <td>${formatMoney(totalCompras)}</td>
+      <td>${formatMoney(u.ganancia)}</td>
+      <td>${formatMoney(u.adeudo || 0)}</td>
+      <td>${formatMoney(u.saldoFavor || 0)}</td>
+    `;
+    if (u.adeudo > 0) {
+      row.classList.add("con-adeudo");
+    }
+    tbody.appendChild(row);
+  });
 }
 
 /************************************
  * Inventario
  ************************************/
 function mostrarInventario() {
-  // ...
+  const tbody = document.querySelector("#tabla-inventario tbody");
+  tbody.innerHTML = "";
+  productos.forEach(p => {
+    const row = document.createElement("tr");
+    if (p.piezas === 0) row.style.backgroundColor = "#ffd4d4";
+    row.innerHTML = `
+      <td>${p.codigo}</td>
+      <td>${p.descripcion}</td>
+      <td>${formatMoney(p.precioCompra)}</td>
+      <td>${formatMoney(p.precioVenta)}</td>
+      <td>${p.piezas}</td>
+    `;
+    tbody.appendChild(row);
+  });
 }
 
 /************************************
- * Pantalla completa
+ * Pantalla Completa
  ************************************/
 function toggleFullscreen(containerId) {
   const el = document.getElementById(containerId);

@@ -10,15 +10,14 @@ html, body {
   width: 100%;
   height: 100%;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  background-color: #ecf9fa; /* Verde claro */
+  background-color: #ecf9fa; /* verde claro */
   text-align: center;
-  /* Evitar escalados extra */
 }
 
 /************************************
  * Animaciones
  ************************************/
-/* slide-in y slide-out */
+/* Transiciones de slide-in y slide-out */
 .slide {
   transition: transform 0.3s ease-out, opacity 0.3s ease-out;
   opacity: 0;
@@ -31,18 +30,11 @@ html, body {
   transform: translateX(10%);
   opacity: 0;
 }
-
-/* Botones pop */
+/* Efecto de hoverPop en botones */
 @keyframes hoverPop {
-  0%, 100% {
-    transform: scale(1);
-  }
-  40% {
-    transform: scale(1.08);
-  }
-  60% {
-    transform: scale(0.96);
-  }
+  0%, 100% { transform: scale(1); }
+  40% { transform: scale(1.08); }
+  60% { transform: scale(0.96); }
 }
 
 /************************************
@@ -75,7 +67,7 @@ html, body {
 }
 
 /************************************
- * Sección
+ * Secciones
  ************************************/
 .section {
   display: none;
@@ -166,7 +158,7 @@ html, body {
 }
 
 /************************************
- * Tarjeta usuario
+ * Tarjeta de usuario
  ************************************/
 .usuario-info-card {
   background-color: #fff;
@@ -212,14 +204,14 @@ html, body {
   margin-top: 1rem;
   position: relative;
   box-shadow: 0 1px 6px rgba(0,0,0,0.1);
-  overflow: auto; /* scroll horizontal y vertical */
+  overflow: auto; /* scroll horizontal/vertical */
 }
 table {
   width: 100%;
   border-collapse: collapse;
   font-size: 0.9rem;
   border: 1px solid #ccc;
-  min-width: 400px; /* reduce min width para pantallas chicas */
+  min-width: 400px;
 }
 thead {
   position: sticky;
@@ -245,7 +237,7 @@ tbody tr:hover {
 }
 
 /************************************
- * Foto redonda
+ * Foto redonda en tabla
  ************************************/
 .foto-usuario-tabla {
   width: 40px;

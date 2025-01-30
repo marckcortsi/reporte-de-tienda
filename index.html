@@ -7,25 +7,21 @@
   <meta http-equiv="Pragma" content="no-cache" />
   <meta http-equiv="Expires" content="0" />
 
-  <!-- Viewport: que se ajuste al ancho del dispositivo, sin escalas extras -->
+  <!-- Ajuste de viewport para móviles -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
 
   <title>Consultas de ventas</title>
-
-  <!-- Tema del navegador -->
   <meta name="theme-color" content="#009ee3">
 
-  <!-- Archivo de estilos -->
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <!-- Encabezado a ancho completo (fondo azul) -->
   <header class="header">
     <h1>Consultas de ventas</h1>
   </header>
 
   <div class="container">
-    <!-- Menú Principal (3 botones) -->
+    <!-- MENÚ PRINCIPAL -->
     <section id="main-menu" class="section active">
       <div class="menu-container">
         <button class="menu-btn" onclick="navigateTo('consultas')">Consulta Individual</button>
@@ -38,11 +34,10 @@
       </div>
     </section>
 
-    <!-- Sección CONSULTAS (Individual) -->
+    <!-- CONSULTA INDIVIDUAL -->
     <section id="consultas" class="section slide">
       <h2>Consultas</h2>
 
-      <!-- Selección de usuario -->
       <div class="form-inline-row">
         <label for="select-usuario-consulta">Usuario:</label>
         <select id="select-usuario-consulta"></select>
@@ -50,7 +45,6 @@
         <button class="btn" onclick="imprimirReporteUsuario()">Imprimir</button>
       </div>
 
-      <!-- Filtros de fecha -->
       <div class="form-inline-row">
         <label for="start-date">Inicio:</label>
         <input type="date" id="start-date">
@@ -60,7 +54,6 @@
         <button class="btn" onclick="limpiarFiltroHistorial()">Borrar</button>
       </div>
 
-      <!-- Info del usuario -->
       <div id="consulta-usuario" class="consulta-usuario hidden">
         <div class="usuario-info-card">
           <img id="foto-usuario" src="" alt="Foto Usuario" class="foto-usuario">
@@ -94,7 +87,7 @@
       </div>
     </section>
 
-    <!-- Sección CONSULTA GLOBAL -->
+    <!-- CONSULTA GLOBAL -->
     <section id="consulta-inversion" class="section slide">
       <h2>Consulta de Inversión</h2>
       <div class="inversion-info">
@@ -125,7 +118,7 @@
       </div>
     </section>
 
-    <!-- Sección INVENTARIO (solo lectura) -->
+    <!-- INVENTARIO -->
     <section id="inventario" class="section slide">
       <h2>Inventario</h2>
       <div class="table-container" id="inventario-table-container">
@@ -149,7 +142,6 @@
     </section>
   </div>
 
-  <!-- Nuestro JS principal -->
   <script src="app.js"></script>
 </body>
 </html>
