@@ -21,18 +21,13 @@
   </header>
 
   <div class="container">
-    <!-- Menú Principal (ahora con 3 botones) -->
+    <!-- Menú Principal (3 botones) -->
     <section id="main-menu" class="section active">
       <div class="menu-container">
-        <!-- Botón Consulta Individual -->
         <button class="menu-btn" onclick="showSection('consultas')">Consulta Individual</button>
-
-        <!-- Botón Consulta Global -->
         <button class="menu-btn" onclick="showSection('consulta-inversion'); actualizarConsultaInversion();">
           Consulta Global
         </button>
-
-        <!-- Botón Inventario (solo lectura) -->
         <button class="menu-btn" onclick="showSection('inventario'); mostrarInventario();">
           Inventario
         </button>
@@ -42,30 +37,27 @@
     <!-- Sección CONSULTAS (Individual) -->
     <section id="consultas" class="section">
       <h2>Consultas</h2>
-      <div class="form-group">
-        <label for="select-usuario-consulta">Seleccionar Usuario:</label>
+
+      <!-- Selección de usuario -->
+      <div class="form-inline-row">
+        <label for="select-usuario-consulta">Usuario:</label>
         <select id="select-usuario-consulta"></select>
-      </div>
-      <div class="btn-row">
-        <button class="btn" onclick="filtrarInformacionUsuario()">Ver Información</button>
-        <button class="btn" onclick="imprimirReporteUsuario()">Imprimir Reporte Usuario</button>
+        <button class="btn" onclick="filtrarInformacionUsuario()">Ver</button>
+        <button class="btn" onclick="imprimirReporteUsuario()">Imprimir</button>
       </div>
 
-      <!-- Nueva sección de filtros de fecha con botón adicional para Borrar Filtro -->
-      <div class="form-group date-filter-group">
-        <label for="start-date">Fecha inicio:</label>
+      <!-- Filtros de fecha -->
+      <div class="form-inline-row">
+        <label for="start-date">Inicio:</label>
         <input type="date" id="start-date">
-        <label for="end-date">Fecha fin:</label>
+        <label for="end-date">Fin:</label>
         <input type="date" id="end-date">
-        
-        <div class="btn-row">
-          <button class="btn" onclick="filtrarHistorialPorFecha()">Filtrar</button>
-          <button class="btn" onclick="limpiarFiltroHistorial()">Borrar Filtro</button>
-        </div>
+        <button class="btn" onclick="filtrarHistorialPorFecha()">Filtrar</button>
+        <button class="btn" onclick="limpiarFiltroHistorial()">Borrar</button>
       </div>
 
+      <!-- Info del usuario -->
       <div id="consulta-usuario" class="consulta-usuario hidden">
-        <!-- Ajuste de estilo para que se parezca al ejemplo (fondo oscuro) -->
         <div class="usuario-info-card">
           <img id="foto-usuario" src="" alt="Foto Usuario" class="foto-usuario">
           <div class="info-text">
@@ -77,16 +69,18 @@
           </div>
         </div>
 
+        <!-- Tabla de historial con encabezado fijo -->
         <div class="table-container" id="usuario-table-container">
-          <div class="btn-row">
+          <div class="form-inline-row">
             <button class="btn" onclick="toggleFullscreen('usuario-table-container')">Pantalla Completa</button>
+            <button class="btn-cancel" onclick="showSection('main-menu')">Regresar</button>
           </div>
           <table id="tabla-historial">
             <thead>
               <tr>
                 <th>Producto</th>
                 <th>Piezas</th>
-                <th>Costo Total</th>
+                <th>Costo</th>
                 <th>Fecha</th>
                 <th>Ganancia</th>
               </tr>
@@ -95,10 +89,6 @@
           </table>
         </div>
       </div>
-
-      <div class="btn-row">
-        <button class="btn-cancel" onclick="showSection('main-menu')">Regresar</button>
-      </div>
     </section>
 
     <!-- Sección CONSULTA GLOBAL -->
@@ -106,21 +96,22 @@
       <h2>Consulta de Inversión</h2>
       <div class="inversion-info">
         <p><strong>Inversión Total:</strong> <span id="inv-total">$0.00</span></p>
-        <p><strong>Saldo Actual de Inversión:</strong> <span id="inv-saldo" class="saldo-actual">$0.00</span></p>
+        <p><strong>Saldo Actual:</strong> <span id="inv-saldo" class="saldo-actual">$0.00</span></p>
         <p><strong>Total de Adeudos:</strong> <span id="inv-adeudos" class="adeudos">$0.00</span></p>
         <p><strong>Ganancias Totales:</strong> <span id="inv-ganancias">$0.00</span></p>
       </div>
 
       <div class="table-container" id="inversion-table-container">
-        <div class="btn-row">
+        <div class="form-inline-row">
           <button class="btn" onclick="toggleFullscreen('inversion-table-container')">Pantalla Completa</button>
+          <button class="btn-cancel" onclick="showSection('main-menu')">Regresar</button>
         </div>
         <table id="tabla-usuarios-ganancias">
           <thead>
             <tr>
               <th>Foto</th>
               <th>Usuario</th>
-              <th>Total de Compras</th>
+              <th>Total Compras</th>
               <th>Ganancia</th>
               <th>Adeudo</th>
               <th>Saldo a favor</th>
@@ -129,34 +120,28 @@
           <tbody></tbody>
         </table>
       </div>
-
-      <div class="btn-row">
-        <button class="btn-cancel" onclick="showSection('main-menu')">Regresar</button>
-      </div>
     </section>
 
     <!-- Sección INVENTARIO (solo lectura) -->
     <section id="inventario" class="section">
       <h2>Inventario</h2>
       <div class="table-container" id="inventario-table-container">
-        <div class="btn-row">
+        <div class="form-inline-row">
           <button class="btn" onclick="toggleFullscreen('inventario-table-container')">Pantalla Completa</button>
+          <button class="btn-cancel" onclick="showSection('main-menu')">Regresar</button>
         </div>
         <table id="tabla-inventario">
           <thead>
             <tr>
               <th>Código</th>
               <th>Descripción</th>
-              <th>Precio Compra</th>
-              <th>Precio Venta</th>
+              <th>Compra</th>
+              <th>Venta</th>
               <th>Piezas</th>
             </tr>
           </thead>
           <tbody></tbody>
         </table>
-      </div>
-      <div class="btn-row">
-        <button class="btn-cancel" onclick="showSection('main-menu')">Regresar</button>
       </div>
     </section>
   </div>

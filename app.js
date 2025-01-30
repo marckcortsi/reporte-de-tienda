@@ -12,20 +12,20 @@ let productos           = [];
 let historialEntradas   = [];
 
 /************************************
- * Al cargar la ventana, hacemos fetch del JSON
+ * Al cargar la ventana
  ************************************/
 window.onload = () => {
   fetch('base_de_datos.json')
     .then(response => response.json())
     .then(data => {
-      // Si el JSON no trae "saldoFavor", le ponemos 0 a cada usuario
+      // Ajuste por si no existe saldoFavor
       data.usuarios.forEach(u => {
         if (typeof u.saldoFavor === "undefined") {
           u.saldoFavor = 0;
         }
       });
 
-      // Cargar datos desde el JSON
+      // Cargar datos
       usuarios            = data.usuarios;
       historialCompras    = data.historialCompras;
       productos           = data.productos;
@@ -36,7 +36,7 @@ window.onload = () => {
       inversionRecuperada = data.inversionRecuperada;
       gananciasTotales    = data.gananciasTotales;
 
-      // Llenar select para consulta individual
+      // Llenar select
       llenarSelectUsuarios("select-usuario-consulta");
     })
     .catch(err => console.error("Error al cargar base_de_datos.json:", err));
@@ -46,13 +46,12 @@ window.onload = () => {
  * Mostrar / Ocultar Secciones
  ************************************/
 function showSection(sectionId) {
-  const sections = document.querySelectorAll(".section");
-  sections.forEach(sec => sec.classList.remove("active"));
+  document.querySelectorAll(".section").forEach(s => s.classList.remove("active"));
   document.getElementById(sectionId).classList.add("active");
 }
 
 /************************************
- * Formato de Moneda
+ * Formato dinero
  ************************************/
 function formatMoney(amount) {
   return "$" + Number(amount).toLocaleString("en-US", {
@@ -62,192 +61,177 @@ function formatMoney(amount) {
 }
 
 /************************************
- * Llenar Select Usuarios
+ * Llenar select de usuarios
  ************************************/
 function llenarSelectUsuarios(selectId) {
-  const select = document.getElementById(selectId);
-  if (!select) return;
-  select.innerHTML = "";
+  const sel = document.getElementById(selectId);
+  if (!sel) return;
+  sel.innerHTML = "";
   usuarios.forEach(u => {
-    const option = document.createElement("option");
-    option.value = u.nombre;
-    option.text = u.nombre;
-    select.appendChild(option);
+    const opt = document.createElement("option");
+    opt.value = u.nombre;
+    opt.text = u.nombre;
+    sel.appendChild(opt);
   });
 }
 
 /************************************
- * Función para parsear la fecha:
- * "DD/M/YYYY, HH:MM:SS a.m./p.m." -> objeto Date
+ * Obtener "YYYYMMDD" de un string "YYYY-MM-DD"
  ************************************/
-function parseFechaManual(fechaStr) {
-  // Ejemplo de fechaStr: "8/1/2025, 2:49:37 p.m."
-  // 1) Separamos la parte de fecha de la hora
-  let [parteFecha, parteHora] = fechaStr.split(",").map(s => s.trim());
-  // parteFecha = "8/1/2025"
-  // parteHora  = "2:49:37 p.m."
-
-  // 2) Parseamos la fecha "D/M/YYYY"
-  let [dia, mes, anio] = parteFecha.split("/").map(num => parseInt(num));
-
-  // 3) Parseamos la hora "2:49:37" y am/pm
-  let [horaMinSeg, ampm] = parteHora.split(" ");
-  let [hh, mm, ss] = horaMinSeg.split(":").map(num => parseInt(num));
-
-  // Ajustamos si es "p.m." o "a.m."
-  ampm = ampm.toLowerCase(); 
-  if (ampm.includes("p.m.") && hh < 12) {
-    hh += 12;
-  }
-  if (ampm.includes("a.m.") && hh === 12) {
-    hh = 0;
-  }
-
-  // 4) Creamos el objeto Date
-  return new Date(anio, mes - 1, dia, hh, mm, ss);
+function parseInputDay(value) {
+  // value = "2025-01-10"
+  if (!value) return null;
+  const [yyyy, mm, dd] = value.split("-").map(x => parseInt(x));
+  return (yyyy * 10000) + (mm * 100) + dd;
 }
 
 /************************************
- * CONSULTA INDIVIDUAL (Mostrar info)
+ * Del historial (p.ej. "10/1/2025, 9:19:07 a.m.")
+ * solo tomamos el día/mes/año y formamos YYYYMMDD
+ ************************************/
+function parseHistorialDay(fechaStr) {
+  // "DD/M/YYYY, HH:MM:SS a.m."
+  const parteFecha = fechaStr.split(",")[0].trim(); // "10/1/2025"
+  let [dia, mes, anio] = parteFecha.split("/").map(x => parseInt(x));
+  return (anio * 10000) + (mes * 100) + dia;
+}
+
+/************************************
+ * Consulta Individual - Ver usuario
  ************************************/
 function filtrarInformacionUsuario() {
-  const usuario           = document.getElementById("select-usuario-consulta").value;
-  const consultaUsuarioDiv= document.getElementById("consulta-usuario");
-  const fotoUsuario       = document.getElementById("foto-usuario");
-  const nombreUsuario     = document.getElementById("nombre-usuario");
-  const inversionUsuario  = document.getElementById("inversion-usuario");
-  const gananciaUsuario   = document.getElementById("ganancia-usuario");
-  const adeudoUsuario     = document.getElementById("adeudo-usuario-estado");
-  const saldoFavorEl      = document.getElementById("saldo-favor-usuario");
-  const tablaHistorial    = document.getElementById("tabla-historial").querySelector("tbody");
+  const usuario = document.getElementById("select-usuario-consulta").value;
+  const divConsulta = document.getElementById("consulta-usuario");
+  const foto = document.getElementById("foto-usuario");
+  const nomEl = document.getElementById("nombre-usuario");
+  const invEl = document.getElementById("inversion-usuario");
+  const ganEl = document.getElementById("ganancia-usuario");
+  const adeudoEl = document.getElementById("adeudo-usuario-estado");
+  const saldoFavorEl = document.getElementById("saldo-favor-usuario");
+  const tbody = document.querySelector("#tabla-historial tbody");
 
-  consultaUsuarioDiv.classList.remove("hidden");
+  divConsulta.classList.remove("hidden");
 
   const userObj = usuarios.find(u => u.nombre === usuario);
   if (!userObj) return;
 
-  // Foto de usuario
-  fotoUsuario.src = `fotos/${userObj.nombre}.jpg`;
-  fotoUsuario.alt = userObj.nombre;
-  fotoUsuario.onerror = function() {
+  // Foto
+  foto.src = `fotos/${userObj.nombre}.jpg`;
+  foto.alt = userObj.nombre;
+  foto.onerror = function() {
     this.onerror = null;
     this.src = "fotos/default.png";
   };
 
-  // Datos principales
-  nombreUsuario.innerText = userObj.nombre;
+  // Datos
+  nomEl.textContent = userObj.nombre;
   if (userObj.nombre === "Externo") {
-    inversionUsuario.innerText = formatMoney(0);
-    gananciaUsuario.innerText  = "No aplica (Externo)";
+    invEl.textContent = formatMoney(0);
+    ganEl.textContent = "No aplica";
   } else {
-    // Cada inversionista tenía 500
-    inversionUsuario.innerText = formatMoney(500);
-    gananciaUsuario.innerText  = formatMoney(userObj.ganancia);
+    invEl.textContent = formatMoney(500);
+    ganEl.textContent = formatMoney(userObj.ganancia);
   }
 
   // Adeudo
   if (userObj.adeudo > 0) {
-    adeudoUsuario.innerText     = `Adeudo: ${formatMoney(userObj.adeudo)}`;
-    adeudoUsuario.classList.add("red");
-    adeudoUsuario.classList.remove("green");
+    adeudoEl.textContent = `Adeudo: ${formatMoney(userObj.adeudo)}`;
+    adeudoEl.classList.add("red");
+    adeudoEl.classList.remove("green");
   } else {
-    adeudoUsuario.innerText     = "Sin adeudos";
-    adeudoUsuario.classList.add("green");
-    adeudoUsuario.classList.remove("red");
+    adeudoEl.textContent = "Sin adeudos";
+    adeudoEl.classList.add("green");
+    adeudoEl.classList.remove("red");
   }
 
   // Saldo a favor
-  saldoFavorEl.innerText = formatMoney(userObj.saldoFavor || 0);
+  saldoFavorEl.textContent = formatMoney(userObj.saldoFavor || 0);
 
-  // Historial de compras completo (sin filtro de fechas aún)
-  tablaHistorial.innerHTML = "";
-  const historial = historialCompras[userObj.nombre];
-  if (!historial || historial.length === 0) {
+  // Llenar tabla sin filtro
+  tbody.innerHTML = "";
+  let historial = historialCompras[userObj.nombre] || [];
+  if (historial.length === 0) {
     let row = document.createElement("tr");
     row.innerHTML = `<td colspan="5">Sin compras registradas</td>`;
-    tablaHistorial.appendChild(row);
+    tbody.appendChild(row);
   } else {
-    historial.forEach(compra => {
+    historial.forEach(c => {
       const row = document.createElement("tr");
       row.innerHTML = `
-        <td>${compra.producto}</td>
-        <td>${compra.piezas}</td>
-        <td>${formatMoney(compra.costoTotal)}</td>
-        <td>${compra.fecha}</td>
-        <td>${formatMoney(compra.ganancia)}</td>
+        <td>${c.producto}</td>
+        <td>${c.piezas}</td>
+        <td>${formatMoney(c.costoTotal)}</td>
+        <td>${c.fecha}</td>
+        <td>${formatMoney(c.ganancia)}</td>
       `;
-      tablaHistorial.appendChild(row);
+      tbody.appendChild(row);
     });
   }
 }
 
 /************************************
- * FILTRAR HISTORIAL POR FECHA
+ * Filtrar por fechas (un solo día funciona)
  ************************************/
 function filtrarHistorialPorFecha() {
   const usuario = document.getElementById("select-usuario-consulta").value;
   const userObj = usuarios.find(u => u.nombre === usuario);
   if (!userObj) return;
 
-  const startDateValue = document.getElementById("start-date").value; // "YYYY-MM-DD"
-  const endDateValue   = document.getElementById("end-date").value;   // "YYYY-MM-DD"
+  // Tomar los "YYYY-MM-DD"
+  const startVal = document.getElementById("start-date").value;
+  const endVal   = document.getElementById("end-date").value;
 
-  // Creamos Date desde esos strings
-  let start = startDateValue ? new Date(startDateValue) : null;
-  let end   = endDateValue   ? new Date(endDateValue)   : null;
+  const startDay = parseInputDay(startVal); // 20250110
+  const endDay   = parseInputDay(endVal);   // 20250110
 
-  // Ajustar end date a 23:59:59 para incluir todo ese día
-  if (end) {
-    end.setHours(23, 59, 59, 999);
-  }
-
-  // Historial completo del usuario
+  // Historial completo
+  const tbody = document.querySelector("#tabla-historial tbody");
   let historial = historialCompras[userObj.nombre] || [];
 
-  // Filtramos solo si ambas fechas existen
-  if (start && end) {
+  // Si tenemos ambos rangos:
+  if (startDay && endDay) {
+    // Aseguramos que endDay >= startDay
+    let minDay = Math.min(startDay, endDay);
+    let maxDay = Math.max(startDay, endDay);
+
     historial = historial.filter(compra => {
-      const compraDate = parseFechaManual(compra.fecha);
-      return (compraDate >= start && compraDate <= end);
+      const compraDay = parseHistorialDay(compra.fecha);
+      return (compraDay >= minDay && compraDay <= maxDay);
     });
   }
 
-  // Renderizamos la tabla filtrada
-  const tablaHistorial = document.getElementById("tabla-historial").querySelector("tbody");
-  tablaHistorial.innerHTML = "";
-
+  // Render
+  tbody.innerHTML = "";
   if (historial.length === 0) {
-    let row = document.createElement("tr");
+    const row = document.createElement("tr");
     row.innerHTML = `<td colspan="5">Sin compras registradas en este rango</td>`;
-    tablaHistorial.appendChild(row);
+    tbody.appendChild(row);
   } else {
-    historial.forEach(compra => {
+    historial.forEach(c => {
       const row = document.createElement("tr");
       row.innerHTML = `
-        <td>${compra.producto}</td>
-        <td>${compra.piezas}</td>
-        <td>${formatMoney(compra.costoTotal)}</td>
-        <td>${compra.fecha}</td>
-        <td>${formatMoney(compra.ganancia)}</td>
+        <td>${c.producto}</td>
+        <td>${c.piezas}</td>
+        <td>${formatMoney(c.costoTotal)}</td>
+        <td>${c.fecha}</td>
+        <td>${formatMoney(c.ganancia)}</td>
       `;
-      tablaHistorial.appendChild(row);
+      tbody.appendChild(row);
     });
   }
 }
 
 /************************************
- * BOTÓN BORRAR FILTRO
+ * Borrar Filtro -> mostrar todo
  ************************************/
 function limpiarFiltroHistorial() {
-  // Limpiamos los inputs de fecha
   document.getElementById("start-date").value = "";
   document.getElementById("end-date").value   = "";
-  // Volvemos a mostrar todo el historial (sin filtros)
-  filtrarInformacionUsuario();
+  filtrarInformacionUsuario(); // Muestra todo el historial sin filtros
 }
 
 /************************************
- * IMPRIMIR REPORTE DE USUARIO
+ * Imprimir reporte de un usuario
  ************************************/
 function imprimirReporteUsuario() {
   const usuario = document.getElementById("select-usuario-consulta").value;
@@ -273,27 +257,27 @@ function imprimirReporteUsuario() {
     contenidoHTML += `<p>Sin compras registradas</p>`;
   } else {
     contenidoHTML += `
-    <table>
-      <thead>
-        <tr>
-          <th>Producto</th>
-          <th>Piezas</th>
-          <th>CostoTotal</th>
-          <th>Fecha</th>
-          <th>Ganancia</th>
-        </tr>
-      </thead>
-      <tbody>
+      <table>
+        <thead>
+          <tr>
+            <th>Producto</th>
+            <th>Piezas</th>
+            <th>Costo</th>
+            <th>Fecha</th>
+            <th>Ganancia</th>
+          </tr>
+        </thead>
+        <tbody>
     `;
     historial.forEach(compra => {
       contenidoHTML += `
-        <tr>
-          <td>${compra.producto}</td>
-          <td>${compra.piezas}</td>
-          <td>${formatMoney(compra.costoTotal)}</td>
-          <td>${compra.fecha}</td>
-          <td>${formatMoney(compra.ganancia)}</td>
-        </tr>
+          <tr>
+            <td>${compra.producto}</td>
+            <td>${compra.piezas}</td>
+            <td>${formatMoney(compra.costoTotal)}</td>
+            <td>${compra.fecha}</td>
+            <td>${formatMoney(compra.ganancia)}</td>
+          </tr>
       `;
     });
     contenidoHTML += `</tbody></table>`;
@@ -303,16 +287,20 @@ function imprimirReporteUsuario() {
 }
 
 /************************************
- * MOSTRAR VENTANA EMERGENTE (Imprimir)
+ * Ventana emergente para imprimir
  ************************************/
 function mostrarVentanaImpresion(htmlContenido, titulo) {
-  let ventana = window.open("", "Reporte", "width=900,height=600");
-  ventana.document.write(`
+  const w = window.open("", "Reporte", "width=900,height=600");
+  w.document.write(`
     <html>
       <head>
         <title>${titulo}</title>
         <style>
-          body { font-family: Arial, sans-serif; text-align: center; margin: 20px; }
+          body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+          }
           table {
             margin: 0 auto;
             border-collapse: collapse; 
@@ -341,11 +329,11 @@ function mostrarVentanaImpresion(htmlContenido, titulo) {
       </body>
     </html>
   `);
-  ventana.document.close();
+  w.document.close();
 }
 
 /************************************
- * CONSULTA GLOBAL
+ * Consulta Global
  ************************************/
 function actualizarConsultaInversion() {
   const invTotalEl     = document.getElementById("inv-total");
@@ -361,39 +349,35 @@ function actualizarConsultaInversion() {
   invSaldoEl.innerText     = formatMoney(saldoActual);
   invAdeudosEl.innerText   = formatMoney(totalAdeudos);
 
-  const tbody = document.getElementById("tabla-usuarios-ganancias").querySelector("tbody");
+  const tbody = document.querySelector("#tabla-usuarios-ganancias tbody");
   tbody.innerHTML = "";
 
-  let usuariosConGanancia = [...usuarios].filter(u => u.nombre !== "Externo");
-  usuariosConGanancia.sort((a, b) => b.ganancia - a.ganancia);
+  let invers = usuarios.filter(u => u.nombre !== "Externo");
+  invers.sort((a, b) => b.ganancia - a.ganancia);
 
-  usuariosConGanancia.forEach(u => {
+  invers.forEach(u => {
     let totalCompras = 0;
-    (historialCompras[u.nombre] || []).forEach(c => {
-      totalCompras += c.costoTotal;
-    });
+    (historialCompras[u.nombre] || []).forEach(c => totalCompras += c.costoTotal);
 
     const row = document.createElement("tr");
     row.innerHTML = `
       <td>
         <img src="fotos/${u.nombre}.jpg" alt="${u.nombre}" class="foto-usuario-tabla"
-          onerror="this.onerror=null; this.src='fotos/default.png';"/>
+             onerror="this.onerror=null; this.src='fotos/default.png';"/>
       </td>
       <td>${u.nombre}</td>
       <td>${formatMoney(totalCompras)}</td>
       <td>${formatMoney(u.ganancia)}</td>
-      <td>${formatMoney(u.adeudo || 0)}</td>
+      <td>${formatMoney(u.adeudo)}</td>
       <td>${formatMoney(u.saldoFavor || 0)}</td>
     `;
-    if (u.adeudo > 0) {
-      row.classList.add("con-adeudo");
-    }
+    if (u.adeudo > 0) row.classList.add("con-adeudo");
     tbody.appendChild(row);
   });
 }
 
 /************************************
- * DESCARGAR BASE DE DATOS EN JSON
+ * Descargar base de datos
  ************************************/
 function descargarBaseDeDatosJSON() {
   const data = {
@@ -407,8 +391,8 @@ function descargarBaseDeDatosJSON() {
     inversionRecuperada,
     gananciasTotales
   };
-  const jsonString = JSON.stringify(data, null, 2);
-  const blob = new Blob([jsonString], { type: "application/json" });
+  const str = JSON.stringify(data, null, 2);
+  const blob = new Blob([str], { type: "application/json" });
   const url = URL.createObjectURL(blob);
 
   const link = document.createElement("a");
@@ -420,45 +404,36 @@ function descargarBaseDeDatosJSON() {
 }
 
 /************************************
- * MOSTRAR INVENTARIO (solo lectura)
+ * Inventario
  ************************************/
 function mostrarInventario() {
-  const tbody = document
-    .getElementById("tabla-inventario")
-    .querySelector("tbody");
+  const tbody = document.querySelector("#tabla-inventario tbody");
   tbody.innerHTML = "";
 
-  productos.forEach((prod) => {
+  productos.forEach(p => {
     const row = document.createElement("tr");
-    if (prod.piezas === 0) {
-      // Resaltar en rojo si no hay stock
-      row.style.backgroundColor = "#ffd4d4";
-    }
+    if (p.piezas === 0) row.style.backgroundColor = "#ffd4d4";
+
     row.innerHTML = `
-      <td>${prod.codigo}</td>
-      <td>${prod.descripcion}</td>
-      <td>${formatMoney(prod.precioCompra)}</td>
-      <td>${formatMoney(prod.precioVenta)}</td>
-      <td>${prod.piezas}</td>
+      <td>${p.codigo}</td>
+      <td>${p.descripcion}</td>
+      <td>${formatMoney(p.precioCompra)}</td>
+      <td>${formatMoney(p.precioVenta)}</td>
+      <td>${p.piezas}</td>
     `;
     tbody.appendChild(row);
   });
 }
 
 /************************************
- * PANTALLA COMPLETA DE TABLA
+ * Pantalla completa
  ************************************/
 function toggleFullscreen(containerId) {
-  const container = document.getElementById(containerId);
-  if (!container) return;
-
-  // Si no estamos en fullscreen, lo pedimos
+  const el = document.getElementById(containerId);
+  if (!el) return;
   if (!document.fullscreenElement) {
-    container.requestFullscreen().catch(err => {
-      alert(`Error al intentar entrar en pantalla completa: ${err.message}`);
-    });
+    el.requestFullscreen().catch(err => alert(`Error: ${err}`));
   } else {
-    // Si ya estamos en fullscreen, salimos
     document.exitFullscreen();
   }
 }
