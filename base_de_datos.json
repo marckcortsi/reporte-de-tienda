@@ -4,8 +4,8 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 277.732,
-      "saldoFavor": 166.41000000000003
+      "ganancia": 284.0986666666667,
+      "saldoFavor": 147.31000000000003
     },
     {
       "nombre": "Carlos",
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 183.7,
-      "ganancia": 324.75072222222235,
+      "adeudo": 205.79999999999998,
+      "ganancia": 332.117388888889,
       "saldoFavor": 0
     },
     {
@@ -254,6 +254,13 @@
         "costoTotal": 115,
         "fecha": "29/1/2025, 5:59:13 p.m.",
         "ganancia": 38.3
+      },
+      {
+        "producto": "Galletas Marias",
+        "piezas": 1,
+        "costoTotal": 19.1,
+        "fecha": "30/1/2025, 8:31:18 a.m.",
+        "ganancia": 6.366666666666667
       }
     ],
     "Carlos": [
@@ -1864,6 +1871,13 @@
         "costoTotal": 19.6,
         "fecha": "29/1/2025, 12:50:35 p.m.",
         "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Maruchan Habanero",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "30/1/2025, 8:28:57 a.m.",
+        "ganancia": 7.366666666666667
       }
     ],
     "Laura": [
@@ -2938,13 +2952,8 @@
       "descripcion": "Galletas Marias",
       "precioCompra": 12.73,
       "precioVenta": 19.1,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.733333333333334
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501006559019",
@@ -3196,10 +3205,10 @@
       "descripcion": "Maruchan Habanero",
       "precioCompra": 14.73,
       "precioVenta": 22.1,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 14.733333333333334
         }
       ]
@@ -3934,6 +3943,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5328.900039682532,
-  "gananciasTotales": 2663.8899603174627
+  "inversionRecuperada": 5356.366706349199,
+  "gananciasTotales": 2677.6232936507963
 }
