@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 296.28,
-      "ganancia": 270.3966666666666,
+      "adeudo": 323.47999999999996,
+      "ganancia": 279.46916666666664,
       "saldoFavor": 0
     },
     {
@@ -1384,6 +1384,20 @@
         "costoTotal": 15.15,
         "fecha": "30/1/2025, 9:13:00 a.m.",
         "ganancia": 5.050000000000001
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 2,
+        "costoTotal": 10.04,
+        "fecha": "30/1/2025, 9:37:01 a.m.",
+        "ganancia": 3.3499999999999988
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "30/1/2025, 9:37:01 a.m.",
+        "ganancia": 5.7225
       }
     ],
     "Isrrael": [
@@ -2981,10 +2995,10 @@
       "descripcion": "Cigarros Pall Mall",
       "precioCompra": 3.35,
       "precioVenta": 5.02,
-      "piezas": 20,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 18,
           "costoUnitario": 3.345
         }
       ]
@@ -3294,10 +3308,10 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 21,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 20,
           "costoUnitario": 11.4375
         }
       ]
@@ -3980,6 +3994,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5412.7067063491995,
-  "gananciasTotales": 2705.7932936507964
+  "inversionRecuperada": 5430.834206349199,
+  "gananciasTotales": 2714.865793650796
 }
