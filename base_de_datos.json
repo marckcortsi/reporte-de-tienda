@@ -10,15 +10,15 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 353.95000000000005,
-      "ganancia": 469.8529285714288,
+      "adeudo": 358.97,
+      "ganancia": 471.5279285714288,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 136.02,
-      "ganancia": 121.85666666666665,
+      "adeudo": 140.88000000000002,
+      "ganancia": 123.47666666666666,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 345.58,
-      "ganancia": 286.8358333333333,
+      "adeudo": 350.59999999999997,
+      "ganancia": 288.5108333333333,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 324.3400000000001,
-      "ganancia": 480.98861111111125,
+      "adeudo": 334.2200000000001,
+      "ganancia": 484.28361111111127,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 195.73,
-      "ganancia": 221.52683333333337,
+      "adeudo": 200.59,
+      "ganancia": 223.14683333333338,
       "saldoFavor": 0
     },
     {
@@ -669,6 +669,13 @@
         "costoTotal": 22.1,
         "fecha": "30/1/2025, 10:15:59 a.m.",
         "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.02,
+        "fecha": "30/1/2025, 4:47:14 p.m.",
+        "ganancia": 1.6749999999999994
       }
     ],
     "Edgar": [
@@ -846,6 +853,13 @@
         "costoTotal": 15,
         "fecha": "30/1/2025, 9:13:10 a.m.",
         "ganancia": 5
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "30/1/2025, 4:45:03 p.m.",
+        "ganancia": 1.6200000000000006
       }
     ],
     "Francisco": [
@@ -1440,6 +1454,13 @@
         "costoTotal": 22.1,
         "fecha": "30/1/2025, 3:16:46 p.m.",
         "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.02,
+        "fecha": "30/1/2025, 4:45:45 p.m.",
+        "ganancia": 1.6749999999999994
       }
     ],
     "Isrrael": [
@@ -2708,6 +2729,20 @@
         "costoTotal": 22.1,
         "fecha": "30/1/2025, 3:34:42 p.m.",
         "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.02,
+        "fecha": "30/1/2025, 4:46:26 p.m.",
+        "ganancia": 1.6749999999999994
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "30/1/2025, 4:46:26 p.m.",
+        "ganancia": 1.6200000000000006
       }
     ],
     "Rafael": [
@@ -3053,6 +3088,13 @@
         "costoTotal": 22.1,
         "fecha": "30/1/2025, 10:15:44 a.m.",
         "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "30/1/2025, 4:45:17 p.m.",
+        "ganancia": 1.6200000000000006
       }
     ],
     "Vicente": [
@@ -3086,10 +3128,10 @@
       "descripcion": "Cigarros Pall Mall",
       "precioCompra": 3.35,
       "precioVenta": 5.02,
-      "piezas": 18,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 15,
           "costoUnitario": 3.345
         }
       ]
@@ -3321,10 +3363,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 35,
+      "piezas": 32,
       "stockParciales": [
         {
-          "cantidad": 35,
+          "cantidad": 32,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -4085,6 +4127,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5621.618134920629,
-  "gananciasTotales": 2810.2418650793675
+  "inversionRecuperada": 5641.373134920629,
+  "gananciasTotales": 2820.1268650793677
 }
