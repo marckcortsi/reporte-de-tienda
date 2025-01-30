@@ -7,7 +7,9 @@
   <meta http-equiv="Pragma" content="no-cache" />
   <meta http-equiv="Expires" content="0" />
 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <!-- Viewport: que se ajuste al ancho del dispositivo, sin escalas extras -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+
   <title>Consultas de ventas</title>
 
   <!-- Tema del navegador -->
@@ -26,18 +28,18 @@
     <!-- Menú Principal (3 botones) -->
     <section id="main-menu" class="section active">
       <div class="menu-container">
-        <button class="menu-btn" onclick="showSection('consultas')">Consulta Individual</button>
-        <button class="menu-btn" onclick="showSection('consulta-inversion'); actualizarConsultaInversion();">
+        <button class="menu-btn" onclick="navigateTo('consultas')">Consulta Individual</button>
+        <button class="menu-btn" onclick="navigateTo('consulta-inversion'); actualizarConsultaInversion();">
           Consulta Global
         </button>
-        <button class="menu-btn" onclick="showSection('inventario'); mostrarInventario();">
+        <button class="menu-btn" onclick="navigateTo('inventario'); mostrarInventario();">
           Inventario
         </button>
       </div>
     </section>
 
     <!-- Sección CONSULTAS (Individual) -->
-    <section id="consultas" class="section">
+    <section id="consultas" class="section slide">
       <h2>Consultas</h2>
 
       <!-- Selección de usuario -->
@@ -74,7 +76,7 @@
         <div class="table-container" id="usuario-table-container">
           <div class="form-inline-row">
             <button class="btn" onclick="toggleFullscreen('usuario-table-container')">Pantalla Completa</button>
-            <button class="btn-cancel" onclick="showSection('main-menu')">Regresar</button>
+            <button class="btn-cancel" onclick="navigateBack()">Regresar</button>
           </div>
           <table id="tabla-historial">
             <thead>
@@ -93,7 +95,7 @@
     </section>
 
     <!-- Sección CONSULTA GLOBAL -->
-    <section id="consulta-inversion" class="section">
+    <section id="consulta-inversion" class="section slide">
       <h2>Consulta de Inversión</h2>
       <div class="inversion-info">
         <p><strong>Inversión Total:</strong> <span id="inv-total">$0.00</span></p>
@@ -105,7 +107,7 @@
       <div class="table-container" id="inversion-table-container">
         <div class="form-inline-row">
           <button class="btn" onclick="toggleFullscreen('inversion-table-container')">Pantalla Completa</button>
-          <button class="btn-cancel" onclick="showSection('main-menu')">Regresar</button>
+          <button class="btn-cancel" onclick="navigateBack()">Regresar</button>
         </div>
         <table id="tabla-usuarios-ganancias">
           <thead>
@@ -124,12 +126,12 @@
     </section>
 
     <!-- Sección INVENTARIO (solo lectura) -->
-    <section id="inventario" class="section">
+    <section id="inventario" class="section slide">
       <h2>Inventario</h2>
       <div class="table-container" id="inventario-table-container">
         <div class="form-inline-row">
           <button class="btn" onclick="toggleFullscreen('inventario-table-container')">Pantalla Completa</button>
-          <button class="btn-cancel" onclick="showSection('main-menu')">Regresar</button>
+          <button class="btn-cancel" onclick="navigateBack()">Regresar</button>
         </div>
         <table id="tabla-inventario">
           <thead>
@@ -147,6 +149,7 @@
     </section>
   </div>
 
+  <!-- Nuestro JS principal -->
   <script src="app.js"></script>
 </body>
 </html>
