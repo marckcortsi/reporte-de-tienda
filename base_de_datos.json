@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 140.88000000000002,
-      "ganancia": 123.47666666666666,
+      "adeudo": 165.82000000000002,
+      "ganancia": 131.7925,
       "saldoFavor": 0
     },
     {
@@ -45,15 +45,15 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 338.63,
-      "ganancia": 309.1974206349207,
+      "adeudo": 376.04,
+      "ganancia": 321.6657539682541,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 221.42999999999998,
-      "ganancia": 337.32596031746044,
+      "adeudo": 241.02999999999997,
+      "ganancia": 343.8592936507938,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 495.9069444444446,
+      "adeudo": 37.16,
+      "ganancia": 508.2919444444446,
       "saldoFavor": 0
     },
     {
@@ -881,6 +881,20 @@
         "costoTotal": 4.86,
         "fecha": "30/1/2025, 4:45:03 p.m.",
         "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "31/1/2025, 11:40:22 a.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.6,
+        "fecha": "31/1/2025, 11:40:22 a.m.",
+        "ganancia": 6.533333333333335
       }
     ],
     "Francisco": [
@@ -1680,6 +1694,20 @@
         "costoTotal": 104.80000000000001,
         "fecha": "31/1/2025, 9:31:14 a.m.",
         "ganancia": 34.900000000000006
+      },
+      {
+        "producto": "Coca de vidrio 500 ml",
+        "piezas": 1,
+        "costoTotal": 17.81,
+        "fecha": "31/1/2025, 11:38:24 a.m.",
+        "ganancia": 5.934999999999999
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.6,
+        "fecha": "31/1/2025, 11:40:43 a.m.",
+        "ganancia": 6.533333333333335
       }
     ],
     "Karen": [
@@ -2046,6 +2074,13 @@
         "costoTotal": 15.63,
         "fecha": "30/1/2025, 12:50:21 p.m.",
         "ganancia": 5.208571428571428
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.6,
+        "fecha": "31/1/2025, 11:41:07 a.m.",
+        "ganancia": 6.533333333333335
       }
     ],
     "Laura": [
@@ -2827,6 +2862,20 @@
         "costoTotal": 16.68,
         "fecha": "31/1/2025, 9:30:25 a.m.",
         "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Papas Sol habanero",
+        "piezas": 1,
+        "costoTotal": 19.35,
+        "fecha": "31/1/2025, 11:39:42 a.m.",
+        "ganancia": 6.450000000000001
+      },
+      {
+        "producto": "Coca de vidrio 500 ml",
+        "piezas": 1,
+        "costoTotal": 17.81,
+        "fecha": "31/1/2025, 11:39:42 a.m.",
+        "ganancia": 5.934999999999999
       }
     ],
     "Rafael": [
@@ -3433,10 +3482,10 @@
       "descripcion": "Zumba Goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 3.5575
         }
       ]
@@ -3511,10 +3560,10 @@
       "descripcion": "Coca de vidrio 500 ml",
       "precioCompra": 11.88,
       "precioVenta": 17.81,
-      "piezas": 10,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 8,
           "costoUnitario": 11.875
         }
       ]
@@ -3602,10 +3651,10 @@
       "descripcion": "Doritos",
       "precioCompra": 13.07,
       "precioVenta": 19.6,
-      "piezas": 26,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 26,
+          "cantidad": 23,
           "costoUnitario": 13.066666666666666
         }
       ]
@@ -3654,10 +3703,10 @@
       "descripcion": "Papas Sol habanero",
       "precioCompra": 12.9,
       "precioVenta": 19.35,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 12.9
         }
       ]
@@ -4210,6 +4259,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5882.244801587295,
-  "gananciasTotales": 2940.445198412701
+  "inversionRecuperada": 5961.6523015872945,
+  "gananciasTotales": 2980.1476984127003
 }
