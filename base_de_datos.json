@@ -31,7 +31,7 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 220.28000000000003,
+      "adeudo": 0,
       "ganancia": 197.9719444444445,
       "saldoFavor": 0
     },
@@ -66,7 +66,7 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 37.16,
+      "adeudo": 0,
       "ganancia": 508.2919444444446,
       "saldoFavor": 0
     },
