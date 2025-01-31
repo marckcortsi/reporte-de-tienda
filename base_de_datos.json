@@ -4,84 +4,84 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 309.40200000000004,
+      "ganancia": 309.89658333333335,
       "saldoFavor": 71.39000000000003
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 500.1020952380955,
-      "saldoFavor": 55.27
+      "ganancia": 516.3385833333336,
+      "saldoFavor": 8.040000000000006
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 131.7925,
+      "ganancia": 132.28708333333333,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 90.49533333333332,
+      "ganancia": 90.98991666666666,
       "saldoFavor": 1.13
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 197.9719444444445,
+      "ganancia": 198.46652777777783,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 294.23333333333335,
+      "ganancia": 294.72791666666666,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 321.6657539682541,
+      "ganancia": 322.1603373015874,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 349.7942936507938,
+      "ganancia": 350.2888769841271,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 28.663333333333334,
+      "ganancia": 29.15791666666667,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 508.2919444444446,
+      "ganancia": 508.7865277777779,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 235.6151666666667,
+      "ganancia": 236.10975000000005,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
       "adeudo": 33.44,
-      "ganancia": 29.198571428571423,
+      "ganancia": 29.693154761904758,
       "saldoFavor": 0
     },
     {
@@ -696,6 +696,27 @@
         "piezas": 1,
         "costoTotal": 9.5,
         "fecha": "31/1/2025, 9:50:37 a.m.",
+        "ganancia": 3.166666666666667
+      },
+      {
+        "producto": "Maruchan Pikin",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "31/1/2025, 4:46:35 p.m.",
+        "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Palomitas de Maiz",
+        "piezas": 1,
+        "costoTotal": 15.63,
+        "fecha": "31/1/2025, 4:46:35 p.m.",
+        "ganancia": 5.208571428571428
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "31/1/2025, 4:47:48 p.m.",
         "ganancia": 3.166666666666667
       }
     ],
@@ -3288,7 +3309,15 @@
         "ganancia": 5.208571428571428
       }
     ],
-    "Externo": []
+    "Externo": [
+      {
+        "producto": "Coca de vidrio 500 ml",
+        "piezas": 1,
+        "costoTotal": 17.81,
+        "fecha": "31/1/2025, 4:47:14 p.m.",
+        "ganancia": 5.934999999999999
+      }
+    ]
   },
   "productos": [
     {
@@ -3529,10 +3558,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 6.33,
       "precioVenta": 9.5,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 6.333333333333333
         }
       ]
@@ -3555,13 +3584,8 @@
       "descripcion": "Maruchan Pikin",
       "precioCompra": 14.73,
       "precioVenta": 22.1,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 14.733333333333334
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501055313068",
@@ -3581,10 +3605,10 @@
       "descripcion": "Coca de vidrio 500 ml",
       "precioCompra": 11.88,
       "precioVenta": 17.81,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 11.875
         }
       ]
@@ -3828,10 +3852,10 @@
       "descripcion": "Palomitas de Maiz",
       "precioCompra": 10.42,
       "precioVenta": 15.63,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 10.421428571428573
         }
       ]
@@ -4280,6 +4304,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5995.823730158723,
-  "gananciasTotales": 2997.2262698412715
+  "inversionRecuperada": 6039.186825396819,
+  "gananciasTotales": 3018.903174603176
 }
