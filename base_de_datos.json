@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 334.2200000000001,
-      "ganancia": 484.28361111111127,
+      "adeudo": 352.4100000000001,
+      "ganancia": 490.3469444444446,
       "saldoFavor": 0
     },
     {
@@ -2750,6 +2750,13 @@
         "costoTotal": 4.86,
         "fecha": "30/1/2025, 4:46:26 p.m.",
         "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Emperador Nuez",
+        "piezas": 1,
+        "costoTotal": 18.19,
+        "fecha": "31/1/2025, 8:29:56 a.m.",
+        "ganancia": 6.063333333333334
       }
     ],
     "Rafael": [
@@ -3318,10 +3325,10 @@
       "descripcion": "Emperador Nuez",
       "precioCompra": 12.13,
       "precioVenta": 18.19,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.126666666666667
         }
       ]
@@ -4134,6 +4141,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5689.085634920629,
-  "gananciasTotales": 2843.9143650793676
+  "inversionRecuperada": 5701.212301587296,
+  "gananciasTotales": 2849.977698412701
 }
