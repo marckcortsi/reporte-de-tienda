@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 215.64,
-      "ganancia": 268.23408730158735,
+      "adeudo": 233.82999999999998,
+      "ganancia": 274.2974206349207,
       "saldoFavor": 0
     },
     {
@@ -1631,6 +1631,13 @@
         "costoTotal": 90.72,
         "fecha": "29/1/2025, 12:36:05 p.m.",
         "ganancia": 30.23666666666667
+      },
+      {
+        "producto": "Emperador Nuez",
+        "piezas": 1,
+        "costoTotal": 18.19,
+        "fecha": "31/1/2025, 9:11:06 a.m.",
+        "ganancia": 6.063333333333334
       }
     ],
     "Karen": [
@@ -3334,13 +3341,8 @@
       "descripcion": "Emperador Nuez",
       "precioCompra": 12.13,
       "precioVenta": 18.19,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.126666666666667
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500366004825",
@@ -4150,6 +4152,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5718.712301587296,
-  "gananciasTotales": 2858.727698412701
+  "inversionRecuperada": 5730.838968253963,
+  "gananciasTotales": 2864.7910317460346
 }
