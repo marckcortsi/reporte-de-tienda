@@ -17,7 +17,7 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 165.82000000000002,
+      "adeudo": 0,
       "ganancia": 131.7925,
       "saldoFavor": 0
     },
@@ -38,7 +38,7 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 367.76,
+      "adeudo": 0,
       "ganancia": 294.23333333333335,
       "saldoFavor": 0
     },
@@ -52,7 +52,7 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 258.84,
+      "adeudo": 0,
       "ganancia": 349.7942936507938,
       "saldoFavor": 0
     },
@@ -73,7 +73,7 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 238,
+      "adeudo": 0,
       "ganancia": 235.6151666666667,
       "saldoFavor": 0
     },
