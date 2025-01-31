@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 430.47,
-      "ganancia": 495.3154285714288,
+      "adeudo": 444.83000000000004,
+      "ganancia": 500.1020952380955,
       "saldoFavor": 0
     },
     {
@@ -683,6 +683,20 @@
         "costoTotal": 71.5,
         "fecha": "30/1/2025, 6:06:57 p.m.",
         "ganancia": 23.7875
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "31/1/2025, 9:50:37 a.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "31/1/2025, 9:50:37 a.m.",
+        "ganancia": 3.166666666666667
       }
     ],
     "Edgar": [
@@ -3402,10 +3416,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 32,
+      "piezas": 31,
       "stockParciales": [
         {
-          "cantidad": 32,
+          "cantidad": 31,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -3415,10 +3429,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 6.33,
       "precioVenta": 9.5,
-      "piezas": 20,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 6.333333333333333
         }
       ]
@@ -4166,6 +4180,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5811.858968253962,
-  "gananciasTotales": 2905.2510317460346
+  "inversionRecuperada": 5821.432301587295,
+  "gananciasTotales": 2910.037698412701
 }
