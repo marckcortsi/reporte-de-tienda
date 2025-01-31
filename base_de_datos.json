@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 183.63000000000002,
-      "ganancia": 185.75527777777782,
+      "adeudo": 220.28000000000003,
+      "ganancia": 197.9719444444445,
       "saldoFavor": 0
     },
     {
@@ -1158,6 +1158,20 @@
         "costoTotal": 17.81,
         "fecha": "30/1/2025, 12:51:10 p.m.",
         "ganancia": 5.934999999999999
+      },
+      {
+        "producto": "Maruchan Pikin",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "31/1/2025, 10:55:49 a.m.",
+        "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Totopos hot chili totis",
+        "piezas": 1,
+        "costoTotal": 14.55,
+        "fecha": "31/1/2025, 10:56:01 a.m.",
+        "ganancia": 4.85
       }
     ],
     "Isac": [
@@ -3318,13 +3332,8 @@
       "descripcion": "Totopos hot chili totis",
       "precioCompra": 9.7,
       "precioVenta": 14.55,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 9.700000000000001
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000606566",
@@ -3462,10 +3471,10 @@
       "descripcion": "Maruchan Pikin",
       "precioCompra": 14.73,
       "precioVenta": 22.1,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 14.733333333333334
         }
       ]
@@ -4187,6 +4196,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5832.869801587295,
-  "gananciasTotales": 2915.760198412701
+  "inversionRecuperada": 5857.3031349206285,
+  "gananciasTotales": 2927.9768650793676
 }
