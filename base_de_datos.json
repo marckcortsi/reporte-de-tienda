@@ -10,9 +10,9 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 444.83000000000004,
+      "adeudo": 0,
       "ganancia": 500.1020952380955,
-      "saldoFavor": 0
+      "saldoFavor": 55.27
     },
     {
       "nombre": "Edgar",
