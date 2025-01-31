@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 350.59999999999997,
-      "ganancia": 288.5108333333333,
+      "adeudo": 367.76,
+      "ganancia": 294.23333333333335,
       "saldoFavor": 0
     },
     {
@@ -1482,6 +1482,13 @@
         "costoTotal": 5.02,
         "fecha": "30/1/2025, 4:45:45 p.m.",
         "ganancia": 1.6749999999999994
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "31/1/2025, 9:53:56 a.m.",
+        "ganancia": 5.7225
       }
     ],
     "Isrrael": [
@@ -3494,10 +3501,10 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 11.4375
         }
       ]
@@ -4180,6 +4187,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 5821.432301587295,
-  "gananciasTotales": 2910.037698412701
+  "inversionRecuperada": 5832.869801587295,
+  "gananciasTotales": 2915.760198412701
 }
