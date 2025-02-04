@@ -10,9 +10,9 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 516.3385833333336,
-      "saldoFavor": 8.040000000000006
+      "adeudo": 73.97,
+      "ganancia": 543.6327500000003,
+      "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 508.7865277777779,
+      "adeudo": 28.41,
+      "ganancia": 518.2590277777779,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 236.10975000000005,
+      "adeudo": 49.18,
+      "ganancia": 252.49641666666673,
       "saldoFavor": 0
     },
     {
@@ -717,6 +717,27 @@
         "piezas": 1,
         "costoTotal": 9.5,
         "fecha": "31/1/2025, 4:47:48 p.m.",
+        "ganancia": 3.166666666666667
+      },
+      {
+        "producto": "Chicles canels",
+        "piezas": 1,
+        "costoTotal": 1.01,
+        "fecha": "4/2/2025, 8:32:30 a.m.",
+        "ganancia": 0.33999999999999997
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 25,
+        "costoTotal": 71.5,
+        "fecha": "4/2/2025, 8:32:30 a.m.",
+        "ganancia": 23.7875
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "4/2/2025, 8:33:32 a.m.",
         "ganancia": 3.166666666666667
       }
     ],
@@ -2904,6 +2925,20 @@
         "costoTotal": 17.81,
         "fecha": "31/1/2025, 11:39:42 a.m.",
         "ganancia": 5.934999999999999
+      },
+      {
+        "producto": "Churritos sal y limon",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "4/2/2025, 8:34:33 a.m.",
+        "ganancia": 3.75
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "4/2/2025, 8:34:33 a.m.",
+        "ganancia": 5.7225
       }
     ],
     "Rafael": [
@@ -3270,6 +3305,27 @@
         "costoTotal": 19.6,
         "fecha": "31/1/2025, 11:25:33 a.m.",
         "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Galletas Marianistas Vainilla",
+        "piezas": 1,
+        "costoTotal": 15.15,
+        "fecha": "4/2/2025, 8:31:39 a.m.",
+        "ganancia": 5.050000000000001
+      },
+      {
+        "producto": "Vive 100 original",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "4/2/2025, 8:31:39 a.m.",
+        "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 3,
+        "costoTotal": 15.72,
+        "fecha": "4/2/2025, 8:33:19 a.m.",
+        "ganancia": 5.235
       }
     ],
     "Vicente": [
@@ -3367,13 +3423,8 @@
       "descripcion": "Galletas Marianistas Vainilla",
       "precioCompra": 10.1,
       "precioVenta": 15.15,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 10.1
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "038629003225",
@@ -3432,10 +3483,10 @@
       "descripcion": "Chicles canels",
       "precioCompra": 0.67,
       "precioVenta": 1.01,
-      "piezas": 52,
+      "piezas": 51,
       "stockParciales": [
         {
-          "cantidad": 52,
+          "cantidad": 51,
           "costoUnitario": 0.67
         }
       ]
@@ -3469,10 +3520,10 @@
       "descripcion": "Cigarros Shots",
       "precioCompra": 1.91,
       "precioVenta": 2.86,
-      "piezas": 100,
+      "piezas": 75,
       "stockParciales": [
         {
-          "cantidad": 100,
+          "cantidad": 75,
           "costoUnitario": 1.9084999999999999
         }
       ]
@@ -3558,10 +3609,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 6.33,
       "precioVenta": 9.5,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 17,
           "costoUnitario": 6.333333333333333
         }
       ]
@@ -3618,10 +3669,10 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 17,
           "costoUnitario": 11.4375
         }
       ]
@@ -3631,10 +3682,10 @@
       "descripcion": "Vive 100 original",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 23,
+      "piezas": 22,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 22,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -3800,10 +3851,10 @@
       "descripcion": "Churritos sal y limon",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 7.5
         }
       ]
@@ -3839,10 +3890,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 80,
+      "piezas": 77,
       "stockParciales": [
         {
-          "cantidad": 80,
+          "cantidad": 77,
           "costoUnitario": 3.495
         }
       ]
@@ -4304,6 +4355,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 6039.186825396819,
-  "gananciasTotales": 3018.903174603176
+  "inversionRecuperada": 6145.6334920634845,
+  "gananciasTotales": 3072.056507936509
 }
