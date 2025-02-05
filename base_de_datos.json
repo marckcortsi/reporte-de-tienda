@@ -3,22 +3,22 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 43.60999999999997,
-      "ganancia": 349.01762500000007,
+      "adeudo": 51.88999999999997,
+      "ganancia": 351.77540277777786,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 127.72,
-      "ganancia": 562.3704583333335,
+      "adeudo": 132.58,
+      "ganancia": 563.9904583333335,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 50.52,
-      "ganancia": 149.94479166666665,
+      "adeudo": 55.38,
+      "ganancia": 151.56479166666665,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 71.92000000000002,
-      "ganancia": 375.0857519841272,
+      "adeudo": 110.58000000000001,
+      "ganancia": 387.9679742063495,
       "saldoFavor": 0
     },
     {
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 97.32000000000001,
-      "ganancia": 269.3591250000001,
+      "adeudo": 113.17,
+      "ganancia": 274.6449583333335,
       "saldoFavor": 0
     },
     {
@@ -282,6 +282,13 @@
         "costoTotal": 115,
         "fecha": "5/2/2025, 10:16:53 a.m.",
         "ganancia": 38.3
+      },
+      {
+        "producto": "Paleta Rocaleta",
+        "piezas": 1,
+        "costoTotal": 8.28,
+        "fecha": "5/2/2025, 4:03:05 p.m.",
+        "ganancia": 2.757777777777777
       }
     ],
     "Carlos": [
@@ -774,6 +781,13 @@
         "costoTotal": 19.6,
         "fecha": "5/2/2025, 12:53:01 p.m.",
         "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "5/2/2025, 4:03:20 p.m.",
+        "ganancia": 1.6200000000000006
       }
     ],
     "Edgar": [
@@ -986,6 +1000,13 @@
         "costoTotal": 28.42,
         "fecha": "4/2/2025, 2:52:50 p.m.",
         "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "5/2/2025, 4:02:57 p.m.",
+        "ganancia": 1.6200000000000006
       }
     ],
     "Francisco": [
@@ -2270,6 +2291,20 @@
         "costoTotal": 5.34,
         "fecha": "5/2/2025, 2:23:48 p.m.",
         "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Maruchan Habanero",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "5/2/2025, 2:50:09 p.m.",
+        "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Paleta Rocaleta",
+        "piezas": 2,
+        "costoTotal": 16.56,
+        "fecha": "5/2/2025, 4:02:17 p.m.",
+        "ganancia": 5.515555555555554
       }
     ],
     "Laura": [
@@ -3508,6 +3543,27 @@
         "costoTotal": 10.48,
         "fecha": "5/2/2025, 8:58:41 a.m.",
         "ganancia": 3.49
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "5/2/2025, 4:01:59 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "5/2/2025, 4:01:59 p.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "5/2/2025, 4:01:59 p.m.",
+        "ganancia": 1.8833333333333337
       }
     ],
     "Vicente": [
@@ -3657,10 +3713,10 @@
       "descripcion": "Paleta Rocaleta",
       "precioCompra": 5.52,
       "precioVenta": 8.28,
-      "piezas": 4,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 1,
           "costoUnitario": 5.522222222222222
         }
       ]
@@ -3783,10 +3839,10 @@
       "descripcion": "Zumba Goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 3.5575
         }
       ]
@@ -3796,10 +3852,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 30,
+      "piezas": 27,
       "stockParciales": [
         {
-          "cantidad": 30,
+          "cantidad": 27,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -3822,10 +3878,10 @@
       "descripcion": "Maruchan Habanero",
       "precioCompra": 14.73,
       "precioVenta": 22.1,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 14.733333333333334
         }
       ]
@@ -3934,10 +3990,10 @@
       "descripcion": "Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -4550,6 +4606,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 6564.528849206338,
-  "gananciasTotales": 3281.44115079365
+  "inversionRecuperada": 6612.873015873004,
+  "gananciasTotales": 3305.606984126983
 }
