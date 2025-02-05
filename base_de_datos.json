@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 110.58000000000001,
-      "ganancia": 387.9679742063495,
+      "adeudo": 147.83,
+      "ganancia": 400.38987896825427,
       "saldoFavor": 0
     },
     {
@@ -2347,6 +2347,27 @@
         "costoTotal": 16.56,
         "fecha": "5/2/2025, 4:02:17 p.m.",
         "ganancia": 5.515555555555554
+      },
+      {
+        "producto": "Chicles canels",
+        "piezas": 2,
+        "costoTotal": 2.02,
+        "fecha": "5/2/2025, 5:54:12 p.m.",
+        "ganancia": 0.6799999999999999
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.6,
+        "fecha": "5/2/2025, 5:54:12 p.m.",
+        "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Palomitas de Maiz",
+        "piezas": 1,
+        "costoTotal": 15.63,
+        "fecha": "5/2/2025, 5:54:12 p.m.",
+        "ganancia": 5.208571428571428
       }
     ],
     "Laura": [
@@ -3797,10 +3818,10 @@
       "descripcion": "Chicles canels",
       "precioCompra": 0.67,
       "precioVenta": 1.01,
-      "piezas": 51,
+      "piezas": 49,
       "stockParciales": [
         {
-          "cantidad": 51,
+          "cantidad": 49,
           "costoUnitario": 0.67
         }
       ]
@@ -4061,10 +4082,10 @@
       "descripcion": "Doritos",
       "precioCompra": 13.07,
       "precioVenta": 19.6,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 13.066666666666666
         }
       ]
@@ -4212,10 +4233,10 @@
       "descripcion": "Palomitas de Maiz",
       "precioCompra": 10.42,
       "precioVenta": 15.63,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 10.421428571428573
         }
       ]
@@ -4664,6 +4685,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 6739.263333333321,
-  "gananciasTotales": 3368.726666666665
+  "inversionRecuperada": 6764.091428571416,
+  "gananciasTotales": 3381.1485714285695
 }
