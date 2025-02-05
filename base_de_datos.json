@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 98.62,
-      "ganancia": 551.8494166666669,
+      "adeudo": 127.72,
+      "ganancia": 561.5494166666668,
       "saldoFavor": 0
     },
     {
@@ -760,6 +760,20 @@
         "costoTotal": 9.5,
         "fecha": "5/2/2025, 8:30:32 a.m.",
         "ganancia": 3.166666666666667
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "5/2/2025, 12:53:01 p.m.",
+        "ganancia": 3.166666666666667
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.6,
+        "fecha": "5/2/2025, 12:53:01 p.m.",
+        "ganancia": 6.533333333333335
       }
     ],
     "Edgar": [
@@ -3760,10 +3774,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 6.33,
       "precioVenta": 9.5,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 6.333333333333333
         }
       ]
@@ -3898,10 +3912,10 @@
       "descripcion": "Doritos",
       "precioCompra": 13.07,
       "precioVenta": 19.6,
-      "piezas": 20,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 13.066666666666666
         }
       ]
@@ -4501,6 +4515,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 6502.92384920634,
-  "gananciasTotales": 3250.6361507936513
+  "inversionRecuperada": 6522.323849206339,
+  "gananciasTotales": 3260.336150793651
 }
