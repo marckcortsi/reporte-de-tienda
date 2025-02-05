@@ -4,84 +4,84 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 43.60999999999997,
-      "ganancia": 348.19658333333336,
+      "ganancia": 349.01762500000007,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
       "adeudo": 127.72,
-      "ganancia": 561.5494166666668,
+      "ganancia": 562.3704583333335,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
       "adeudo": 50.52,
-      "ganancia": 149.12375,
+      "ganancia": 149.94479166666665,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
       "adeudo": 18.470000000000002,
-      "ganancia": 97.52324999999999,
+      "ganancia": 98.34429166666666,
       "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
       "adeudo": 41.7,
-      "ganancia": 212.36652777777783,
+      "ganancia": 213.18756944444448,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
       "adeudo": 52.83,
-      "ganancia": 312.3404166666667,
+      "ganancia": 313.1614583333334,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
       "adeudo": 59.760000000000005,
-      "ganancia": 342.0774801587302,
+      "ganancia": 342.8985218253969,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 66.58000000000001,
-      "ganancia": 372.4822103174605,
+      "adeudo": 71.92000000000002,
+      "ganancia": 375.0857519841272,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 29.15791666666667,
+      "ganancia": 29.97895833333334,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
       "adeudo": 85.5,
-      "ganancia": 537.2873611111112,
+      "ganancia": 538.1084027777779,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
       "adeudo": 97.32000000000001,
-      "ganancia": 268.5380833333334,
+      "ganancia": 269.3591250000001,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 29.693154761904758,
+      "ganancia": 30.514196428571427,
       "saldoFavor": 0
     },
     {
@@ -2263,6 +2263,13 @@
         "costoTotal": 19.6,
         "fecha": "5/2/2025, 12:03:05 p.m.",
         "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "5/2/2025, 2:23:48 p.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Laura": [
@@ -3547,6 +3554,27 @@
         "costoTotal": 17.81,
         "fecha": "31/1/2025, 4:47:14 p.m.",
         "ganancia": 5.934999999999999
+      },
+      {
+        "producto": "Papas Sol jalapeño",
+        "piezas": 1,
+        "costoTotal": 19.35,
+        "fecha": "5/2/2025, 2:25:58 p.m.",
+        "ganancia": 6.450000000000001
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "5/2/2025, 2:25:58 p.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "5/2/2025, 2:25:58 p.m.",
+        "ganancia": 1.7824999999999998
       }
     ]
   },
@@ -3748,10 +3776,10 @@
       "descripcion": "Zumba Goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 14,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 12,
           "costoUnitario": 3.5575
         }
       ]
@@ -3761,10 +3789,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 31,
+      "piezas": 30,
       "stockParciales": [
         {
-          "cantidad": 31,
+          "cantidad": 30,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -3977,10 +4005,10 @@
       "descripcion": "Papas Sol jalapeño",
       "precioCompra": 12.9,
       "precioVenta": 19.35,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 12.9
         }
       ]
@@ -4515,6 +4543,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 6522.323849206339,
-  "gananciasTotales": 3260.336150793651
+  "inversionRecuperada": 6545.578849206338,
+  "gananciasTotales": 3271.9711507936504
 }
