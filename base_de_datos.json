@@ -10,23 +10,23 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 73.97,
-      "ganancia": 543.6327500000003,
+      "adeudo": 98.62,
+      "ganancia": 551.8494166666669,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 132.28708333333333,
+      "adeudo": 50.52,
+      "ganancia": 149.12375,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 90.98991666666666,
-      "saldoFavor": 1.13
+      "adeudo": 18.470000000000002,
+      "ganancia": 97.52324999999999,
+      "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 294.72791666666666,
+      "adeudo": 42.35,
+      "ganancia": 308.8504166666667,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 350.2888769841271,
+      "adeudo": 46.980000000000004,
+      "ganancia": 365.94887698412714,
       "saldoFavor": 0
     },
     {
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 49.18,
-      "ganancia": 252.49641666666673,
+      "adeudo": 86.84,
+      "ganancia": 265.0480833333334,
       "saldoFavor": 0
     },
     {
@@ -739,6 +739,20 @@
         "costoTotal": 9.5,
         "fecha": "4/2/2025, 8:33:32 a.m.",
         "ganancia": 3.166666666666667
+      },
+      {
+        "producto": "Galletas Marianistas Chocolate",
+        "piezas": 1,
+        "costoTotal": 15.15,
+        "fecha": "5/2/2025, 8:30:32 a.m.",
+        "ganancia": 5.050000000000001
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "5/2/2025, 8:30:32 a.m.",
+        "ganancia": 3.166666666666667
       }
     ],
     "Edgar": [
@@ -937,6 +951,20 @@
         "costoTotal": 19.6,
         "fecha": "31/1/2025, 11:40:22 a.m.",
         "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Maruchan Habanero",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "4/2/2025, 2:33:58 p.m.",
+        "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Jarrito Mandarina",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "4/2/2025, 2:52:50 p.m.",
+        "ganancia": 9.470000000000002
       }
     ],
     "Francisco": [
@@ -1030,6 +1058,13 @@
         "costoTotal": 53.42999999999999,
         "fecha": "28/1/2025, 1:37:42 p.m.",
         "ganancia": 17.804999999999996
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.6,
+        "fecha": "4/2/2025, 11:56:23 a.m.",
+        "ganancia": 6.533333333333335
       }
     ],
     "Irvin": [
@@ -1559,6 +1594,27 @@
         "costoTotal": 17.16,
         "fecha": "31/1/2025, 9:53:56 a.m.",
         "ganancia": 5.7225
+      },
+      {
+        "producto": "Galletas Marianistas Naranja",
+        "piezas": 1,
+        "costoTotal": 15.15,
+        "fecha": "4/2/2025, 9:15:12 a.m.",
+        "ganancia": 5.050000000000001
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "4/2/2025, 11:56:59 a.m.",
+        "ganancia": 5.7225
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 2,
+        "costoTotal": 10.04,
+        "fecha": "4/2/2025, 1:45:07 p.m.",
+        "ganancia": 3.3499999999999988
       }
     ],
     "Isrrael": [
@@ -2130,6 +2186,20 @@
         "costoTotal": 17.81,
         "fecha": "31/1/2025, 1:59:58 p.m.",
         "ganancia": 5.934999999999999
+      },
+      {
+        "producto": "Galletas Marianistas Chocolate",
+        "piezas": 2,
+        "costoTotal": 30.3,
+        "fecha": "4/2/2025, 9:14:14 a.m.",
+        "ganancia": 10.100000000000001
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "4/2/2025, 11:57:55 a.m.",
+        "ganancia": 5.559999999999999
       }
     ],
     "Laura": [
@@ -3326,6 +3396,20 @@
         "costoTotal": 15.72,
         "fecha": "4/2/2025, 8:33:19 a.m.",
         "ganancia": 5.235
+      },
+      {
+        "producto": "Papas Sol chipotle",
+        "piezas": 1,
+        "costoTotal": 19.35,
+        "fecha": "5/2/2025, 8:33:23 a.m.",
+        "ganancia": 6.450000000000001
+      },
+      {
+        "producto": "Vive 100 original",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "5/2/2025, 8:33:23 a.m.",
+        "ganancia": 6.101666666666665
       }
     ],
     "Vicente": [
@@ -3381,10 +3465,10 @@
       "descripcion": "Cigarros Pall Mall",
       "precioCompra": 3.35,
       "precioVenta": 5.02,
-      "piezas": 15,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 13,
           "costoUnitario": 3.345
         }
       ]
@@ -3410,13 +3494,8 @@
       "descripcion": "Galletas Marianistas Naranja",
       "precioCompra": 10.1,
       "precioVenta": 15.15,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 10.1
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "038629002716",
@@ -3431,13 +3510,8 @@
       "descripcion": "Galletas Marianistas Chocolate",
       "precioCompra": 10.1,
       "precioVenta": 15.15,
-      "piezas": 3,
-      "stockParciales": [
-        {
-          "cantidad": 3,
-          "costoUnitario": 10.1
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7503030374552",
@@ -3609,10 +3683,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 6.33,
       "precioVenta": 9.5,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 16,
           "costoUnitario": 6.333333333333333
         }
       ]
@@ -3622,10 +3696,10 @@
       "descripcion": "Maruchan Habanero",
       "precioCompra": 14.73,
       "precioVenta": 22.1,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 14.733333333333334
         }
       ]
@@ -3669,10 +3743,10 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 16,
           "costoUnitario": 11.4375
         }
       ]
@@ -3682,10 +3756,10 @@
       "descripcion": "Vive 100 original",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 22,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 22,
+          "cantidad": 21,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -3695,10 +3769,10 @@
       "descripcion": "Jarrito Mandarina",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 18.95
         }
       ]
@@ -3747,10 +3821,10 @@
       "descripcion": "Doritos",
       "precioCompra": 13.07,
       "precioVenta": 19.6,
-      "piezas": 23,
+      "piezas": 22,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 22,
           "costoUnitario": 13.066666666666666
         }
       ]
@@ -3760,10 +3834,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -3825,13 +3899,8 @@
       "descripcion": "Papas Sol chipotle",
       "precioCompra": 12.9,
       "precioVenta": 19.35,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.9
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7503022458307",
@@ -4355,6 +4424,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 6145.6334920634845,
-  "gananciasTotales": 3072.056507936509
+  "inversionRecuperada": 6293.47265873015,
+  "gananciasTotales": 3145.977341269842
 }
