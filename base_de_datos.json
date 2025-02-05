@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 132.58,
-      "ganancia": 563.9904583333335,
+      "adeudo": 246.67000000000002,
+      "ganancia": 601.9731964285717,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 52.83,
-      "ganancia": 313.1614583333334,
+      "adeudo": 69.50999999999999,
+      "ganancia": 318.72145833333343,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 85.5,
-      "ganancia": 538.1084027777779,
+      "adeudo": 90.84,
+      "ganancia": 539.8909027777779,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 113.17,
-      "ganancia": 274.6449583333335,
+      "adeudo": 130.95,
+      "ganancia": 280.56940277777795,
       "saldoFavor": 0
     },
     {
@@ -788,6 +788,34 @@
         "costoTotal": 4.86,
         "fecha": "5/2/2025, 4:03:20 p.m.",
         "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Maruchan Habanero",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "5/2/2025, 4:38:31 p.m.",
+        "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "5/2/2025, 4:38:31 p.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Palomitas de Maiz",
+        "piezas": 1,
+        "costoTotal": 15.63,
+        "fecha": "5/2/2025, 4:38:31 p.m.",
+        "ganancia": 5.208571428571428
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 25,
+        "costoTotal": 71.5,
+        "fecha": "5/2/2025, 4:38:31 p.m.",
+        "ganancia": 23.7875
       }
     ],
     "Edgar": [
@@ -1678,6 +1706,13 @@
         "costoTotal": 10.48,
         "fecha": "5/2/2025, 8:59:07 a.m.",
         "ganancia": 3.49
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "5/2/2025, 4:37:37 p.m.",
+        "ganancia": 5.559999999999999
       }
     ],
     "Isrrael": [
@@ -3135,6 +3170,13 @@
         "costoTotal": 16.68,
         "fecha": "5/2/2025, 12:06:36 p.m.",
         "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "5/2/2025, 4:39:30 p.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Rafael": [
@@ -3564,6 +3606,20 @@
         "costoTotal": 5.65,
         "fecha": "5/2/2025, 4:01:59 p.m.",
         "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "5/2/2025, 4:38:45 p.m.",
+        "ganancia": 3.166666666666667
+      },
+      {
+        "producto": "Paleta Rocaleta",
+        "piezas": 1,
+        "costoTotal": 8.28,
+        "fecha": "5/2/2025, 4:38:45 p.m.",
+        "ganancia": 2.757777777777777
       }
     ],
     "Vicente": [
@@ -3713,13 +3769,8 @@
       "descripcion": "Paleta Rocaleta",
       "precioCompra": 5.52,
       "precioVenta": 8.28,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 5.522222222222222
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501056903190",
@@ -3776,10 +3827,10 @@
       "descripcion": "Cigarros Shots",
       "precioCompra": 1.91,
       "precioVenta": 2.86,
-      "piezas": 75,
+      "piezas": 50,
       "stockParciales": [
         {
-          "cantidad": 75,
+          "cantidad": 50,
           "costoUnitario": 1.9084999999999999
         }
       ]
@@ -3839,10 +3890,10 @@
       "descripcion": "Zumba Goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 3.5575
         }
       ]
@@ -3852,10 +3903,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 27,
+      "piezas": 26,
       "stockParciales": [
         {
-          "cantidad": 27,
+          "cantidad": 26,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -3865,10 +3916,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 6.33,
       "precioVenta": 9.5,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 6.333333333333333
         }
       ]
@@ -3878,10 +3929,10 @@
       "descripcion": "Maruchan Habanero",
       "precioCompra": 14.73,
       "precioVenta": 22.1,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 14.733333333333334
         }
       ]
@@ -4016,10 +4067,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -4154,10 +4205,10 @@
       "descripcion": "Palomitas de Maiz",
       "precioCompra": 10.42,
       "precioVenta": 15.63,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 10.421428571428573
         }
       ]
@@ -4606,6 +4657,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 6612.873015873004,
-  "gananciasTotales": 3305.606984126983
+  "inversionRecuperada": 6715.513333333321,
+  "gananciasTotales": 3356.856666666665
 }
