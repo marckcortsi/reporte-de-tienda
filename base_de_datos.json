@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 18.470000000000002,
-      "ganancia": 98.34429166666666,
+      "adeudo": 54.09,
+      "ganancia": 110.21429166666667,
       "saldoFavor": 0
     },
     {
@@ -1135,6 +1135,13 @@
         "costoTotal": 19.6,
         "fecha": "4/2/2025, 11:56:23 a.m.",
         "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Coca de vidrio 500 ml",
+        "piezas": 2,
+        "costoTotal": 35.62,
+        "fecha": "5/2/2025, 4:43:07 p.m.",
+        "ganancia": 11.869999999999997
       }
     ],
     "Irvin": [
@@ -3963,10 +3970,10 @@
       "descripcion": "Coca de vidrio 500 ml",
       "precioCompra": 11.88,
       "precioVenta": 17.81,
-      "piezas": 5,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 3,
           "costoUnitario": 11.875
         }
       ]
@@ -4657,6 +4664,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 6715.513333333321,
-  "gananciasTotales": 3356.856666666665
+  "inversionRecuperada": 6739.263333333321,
+  "gananciasTotales": 3368.726666666665
 }
