@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 51.88999999999997,
-      "ganancia": 351.77540277777786,
+      "adeudo": 57.27999999999997,
+      "ganancia": 353.5704027777779,
       "saldoFavor": 0
     },
     {
@@ -289,6 +289,13 @@
         "costoTotal": 8.28,
         "fecha": "5/2/2025, 4:03:05 p.m.",
         "ganancia": 2.757777777777777
+      },
+      {
+        "producto": "Paleta Búbalo Xtreme",
+        "piezas": 1,
+        "costoTotal": 5.39,
+        "fecha": "5/2/2025, 6:00:14 p.m.",
+        "ganancia": 1.7949999999999995
       }
     ],
     "Carlos": [
@@ -3805,10 +3812,10 @@
       "descripcion": "Paleta Búbalo Xtreme",
       "precioCompra": 3.6,
       "precioVenta": 5.39,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 3.595
         }
       ]
@@ -4685,6 +4692,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 6764.091428571416,
-  "gananciasTotales": 3381.1485714285695
+  "inversionRecuperada": 6767.686428571416,
+  "gananciasTotales": 3382.9435714285696
 }
