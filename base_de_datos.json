@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 69.50999999999999,
-      "ganancia": 318.72145833333343,
+      "adeudo": 91.60999999999999,
+      "ganancia": 326.0881250000001,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 147.83,
-      "ganancia": 400.38987896825427,
+      "adeudo": 185.56,
+      "ganancia": 412.96511706349236,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 90.84,
-      "ganancia": 539.8909027777779,
+      "adeudo": 96.49000000000001,
+      "ganancia": 541.7742361111112,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 130.95,
-      "ganancia": 280.56940277777795,
+      "adeudo": 153.04999999999998,
+      "ganancia": 287.9360694444446,
       "saldoFavor": 0
     },
     {
@@ -1741,6 +1741,13 @@
         "costoTotal": 16.68,
         "fecha": "5/2/2025, 4:37:37 p.m.",
         "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Maruchan Habanero",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "6/2/2025, 9:53:49 a.m.",
+        "ganancia": 7.366666666666667
       }
     ],
     "Isrrael": [
@@ -2388,6 +2395,20 @@
         "piezas": 1,
         "costoTotal": 15.63,
         "fecha": "5/2/2025, 5:54:12 p.m.",
+        "ganancia": 5.208571428571428
+      },
+      {
+        "producto": "Maruchan Habanero",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "6/2/2025, 10:20:57 a.m.",
+        "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Palomitas de Maiz",
+        "piezas": 1,
+        "costoTotal": 15.63,
+        "fecha": "6/2/2025, 10:20:57 a.m.",
         "ganancia": 5.208571428571428
       }
     ],
@@ -3226,6 +3247,13 @@
         "costoTotal": 5.34,
         "fecha": "5/2/2025, 4:39:30 p.m.",
         "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "6/2/2025, 10:19:34 a.m.",
+        "ganancia": 1.8833333333333337
       }
     ],
     "Rafael": [
@@ -3669,6 +3697,13 @@
         "costoTotal": 8.28,
         "fecha": "5/2/2025, 4:38:45 p.m.",
         "ganancia": 2.757777777777777
+      },
+      {
+        "producto": "Maruchan Habanero",
+        "piezas": 1,
+        "costoTotal": 22.1,
+        "fecha": "6/2/2025, 9:54:02 a.m.",
+        "ganancia": 7.366666666666667
       }
     ],
     "Vicente": [
@@ -3978,13 +4013,8 @@
       "descripcion": "Maruchan Habanero",
       "precioCompra": 14.73,
       "precioVenta": 22.1,
-      "piezas": 3,
-      "stockParciales": [
-        {
-          "cantidad": 3,
-          "costoUnitario": 14.733333333333334
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "041789001987",
@@ -4090,10 +4120,10 @@
       "descripcion": "Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -4254,10 +4284,10 @@
       "descripcion": "Palomitas de Maiz",
       "precioCompra": 10.42,
       "precioVenta": 15.63,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 10.421428571428573
         }
       ]
@@ -4706,6 +4736,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 6791.473095238083,
-  "gananciasTotales": 3394.836904761903
+  "inversionRecuperada": 6849.861190476179,
+  "gananciasTotales": 3424.028809523808
 }
