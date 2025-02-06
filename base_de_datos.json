@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 41.7,
-      "ganancia": 213.18756944444448,
+      "adeudo": 61.300000000000004,
+      "ganancia": 219.7209027777778,
       "saldoFavor": 0
     },
     {
@@ -1374,6 +1374,13 @@
         "piezas": 1,
         "costoTotal": 19.6,
         "fecha": "5/2/2025, 12:03:46 p.m.",
+        "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.6,
+        "fecha": "6/2/2025, 11:56:41 a.m.",
         "ganancia": 6.533333333333335
       }
     ],
@@ -4154,10 +4161,10 @@
       "descripcion": "Doritos",
       "precioCompra": 13.07,
       "precioVenta": 19.6,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 17,
           "costoUnitario": 13.066666666666666
         }
       ]
@@ -4757,6 +4764,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 6887.177857142845,
-  "gananciasTotales": 3442.6821428571407
+  "inversionRecuperada": 6900.2445238095115,
+  "gananciasTotales": 3449.215476190474
 }
