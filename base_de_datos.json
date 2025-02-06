@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 128.11999999999998,
-      "ganancia": 338.2606250000001,
+      "adeudo": 148.98999999999998,
+      "ganancia": 345.21419642857154,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 195.06,
-      "ganancia": 416.13178373015904,
+      "adeudo": 242.56,
+      "ganancia": 431.96511706349236,
       "saldoFavor": 0
     },
     {
@@ -1769,6 +1769,20 @@
         "costoTotal": 17.16,
         "fecha": "6/2/2025, 12:04:06 p.m.",
         "ganancia": 5.7225
+      },
+      {
+        "producto": "Palomitas de Maiz",
+        "piezas": 1,
+        "costoTotal": 15.63,
+        "fecha": "6/2/2025, 3:13:49 p.m.",
+        "ganancia": 5.208571428571428
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "6/2/2025, 3:14:50 p.m.",
+        "ganancia": 1.745
       }
     ],
     "Isrrael": [
@@ -2438,6 +2452,13 @@
         "costoTotal": 9.5,
         "fecha": "6/2/2025, 1:56:48 p.m.",
         "ganancia": 3.166666666666667
+      },
+      {
+        "producto": "Coca de 3 litros",
+        "piezas": 1,
+        "costoTotal": 47.5,
+        "fecha": "6/2/2025, 3:13:24 p.m.",
+        "ganancia": 15.833333333333332
       }
     ],
     "Laura": [
@@ -3866,46 +3887,6 @@
       ]
     },
     {
-      "codigo": "7500478010592",
-      "descripcion": "Galletas Marias",
-      "precioCompra": 12.73,
-      "precioVenta": 19.1,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7501006559019",
-      "descripcion": "Palomitas de mantequilla",
-      "precioCompra": 10.37,
-      "precioVenta": 15.56,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "038629002075",
-      "descripcion": "Galletas Marianistas Naranja",
-      "precioCompra": 10.1,
-      "precioVenta": 15.15,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "038629002716",
-      "descripcion": "Galletas Marianistas Vainilla",
-      "precioCompra": 10.1,
-      "precioVenta": 15.15,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "038629003225",
-      "descripcion": "Galletas Marianistas Chocolate",
-      "precioCompra": 10.1,
-      "precioVenta": 15.15,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "7503030374552",
       "descripcion": "Paletas de Tarrito",
       "precioCompra": 1.63,
@@ -3917,14 +3898,6 @@
           "costoUnitario": 1.6300000000000001
         }
       ]
-    },
-    {
-      "codigo": "7501011145566",
-      "descripcion": "Paleta Rocaleta",
-      "precioCompra": 5.52,
-      "precioVenta": 8.28,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "7501056903190",
@@ -3953,30 +3926,6 @@
       ]
     },
     {
-      "codigo": "7500366004221",
-      "descripcion": "Totopos hot chili totis",
-      "precioCompra": 9.7,
-      "precioVenta": 14.55,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7501000606566",
-      "descripcion": "Cremax chocolate",
-      "precioCompra": 10,
-      "precioVenta": 15,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7501000606580",
-      "descripcion": "Cremax fresa",
-      "precioCompra": 10,
-      "precioVenta": 15,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "75078843",
       "descripcion": "Cigarros Shots",
       "precioCompra": 1.91,
@@ -3988,30 +3937,6 @@
           "costoUnitario": 1.9084999999999999
         }
       ]
-    },
-    {
-      "codigo": "7500478008926",
-      "descripcion": "Galletas Chokis",
-      "precioCompra": 11,
-      "precioVenta": 16.5,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7500478022496",
-      "descripcion": "Emperador Chocolate",
-      "precioCompra": 12.13,
-      "precioVenta": 18.19,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7500478022540",
-      "descripcion": "Emperador Nuez",
-      "precioCompra": 12.13,
-      "precioVenta": 18.19,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "7500366004825",
@@ -4079,30 +4004,14 @@
       ]
     },
     {
-      "codigo": "041789001864",
-      "descripcion": "Maruchan Habanero",
-      "precioCompra": 14.73,
-      "precioVenta": 22.1,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "041789001987",
-      "descripcion": "Maruchan Pikin",
-      "precioCompra": 14.73,
-      "precioVenta": 22.1,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "7501055313068",
       "descripcion": "Coca de 3 litros",
       "precioCompra": 31.67,
       "precioVenta": 47.5,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 31.666666666666668
         }
       ]
@@ -4277,14 +4186,6 @@
       ]
     },
     {
-      "codigo": "7503022458505",
-      "descripcion": "Papas Sol chipotle",
-      "precioCompra": 12.9,
-      "precioVenta": 19.35,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "7503022458307",
       "descripcion": "Solchetitos",
       "precioCompra": 8.67,
@@ -4341,10 +4242,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 73,
+      "piezas": 72,
       "stockParciales": [
         {
-          "cantidad": 73,
+          "cantidad": 72,
           "costoUnitario": 3.495
         }
       ]
@@ -4354,10 +4255,10 @@
       "descripcion": "Palomitas de Maiz",
       "precioCompra": 10.42,
       "precioVenta": 15.63,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 10.421428571428573
         }
       ]
@@ -4806,6 +4707,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 6948.832857142844,
-  "gananciasTotales": 3473.51714285714
+  "inversionRecuperada": 6994.415952380939,
+  "gananciasTotales": 3496.3040476190445
 }
