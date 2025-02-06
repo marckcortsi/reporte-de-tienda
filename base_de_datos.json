@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 96.49000000000001,
-      "ganancia": 541.7742361111112,
+      "adeudo": 134.15,
+      "ganancia": 554.325902777778,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 153.04999999999998,
-      "ganancia": 287.9360694444446,
+      "adeudo": 171.35999999999999,
+      "ganancia": 294.0377361111113,
       "saldoFavor": 0
     },
     {
@@ -3254,6 +3254,20 @@
         "costoTotal": 5.65,
         "fecha": "6/2/2025, 10:19:34 a.m.",
         "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Papas Sol habanero",
+        "piezas": 1,
+        "costoTotal": 19.35,
+        "fecha": "6/2/2025, 11:54:01 a.m.",
+        "ganancia": 6.450000000000001
+      },
+      {
+        "producto": "Vive 100 original",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "6/2/2025, 11:54:59 a.m.",
+        "ganancia": 6.101666666666665
       }
     ],
     "Rafael": [
@@ -3704,6 +3718,13 @@
         "costoTotal": 22.1,
         "fecha": "6/2/2025, 9:54:02 a.m.",
         "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Vive 100 original",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "6/2/2025, 11:54:46 a.m.",
+        "ganancia": 6.101666666666665
       }
     ],
     "Vicente": [
@@ -4068,10 +4089,10 @@
       "descripcion": "Vive 100 original",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 20,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 18,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -4185,10 +4206,10 @@
       "descripcion": "Papas Sol habanero",
       "precioCompra": 12.9,
       "precioVenta": 19.35,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.9
         }
       ]
@@ -4736,6 +4757,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 6849.861190476179,
-  "gananciasTotales": 3424.028809523808
+  "inversionRecuperada": 6887.177857142845,
+  "gananciasTotales": 3442.6821428571407
 }
