@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 91.60999999999999,
-      "ganancia": 326.0881250000001,
+      "adeudo": 128.11999999999998,
+      "ganancia": 338.2606250000001,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 185.56,
-      "ganancia": 412.96511706349236,
+      "adeudo": 195.06,
+      "ganancia": 416.13178373015904,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 134.15,
-      "ganancia": 554.325902777778,
+      "adeudo": 161.03,
+      "ganancia": 563.288402777778,
       "saldoFavor": 0
     },
     {
@@ -1755,6 +1755,20 @@
         "costoTotal": 22.1,
         "fecha": "6/2/2025, 9:53:49 a.m.",
         "ganancia": 7.366666666666667
+      },
+      {
+        "producto": "Papas Sol jalapeño",
+        "piezas": 1,
+        "costoTotal": 19.35,
+        "fecha": "6/2/2025, 12:04:06 p.m.",
+        "ganancia": 6.450000000000001
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "6/2/2025, 12:04:06 p.m.",
+        "ganancia": 5.7225
       }
     ],
     "Isrrael": [
@@ -2417,6 +2431,13 @@
         "costoTotal": 15.63,
         "fecha": "6/2/2025, 10:20:57 a.m.",
         "ganancia": 5.208571428571428
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "6/2/2025, 1:56:48 p.m.",
+        "ganancia": 3.166666666666667
       }
     ],
     "Laura": [
@@ -3275,6 +3296,27 @@
         "costoTotal": 18.31,
         "fecha": "6/2/2025, 11:54:59 a.m.",
         "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "6/2/2025, 12:05:20 p.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "6/2/2025, 12:05:20 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "6/2/2025, 12:05:20 p.m.",
+        "ganancia": 5.559999999999999
       }
     ],
     "Rafael": [
@@ -4002,10 +4044,10 @@
       "descripcion": "Zumba Goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 3.5575
         }
       ]
@@ -4015,10 +4057,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 26,
+      "piezas": 25,
       "stockParciales": [
         {
-          "cantidad": 26,
+          "cantidad": 25,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -4028,10 +4070,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 6.33,
       "precioVenta": 9.5,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 6.333333333333333
         }
       ]
@@ -4083,10 +4125,10 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 11.4375
         }
       ]
@@ -4174,10 +4216,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -4226,10 +4268,10 @@
       "descripcion": "Papas Sol jalapeño",
       "precioCompra": 12.9,
       "precioVenta": 19.35,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.9
         }
       ]
@@ -4764,6 +4806,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 6900.2445238095115,
-  "gananciasTotales": 3449.215476190474
+  "inversionRecuperada": 6948.832857142844,
+  "gananciasTotales": 3473.51714285714
 }
