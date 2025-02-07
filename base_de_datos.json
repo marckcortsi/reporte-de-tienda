@@ -3,22 +3,22 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 57.27999999999997,
-      "ganancia": 353.5704027777779,
+      "adeudo": 76.43999999999997,
+      "ganancia": 359.9544027777779,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 282.35,
-      "ganancia": 613.866529761905,
+      "adeudo": 324.01000000000005,
+      "ganancia": 627.754529761905,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 55.38,
-      "ganancia": 151.56479166666665,
+      "adeudo": 76.33,
+      "ganancia": 158.54479166666667,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 242.56,
-      "ganancia": 431.96511706349236,
+      "adeudo": 252.95,
+      "ganancia": 435.42711706349235,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 178.84,
-      "ganancia": 569.2234027777779,
+      "adeudo": 184.93,
+      "ganancia": 571.2579027777779,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 171.35999999999999,
-      "ganancia": 294.0377361111113,
+      "adeudo": 190.51999999999998,
+      "ganancia": 300.42173611111133,
       "saldoFavor": 0
     },
     {
@@ -296,6 +296,13 @@
         "costoTotal": 5.39,
         "fecha": "5/2/2025, 6:00:14 p.m.",
         "ganancia": 1.7949999999999995
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 19.16,
+        "fecha": "6/2/2025, 6:11:31 p.m.",
+        "ganancia": 6.384
       }
     ],
     "Carlos": [
@@ -837,6 +844,27 @@
         "costoTotal": 16.68,
         "fecha": "6/2/2025, 8:19:07 a.m.",
         "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "6/2/2025, 6:12:45 p.m.",
+        "ganancia": 7
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 19.16,
+        "fecha": "6/2/2025, 6:13:52 p.m.",
+        "ganancia": 6.384
+      },
+      {
+        "producto": "Winis",
+        "piezas": 2,
+        "costoTotal": 1.5,
+        "fecha": "6/2/2025, 6:13:52 p.m.",
+        "ganancia": 0.504
       }
     ],
     "Edgar": [
@@ -1055,6 +1083,20 @@
         "piezas": 1,
         "costoTotal": 4.86,
         "fecha": "5/2/2025, 4:02:57 p.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Marianitas de Coco",
+        "piezas": 1,
+        "costoTotal": 16.09,
+        "fecha": "6/2/2025, 6:12:26 p.m.",
+        "ganancia": 5.360000000000001
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "6/2/2025, 6:12:26 p.m.",
         "ganancia": 1.6200000000000006
       }
     ],
@@ -2459,6 +2501,20 @@
         "costoTotal": 47.5,
         "fecha": "6/2/2025, 3:13:24 p.m.",
         "ganancia": 15.833333333333332
+      },
+      {
+        "producto": "Winis",
+        "piezas": 1,
+        "costoTotal": 0.75,
+        "fecha": "6/2/2025, 6:13:05 p.m.",
+        "ganancia": 0.252
+      },
+      {
+        "producto": "Top tops",
+        "piezas": 1,
+        "costoTotal": 9.64,
+        "fecha": "6/2/2025, 6:13:05 p.m.",
+        "ganancia": 3.210000000000001
       }
     ],
     "Laura": [
@@ -3345,6 +3401,20 @@
         "costoTotal": 17.81,
         "fecha": "6/2/2025, 5:56:35 p.m.",
         "ganancia": 5.934999999999999
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "6/2/2025, 6:13:35 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Winis",
+        "piezas": 1,
+        "costoTotal": 0.75,
+        "fecha": "6/2/2025, 6:13:35 p.m.",
+        "ganancia": 0.252
       }
     ],
     "Rafael": [
@@ -3802,6 +3872,13 @@
         "costoTotal": 18.31,
         "fecha": "6/2/2025, 11:54:46 a.m.",
         "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 19.16,
+        "fecha": "6/2/2025, 6:11:45 p.m.",
+        "ganancia": 6.384
       }
     ],
     "Vicente": [
@@ -3976,10 +4053,10 @@
       "descripcion": "Zumba Goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 3.5575
         }
       ]
@@ -3989,10 +4066,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 25,
+      "piezas": 24,
       "stockParciales": [
         {
-          "cantidad": 25,
+          "cantidad": 24,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -4314,10 +4391,10 @@
       "descripcion": "Emperador senzo",
       "precioCompra": 12.78,
       "precioVenta": 19.16,
-      "piezas": 5,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 2,
           "costoUnitario": 12.776
         }
       ]
@@ -4353,10 +4430,10 @@
       "descripcion": "Marianitas de Coco",
       "precioCompra": 10.73,
       "precioVenta": 16.09,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 10.729999999999999
         }
       ]
@@ -4379,10 +4456,10 @@
       "descripcion": "Winis",
       "precioCompra": 0.5,
       "precioVenta": 0.75,
-      "piezas": 100,
+      "piezas": 96,
       "stockParciales": [
         {
-          "cantidad": 100,
+          "cantidad": 96,
           "costoUnitario": 0.498
         }
       ]
@@ -4392,10 +4469,10 @@
       "descripcion": "Top tops",
       "precioCompra": 6.43,
       "precioVenta": 9.64,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 6.43
         }
       ]
@@ -4405,10 +4482,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 24,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 23,
           "costoUnitario": 14
         }
       ]
@@ -4942,6 +5019,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 7006.290952380939,
-  "gananciasTotales": 3502.2390476190444
+  "inversionRecuperada": 7084.568452380938,
+  "gananciasTotales": 3541.371547619044
 }
