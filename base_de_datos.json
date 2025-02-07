@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 161.03,
-      "ganancia": 563.288402777778,
+      "adeudo": 178.84,
+      "ganancia": 569.2234027777779,
       "saldoFavor": 0
     },
     {
@@ -3338,6 +3338,13 @@
         "costoTotal": 16.68,
         "fecha": "6/2/2025, 12:05:20 p.m.",
         "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Coca de vidrio 500 ml",
+        "piezas": 1,
+        "costoTotal": 17.81,
+        "fecha": "6/2/2025, 5:56:35 p.m.",
+        "ganancia": 5.934999999999999
       }
     ],
     "Rafael": [
@@ -4021,10 +4028,10 @@
       "descripcion": "Coca de vidrio 500 ml",
       "precioCompra": 11.88,
       "precioVenta": 17.81,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 11.875
         }
       ]
@@ -4260,6 +4267,162 @@
         {
           "cantidad": 4,
           "costoUnitario": 10.421428571428573
+        }
+      ]
+    },
+    {
+      "codigo": "744886405053",
+      "descripcion": "Jarritos Tutifruti",
+      "precioCompra": 19.13,
+      "precioVenta": 28.69,
+      "piezas": 8,
+      "stockParciales": [
+        {
+          "cantidad": 8,
+          "costoUnitario": 19.125
+        }
+      ]
+    },
+    {
+      "codigo": "7500478022496",
+      "descripcion": "Emperador Chocolate",
+      "precioCompra": 12,
+      "precioVenta": 18,
+      "piezas": 5,
+      "stockParciales": [
+        {
+          "cantidad": 5,
+          "costoUnitario": 12
+        }
+      ]
+    },
+    {
+      "codigo": "7500478022540",
+      "descripcion": "Emperador Nuez",
+      "precioCompra": 12,
+      "precioVenta": 18,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 12
+        }
+      ]
+    },
+    {
+      "codigo": "7501000601776",
+      "descripcion": "Emperador senzo",
+      "precioCompra": 12.78,
+      "precioVenta": 19.16,
+      "piezas": 5,
+      "stockParciales": [
+        {
+          "cantidad": 5,
+          "costoUnitario": 12.776
+        }
+      ]
+    },
+    {
+      "codigo": "7500478008926",
+      "descripcion": "Chokis",
+      "precioCompra": 11.44,
+      "precioVenta": 17.16,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 11.436666666666667
+        }
+      ]
+    },
+    {
+      "codigo": "038629003225",
+      "descripcion": "Marianitas de Chocolate",
+      "precioCompra": 10.73,
+      "precioVenta": 16.09,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 10.729999999999999
+        }
+      ]
+    },
+    {
+      "codigo": "038629002068",
+      "descripcion": "Marianitas de Coco",
+      "precioCompra": 10.73,
+      "precioVenta": 16.09,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 10.729999999999999
+        }
+      ]
+    },
+    {
+      "codigo": "038629001702",
+      "descripcion": "Marianitas de Nuez",
+      "precioCompra": 10.73,
+      "precioVenta": 16.09,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 10.729999999999999
+        }
+      ]
+    },
+    {
+      "codigo": "754177613197",
+      "descripcion": "Winis",
+      "precioCompra": 0.5,
+      "precioVenta": 0.75,
+      "piezas": 100,
+      "stockParciales": [
+        {
+          "cantidad": 100,
+          "costoUnitario": 0.498
+        }
+      ]
+    },
+    {
+      "codigo": "7500366000797",
+      "descripcion": "Top tops",
+      "precioCompra": 6.43,
+      "precioVenta": 9.64,
+      "piezas": 10,
+      "stockParciales": [
+        {
+          "cantidad": 10,
+          "costoUnitario": 6.43
+        }
+      ]
+    },
+    {
+      "codigo": "041789001987",
+      "descripcion": "Maruchan chile pikin",
+      "precioCompra": 14,
+      "precioVenta": 21,
+      "piezas": 24,
+      "stockParciales": [
+        {
+          "cantidad": 24,
+          "costoUnitario": 14
+        }
+      ]
+    },
+    {
+      "codigo": "7501006559019",
+      "descripcion": "Palomitas",
+      "precioCompra": 10.59,
+      "precioVenta": 15.89,
+      "piezas": 14,
+      "stockParciales": [
+        {
+          "cantidad": 14,
+          "costoUnitario": 10.592857142857143
         }
       ]
     }
@@ -4702,11 +4865,83 @@
       "cantidad": 14,
       "costoTotal": 145.9,
       "fecha": "28/1/2025, 12:28:15 p.m."
+    },
+    {
+      "producto": "Jarritos Tutifruti",
+      "cantidad": 8,
+      "costoTotal": 153,
+      "fecha": "6/2/2025, 5:43:46 p.m."
+    },
+    {
+      "producto": "Emperador Chocolate",
+      "cantidad": 5,
+      "costoTotal": 60,
+      "fecha": "6/2/2025, 5:45:46 p.m."
+    },
+    {
+      "producto": "Emperador Nuez",
+      "cantidad": 3,
+      "costoTotal": 36,
+      "fecha": "6/2/2025, 5:46:35 p.m."
+    },
+    {
+      "producto": "Emperador senzo",
+      "cantidad": 5,
+      "costoTotal": 63.88,
+      "fecha": "6/2/2025, 5:47:27 p.m."
+    },
+    {
+      "producto": "Chokis",
+      "cantidad": 3,
+      "costoTotal": 34.31,
+      "fecha": "6/2/2025, 5:48:04 p.m."
+    },
+    {
+      "producto": "Marianitas de Chocolate",
+      "cantidad": 3,
+      "costoTotal": 32.19,
+      "fecha": "6/2/2025, 5:48:55 p.m."
+    },
+    {
+      "producto": "Marianitas de Coco",
+      "cantidad": 3,
+      "costoTotal": 32.19,
+      "fecha": "6/2/2025, 5:49:19 p.m."
+    },
+    {
+      "producto": "Marianitas de Nuez",
+      "cantidad": 3,
+      "costoTotal": 32.19,
+      "fecha": "6/2/2025, 5:49:38 p.m."
+    },
+    {
+      "producto": "Winis",
+      "cantidad": 100,
+      "costoTotal": 49.8,
+      "fecha": "6/2/2025, 5:50:37 p.m."
+    },
+    {
+      "producto": "Top tops",
+      "cantidad": 10,
+      "costoTotal": 64.3,
+      "fecha": "6/2/2025, 5:51:40 p.m."
+    },
+    {
+      "producto": "Maruchan chile pikin",
+      "cantidad": 24,
+      "costoTotal": 336,
+      "fecha": "6/2/2025, 5:52:50 p.m."
+    },
+    {
+      "producto": "Palomitas",
+      "cantidad": 14,
+      "costoTotal": 148.3,
+      "fecha": "6/2/2025, 5:54:35 p.m."
     }
   ],
   "numInversionistas": 12,
   "totalInversion": 6000,
-  "gastoEnProductos": 9364.490000000005,
-  "inversionRecuperada": 6994.415952380939,
-  "gananciasTotales": 3496.3040476190445
+  "gastoEnProductos": 10406.650000000003,
+  "inversionRecuperada": 7006.290952380939,
+  "gananciasTotales": 3502.2390476190444
 }
