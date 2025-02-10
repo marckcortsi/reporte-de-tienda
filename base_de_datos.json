@@ -3,9 +3,9 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 100.18999999999997,
+      "adeudo": 0,
       "ganancia": 367.8694027777779,
-      "saldoFavor": 0
+      "saldoFavor": 399.81
     },
     {
       "nombre": "Carlos",
@@ -67,8 +67,8 @@
       "nombre": "Marcos",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 613.9995694444445,
-      "saldoFavor": 51.33
+      "ganancia": 625.4454027777779,
+      "saldoFavor": 17.009999999999998
     },
     {
       "nombre": "Rafael",
@@ -3660,6 +3660,20 @@
         "costoTotal": 21,
         "fecha": "7/2/2025, 5:32:01 p.m.",
         "ganancia": 7
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "10/2/2025, 8:33:36 a.m.",
+        "ganancia": 5.7225
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "10/2/2025, 8:33:36 a.m.",
+        "ganancia": 5.723333333333333
       }
     ],
     "Rafael": [
@@ -4370,10 +4384,10 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 11.4375
         }
       ]
@@ -4641,13 +4655,8 @@
       "descripcion": "Chokis",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 11.436666666666667
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "038629003225",
@@ -5256,6 +5265,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 7517.754499999983,
-  "gananciasTotales": 3757.9054999999953
+  "inversionRecuperada": 7540.628666666649,
+  "gananciasTotales": 3769.3513333333285
 }
