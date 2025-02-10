@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 140.48999999999998,
-      "ganancia": 246.11756944444448,
+      "adeudo": 142.93999999999997,
+      "ganancia": 246.93756944444448,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 447.68378373015906,
+      "adeudo": 2.86,
+      "ganancia": 448.6352837301591,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 26.050000000000004,
-      "ganancia": 639.7970694444444,
+      "adeudo": 31.440000000000005,
+      "ganancia": 641.5920694444444,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 92.2,
-      "ganancia": 337.5962361111113,
+      "adeudo": 100.3,
+      "ganancia": 340.2927361111113,
       "saldoFavor": 0
     },
     {
@@ -1627,6 +1627,13 @@
         "costoTotal": 2.45,
         "fecha": "10/2/2025, 11:33:02 a.m.",
         "ganancia": 0.8200000000000001
+      },
+      {
+        "producto": "Paletas de Tarrito",
+        "piezas": 1,
+        "costoTotal": 2.45,
+        "fecha": "10/2/2025, 3:39:33 p.m.",
+        "ganancia": 0.8200000000000001
       }
     ],
     "Isac": [
@@ -2781,6 +2788,13 @@
         "costoTotal": 19.6,
         "fecha": "7/2/2025, 1:25:51 p.m.",
         "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 1,
+        "costoTotal": 2.86,
+        "fecha": "10/2/2025, 3:39:18 p.m.",
+        "ganancia": 0.9515
       }
     ],
     "Laura": [
@@ -3779,6 +3793,13 @@
         "costoTotal": 17.81,
         "fecha": "10/2/2025, 1:31:11 p.m.",
         "ganancia": 5.934999999999999
+      },
+      {
+        "producto": "Paleta Búbalo Xtreme",
+        "piezas": 1,
+        "costoTotal": 5.39,
+        "fecha": "10/2/2025, 3:40:01 p.m.",
+        "ganancia": 1.7949999999999995
       }
     ],
     "Rafael": [
@@ -4278,6 +4299,20 @@
         "costoTotal": 47.5,
         "fecha": "10/2/2025, 2:34:41 p.m.",
         "ganancia": 15.833333333333332
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "10/2/2025, 3:39:06 p.m.",
+        "ganancia": 1.745
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 1,
+        "costoTotal": 2.86,
+        "fecha": "10/2/2025, 3:39:06 p.m.",
+        "ganancia": 0.9515
       }
     ],
     "Vicente": [
@@ -4374,10 +4409,10 @@
       "descripcion": "Paletas de Tarrito",
       "precioCompra": 1.63,
       "precioVenta": 2.45,
-      "piezas": 38,
+      "piezas": 37,
       "stockParciales": [
         {
-          "cantidad": 38,
+          "cantidad": 37,
           "costoUnitario": 1.6300000000000001
         }
       ]
@@ -4387,10 +4422,10 @@
       "descripcion": "Paleta Búbalo Xtreme",
       "precioCompra": 3.6,
       "precioVenta": 5.39,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 3.595
         }
       ]
@@ -4413,10 +4448,10 @@
       "descripcion": "Cigarros Shots",
       "precioCompra": 1.91,
       "precioVenta": 2.86,
-      "piezas": 21,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 19,
           "costoUnitario": 1.9084999999999999
         }
       ]
@@ -4710,10 +4745,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 71,
+      "piezas": 70,
       "stockParciales": [
         {
-          "cantidad": 71,
+          "cantidad": 70,
           "costoUnitario": 3.495
         }
       ]
@@ -5393,6 +5428,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 7777.862333333313,
-  "gananciasTotales": 3887.907666666661
+  "inversionRecuperada": 7790.399333333312,
+  "gananciasTotales": 3894.1706666666614
 }
