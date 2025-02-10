@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 134.69,
-      "ganancia": 177.99545833333332,
+      "adeudo": 152.69,
+      "ganancia": 183.99545833333332,
       "saldoFavor": 0
     },
     {
@@ -1182,6 +1182,13 @@
         "costoTotal": 19.6,
         "fecha": "7/2/2025, 1:45:22 p.m.",
         "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Emperador Chocolate",
+        "piezas": 1,
+        "costoTotal": 18,
+        "fecha": "10/2/2025, 9:47:58 a.m.",
+        "ganancia": 6
       }
     ],
     "Francisco": [
@@ -4628,10 +4635,10 @@
       "descripcion": "Emperador Chocolate",
       "precioCompra": 12,
       "precioVenta": 18,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 12
         }
       ]
@@ -5272,6 +5279,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 7552.503666666649,
-  "gananciasTotales": 3775.2863333333285
+  "inversionRecuperada": 7564.503666666649,
+  "gananciasTotales": 3781.2863333333285
 }
