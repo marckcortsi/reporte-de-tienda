@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 198.42000000000007,
-      "ganancia": 693.8478154761905,
+      "adeudo": 292.0700000000001,
+      "ganancia": 725.0279821428571,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 31.440000000000005,
-      "ganancia": 641.5920694444444,
+      "adeudo": 54.77,
+      "ganancia": 649.368736111111,
       "saldoFavor": 0
     },
     {
@@ -963,6 +963,27 @@
         "costoTotal": 9.5,
         "fecha": "10/2/2025, 12:26:17 p.m.",
         "ganancia": 3.166666666666667
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "10/2/2025, 5:52:16 p.m.",
+        "ganancia": 7
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 19,
+        "costoTotal": 54.339999999999996,
+        "fecha": "10/2/2025, 5:52:16 p.m.",
+        "ganancia": 18.078500000000002
+      },
+      {
+        "producto": "Vive 100 original",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "10/2/2025, 5:52:39 p.m.",
+        "ganancia": 6.101666666666665
       }
     ],
     "Edgar": [
@@ -3800,6 +3821,20 @@
         "costoTotal": 5.39,
         "fecha": "10/2/2025, 3:40:01 p.m.",
         "ganancia": 1.7949999999999995
+      },
+      {
+        "producto": "Vive 100 original",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "10/2/2025, 5:54:44 p.m.",
+        "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.02,
+        "fecha": "10/2/2025, 5:54:44 p.m.",
+        "ganancia": 1.6749999999999994
       }
     ],
     "Rafael": [
@@ -4396,10 +4431,10 @@
       "descripcion": "Cigarros Pall Mall",
       "precioCompra": 3.35,
       "precioVenta": 5.02,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 3.345
         }
       ]
@@ -4448,13 +4483,8 @@
       "descripcion": "Cigarros Shots",
       "precioCompra": 1.91,
       "precioVenta": 2.86,
-      "piezas": 19,
-      "stockParciales": [
-        {
-          "cantidad": 19,
-          "costoUnitario": 1.9084999999999999
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500366004825",
@@ -4560,10 +4590,10 @@
       "descripcion": "Vive 100 original",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 17,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 15,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -4891,10 +4921,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 21,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 20,
           "costoUnitario": 14
         }
       ]
@@ -5428,6 +5458,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 7790.399333333312,
-  "gananciasTotales": 3894.1706666666614
+  "inversionRecuperada": 7868.422499999978,
+  "gananciasTotales": 3933.1274999999946
 }
