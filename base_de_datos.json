@@ -4,21 +4,21 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 367.8694027777779,
-      "saldoFavor": 399.81
+      "ganancia": 373.8694027777779,
+      "saldoFavor": 381.81
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 176.5600000000001,
-      "ganancia": 686.5629821428572,
+      "adeudo": 188.92000000000007,
+      "ganancia": 690.6811488095238,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 152.69,
-      "ganancia": 183.99545833333332,
+      "adeudo": 162.41,
+      "ganancia": 187.23545833333333,
       "saldoFavor": 0
     },
     {
@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 138.04,
-      "ganancia": 245.2975694444445,
+      "adeudo": 140.48999999999998,
+      "ganancia": 246.11756944444448,
       "saldoFavor": 0
     },
     {
@@ -67,14 +67,14 @@
       "nombre": "Marcos",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 625.4454027777779,
-      "saldoFavor": 17.009999999999998
+      "ganancia": 627.3287361111112,
+      "saldoFavor": 11.359999999999998
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 17.81,
-      "ganancia": 312.8067361111113,
+      "adeudo": 44.7,
+      "ganancia": 321.762902777778,
       "saldoFavor": 0
     },
     {
@@ -316,6 +316,13 @@
         "piezas": 1,
         "costoTotal": 18,
         "fecha": "7/2/2025, 2:08:26 p.m.",
+        "ganancia": 6
+      },
+      {
+        "producto": "Emperador Chocolate",
+        "piezas": 1,
+        "costoTotal": 18,
+        "fecha": "10/2/2025, 11:33:33 a.m.",
         "ganancia": 6
       }
     ],
@@ -928,6 +935,20 @@
         "costoTotal": 31.78,
         "fecha": "7/2/2025, 5:30:27 p.m.",
         "ganancia": 10.594285714285714
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "10/2/2025, 11:32:40 a.m.",
+        "ganancia": 3.166666666666667
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 1,
+        "costoTotal": 2.86,
+        "fecha": "10/2/2025, 11:32:40 a.m.",
+        "ganancia": 0.9515
       }
     ],
     "Edgar": [
@@ -1189,6 +1210,13 @@
         "costoTotal": 18,
         "fecha": "10/2/2025, 9:47:58 a.m.",
         "ganancia": 6
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 2,
+        "costoTotal": 9.72,
+        "fecha": "10/2/2025, 11:31:40 a.m.",
+        "ganancia": 3.240000000000001
       }
     ],
     "Francisco": [
@@ -1550,6 +1578,13 @@
         "costoTotal": 19.6,
         "fecha": "7/2/2025, 1:37:03 p.m.",
         "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Paletas de Tarrito",
+        "piezas": 1,
+        "costoTotal": 2.45,
+        "fecha": "10/2/2025, 11:33:02 a.m.",
+        "ganancia": 0.8200000000000001
       }
     ],
     "Isac": [
@@ -3681,6 +3716,13 @@
         "costoTotal": 17.16,
         "fecha": "10/2/2025, 8:33:36 a.m.",
         "ganancia": 5.723333333333333
+      },
+      {
+        "producto": "Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "10/2/2025, 11:33:21 a.m.",
+        "ganancia": 1.8833333333333337
       }
     ],
     "Rafael": [
@@ -4159,6 +4201,20 @@
         "costoTotal": 17.81,
         "fecha": "10/2/2025, 9:46:07 a.m.",
         "ganancia": 5.934999999999999
+      },
+      {
+        "producto": "Vive 100 original",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "10/2/2025, 11:32:20 a.m.",
+        "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Cigarros Shots",
+        "piezas": 3,
+        "costoTotal": 8.58,
+        "fecha": "10/2/2025, 11:32:20 a.m.",
+        "ganancia": 2.8545
       }
     ],
     "Vicente": [
@@ -4255,10 +4311,10 @@
       "descripcion": "Paletas de Tarrito",
       "precioCompra": 1.63,
       "precioVenta": 2.45,
-      "piezas": 39,
+      "piezas": 38,
       "stockParciales": [
         {
-          "cantidad": 39,
+          "cantidad": 38,
           "costoUnitario": 1.6300000000000001
         }
       ]
@@ -4294,10 +4350,10 @@
       "descripcion": "Cigarros Shots",
       "precioCompra": 1.91,
       "precioVenta": 2.86,
-      "piezas": 25,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 25,
+          "cantidad": 21,
           "costoUnitario": 1.9084999999999999
         }
       ]
@@ -4346,10 +4402,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 23,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 21,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -4359,10 +4415,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 6.33,
       "precioVenta": 9.5,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 6.333333333333333
         }
       ]
@@ -4411,10 +4467,10 @@
       "descripcion": "Vive 100 original",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 17,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -4463,10 +4519,10 @@
       "descripcion": "Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -4635,10 +4691,10 @@
       "descripcion": "Emperador Chocolate",
       "precioCompra": 12,
       "precioVenta": 18,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 12
         }
       ]
@@ -5279,6 +5335,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 7564.503666666649,
-  "gananciasTotales": 3781.2863333333285
+  "inversionRecuperada": 7614.5559999999805,
+  "gananciasTotales": 3806.3039999999946
 }
