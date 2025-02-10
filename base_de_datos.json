@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 188.92000000000007,
-      "ganancia": 690.6811488095238,
+      "adeudo": 198.42000000000007,
+      "ganancia": 693.8478154761905,
       "saldoFavor": 0
     },
     {
@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 93.28999999999999,
-      "ganancia": 123.28095833333333,
+      "adeudo": 34.79,
+      "ganancia": 135.11629166666665,
       "saldoFavor": 0
     },
     {
@@ -66,9 +66,9 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 627.3287361111112,
-      "saldoFavor": 11.359999999999998
+      "adeudo": 8.240000000000004,
+      "ganancia": 633.8620694444445,
+      "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
@@ -949,6 +949,13 @@
         "costoTotal": 2.86,
         "fecha": "10/2/2025, 11:32:40 a.m.",
         "ganancia": 0.9515
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "10/2/2025, 12:26:17 p.m.",
+        "ganancia": 3.166666666666667
       }
     ],
     "Edgar": [
@@ -1338,6 +1345,34 @@
         "costoTotal": 19.6,
         "fecha": "7/2/2025, 1:34:19 p.m.",
         "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Winis",
+        "piezas": 1,
+        "costoTotal": 0.75,
+        "fecha": "10/2/2025, 12:26:00 p.m.",
+        "ganancia": 0.252
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.6,
+        "fecha": "10/2/2025, 12:26:00 p.m.",
+        "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "10/2/2025, 12:26:00 p.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "10/2/2025, 12:26:40 p.m.",
+        "ganancia": 3.166666666666667
       }
     ],
     "Irvin": [
@@ -3723,6 +3758,13 @@
         "costoTotal": 5.65,
         "fecha": "10/2/2025, 11:33:21 a.m.",
         "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.6,
+        "fecha": "10/2/2025, 12:27:55 p.m.",
+        "ganancia": 6.533333333333335
       }
     ],
     "Rafael": [
@@ -4415,10 +4457,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 6.33,
       "precioVenta": 9.5,
-      "piezas": 5,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 3,
           "costoUnitario": 6.333333333333333
         }
       ]
@@ -4519,10 +4561,10 @@
       "descripcion": "Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -4532,10 +4574,10 @@
       "descripcion": "Doritos",
       "precioCompra": 13.07,
       "precioVenta": 19.6,
-      "piezas": 8,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 6,
           "costoUnitario": 13.066666666666666
         }
       ]
@@ -4772,10 +4814,10 @@
       "descripcion": "Winis",
       "precioCompra": 0.5,
       "precioVenta": 0.75,
-      "piezas": 96,
+      "piezas": 95,
       "stockParciales": [
         {
-          "cantidad": 96,
+          "cantidad": 95,
           "costoUnitario": 0.498
         }
       ]
@@ -5335,6 +5377,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 7614.5559999999805,
-  "gananciasTotales": 3806.3039999999946
+  "inversionRecuperada": 7657.620666666646,
+  "gananciasTotales": 3827.8393333333274
 }
