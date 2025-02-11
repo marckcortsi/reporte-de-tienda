@@ -80,8 +80,8 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 39.98419642857143,
+      "adeudo": 32.18,
+      "ganancia": 50.70419642857143,
       "saldoFavor": 0
     },
     {
@@ -4525,6 +4525,20 @@
         "costoTotal": 28.42,
         "fecha": "5/2/2025, 2:48:15 p.m.",
         "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Marianitas de Coco",
+        "piezas": 1,
+        "costoTotal": 16.09,
+        "fecha": "11/2/2025, 4:35:43 p.m.",
+        "ganancia": 5.360000000000001
+      },
+      {
+        "producto": "Marianitas de Chocolate",
+        "piezas": 1,
+        "costoTotal": 16.09,
+        "fecha": "11/2/2025, 4:35:43 p.m.",
+        "ganancia": 5.360000000000001
       }
     ],
     "Externo": [
@@ -4974,10 +4988,10 @@
       "descripcion": "Marianitas de Chocolate",
       "precioCompra": 10.73,
       "precioVenta": 16.09,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 10.729999999999999
         }
       ]
@@ -4987,10 +5001,10 @@
       "descripcion": "Marianitas de Coco",
       "precioCompra": 10.73,
       "precioVenta": 16.09,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 10.729999999999999
         }
       ]
@@ -5576,6 +5590,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8021.7155238095,
-  "gananciasTotales": 4009.8444761904702
+  "inversionRecuperada": 8043.175523809499,
+  "gananciasTotales": 4020.5644761904705
 }
