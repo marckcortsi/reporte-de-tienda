@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 54.77,
-      "ganancia": 649.368736111111,
+      "adeudo": 89.93,
+      "ganancia": 661.091236111111,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 100.3,
-      "ganancia": 340.2927361111113,
+      "adeudo": 123.63,
+      "ganancia": 348.069402777778,
       "saldoFavor": 0
     },
     {
@@ -3835,6 +3835,20 @@
         "costoTotal": 5.02,
         "fecha": "10/2/2025, 5:54:44 p.m.",
         "ganancia": 1.6749999999999994
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "11/2/2025, 8:08:22 a.m.",
+        "ganancia": 5.7225
+      },
+      {
+        "producto": "Emperador Chocolate",
+        "piezas": 1,
+        "costoTotal": 18,
+        "fecha": "11/2/2025, 8:08:22 a.m.",
+        "ganancia": 6
       }
     ],
     "Rafael": [
@@ -4348,6 +4362,20 @@
         "costoTotal": 2.86,
         "fecha": "10/2/2025, 3:39:06 p.m.",
         "ganancia": 0.9515
+      },
+      {
+        "producto": "Vive 100 original",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "11/2/2025, 8:07:22 a.m.",
+        "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.02,
+        "fecha": "11/2/2025, 8:07:22 a.m.",
+        "ganancia": 1.6749999999999994
       }
     ],
     "Vicente": [
@@ -4431,10 +4459,10 @@
       "descripcion": "Cigarros Pall Mall",
       "precioCompra": 3.35,
       "precioVenta": 5.02,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 3.345
         }
       ]
@@ -4577,10 +4605,10 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 11.4375
         }
       ]
@@ -4590,10 +4618,10 @@
       "descripcion": "Vive 100 original",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -4814,10 +4842,10 @@
       "descripcion": "Emperador Chocolate",
       "precioCompra": 12,
       "precioVenta": 18,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12
         }
       ]
@@ -5458,6 +5486,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 7868.422499999978,
-  "gananciasTotales": 3933.1274999999946
+  "inversionRecuperada": 7907.413333333311,
+  "gananciasTotales": 3952.626666666661
 }
