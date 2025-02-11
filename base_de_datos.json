@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 310.0700000000001,
-      "ganancia": 731.0279821428571,
+      "adeudo": 319.5700000000001,
+      "ganancia": 734.1946488095238,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 22.21,
-      "ganancia": 455.08528373015906,
+      "adeudo": 27.46,
+      "ganancia": 456.8492837301591,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 102.93,
-      "ganancia": 665.421236111111,
+      "adeudo": 113.61000000000001,
+      "ganancia": 668.9862361111111,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 141.63,
-      "ganancia": 354.069402777778,
+      "adeudo": 151.74,
+      "ganancia": 357.453402777778,
       "saldoFavor": 0
     },
     {
@@ -998,6 +998,13 @@
         "costoTotal": 18,
         "fecha": "11/2/2025, 8:38:53 a.m.",
         "ganancia": 6
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "11/2/2025, 3:48:01 p.m.",
+        "ganancia": 3.166666666666667
       }
     ],
     "Edgar": [
@@ -2872,6 +2879,13 @@
         "costoTotal": 19.35,
         "fecha": "11/2/2025, 1:01:47 p.m.",
         "ganancia": 6.450000000000001
+      },
+      {
+        "producto": "Winis",
+        "piezas": 7,
+        "costoTotal": 5.25,
+        "fecha": "11/2/2025, 3:47:46 p.m.",
+        "ganancia": 1.764
       }
     ],
     "Laura": [
@@ -3912,6 +3926,13 @@
         "costoTotal": 13,
         "fecha": "11/2/2025, 1:02:27 p.m.",
         "ganancia": 4.33
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 2,
+        "costoTotal": 10.68,
+        "fecha": "11/2/2025, 3:49:42 p.m.",
+        "ganancia": 3.5649999999999995
       }
     ],
     "Rafael": [
@@ -4446,6 +4467,20 @@
         "costoTotal": 18,
         "fecha": "11/2/2025, 8:27:07 a.m.",
         "ganancia": 6
+      },
+      {
+        "producto": "Winis",
+        "piezas": 7,
+        "costoTotal": 5.25,
+        "fecha": "11/2/2025, 3:48:49 p.m.",
+        "ganancia": 1.764
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "11/2/2025, 3:48:49 p.m.",
+        "ganancia": 1.6200000000000006
       }
     ],
     "Vicente": [
@@ -4615,10 +4650,10 @@
       "descripcion": "Zumba Goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 7,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 5,
           "costoUnitario": 3.5575
         }
       ]
@@ -4628,10 +4663,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 21,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 20,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -4641,10 +4676,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 6.33,
       "precioVenta": 9.5,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 6.333333333333333
         }
       ]
@@ -4978,10 +5013,10 @@
       "descripcion": "Winis",
       "precioCompra": 0.5,
       "precioVenta": 0.75,
-      "piezas": 87,
+      "piezas": 73,
       "stockParciales": [
         {
-          "cantidad": 87,
+          "cantidad": 73,
           "costoUnitario": 0.498
         }
       ]
@@ -5541,6 +5576,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 7998.055190476168,
-  "gananciasTotales": 3997.9648095238035
+  "inversionRecuperada": 8021.7155238095,
+  "gananciasTotales": 4009.8444761904702
 }
