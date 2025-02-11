@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 5.24,
-      "ganancia": 375.4823630952383,
+      "adeudo": 16.48,
+      "ganancia": 379.24336309523835,
       "saldoFavor": 0
     },
     {
@@ -2139,6 +2139,20 @@
         "piezas": 1,
         "costoTotal": 5.24,
         "fecha": "7/2/2025, 5:28:08 p.m.",
+        "ganancia": 1.745
+      },
+      {
+        "producto": "Winis",
+        "piezas": 8,
+        "costoTotal": 6,
+        "fecha": "11/2/2025, 3:41:55 p.m.",
+        "ganancia": 2.016
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "11/2/2025, 3:41:55 p.m.",
         "ganancia": 1.745
       }
     ],
@@ -4854,10 +4868,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 70,
+      "piezas": 69,
       "stockParciales": [
         {
-          "cantidad": 70,
+          "cantidad": 69,
           "costoUnitario": 3.495
         }
       ]
@@ -4964,10 +4978,10 @@
       "descripcion": "Winis",
       "precioCompra": 0.5,
       "precioVenta": 0.75,
-      "piezas": 95,
+      "piezas": 87,
       "stockParciales": [
         {
-          "cantidad": 95,
+          "cantidad": 87,
           "costoUnitario": 0.498
         }
       ]
@@ -5527,6 +5541,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 7990.5761904761675,
-  "gananciasTotales": 3994.2038095238036
+  "inversionRecuperada": 7998.055190476168,
+  "gananciasTotales": 3997.9648095238035
 }
