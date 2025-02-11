@@ -4,21 +4,21 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 412.1694027777779,
-      "saldoFavor": 266.81
+      "ganancia": 415.9194027777779,
+      "saldoFavor": 255.56
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 292.0700000000001,
-      "ganancia": 725.0279821428571,
+      "adeudo": 310.0700000000001,
+      "ganancia": 731.0279821428571,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 162.41,
-      "ganancia": 187.23545833333333,
+      "adeudo": 196.3,
+      "ganancia": 198.53260119047619,
       "saldoFavor": 0
     },
     {
@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 142.93999999999997,
-      "ganancia": 246.93756944444448,
+      "adeudo": 154.18999999999997,
+      "ganancia": 250.68756944444448,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 2.86,
-      "ganancia": 448.6352837301591,
+      "adeudo": 22.21,
+      "ganancia": 455.08528373015906,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 89.93,
-      "ganancia": 661.091236111111,
+      "adeudo": 102.93,
+      "ganancia": 665.421236111111,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 123.63,
-      "ganancia": 348.069402777778,
+      "adeudo": 141.63,
+      "ganancia": 354.069402777778,
       "saldoFavor": 0
     },
     {
@@ -331,6 +331,13 @@
         "costoTotal": 115,
         "fecha": "10/2/2025, 2:04:54 p.m.",
         "ganancia": 38.3
+      },
+      {
+        "producto": "Churritos chile",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "11/2/2025, 1:01:33 p.m.",
+        "ganancia": 3.75
       }
     ],
     "Carlos": [
@@ -984,6 +991,13 @@
         "costoTotal": 18.31,
         "fecha": "10/2/2025, 5:52:39 p.m.",
         "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Emperador Nuez",
+        "piezas": 1,
+        "costoTotal": 18,
+        "fecha": "11/2/2025, 8:38:53 a.m.",
+        "ganancia": 6
       }
     ],
     "Edgar": [
@@ -1252,6 +1266,20 @@
         "costoTotal": 9.72,
         "fecha": "10/2/2025, 11:31:40 a.m.",
         "ganancia": 3.240000000000001
+      },
+      {
+        "producto": "Emperador Chocolate",
+        "piezas": 1,
+        "costoTotal": 18,
+        "fecha": "11/2/2025, 8:17:43 a.m.",
+        "ganancia": 6
+      },
+      {
+        "producto": "Palomitas",
+        "piezas": 1,
+        "costoTotal": 15.89,
+        "fecha": "11/2/2025, 1:00:50 p.m.",
+        "ganancia": 5.297142857142857
       }
     ],
     "Francisco": [
@@ -1655,6 +1683,13 @@
         "costoTotal": 2.45,
         "fecha": "10/2/2025, 3:39:33 p.m.",
         "ganancia": 0.8200000000000001
+      },
+      {
+        "producto": "Churritos sal y limon",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "11/2/2025, 1:00:23 p.m.",
+        "ganancia": 3.75
       }
     ],
     "Isac": [
@@ -2816,6 +2851,13 @@
         "costoTotal": 2.86,
         "fecha": "10/2/2025, 3:39:18 p.m.",
         "ganancia": 0.9515
+      },
+      {
+        "producto": "Papas Sol limon",
+        "piezas": 1,
+        "costoTotal": 19.35,
+        "fecha": "11/2/2025, 1:01:47 p.m.",
+        "ganancia": 6.450000000000001
       }
     ],
     "Laura": [
@@ -3849,6 +3891,13 @@
         "costoTotal": 18,
         "fecha": "11/2/2025, 8:08:22 a.m.",
         "ganancia": 6
+      },
+      {
+        "producto": "Solchetitos",
+        "piezas": 1,
+        "costoTotal": 13,
+        "fecha": "11/2/2025, 1:02:27 p.m.",
+        "ganancia": 4.33
       }
     ],
     "Rafael": [
@@ -4376,6 +4425,13 @@
         "costoTotal": 5.02,
         "fecha": "11/2/2025, 8:07:22 a.m.",
         "ganancia": 1.6749999999999994
+      },
+      {
+        "producto": "Emperador Nuez",
+        "piezas": 1,
+        "costoTotal": 18,
+        "fecha": "11/2/2025, 8:27:07 a.m.",
+        "ganancia": 6
       }
     ],
     "Vicente": [
@@ -4722,10 +4778,10 @@
       "descripcion": "Papas Sol limon",
       "precioCompra": 12.9,
       "precioVenta": 19.35,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.9
         }
       ]
@@ -4751,10 +4807,10 @@
       "descripcion": "Solchetitos",
       "precioCompra": 8.67,
       "precioVenta": 13,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 8.67
         }
       ]
@@ -4764,10 +4820,10 @@
       "descripcion": "Churritos sal y limon",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 7.5
         }
       ]
@@ -4777,13 +4833,8 @@
       "descripcion": "Churritos chile",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 7.5
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "75001322",
@@ -4842,26 +4893,16 @@
       "descripcion": "Emperador Chocolate",
       "precioCompra": 12,
       "precioVenta": 18,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478022540",
       "descripcion": "Emperador Nuez",
       "precioCompra": 12,
       "precioVenta": 18,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 12
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000601776",
@@ -4962,10 +5003,10 @@
       "descripcion": "Palomitas",
       "precioCompra": 10.59,
       "precioVenta": 15.89,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 10.592857142857143
         }
       ]
@@ -5486,6 +5527,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 7907.413333333311,
-  "gananciasTotales": 3952.626666666661
+  "inversionRecuperada": 7990.5761904761675,
+  "gananciasTotales": 3994.2038095238036
 }
