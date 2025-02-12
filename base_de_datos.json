@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 70.27999999999997,
-      "ganancia": 256.0475694444445,
+      "adeudo": 79.91999999999997,
+      "ganancia": 259.25756944444447,
       "saldoFavor": 0
     },
     {
@@ -1753,6 +1753,13 @@
         "costoTotal": 16.09,
         "fecha": "12/2/2025, 8:57:06 a.m.",
         "ganancia": 5.360000000000001
+      },
+      {
+        "producto": "Top tops",
+        "piezas": 1,
+        "costoTotal": 9.64,
+        "fecha": "12/2/2025, 12:53:51 p.m.",
+        "ganancia": 3.210000000000001
       }
     ],
     "Isac": [
@@ -5197,10 +5204,10 @@
       "descripcion": "Top tops",
       "precioCompra": 6.43,
       "precioVenta": 9.64,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 6.43
         }
       ]
@@ -5747,6 +5754,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8360.945023809498,
-  "gananciasTotales": 4179.404976190469
+  "inversionRecuperada": 8367.375023809498,
+  "gananciasTotales": 4182.614976190469
 }
