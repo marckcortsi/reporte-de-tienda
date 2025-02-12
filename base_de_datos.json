@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 424.3700000000001,
-      "ganancia": 769.0946488095237,
+      "adeudo": 440.4600000000001,
+      "ganancia": 774.4546488095237,
       "saldoFavor": 0
     },
     {
@@ -1026,6 +1026,13 @@
         "costoTotal": 104.80000000000001,
         "fecha": "11/2/2025, 5:54:28 p.m.",
         "ganancia": 34.900000000000006
+      },
+      {
+        "producto": "Marianitas de Nuez",
+        "piezas": 1,
+        "costoTotal": 16.09,
+        "fecha": "12/2/2025, 8:51:14 a.m.",
+        "ganancia": 5.360000000000001
       }
     ],
     "Edgar": [
@@ -5102,10 +5109,10 @@
       "descripcion": "Marianitas de Nuez",
       "precioCompra": 10.73,
       "precioVenta": 16.09,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 10.729999999999999
         }
       ]
@@ -5678,6 +5685,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8270.703023809498,
-  "gananciasTotales": 4134.26697619047
+  "inversionRecuperada": 8281.433023809497,
+  "gananciasTotales": 4139.62697619047
 }
