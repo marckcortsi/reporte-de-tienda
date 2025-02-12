@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 154.18999999999997,
-      "ganancia": 250.68756944444448,
+      "adeudo": 170.27999999999997,
+      "ganancia": 256.0475694444445,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 46.41,
-      "ganancia": 389.23002976190503,
+      "adeudo": 79.66,
+      "ganancia": 400.31252976190507,
       "saldoFavor": 0
     },
     {
@@ -1725,6 +1725,13 @@
         "costoTotal": 11.25,
         "fecha": "11/2/2025, 1:00:23 p.m.",
         "ganancia": 3.75
+      },
+      {
+        "producto": "Marianitas de Nuez",
+        "piezas": 1,
+        "costoTotal": 16.09,
+        "fecha": "12/2/2025, 8:57:06 a.m.",
+        "ganancia": 5.360000000000001
       }
     ],
     "Isac": [
@@ -2210,6 +2217,20 @@
         "costoTotal": 9.5,
         "fecha": "11/2/2025, 5:55:21 p.m.",
         "ganancia": 3.166666666666667
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "12/2/2025, 8:57:30 a.m.",
+        "ganancia": 5.7225
+      },
+      {
+        "producto": "Marianitas de Chocolate",
+        "piezas": 1,
+        "costoTotal": 16.09,
+        "fecha": "12/2/2025, 8:57:30 a.m.",
+        "ganancia": 5.360000000000001
       }
     ],
     "Isrrael": [
@@ -4829,10 +4850,10 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 11.4375
         }
       ]
@@ -5088,13 +5109,8 @@
       "descripcion": "Marianitas de Chocolate",
       "precioCompra": 10.73,
       "precioVenta": 16.09,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 10.729999999999999
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "038629002068",
@@ -5109,13 +5125,8 @@
       "descripcion": "Marianitas de Nuez",
       "precioCompra": 10.73,
       "precioVenta": 16.09,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 10.729999999999999
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "754177613197",
@@ -5685,6 +5696,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8281.433023809497,
-  "gananciasTotales": 4139.62697619047
+  "inversionRecuperada": 8314.330523809496,
+  "gananciasTotales": 4156.069476190469
 }
