@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 196.3,
-      "ganancia": 198.53260119047619,
+      "adeudo": 209.5,
+      "ganancia": 202.9431011904762,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 137.43,
-      "ganancia": 676.9320694444444,
+      "adeudo": 184.14000000000001,
+      "ganancia": 692.5070694444445,
       "saldoFavor": 0
     },
     {
@@ -1315,6 +1315,27 @@
         "costoTotal": 15.89,
         "fecha": "11/2/2025, 1:00:50 p.m.",
         "ganancia": 5.297142857142857
+      },
+      {
+        "producto": "Winis",
+        "piezas": 4,
+        "costoTotal": 3,
+        "fecha": "12/2/2025, 11:22:39 a.m.",
+        "ganancia": 1.008
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "12/2/2025, 11:22:39 a.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "12/2/2025, 11:22:39 a.m.",
+        "ganancia": 1.6200000000000006
       }
     ],
     "Francisco": [
@@ -4045,6 +4066,34 @@
         "costoTotal": 1.01,
         "fecha": "11/2/2025, 5:57:08 p.m.",
         "ganancia": 0.33999999999999997
+      },
+      {
+        "producto": "Papas Sol limon",
+        "piezas": 1,
+        "costoTotal": 19.35,
+        "fecha": "12/2/2025, 11:23:43 a.m.",
+        "ganancia": 6.450000000000001
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "12/2/2025, 11:23:43 a.m.",
+        "ganancia": 5.7225
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "12/2/2025, 11:23:43 a.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "12/2/2025, 11:23:43 a.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Rafael": [
@@ -4797,10 +4846,10 @@
       "descripcion": "Zumba Goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 5,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 3,
           "costoUnitario": 3.5575
         }
       ]
@@ -4810,10 +4859,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 20,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 18,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -4857,10 +4906,10 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 11.4375
         }
       ]
@@ -4969,13 +5018,8 @@
       "descripcion": "Papas Sol limon",
       "precioCompra": 12.9,
       "precioVenta": 19.35,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.9
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7503022458758",
@@ -5140,10 +5184,10 @@
       "descripcion": "Winis",
       "precioCompra": 0.5,
       "precioVenta": 0.75,
-      "piezas": 68,
+      "piezas": 64,
       "stockParciales": [
         {
-          "cantidad": 68,
+          "cantidad": 64,
           "costoUnitario": 0.498
         }
       ]
@@ -5703,6 +5747,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8321.020523809497,
-  "gananciasTotales": 4159.419476190469
+  "inversionRecuperada": 8360.945023809498,
+  "gananciasTotales": 4179.404976190469
 }
