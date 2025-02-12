@@ -4,8 +4,8 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 418.3794027777779,
-      "saldoFavor": 248.21
+      "ganancia": 423.7394027777779,
+      "saldoFavor": 232.12
     },
     {
       "nombre": "Carlos",
@@ -345,6 +345,13 @@
         "costoTotal": 7.3500000000000005,
         "fecha": "11/2/2025, 5:56:07 p.m.",
         "ganancia": 2.46
+      },
+      {
+        "producto": "Marianitas de Chocolate",
+        "piezas": 1,
+        "costoTotal": 16.09,
+        "fecha": "12/2/2025, 8:26:25 a.m.",
+        "ganancia": 5.360000000000001
       }
     ],
     "Carlos": [
@@ -5074,10 +5081,10 @@
       "descripcion": "Marianitas de Chocolate",
       "precioCompra": 10.73,
       "precioVenta": 16.09,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 10.729999999999999
         }
       ]
@@ -5671,6 +5678,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8259.973023809498,
-  "gananciasTotales": 4128.90697619047
+  "inversionRecuperada": 8270.703023809498,
+  "gananciasTotales": 4134.26697619047
 }
