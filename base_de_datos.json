@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 151.74,
-      "ganancia": 357.453402777778,
+      "adeudo": 177.87,
+      "ganancia": 366.16340277777806,
       "saldoFavor": 0
     },
     {
@@ -4551,6 +4551,20 @@
         "costoTotal": 4.86,
         "fecha": "11/2/2025, 3:48:49 p.m.",
         "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 2,
+        "costoTotal": 10.04,
+        "fecha": "12/2/2025, 8:11:12 a.m.",
+        "ganancia": 3.3499999999999988
+      },
+      {
+        "producto": "Marianitas de Coco",
+        "piezas": 1,
+        "costoTotal": 16.09,
+        "fecha": "12/2/2025, 8:11:12 a.m.",
+        "ganancia": 5.360000000000001
       }
     ],
     "Vicente": [
@@ -4648,10 +4662,10 @@
       "descripcion": "Cigarros Pall Mall",
       "precioCompra": 3.35,
       "precioVenta": 5.02,
-      "piezas": 9,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 7,
           "costoUnitario": 3.345
         }
       ]
@@ -5066,13 +5080,8 @@
       "descripcion": "Marianitas de Coco",
       "precioCompra": 10.73,
       "precioVenta": 16.09,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 10.729999999999999
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "038629001702",
@@ -5655,6 +5664,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8231.823023809498,
-  "gananciasTotales": 4114.8369761904705
+  "inversionRecuperada": 8249.243023809498,
+  "gananciasTotales": 4123.546976190471
 }
