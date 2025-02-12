@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 79.66,
-      "ganancia": 400.31252976190507,
+      "adeudo": 92.66,
+      "ganancia": 404.64252976190505,
       "saldoFavor": 0
     },
     {
@@ -2259,6 +2259,13 @@
         "costoTotal": 16.09,
         "fecha": "12/2/2025, 8:57:30 a.m.",
         "ganancia": 5.360000000000001
+      },
+      {
+        "producto": "Solchetitos",
+        "piezas": 1,
+        "costoTotal": 13,
+        "fecha": "12/2/2025, 1:13:17 p.m.",
+        "ganancia": 4.33
       }
     ],
     "Isrrael": [
@@ -5056,10 +5063,10 @@
       "descripcion": "Solchetitos",
       "precioCompra": 8.67,
       "precioVenta": 13,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 8.67
         }
       ]
@@ -5761,6 +5768,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8374.875023809498,
-  "gananciasTotales": 4186.364976190469
+  "inversionRecuperada": 8383.545023809498,
+  "gananciasTotales": 4190.694976190469
 }
