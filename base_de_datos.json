@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 187.91,
-      "ganancia": 369.5134027777781,
+      "adeudo": 199.16,
+      "ganancia": 373.2634027777781,
       "saldoFavor": 0
     },
     {
@@ -4670,6 +4670,13 @@
         "costoTotal": 10.04,
         "fecha": "12/2/2025, 10:27:12 a.m.",
         "ganancia": 3.3499999999999988
+      },
+      {
+        "producto": "Churritos sal y limon",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "12/2/2025, 1:11:22 p.m.",
+        "ganancia": 3.75
       }
     ],
     "Vicente": [
@@ -5062,10 +5069,10 @@
       "descripcion": "Churritos sal y limon",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 7.5
         }
       ]
@@ -5754,6 +5761,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8367.375023809498,
-  "gananciasTotales": 4182.614976190469
+  "inversionRecuperada": 8374.875023809498,
+  "gananciasTotales": 4186.364976190469
 }
