@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 177.87,
-      "ganancia": 366.16340277777806,
+      "adeudo": 187.91,
+      "ganancia": 369.5134027777781,
       "saldoFavor": 0
     },
     {
@@ -4607,6 +4607,13 @@
         "costoTotal": 16.09,
         "fecha": "12/2/2025, 8:11:12 a.m.",
         "ganancia": 5.360000000000001
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 2,
+        "costoTotal": 10.04,
+        "fecha": "12/2/2025, 10:27:12 a.m.",
+        "ganancia": 3.3499999999999988
       }
     ],
     "Vicente": [
@@ -4704,10 +4711,10 @@
       "descripcion": "Cigarros Pall Mall",
       "precioCompra": 3.35,
       "precioVenta": 5.02,
-      "piezas": 7,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 5,
           "costoUnitario": 3.345
         }
       ]
@@ -5696,6 +5703,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8314.330523809496,
-  "gananciasTotales": 4156.069476190469
+  "inversionRecuperada": 8321.020523809497,
+  "gananciasTotales": 4159.419476190469
 }
