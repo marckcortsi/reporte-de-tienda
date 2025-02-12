@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 199.16,
-      "ganancia": 373.2634027777781,
+      "adeudo": 213.9,
+      "ganancia": 378.1892361111114,
       "saldoFavor": 0
     },
     {
@@ -4705,6 +4705,27 @@
         "costoTotal": 11.25,
         "fecha": "12/2/2025, 1:11:22 p.m.",
         "ganancia": 3.75
+      },
+      {
+        "producto": "Winis",
+        "piezas": 5,
+        "costoTotal": 3.75,
+        "fecha": "12/2/2025, 4:31:55 p.m.",
+        "ganancia": 1.26
+      },
+      {
+        "producto": "Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "12/2/2025, 4:31:55 p.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "12/2/2025, 4:31:55 p.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Vicente": [
@@ -4888,10 +4909,10 @@
       "descripcion": "Zumba Goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 3.5575
         }
       ]
@@ -5013,10 +5034,10 @@
       "descripcion": "Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -5226,10 +5247,10 @@
       "descripcion": "Winis",
       "precioCompra": 0.5,
       "precioVenta": 0.75,
-      "piezas": 64,
+      "piezas": 59,
       "stockParciales": [
         {
-          "cantidad": 64,
+          "cantidad": 59,
           "costoUnitario": 0.498
         }
       ]
@@ -5789,6 +5810,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8436.201690476164,
-  "gananciasTotales": 4217.018309523802
+  "inversionRecuperada": 8446.015857142831,
+  "gananciasTotales": 4221.944142857135
 }
