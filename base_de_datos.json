@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 440.4600000000001,
-      "ganancia": 774.4546488095237,
+      "adeudo": 487.9600000000001,
+      "ganancia": 790.2879821428571,
       "saldoFavor": 0
     },
     {
@@ -1033,6 +1033,13 @@
         "costoTotal": 16.09,
         "fecha": "12/2/2025, 8:51:14 a.m.",
         "ganancia": 5.360000000000001
+      },
+      {
+        "producto": "Coca de 3 litros",
+        "piezas": 1,
+        "costoTotal": 47.5,
+        "fecha": "12/2/2025, 2:32:03 p.m.",
+        "ganancia": 15.833333333333332
       }
     ],
     "Edgar": [
@@ -4920,10 +4927,10 @@
       "descripcion": "Coca de 3 litros",
       "precioCompra": 31.67,
       "precioVenta": 47.5,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 31.666666666666668
         }
       ]
@@ -5782,6 +5789,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8404.535023809498,
-  "gananciasTotales": 4201.184976190469
+  "inversionRecuperada": 8436.201690476164,
+  "gananciasTotales": 4217.018309523802
 }
