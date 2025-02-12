@@ -59,8 +59,8 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 29.97895833333334,
+      "adeudo": 16.09,
+      "ganancia": 35.33895833333334,
       "saldoFavor": 0
     },
     {
@@ -2979,6 +2979,13 @@
         "costoTotal": 11.25,
         "fecha": "31/1/2025, 9:06:42 a.m.",
         "ganancia": 3.75
+      },
+      {
+        "producto": "Marianitas de Nuez",
+        "piezas": 1,
+        "costoTotal": 16.09,
+        "fecha": "12/2/2025, 8:19:36 a.m.",
+        "ganancia": 5.360000000000001
       }
     ],
     "Marcos": [
@@ -5088,10 +5095,10 @@
       "descripcion": "Marianitas de Nuez",
       "precioCompra": 10.73,
       "precioVenta": 16.09,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 10.729999999999999
         }
       ]
@@ -5664,6 +5671,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8249.243023809498,
-  "gananciasTotales": 4123.546976190471
+  "inversionRecuperada": 8259.973023809498,
+  "gananciasTotales": 4128.90697619047
 }
