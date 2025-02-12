@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 92.66,
-      "ganancia": 404.64252976190505,
+      "adeudo": 103.14,
+      "ganancia": 408.13252976190506,
       "saldoFavor": 0
     },
     {
@@ -2266,6 +2266,13 @@
         "costoTotal": 13,
         "fecha": "12/2/2025, 1:13:17 p.m.",
         "ganancia": 4.33
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 2,
+        "costoTotal": 10.48,
+        "fecha": "12/2/2025, 2:08:01 p.m.",
+        "ganancia": 3.49
       }
     ],
     "Isrrael": [
@@ -5110,10 +5117,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 49,
+      "piezas": 47,
       "stockParciales": [
         {
-          "cantidad": 49,
+          "cantidad": 47,
           "costoUnitario": 3.495
         }
       ]
@@ -5768,6 +5775,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8383.545023809498,
-  "gananciasTotales": 4190.694976190469
+  "inversionRecuperada": 8390.535023809498,
+  "gananciasTotales": 4194.184976190469
 }
