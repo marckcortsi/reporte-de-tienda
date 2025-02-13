@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 144.48000000000002,
-      "ganancia": 495.8292837301591,
+      "adeudo": 164.87,
+      "ganancia": 502.6384265873019,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 266.28000000000003,
-      "ganancia": 719.8895694444444,
+      "adeudo": 273.78000000000003,
+      "ganancia": 722.4095694444444,
       "saldoFavor": 0
     },
     {
@@ -3047,6 +3047,20 @@
         "costoTotal": 2.02,
         "fecha": "11/2/2025, 5:56:52 p.m.",
         "ganancia": 0.6799999999999999
+      },
+      {
+        "producto": "Palomitas",
+        "piezas": 1,
+        "costoTotal": 15.89,
+        "fecha": "13/2/2025, 1:18:32 p.m.",
+        "ganancia": 5.297142857142857
+      },
+      {
+        "producto": "Winis",
+        "piezas": 6,
+        "costoTotal": 4.5,
+        "fecha": "13/2/2025, 1:18:32 p.m.",
+        "ganancia": 1.512
       }
     ],
     "Laura": [
@@ -4178,6 +4192,13 @@
         "costoTotal": 1.98,
         "fecha": "13/2/2025, 1:13:19 p.m.",
         "ganancia": 0.6599999999999999
+      },
+      {
+        "producto": "Winis",
+        "piezas": 10,
+        "costoTotal": 7.5,
+        "fecha": "13/2/2025, 1:19:41 p.m.",
+        "ganancia": 2.52
       }
     ],
     "Rafael": [
@@ -5305,10 +5326,10 @@
       "descripcion": "Winis",
       "precioCompra": 0.5,
       "precioVenta": 0.75,
-      "piezas": 47,
+      "piezas": 31,
       "stockParciales": [
         {
-          "cantidad": 47,
+          "cantidad": 31,
           "costoUnitario": 0.498
         }
       ]
@@ -5344,10 +5365,10 @@
       "descripcion": "Palomitas",
       "precioCompra": 10.59,
       "precioVenta": 15.89,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 10.592857142857143
         }
       ]
@@ -5868,6 +5889,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8594.420190476163,
-  "gananciasTotales": 4296.139809523801
+  "inversionRecuperada": 8612.98104761902,
+  "gananciasTotales": 4305.468952380944
 }
