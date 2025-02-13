@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 212.44,
-      "ganancia": 444.54452976190504,
+      "adeudo": 250.6,
+      "ganancia": 457.26702976190506,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 247.14000000000001,
-      "ganancia": 713.5070694444445,
+      "adeudo": 266.28000000000003,
+      "ganancia": 719.8895694444444,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 213.9,
-      "ganancia": 378.1892361111114,
+      "adeudo": 227.9,
+      "ganancia": 382.8679027777781,
       "saldoFavor": 0
     },
     {
@@ -2294,6 +2294,20 @@
         "costoTotal": 4.5,
         "fecha": "13/2/2025, 9:08:25 a.m.",
         "ganancia": 1.512
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "13/2/2025, 1:11:56 p.m.",
+        "ganancia": 7
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "13/2/2025, 1:11:56 p.m.",
+        "ganancia": 5.7225
       }
     ],
     "Isrrael": [
@@ -4150,6 +4164,20 @@
         "costoTotal": 42,
         "fecha": "13/2/2025, 11:24:15 a.m.",
         "ganancia": 14
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "13/2/2025, 1:13:19 p.m.",
+        "ganancia": 5.7225
+      },
+      {
+        "producto": "Donitas luna",
+        "piezas": 1,
+        "costoTotal": 1.98,
+        "fecha": "13/2/2025, 1:13:19 p.m.",
+        "ganancia": 0.6599999999999999
       }
     ],
     "Rafael": [
@@ -4747,6 +4775,20 @@
         "costoTotal": 5.34,
         "fecha": "12/2/2025, 4:31:55 p.m.",
         "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Winis",
+        "piezas": 6,
+        "costoTotal": 4.5,
+        "fecha": "13/2/2025, 12:16:23 p.m.",
+        "ganancia": 1.512
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 9.5,
+        "fecha": "13/2/2025, 12:16:23 p.m.",
+        "ganancia": 3.166666666666667
       }
     ],
     "Vicente": [
@@ -4956,13 +4998,8 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 6.33,
       "precioVenta": 9.5,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 6.333333333333333
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501055313068",
@@ -4990,10 +5027,10 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 8,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 6,
           "costoUnitario": 11.4375
         }
       ]
@@ -5042,10 +5079,10 @@
       "descripcion": "Donitas luna",
       "precioCompra": 1.32,
       "precioVenta": 1.98,
-      "piezas": 25,
+      "piezas": 24,
       "stockParciales": [
         {
-          "cantidad": 25,
+          "cantidad": 24,
           "costoUnitario": 1.32
         }
       ]
@@ -5268,10 +5305,10 @@
       "descripcion": "Winis",
       "precioCompra": 0.5,
       "precioVenta": 0.75,
-      "piezas": 53,
+      "piezas": 47,
       "stockParciales": [
         {
-          "cantidad": 53,
+          "cantidad": 47,
           "costoUnitario": 0.498
         }
       ]
@@ -5294,10 +5331,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 16,
           "costoUnitario": 14
         }
       ]
@@ -5831,6 +5868,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8546.90385714283,
-  "gananciasTotales": 4272.356142857135
+  "inversionRecuperada": 8594.420190476163,
+  "gananciasTotales": 4296.139809523801
 }
