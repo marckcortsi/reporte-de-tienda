@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 205.14000000000001,
-      "ganancia": 699.5070694444445,
+      "adeudo": 247.14000000000001,
+      "ganancia": 713.5070694444445,
       "saldoFavor": 0
     },
     {
@@ -4143,6 +4143,13 @@
         "costoTotal": 21,
         "fecha": "12/2/2025, 2:20:11 p.m.",
         "ganancia": 7
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 2,
+        "costoTotal": 42,
+        "fecha": "13/2/2025, 11:24:15 a.m.",
+        "ganancia": 14
       }
     ],
     "Rafael": [
@@ -5287,10 +5294,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 19,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 17,
           "costoUnitario": 14
         }
       ]
@@ -5824,6 +5831,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8518.90385714283,
-  "gananciasTotales": 4258.356142857135
+  "inversionRecuperada": 8546.90385714283,
+  "gananciasTotales": 4272.356142857135
 }
