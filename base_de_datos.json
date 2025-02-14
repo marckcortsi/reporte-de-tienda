@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 259.25756944444447,
+      "adeudo": 68.5,
+      "ganancia": 282.0909027777778,
       "saldoFavor": 0
     },
     {
@@ -1788,6 +1788,20 @@
         "costoTotal": 9.64,
         "fecha": "12/2/2025, 12:53:51 p.m.",
         "ganancia": 3.210000000000001
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "14/2/2025, 2:20:28 p.m.",
+        "ganancia": 7
+      },
+      {
+        "producto": "Coca de 3 litros",
+        "piezas": 1,
+        "costoTotal": 47.5,
+        "fecha": "14/2/2025, 2:21:12 p.m.",
+        "ganancia": 15.833333333333332
       }
     ],
     "Isac": [
@@ -5097,10 +5111,10 @@
       "descripcion": "Coca de 3 litros",
       "precioCompra": 31.67,
       "precioVenta": 47.5,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 31.666666666666668
         }
       ]
@@ -5422,10 +5436,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 14
         }
       ]
@@ -5965,6 +5979,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10412.150000000003,
-  "inversionRecuperada": 8746.949404761877,
-  "gananciasTotales": 4372.510595238086
+  "inversionRecuperada": 8792.616071428543,
+  "gananciasTotales": 4395.343928571419
 }
