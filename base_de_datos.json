@@ -4,14 +4,14 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 423.7394027777779,
-      "saldoFavor": 232.12
+      "ganancia": 458.63940277777795,
+      "saldoFavor": 127.32000000000001
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 487.9600000000001,
-      "ganancia": 790.2879821428571,
+      "adeudo": 203.85000000000008,
+      "ganancia": 795.585125,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 250.6,
-      "ganancia": 457.26702976190506,
+      "adeudo": 258.1,
+      "ganancia": 459.7810297619051,
       "saldoFavor": 0
     },
     {
@@ -352,6 +352,13 @@
         "costoTotal": 16.09,
         "fecha": "12/2/2025, 8:26:25 a.m.",
         "ganancia": 5.360000000000001
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 20,
+        "costoTotal": 104.80000000000001,
+        "fecha": "14/2/2025, 10:47:09 a.m.",
+        "ganancia": 34.900000000000006
       }
     ],
     "Carlos": [
@@ -1040,6 +1047,13 @@
         "costoTotal": 47.5,
         "fecha": "12/2/2025, 2:32:03 p.m.",
         "ganancia": 15.833333333333332
+      },
+      {
+        "producto": "Palomitas",
+        "piezas": 1,
+        "costoTotal": 15.89,
+        "fecha": "14/2/2025, 10:52:02 a.m.",
+        "ganancia": 5.297142857142857
       }
     ],
     "Edgar": [
@@ -2308,6 +2322,20 @@
         "costoTotal": 17.16,
         "fecha": "13/2/2025, 1:11:56 p.m.",
         "ganancia": 5.7225
+      },
+      {
+        "producto": "Winis",
+        "piezas": 7,
+        "costoTotal": 5.25,
+        "fecha": "14/2/2025, 10:48:58 a.m.",
+        "ganancia": 1.764
+      },
+      {
+        "producto": "Winis",
+        "piezas": 3,
+        "costoTotal": 2.25,
+        "fecha": "14/2/2025, 10:51:36 a.m.",
+        "ganancia": 0.75
       }
     ],
     "Isrrael": [
@@ -5252,10 +5280,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 27,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 27,
+          "cantidad": 7,
           "costoUnitario": 3.495
         }
       ]
@@ -5347,11 +5375,11 @@
       "descripcion": "Winis",
       "precioCompra": 0.5,
       "precioVenta": 0.75,
-      "piezas": 7,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 7,
-          "costoUnitario": 0.498
+          "cantidad": 8,
+          "costoUnitario": 0.5
         }
       ]
     },
@@ -5386,10 +5414,10 @@
       "descripcion": "Palomitas",
       "precioCompra": 10.59,
       "precioVenta": 15.89,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 10.592857142857143
         }
       ]
@@ -5905,11 +5933,17 @@
       "cantidad": 14,
       "costoTotal": 148.3,
       "fecha": "6/2/2025, 5:54:35 p.m."
+    },
+    {
+      "producto": "Winis",
+      "cantidad": 11,
+      "costoTotal": 5.5,
+      "fecha": "14/2/2025, 10:51:20 a.m."
     }
   ],
   "numInversionistas": 12,
   "totalInversion": 6000,
-  "gastoEnProductos": 10406.650000000003,
-  "inversionRecuperada": 8626.273047619019,
-  "gananciasTotales": 4312.196952380944
+  "gastoEnProductos": 10412.150000000003,
+  "inversionRecuperada": 8711.751904761877,
+  "gananciasTotales": 4354.908095238086
 }
