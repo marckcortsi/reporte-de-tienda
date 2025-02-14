@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 34.79,
-      "ganancia": 135.11629166666665,
+      "adeudo": 50.629999999999995,
+      "ganancia": 140.39629166666666,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 727.4495694444444,
+      "adeudo": 17.16,
+      "ganancia": 733.1720694444443,
       "saldoFavor": 0
     },
     {
@@ -1506,6 +1506,13 @@
         "costoTotal": 9.5,
         "fecha": "10/2/2025, 12:26:40 p.m.",
         "ganancia": 3.166666666666667
+      },
+      {
+        "producto": "Donitas luna",
+        "piezas": 8,
+        "costoTotal": 15.84,
+        "fecha": "14/2/2025, 12:08:24 p.m.",
+        "ganancia": 5.279999999999999
       }
     ],
     "Irvin": [
@@ -4255,6 +4262,13 @@
         "costoTotal": 15,
         "fecha": "13/2/2025, 4:28:53 p.m.",
         "ganancia": 5.04
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "14/2/2025, 12:07:34 p.m.",
+        "ganancia": 5.7225
       }
     ],
     "Rafael": [
@@ -5104,10 +5118,10 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 11.4375
         }
       ]
@@ -5156,10 +5170,10 @@
       "descripcion": "Donitas luna",
       "precioCompra": 1.32,
       "precioVenta": 1.98,
-      "piezas": 24,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 16,
           "costoUnitario": 1.32
         }
       ]
@@ -5951,6 +5965,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10412.150000000003,
-  "inversionRecuperada": 8724.951904761878,
-  "gananciasTotales": 4361.508095238087
+  "inversionRecuperada": 8746.949404761877,
+  "gananciasTotales": 4372.510595238086
 }
