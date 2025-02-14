@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 169.89000000000001,
-      "ganancia": 504.3264265873019,
+      "adeudo": 189.69000000000003,
+      "ganancia": 510.92642658730193,
       "saldoFavor": 0
     },
     {
@@ -3103,6 +3103,13 @@
         "costoTotal": 2.02,
         "fecha": "13/2/2025, 4:27:50 p.m.",
         "ganancia": 0.6799999999999999
+      },
+      {
+        "producto": "Totis chile y limón",
+        "piezas": 1,
+        "costoTotal": 19.8,
+        "fecha": "14/2/2025, 11:19:56 a.m.",
+        "ganancia": 6.6
       }
     ],
     "Laura": [
@@ -5029,10 +5036,10 @@
       "descripcion": "Totis chile y limón",
       "precioCompra": 13.2,
       "precioVenta": 19.8,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 13.200000000000001
         }
       ]
@@ -5944,6 +5951,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10412.150000000003,
-  "inversionRecuperada": 8711.751904761877,
-  "gananciasTotales": 4354.908095238086
+  "inversionRecuperada": 8724.951904761878,
+  "gananciasTotales": 4361.508095238087
 }
