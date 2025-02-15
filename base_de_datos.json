@@ -4,14 +4,14 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 458.63940277777795,
-      "saldoFavor": 127.32000000000001
+      "ganancia": 463.856902777778,
+      "saldoFavor": 111.69000000000001
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 203.85000000000008,
-      "ganancia": 795.585125,
+      "adeudo": 260.61000000000007,
+      "ganancia": 814.500125,
       "saldoFavor": 0
     },
     {
@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 50.629999999999995,
-      "ganancia": 140.39629166666666,
+      "adeudo": 68.94,
+      "ganancia": 146.49795833333332,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 510.92642658730193,
+      "adeudo": 18.31,
+      "ganancia": 517.0280932539686,
       "saldoFavor": 0
     },
     {
@@ -67,8 +67,8 @@
       "nombre": "Marcos",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 733.1720694444443,
-      "saldoFavor": 200
+      "ganancia": 760.0358789682538,
+      "saldoFavor": 119.42999999999999
     },
     {
       "nombre": "Rafael",
@@ -359,6 +359,27 @@
         "costoTotal": 104.80000000000001,
         "fecha": "14/2/2025, 10:47:09 a.m.",
         "ganancia": 34.900000000000006
+      },
+      {
+        "producto": "Paleta Búbalo Xtreme",
+        "piezas": 1,
+        "costoTotal": 5.39,
+        "fecha": "14/2/2025, 6:13:14 p.m.",
+        "ganancia": 1.7949999999999995
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "14/2/2025, 6:13:14 p.m.",
+        "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Paletas de Tarrito",
+        "piezas": 2,
+        "costoTotal": 4.9,
+        "fecha": "14/2/2025, 6:13:14 p.m.",
+        "ganancia": 1.6400000000000001
       }
     ],
     "Carlos": [
@@ -1054,6 +1075,20 @@
         "costoTotal": 15.89,
         "fecha": "14/2/2025, 10:52:02 a.m.",
         "ganancia": 5.297142857142857
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 7,
+        "costoTotal": 36.68,
+        "fecha": "14/2/2025, 5:14:07 p.m.",
+        "ganancia": 12.215
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 4,
+        "costoTotal": 20.08,
+        "fecha": "14/2/2025, 5:14:07 p.m.",
+        "ganancia": 6.6999999999999975
       }
     ],
     "Edgar": [
@@ -1513,6 +1548,13 @@
         "costoTotal": 15.84,
         "fecha": "14/2/2025, 12:08:24 p.m.",
         "ganancia": 5.279999999999999
+      },
+      {
+        "producto": "Vive 100 original",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "14/2/2025, 6:10:33 p.m.",
+        "ganancia": 6.101666666666665
       }
     ],
     "Irvin": [
@@ -3131,6 +3173,13 @@
         "costoTotal": 19.8,
         "fecha": "14/2/2025, 11:19:56 a.m.",
         "ganancia": 6.6
+      },
+      {
+        "producto": "Vive 100 original",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "14/2/2025, 6:16:03 p.m.",
+        "ganancia": 6.101666666666665
       }
     ],
     "Laura": [
@@ -4283,6 +4332,55 @@
         "costoTotal": 17.16,
         "fecha": "14/2/2025, 12:07:34 p.m.",
         "ganancia": 5.7225
+      },
+      {
+        "producto": "Cigarros Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.02,
+        "fecha": "14/2/2025, 5:14:45 p.m.",
+        "ganancia": 1.6749999999999994
+      },
+      {
+        "producto": "Palomitas",
+        "piezas": 1,
+        "costoTotal": 15.89,
+        "fecha": "14/2/2025, 6:12:28 p.m.",
+        "ganancia": 5.297142857142857
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "14/2/2025, 6:12:28 p.m.",
+        "ganancia": 5.7225
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "14/2/2025, 6:12:28 p.m.",
+        "ganancia": 7
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "14/2/2025, 6:12:28 p.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Peloneta",
+        "piezas": 2,
+        "costoTotal": 11.3,
+        "fecha": "14/2/2025, 6:12:28 p.m.",
+        "ganancia": 3.7666666666666675
+      },
+      {
+        "producto": "Zumba Goma Mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.34,
+        "fecha": "14/2/2025, 6:12:28 p.m.",
+        "ganancia": 1.7824999999999998
       }
     ],
     "Rafael": [
@@ -4991,23 +5089,18 @@
       "descripcion": "Cigarros Pall Mall",
       "precioCompra": 3.35,
       "precioVenta": 5.02,
-      "piezas": 5,
-      "stockParciales": [
-        {
-          "cantidad": 5,
-          "costoUnitario": 3.345
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7503030374552",
       "descripcion": "Paletas de Tarrito",
       "precioCompra": 1.63,
       "precioVenta": 2.45,
-      "piezas": 34,
+      "piezas": 32,
       "stockParciales": [
         {
-          "cantidad": 34,
+          "cantidad": 32,
           "costoUnitario": 1.6300000000000001
         }
       ]
@@ -5017,10 +5110,10 @@
       "descripcion": "Paleta Búbalo Xtreme",
       "precioCompra": 3.6,
       "precioVenta": 5.39,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 3.595
         }
       ]
@@ -5077,23 +5170,18 @@
       "descripcion": "Zumba Goma Mora Azul",
       "precioCompra": 3.56,
       "precioVenta": 5.34,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 3.5575
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "703885005251",
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 17,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -5132,10 +5220,10 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 11.4375
         }
       ]
@@ -5145,10 +5233,10 @@
       "descripcion": "Vive 100 original",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 14,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 12,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -5197,10 +5285,10 @@
       "descripcion": "Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 9,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 7,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -5315,13 +5403,8 @@
       "descripcion": "Pall mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 7,
-      "stockParciales": [
-        {
-          "cantidad": 7,
-          "costoUnitario": 3.495
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "1",
@@ -5436,10 +5519,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 14
         }
       ]
@@ -5449,10 +5532,10 @@
       "descripcion": "Palomitas",
       "precioCompra": 10.59,
       "precioVenta": 15.89,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 10.592857142857143
         }
       ]
@@ -5979,6 +6062,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 10412.150000000003,
-  "inversionRecuperada": 8792.616071428543,
-  "gananciasTotales": 4395.343928571419
+  "inversionRecuperada": 8918.996428571401,
+  "gananciasTotales": 4458.543571428562
 }
