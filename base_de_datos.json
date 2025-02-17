@@ -4,8 +4,8 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 463.856902777778,
-      "saldoFavor": 111.69000000000001
+      "ganancia": 470.0602361111113,
+      "saldoFavor": 93.08000000000001
     },
     {
       "nombre": "Carlos",
@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 68.5,
-      "ganancia": 282.0909027777778,
+      "adeudo": 85.27,
+      "ganancia": 287.68090277777776,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 105.81,
-      "ganancia": 495.021029761905,
+      "adeudo": 127.97,
+      "ganancia": 502.406029761905,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 18.31,
-      "ganancia": 517.0280932539686,
+      "adeudo": 35.08,
+      "ganancia": 522.6180932539686,
       "saldoFavor": 0
     },
     {
@@ -67,21 +67,21 @@
       "nombre": "Marcos",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 788.7458789682537,
-      "saldoFavor": 33.3
+      "ganancia": 794.3358789682537,
+      "saldoFavor": 16.529999999999998
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 40.61,
-      "ganancia": 396.4012361111115,
+      "adeudo": 57.379999999999995,
+      "ganancia": 401.99123611111145,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 50.70419642857143,
+      "adeudo": 17.16,
+      "ganancia": 56.42669642857143,
       "saldoFavor": 0
     },
     {
@@ -380,6 +380,13 @@
         "costoTotal": 4.9,
         "fecha": "14/2/2025, 6:13:14 p.m.",
         "ganancia": 1.6400000000000001
+      },
+      {
+        "producto": "Emperador vainilla",
+        "piezas": 1,
+        "costoTotal": 18.61,
+        "fecha": "17/2/2025, 12:49:30 p.m.",
+        "ganancia": 6.203333333333333
       }
     ],
     "Carlos": [
@@ -1865,6 +1872,13 @@
         "costoTotal": 47.5,
         "fecha": "14/2/2025, 2:21:12 p.m.",
         "ganancia": 15.833333333333332
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "17/2/2025, 12:48:57 p.m.",
+        "ganancia": 5.59
       }
     ],
     "Isac": [
@@ -2434,6 +2448,20 @@
         "costoTotal": 1.01,
         "fecha": "17/2/2025, 8:49:27 a.m.",
         "ganancia": 0.33999999999999997
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "17/2/2025, 12:49:11 p.m.",
+        "ganancia": 5.59
+      },
+      {
+        "producto": "Paleta Búbalo Xtreme",
+        "piezas": 1,
+        "costoTotal": 5.39,
+        "fecha": "17/2/2025, 12:49:11 p.m.",
+        "ganancia": 1.7949999999999995
       }
     ],
     "Isrrael": [
@@ -3215,6 +3243,13 @@
         "costoTotal": 18.31,
         "fecha": "14/2/2025, 6:16:03 p.m.",
         "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "17/2/2025, 12:28:28 p.m.",
+        "ganancia": 5.59
       }
     ],
     "Laura": [
@@ -4465,6 +4500,13 @@
         "costoTotal": 16.5,
         "fecha": "17/2/2025, 8:37:46 a.m.",
         "ganancia": 5.5
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "17/2/2025, 12:28:46 p.m.",
+        "ganancia": 5.59
       }
     ],
     "Rafael": [
@@ -5090,6 +5132,13 @@
         "costoTotal": 22.3,
         "fecha": "17/2/2025, 8:48:14 a.m.",
         "ganancia": 7.431666666666668
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "17/2/2025, 12:49:21 p.m.",
+        "ganancia": 5.59
       }
     ],
     "Vicente": [
@@ -5148,6 +5197,13 @@
         "costoTotal": 16.09,
         "fecha": "11/2/2025, 4:35:43 p.m.",
         "ganancia": 5.360000000000001
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "17/2/2025, 12:27:22 p.m.",
+        "ganancia": 5.7225
       }
     ],
     "Externo": [
@@ -5200,10 +5256,10 @@
       "descripcion": "Paleta Búbalo Xtreme",
       "precioCompra": 3.6,
       "precioVenta": 5.39,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 3.595
         }
       ]
@@ -5286,10 +5342,10 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 11.4375
         }
       ]
@@ -5554,10 +5610,10 @@
       "descripcion": "Emperador vainilla",
       "precioCompra": 12.41,
       "precioVenta": 18.61,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 12.406666666666666
         }
       ]
@@ -5606,10 +5662,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 11.18,
       "precioVenta": 16.77,
-      "piezas": 8,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 3,
           "costoUnitario": 11.18
         }
       ]
@@ -6279,6 +6335,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 12297.140000000003,
-  "inversionRecuperada": 9120.156428571401,
-  "gananciasTotales": 4559.073571428562
+  "inversionRecuperada": 9203.495595238068,
+  "gananciasTotales": 4600.744404761896
 }
