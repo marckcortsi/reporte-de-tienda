@@ -59,8 +59,8 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 35.33895833333334,
+      "adeudo": 15.15,
+      "ganancia": 40.388958333333335,
       "saldoFavor": 0
     },
     {
@@ -3266,6 +3266,13 @@
         "costoTotal": 16.09,
         "fecha": "12/2/2025, 8:19:36 a.m.",
         "ganancia": 5.360000000000001
+      },
+      {
+        "producto": "Marianitas Coco",
+        "piezas": 1,
+        "costoTotal": 15.15,
+        "fecha": "17/2/2025, 9:17:17 a.m.",
+        "ganancia": 5.050000000000001
       }
     ],
     "Marcos": [
@@ -5508,10 +5515,10 @@
       "descripcion": "Marianitas Coco",
       "precioCompra": 10.1,
       "precioVenta": 15.15,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 10.1
         }
       ]
@@ -6272,6 +6279,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 12297.140000000003,
-  "inversionRecuperada": 9110.0564285714,
-  "gananciasTotales": 4554.023571428562
+  "inversionRecuperada": 9120.156428571401,
+  "gananciasTotales": 4559.073571428562
 }
