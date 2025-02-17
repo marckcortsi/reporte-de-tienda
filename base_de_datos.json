@@ -45,7 +45,7 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 59.760000000000005,
+      "adeudo": 0,
       "ganancia": 342.8985218253969,
       "saldoFavor": 0
     },
@@ -66,9 +66,9 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 797.2621289682537,
-      "saldoFavor": 7.749999999999998
+      "adeudo": 10.56,
+      "ganancia": 803.3637956349204,
+      "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
@@ -4563,6 +4563,13 @@
         "costoTotal": 8.78,
         "fecha": "17/2/2025, 5:22:15 p.m.",
         "ganancia": 2.9262499999999996
+      },
+      {
+        "producto": "Vive 100 original",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "17/2/2025, 5:30:02 p.m.",
+        "ganancia": 6.101666666666665
       }
     ],
     "Rafael": [
@@ -5425,10 +5432,10 @@
       "descripcion": "Vive 100 original",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -6405,6 +6412,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 12297.140000000003,
-  "inversionRecuperada": 9401.326428571401,
-  "gananciasTotales": 4699.7235714285625
+  "inversionRecuperada": 9413.534761904735,
+  "gananciasTotales": 4705.825238095229
 }
