@@ -67,8 +67,8 @@
       "nombre": "Marcos",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 760.0358789682538,
-      "saldoFavor": 119.42999999999999
+      "ganancia": 774.5971289682537,
+      "saldoFavor": 75.74
     },
     {
       "nombre": "Rafael",
@@ -4381,6 +4381,27 @@
         "costoTotal": 5.34,
         "fecha": "14/2/2025, 6:12:28 p.m.",
         "ganancia": 1.7824999999999998
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 1,
+        "costoTotal": 18.14,
+        "fecha": "16/2/2025, 9:34:49 p.m.",
+        "ganancia": 6.045000000000002
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 8.78,
+        "fecha": "16/2/2025, 9:34:49 p.m.",
+        "ganancia": 2.9262499999999996
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "16/2/2025, 9:34:49 p.m.",
+        "ganancia": 5.59
       }
     ],
     "Rafael": [
@@ -5085,14 +5106,6 @@
   },
   "productos": [
     {
-      "codigo": "75071295",
-      "descripcion": "Cigarros Pall Mall",
-      "precioCompra": 3.35,
-      "precioVenta": 5.02,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "7503030374552",
       "descripcion": "Paletas de Tarrito",
       "precioCompra": 1.63,
@@ -5130,14 +5143,6 @@
           "costoUnitario": 0.67
         }
       ]
-    },
-    {
-      "codigo": "75078843",
-      "descripcion": "Cigarros Shots",
-      "precioCompra": 1.91,
-      "precioVenta": 2.86,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "7500366004825",
@@ -5187,14 +5192,6 @@
       ]
     },
     {
-      "codigo": "7501059242913",
-      "descripcion": "Chocolate Larin",
-      "precioCompra": 6.33,
-      "precioVenta": 9.5,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "7501055313068",
       "descripcion": "Coca de 3 litros",
       "precioCompra": 31.67,
@@ -5206,14 +5203,6 @@
           "costoUnitario": 31.666666666666668
         }
       ]
-    },
-    {
-      "codigo": "75004699",
-      "descripcion": "Coca de vidrio 500 ml",
-      "precioCompra": 11.88,
-      "precioVenta": 17.81,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "7506192510295",
@@ -5307,14 +5296,6 @@
       ]
     },
     {
-      "codigo": "7501000318599",
-      "descripcion": "Takis",
-      "precioCompra": 11.12,
-      "precioVenta": 16.68,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "738545010559",
       "descripcion": "Salsa Botanera",
       "precioCompra": 37.6,
@@ -5326,30 +5307,6 @@
           "costoUnitario": 37.6
         }
       ]
-    },
-    {
-      "codigo": "7503022458512",
-      "descripcion": "Papas Sol limon",
-      "precioCompra": 12.9,
-      "precioVenta": 19.35,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7503022458758",
-      "descripcion": "Papas Sol habanero",
-      "precioCompra": 12.9,
-      "precioVenta": 19.35,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7503022458741",
-      "descripcion": "Papas Sol jalapeño",
-      "precioCompra": 12.9,
-      "precioVenta": 19.35,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "7503022458307",
@@ -5399,14 +5356,6 @@
       ]
     },
     {
-      "codigo": "750712952",
-      "descripcion": "Pall mall",
-      "precioCompra": 3.5,
-      "precioVenta": 5.24,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "1",
       "descripcion": "Palomitas de Maiz",
       "precioCompra": 10.42,
@@ -5431,62 +5380,6 @@
           "costoUnitario": 19.125
         }
       ]
-    },
-    {
-      "codigo": "7500478022496",
-      "descripcion": "Emperador Chocolate",
-      "precioCompra": 12,
-      "precioVenta": 18,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7500478022540",
-      "descripcion": "Emperador Nuez",
-      "precioCompra": 12,
-      "precioVenta": 18,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7501000601776",
-      "descripcion": "Emperador senzo",
-      "precioCompra": 12.78,
-      "precioVenta": 19.16,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7500478008926",
-      "descripcion": "Chokis",
-      "precioCompra": 11.44,
-      "precioVenta": 17.16,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "038629003225",
-      "descripcion": "Marianitas de Chocolate",
-      "precioCompra": 10.73,
-      "precioVenta": 16.09,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "038629002068",
-      "descripcion": "Marianitas de Coco",
-      "precioCompra": 10.73,
-      "precioVenta": 16.09,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "038629001702",
-      "descripcion": "Marianitas de Nuez",
-      "precioCompra": 10.73,
-      "precioVenta": 16.09,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "754177613197",
@@ -5537,6 +5430,175 @@
         {
           "cantidad": 8,
           "costoUnitario": 10.592857142857143
+        }
+      ]
+    },
+    {
+      "codigo": "038629002068",
+      "descripcion": "Marianitas Coco",
+      "precioCompra": 10.1,
+      "precioVenta": 15.15,
+      "piezas": 6,
+      "stockParciales": [
+        {
+          "cantidad": 6,
+          "costoUnitario": 10.1
+        }
+      ]
+    },
+    {
+      "codigo": "7500478008926",
+      "descripcion": "Chokis",
+      "precioCompra": 11,
+      "precioVenta": 16.5,
+      "piezas": 6,
+      "stockParciales": [
+        {
+          "cantidad": 6,
+          "costoUnitario": 11
+        }
+      ]
+    },
+    {
+      "codigo": "7501000601776",
+      "descripcion": "Emperador senzo",
+      "precioCompra": 14.87,
+      "precioVenta": 22.3,
+      "piezas": 6,
+      "stockParciales": [
+        {
+          "cantidad": 6,
+          "costoUnitario": 14.868333333333332
+        }
+      ]
+    },
+    {
+      "codigo": "7500478022519",
+      "descripcion": "Emperador vainilla",
+      "precioCompra": 12.41,
+      "precioVenta": 18.61,
+      "piezas": 6,
+      "stockParciales": [
+        {
+          "cantidad": 6,
+          "costoUnitario": 12.406666666666666
+        }
+      ]
+    },
+    {
+      "codigo": "7622210833662",
+      "descripcion": "Oreo",
+      "precioCompra": 12.09,
+      "precioVenta": 18.14,
+      "piezas": 5,
+      "stockParciales": [
+        {
+          "cantidad": 5,
+          "costoUnitario": 12.094999999999999
+        }
+      ]
+    },
+    {
+      "codigo": "7500478022540",
+      "descripcion": "Emperador Nuez",
+      "precioCompra": 12.41,
+      "precioVenta": 18.61,
+      "piezas": 6,
+      "stockParciales": [
+        {
+          "cantidad": 6,
+          "costoUnitario": 12.406666666666666
+        }
+      ]
+    },
+    {
+      "codigo": "7501058638083",
+      "descripcion": "Carlos V",
+      "precioCompra": 5.85,
+      "precioVenta": 8.78,
+      "piezas": 15,
+      "stockParciales": [
+        {
+          "cantidad": 15,
+          "costoUnitario": 5.85375
+        }
+      ]
+    },
+    {
+      "codigo": "8000500267035",
+      "descripcion": "Kinder delice",
+      "precioCompra": 11.18,
+      "precioVenta": 16.77,
+      "piezas": 9,
+      "stockParciales": [
+        {
+          "cantidad": 9,
+          "costoUnitario": 11.18
+        }
+      ]
+    },
+    {
+      "codigo": "75071295",
+      "descripcion": "Pall Mall",
+      "precioCompra": 3.5,
+      "precioVenta": 5.24,
+      "piezas": 100,
+      "stockParciales": [
+        {
+          "cantidad": 100,
+          "costoUnitario": 3.495
+        }
+      ]
+    },
+    {
+      "codigo": "75078843",
+      "descripcion": "Shots",
+      "precioCompra": 1.63,
+      "precioVenta": 2.44,
+      "piezas": 200,
+      "stockParciales": [
+        {
+          "cantidad": 200,
+          "costoUnitario": 1.625
+        }
+      ]
+    },
+    {
+      "codigo": "101",
+      "descripcion": "Malboro Rojo",
+      "precioCompra": 3.86,
+      "precioVenta": 5.79,
+      "piezas": 100,
+      "stockParciales": [
+        {
+          "cantidad": 100,
+          "costoUnitario": 3.86
+        }
+      ]
+    },
+    {
+      "codigo": "3",
+      "descripcion": "Encendedor",
+      "precioCompra": 4.29,
+      "precioVenta": 6.44,
+      "piezas": 25,
+      "stockParciales": [
+        {
+          "cantidad": 25,
+          "costoUnitario": 4.2932
+        }
+      ]
+    },
+    {
+      "codigo": "7500478022496",
+      "descripcion": "Emperador Chocolate",
+      "precioCompra": 12.41,
+      "precioVenta": 18.61,
+      "piezas": 6,
+      "stockParciales": [
+        {
+          "cantidad": 6,
+          "costoUnitario": 12.406666666666666
         }
       ]
     }
@@ -6057,11 +6119,89 @@
       "cantidad": 11,
       "costoTotal": 5.5,
       "fecha": "14/2/2025, 10:51:20 a.m."
+    },
+    {
+      "producto": "Marianitas Coco",
+      "cantidad": 6,
+      "costoTotal": 60.6,
+      "fecha": "16/2/2025, 9:16:48 p.m."
+    },
+    {
+      "producto": "Chokis",
+      "cantidad": 6,
+      "costoTotal": 66,
+      "fecha": "16/2/2025, 9:18:12 p.m."
+    },
+    {
+      "producto": "Emperador senzo",
+      "cantidad": 6,
+      "costoTotal": 89.21,
+      "fecha": "16/2/2025, 9:19:33 p.m."
+    },
+    {
+      "producto": "Emperador vainilla",
+      "cantidad": 6,
+      "costoTotal": 74.44,
+      "fecha": "16/2/2025, 9:21:17 p.m."
+    },
+    {
+      "producto": "Oreo",
+      "cantidad": 6,
+      "costoTotal": 72.57,
+      "fecha": "16/2/2025, 9:22:08 p.m."
+    },
+    {
+      "producto": "Emperador Nuez",
+      "cantidad": 6,
+      "costoTotal": 74.44,
+      "fecha": "16/2/2025, 9:22:48 p.m."
+    },
+    {
+      "producto": "Carlos V",
+      "cantidad": 16,
+      "costoTotal": 93.66,
+      "fecha": "16/2/2025, 9:23:53 p.m."
+    },
+    {
+      "producto": "Kinder delice",
+      "cantidad": 10,
+      "costoTotal": 111.8,
+      "fecha": "16/2/2025, 9:25:06 p.m."
+    },
+    {
+      "producto": "Pall Mall",
+      "cantidad": 100,
+      "costoTotal": 349.5,
+      "fecha": "16/2/2025, 9:27:12 p.m."
+    },
+    {
+      "producto": "Shots",
+      "cantidad": 200,
+      "costoTotal": 325,
+      "fecha": "16/2/2025, 9:28:10 p.m."
+    },
+    {
+      "producto": "Malboro Rojo",
+      "cantidad": 100,
+      "costoTotal": 386,
+      "fecha": "16/2/2025, 9:30:05 p.m."
+    },
+    {
+      "producto": "Encendedor",
+      "cantidad": 25,
+      "costoTotal": 107.33,
+      "fecha": "16/2/2025, 9:31:34 p.m."
+    },
+    {
+      "producto": "Emperador Chocolate",
+      "cantidad": 6,
+      "costoTotal": 74.44,
+      "fecha": "16/2/2025, 9:33:16 p.m."
     }
   ],
   "numInversionistas": 12,
   "totalInversion": 6000,
-  "gastoEnProductos": 10412.150000000003,
-  "inversionRecuperada": 8918.996428571401,
-  "gananciasTotales": 4458.543571428562
+  "gastoEnProductos": 12297.140000000003,
+  "inversionRecuperada": 8948.125178571401,
+  "gananciasTotales": 4473.104821428563
 }
