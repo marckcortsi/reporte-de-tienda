@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 295.99000000000007,
-      "ganancia": 826.2934583333334,
+      "adeudo": 325.7700000000001,
+      "ganancia": 836.2197083333334,
       "saldoFavor": 0
     },
     {
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 57.379999999999995,
-      "ganancia": 401.99123611111145,
+      "adeudo": 67.89,
+      "ganancia": 405.4945694444448,
       "saldoFavor": 0
     },
     {
@@ -1117,6 +1117,20 @@
         "costoTotal": 16.77,
         "fecha": "17/2/2025, 8:48:44 a.m.",
         "ganancia": 5.59
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 8.78,
+        "fecha": "17/2/2025, 5:24:51 p.m.",
+        "ganancia": 2.9262499999999996
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "17/2/2025, 5:24:51 p.m.",
+        "ganancia": 7
       }
     ],
     "Edgar": [
@@ -5181,6 +5195,20 @@
         "costoTotal": 16.77,
         "fecha": "17/2/2025, 12:49:21 p.m.",
         "ganancia": 5.59
+      },
+      {
+        "producto": "Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "17/2/2025, 5:23:56 p.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "17/2/2025, 5:23:56 p.m.",
+        "ganancia": 1.6200000000000006
       }
     ],
     "Vicente": [
@@ -5358,10 +5386,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 16,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -5449,10 +5477,10 @@
       "descripcion": "Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -5587,10 +5615,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 14
         }
       ]
@@ -5691,10 +5719,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 5.85,
       "precioVenta": 8.78,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 5.85375
         }
       ]
@@ -6377,6 +6405,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 12297.140000000003,
-  "inversionRecuperada": 9374.466011904735,
-  "gananciasTotales": 4686.293988095229
+  "inversionRecuperada": 9401.326428571401,
+  "gananciasTotales": 4699.7235714285625
 }
