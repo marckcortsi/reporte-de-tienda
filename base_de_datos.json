@@ -3,9 +3,9 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 470.0602361111113,
-      "saldoFavor": 93.08000000000001
+      "adeudo": 22.719999999999985,
+      "ganancia": 508.6602361111113,
+      "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 35.08,
-      "ganancia": 522.6180932539686,
+      "adeudo": 98.52,
+      "ganancia": 543.8080932539687,
       "saldoFavor": 0
     },
     {
@@ -67,8 +67,8 @@
       "nombre": "Marcos",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 794.3358789682537,
-      "saldoFavor": 16.529999999999998
+      "ganancia": 797.2621289682537,
+      "saldoFavor": 7.749999999999998
     },
     {
       "nombre": "Rafael",
@@ -387,6 +387,13 @@
         "costoTotal": 18.61,
         "fecha": "17/2/2025, 12:49:30 p.m.",
         "ganancia": 6.203333333333333
+      },
+      {
+        "producto": "Malboro Rojo",
+        "piezas": 20,
+        "costoTotal": 115.8,
+        "fecha": "17/2/2025, 5:19:07 p.m.",
+        "ganancia": 38.6
       }
     ],
     "Carlos": [
@@ -3264,6 +3271,20 @@
         "costoTotal": 16.77,
         "fecha": "17/2/2025, 12:28:28 p.m.",
         "ganancia": 5.59
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 61,
+        "fecha": "17/2/2025, 5:20:05 p.m.",
+        "ganancia": 20.375
+      },
+      {
+        "producto": "Shots",
+        "piezas": 1,
+        "costoTotal": 2.44,
+        "fecha": "17/2/2025, 5:20:40 p.m.",
+        "ganancia": 0.815
       }
     ],
     "Laura": [
@@ -4521,6 +4542,13 @@
         "costoTotal": 16.77,
         "fecha": "17/2/2025, 12:28:46 p.m.",
         "ganancia": 5.59
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 8.78,
+        "fecha": "17/2/2025, 5:22:15 p.m.",
+        "ganancia": 2.9262499999999996
       }
     ],
     "Rafael": [
@@ -5663,10 +5691,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 5.85,
       "precioVenta": 8.78,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 5.85375
         }
       ]
@@ -5702,10 +5730,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.63,
       "precioVenta": 2.44,
-      "piezas": 200,
+      "piezas": 174,
       "stockParciales": [
         {
-          "cantidad": 200,
+          "cantidad": 174,
           "costoUnitario": 1.625
         }
       ]
@@ -5715,10 +5743,10 @@
       "descripcion": "Malboro Rojo",
       "precioCompra": 3.86,
       "precioVenta": 5.79,
-      "piezas": 100,
+      "piezas": 80,
       "stockParciales": [
         {
-          "cantidad": 100,
+          "cantidad": 80,
           "costoUnitario": 3.86
         }
       ]
@@ -6349,6 +6377,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 12297.140000000003,
-  "inversionRecuperada": 9249.162261904734,
-  "gananciasTotales": 4623.577738095229
+  "inversionRecuperada": 9374.466011904735,
+  "gananciasTotales": 4686.293988095229
 }
