@@ -24,22 +24,22 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 68.94,
+      "adeudo": 0,
       "ganancia": 146.49795833333332,
       "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 85.27,
-      "ganancia": 287.68090277777776,
+      "adeudo": 106.27,
+      "ganancia": 294.68090277777776,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 127.97,
-      "ganancia": 502.406029761905,
+      "adeudo": 175.47,
+      "ganancia": 518.2393630952383,
       "saldoFavor": 0
     },
     {
@@ -1879,6 +1879,13 @@
         "costoTotal": 16.77,
         "fecha": "17/2/2025, 12:48:57 p.m.",
         "ganancia": 5.59
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "17/2/2025, 2:05:15 p.m.",
+        "ganancia": 7
       }
     ],
     "Isac": [
@@ -2462,6 +2469,13 @@
         "costoTotal": 5.39,
         "fecha": "17/2/2025, 12:49:11 p.m.",
         "ganancia": 1.7949999999999995
+      },
+      {
+        "producto": "Coca de 3 litros",
+        "piezas": 1,
+        "costoTotal": 47.5,
+        "fecha": "17/2/2025, 2:05:28 p.m.",
+        "ganancia": 15.833333333333332
       }
     ],
     "Isrrael": [
@@ -5329,10 +5343,10 @@
       "descripcion": "Coca de 3 litros",
       "precioCompra": 31.67,
       "precioVenta": 47.5,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 31.666666666666668
         }
       ]
@@ -5545,10 +5559,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 14
         }
       ]
@@ -6335,6 +6349,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 12297.140000000003,
-  "inversionRecuperada": 9203.495595238068,
-  "gananciasTotales": 4600.744404761896
+  "inversionRecuperada": 9249.162261904734,
+  "gananciasTotales": 4623.577738095229
 }
