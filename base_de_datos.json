@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 116.66,
-      "ganancia": 549.8530932539686,
+      "adeudo": 125.44,
+      "ganancia": 552.7793432539686,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 48.33,
-      "ganancia": 815.9537956349204,
+      "adeudo": 57.11,
+      "ganancia": 818.8800456349204,
       "saldoFavor": 0
     },
     {
@@ -3411,6 +3411,13 @@
         "costoTotal": 18.14,
         "fecha": "18/2/2025, 9:15:06 a.m.",
         "ganancia": 6.045000000000002
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 8.78,
+        "fecha": "18/2/2025, 1:06:07 p.m.",
+        "ganancia": 2.9262499999999996
       }
     ],
     "Laura": [
@@ -4696,6 +4703,13 @@
         "costoTotal": 21,
         "fecha": "18/2/2025, 12:49:05 p.m.",
         "ganancia": 7
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 8.78,
+        "fecha": "18/2/2025, 1:06:42 p.m.",
+        "ganancia": 2.9262499999999996
       }
     ],
     "Rafael": [
@@ -5859,10 +5873,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 5.85,
       "precioVenta": 8.78,
-      "piezas": 8,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 6,
           "costoUnitario": 5.85375
         }
       ]
@@ -6540,6 +6554,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 12297.140000000003,
-  "inversionRecuperada": 9720.963928571404,
-  "gananciasTotales": 4859.526071428563
+  "inversionRecuperada": 9732.671428571404,
+  "gananciasTotales": 4865.378571428564
 }
