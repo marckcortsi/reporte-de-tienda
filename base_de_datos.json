@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 227.54,
-      "ganancia": 535.5968630952383,
+      "adeudo": 233.98,
+      "ganancia": 537.7436630952383,
       "saldoFavor": 0
     },
     {
@@ -2567,6 +2567,13 @@
         "costoTotal": 16.77,
         "fecha": "18/2/2025, 9:21:51 a.m.",
         "ganancia": 5.59
+      },
+      {
+        "producto": "Encendedor",
+        "piezas": 1,
+        "costoTotal": 6.44,
+        "fecha": "18/2/2025, 3:14:57 p.m.",
+        "ganancia": 2.1468000000000007
       }
     ],
     "Isrrael": [
@@ -5933,10 +5940,10 @@
       "descripcion": "Encendedor",
       "precioCompra": 4.29,
       "precioVenta": 6.44,
-      "piezas": 25,
+      "piezas": 24,
       "stockParciales": [
         {
-          "cantidad": 25,
+          "cantidad": 24,
           "costoUnitario": 4.2932
         }
       ]
@@ -6554,6 +6561,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 12297.140000000003,
-  "inversionRecuperada": 9732.671428571404,
-  "gananciasTotales": 4865.378571428564
+  "inversionRecuperada": 9736.964628571404,
+  "gananciasTotales": 4867.5253714285645
 }
