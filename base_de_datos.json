@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 228.11,
-      "ganancia": 209.14643452380955,
+      "adeudo": 246.61,
+      "ganancia": 215.31268452380957,
       "saldoFavor": 0
     },
     {
@@ -31,22 +31,22 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 106.27,
-      "ganancia": 294.68090277777776,
+      "adeudo": 123.03999999999999,
+      "ganancia": 300.27090277777774,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 210.76999999999998,
-      "ganancia": 530.0068630952383,
+      "adeudo": 227.54,
+      "ganancia": 535.5968630952383,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 115.8,
-      "ganancia": 381.49852182539695,
+      "adeudo": 227.58999999999997,
+      "ganancia": 418.756021825397,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 10.56,
-      "ganancia": 803.3637956349204,
+      "adeudo": 27.33,
+      "ganancia": 808.9537956349204,
       "saldoFavor": 0
     },
     {
@@ -1462,6 +1462,20 @@
         "costoTotal": 18.61,
         "fecha": "17/2/2025, 8:47:53 a.m.",
         "ganancia": 6.203333333333333
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 8.78,
+        "fecha": "18/2/2025, 11:58:18 a.m.",
+        "ganancia": 2.9262499999999996
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 2,
+        "costoTotal": 9.72,
+        "fecha": "18/2/2025, 11:58:18 a.m.",
+        "ganancia": 3.240000000000001
       }
     ],
     "Francisco": [
@@ -1935,6 +1949,13 @@
         "costoTotal": 21,
         "fecha": "17/2/2025, 2:05:15 p.m.",
         "ganancia": 7
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "18/2/2025, 9:23:49 a.m.",
+        "ganancia": 5.59
       }
     ],
     "Isac": [
@@ -2539,6 +2560,13 @@
         "costoTotal": 17.16,
         "fecha": "18/2/2025, 9:08:11 a.m.",
         "ganancia": 5.7225
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "18/2/2025, 9:21:51 a.m.",
+        "ganancia": 5.59
       }
     ],
     "Isrrael": [
@@ -2751,6 +2779,34 @@
         "costoTotal": 115.8,
         "fecha": "18/2/2025, 8:46:32 a.m.",
         "ganancia": 38.6
+      },
+      {
+        "producto": "Vive 100 original",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "18/2/2025, 11:58:02 a.m.",
+        "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 2,
+        "costoTotal": 17.56,
+        "fecha": "18/2/2025, 11:58:28 a.m.",
+        "ganancia": 5.852499999999999
+      },
+      {
+        "producto": "Coca de 3 litros",
+        "piezas": 1,
+        "costoTotal": 47.5,
+        "fecha": "18/2/2025, 11:59:19 a.m.",
+        "ganancia": 15.833333333333332
+      },
+      {
+        "producto": "Jarrito Mandarina",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "18/2/2025, 11:59:19 a.m.",
+        "ganancia": 9.470000000000002
       }
     ],
     "Karen": [
@@ -4626,6 +4682,13 @@
         "costoTotal": 18.31,
         "fecha": "17/2/2025, 5:30:02 p.m.",
         "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "18/2/2025, 9:21:41 a.m.",
+        "ganancia": 5.59
       }
     ],
     "Rafael": [
@@ -5449,10 +5512,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 16,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 14,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -5462,10 +5525,10 @@
       "descripcion": "Coca de 3 litros",
       "precioCompra": 31.67,
       "precioVenta": 47.5,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 31.666666666666668
         }
       ]
@@ -5488,10 +5551,10 @@
       "descripcion": "Vive 100 original",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -5501,10 +5564,10 @@
       "descripcion": "Jarrito Mandarina",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 18.95
         }
       ]
@@ -5782,10 +5845,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 5.85,
       "precioVenta": 8.78,
-      "piezas": 11,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 8,
           "costoUnitario": 5.85375
         }
       ]
@@ -5795,13 +5858,8 @@
       "descripcion": "Kinder delice",
       "precioCompra": 11.18,
       "precioVenta": 16.77,
-      "piezas": 3,
-      "stockParciales": [
-        {
-          "cantidad": 3,
-          "costoUnitario": 11.18
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "75071295",
@@ -6468,6 +6526,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 12297.140000000003,
-  "inversionRecuperada": 9572.557678571402,
-  "gananciasTotales": 4785.332321428563
+  "inversionRecuperada": 9692.963928571404,
+  "gananciasTotales": 4845.526071428563
 }
