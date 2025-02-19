@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 41.329999999999984,
-      "ganancia": 514.8635694444447,
+      "adeudo": 59.93999999999998,
+      "ganancia": 521.0669027777781,
       "saldoFavor": 0
     },
     {
@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 123.03999999999999,
-      "ganancia": 300.27090277777774,
+      "adeudo": 143.63,
+      "ganancia": 307.13590277777774,
       "saldoFavor": 0
     },
     {
@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 98.56999999999996,
-      "ganancia": 418.756021825397,
+      "adeudo": 101.01999999999997,
+      "ganancia": 419.576021825397,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 57.11,
-      "ganancia": 818.8800456349204,
+      "adeudo": 65.89,
+      "ganancia": 821.8062956349204,
       "saldoFavor": 0
     },
     {
@@ -400,6 +400,13 @@
         "piezas": 1,
         "costoTotal": 18.61,
         "fecha": "18/2/2025, 9:15:29 a.m.",
+        "ganancia": 6.203333333333333
+      },
+      {
+        "producto": "Emperador Chocolate",
+        "piezas": 1,
+        "costoTotal": 18.61,
+        "fecha": "19/2/2025, 8:43:36 a.m.",
         "ganancia": 6.203333333333333
       }
     ],
@@ -1956,6 +1963,20 @@
         "costoTotal": 16.77,
         "fecha": "18/2/2025, 9:23:49 a.m.",
         "ganancia": 5.59
+      },
+      {
+        "producto": "Paletas de Tarrito",
+        "piezas": 1,
+        "costoTotal": 2.45,
+        "fecha": "18/2/2025, 3:43:25 p.m.",
+        "ganancia": 0.8200000000000001
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 1,
+        "costoTotal": 18.14,
+        "fecha": "19/2/2025, 8:42:39 a.m.",
+        "ganancia": 6.045000000000002
       }
     ],
     "Isac": [
@@ -2814,6 +2835,13 @@
         "costoTotal": 28.42,
         "fecha": "18/2/2025, 11:59:19 a.m.",
         "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Paletas de Tarrito",
+        "piezas": 1,
+        "costoTotal": 2.45,
+        "fecha": "18/2/2025, 3:43:34 p.m.",
+        "ganancia": 0.8200000000000001
       }
     ],
     "Karen": [
@@ -4717,6 +4745,13 @@
         "costoTotal": 8.78,
         "fecha": "18/2/2025, 1:06:42 p.m.",
         "ganancia": 2.9262499999999996
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 8.78,
+        "fecha": "19/2/2025, 8:42:59 a.m.",
+        "ganancia": 2.9262499999999996
       }
     ],
     "Rafael": [
@@ -5474,10 +5509,10 @@
       "descripcion": "Paletas de Tarrito",
       "precioCompra": 1.63,
       "precioVenta": 2.45,
-      "piezas": 32,
+      "piezas": 30,
       "stockParciales": [
         {
-          "cantidad": 32,
+          "cantidad": 30,
           "costoUnitario": 1.6300000000000001
         }
       ]
@@ -5854,10 +5889,10 @@
       "descripcion": "Oreo",
       "precioCompra": 12.09,
       "precioVenta": 18.14,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 12.094999999999999
         }
       ]
@@ -5880,10 +5915,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 5.85,
       "precioVenta": 8.78,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 5.85375
         }
       ]
@@ -5953,10 +5988,10 @@
       "descripcion": "Emperador Chocolate",
       "precioCompra": 12.41,
       "precioVenta": 18.61,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 12.406666666666666
         }
       ]
@@ -6561,6 +6596,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 12297.140000000003,
-  "inversionRecuperada": 9736.964628571404,
-  "gananciasTotales": 4867.5253714285645
+  "inversionRecuperada": 9770.580045238068,
+  "gananciasTotales": 4884.339954761897
 }
