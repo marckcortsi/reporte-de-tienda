@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 161.94,
-      "ganancia": 313.23756944444443,
+      "adeudo": 171.57999999999998,
+      "ganancia": 316.4475694444444,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 94.67,
-      "ganancia": 831.3987956349204,
+      "adeudo": 139.82,
+      "ganancia": 846.4471289682537,
       "saldoFavor": 0
     },
     {
@@ -1998,6 +1998,13 @@
         "costoTotal": 18.31,
         "fecha": "19/2/2025, 9:45:04 a.m.",
         "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Top tops",
+        "piezas": 1,
+        "costoTotal": 9.64,
+        "fecha": "19/2/2025, 11:49:58 a.m.",
+        "ganancia": 3.210000000000001
       }
     ],
     "Isac": [
@@ -4843,6 +4850,34 @@
         "costoTotal": 9.64,
         "fecha": "19/2/2025, 11:31:56 a.m.",
         "ganancia": 3.210000000000001
+      },
+      {
+        "producto": "Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "19/2/2025, 5:56:25 p.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "19/2/2025, 5:56:25 p.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 1,
+        "costoTotal": 18.14,
+        "fecha": "19/2/2025, 5:56:25 p.m.",
+        "ganancia": 6.045000000000002
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "19/2/2025, 5:56:25 p.m.",
+        "ganancia": 5.5
       }
     ],
     "Rafael": [
@@ -5680,10 +5715,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -5766,10 +5801,10 @@
       "descripcion": "Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -5886,10 +5921,10 @@
       "descripcion": "Top tops",
       "precioCompra": 6.43,
       "precioVenta": 9.64,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 6.43
         }
       ]
@@ -5938,10 +5973,10 @@
       "descripcion": "Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 11
         }
       ]
@@ -5977,10 +6012,10 @@
       "descripcion": "Oreo",
       "precioCompra": 12.09,
       "precioVenta": 18.14,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.094999999999999
         }
       ]
@@ -6679,6 +6714,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 12297.140000000003,
-  "inversionRecuperada": 9953.689628571405,
-  "gananciasTotales": 4975.870371428564
+  "inversionRecuperada": 9990.22129523807,
+  "gananciasTotales": 4994.128704761897
 }
