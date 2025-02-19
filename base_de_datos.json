@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 118.57999999999997,
-      "ganancia": 425.428521825397,
+      "adeudo": 237.71999999999997,
+      "ganancia": 465.1351884920637,
       "saldoFavor": 0
     },
     {
@@ -2891,6 +2891,20 @@
         "costoTotal": 17.56,
         "fecha": "19/2/2025, 11:28:34 a.m.",
         "ganancia": 5.852499999999999
+      },
+      {
+        "producto": "Jarrito Mandarina",
+        "piezas": 1,
+        "costoTotal": 28.42,
+        "fecha": "19/2/2025, 11:36:19 a.m.",
+        "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Churros grandes de ajonjoli",
+        "piezas": 1,
+        "costoTotal": 90.72,
+        "fecha": "19/2/2025, 11:36:19 a.m.",
+        "ganancia": 30.23666666666667
       }
     ],
     "Karen": [
@@ -5713,10 +5727,10 @@
       "descripcion": "Jarrito Mandarina",
       "precioCompra": 18.95,
       "precioVenta": 28.42,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 18.95
         }
       ]
@@ -5726,10 +5740,10 @@
       "descripcion": "Churros grandes de ajonjoli",
       "precioCompra": 60.48,
       "precioVenta": 90.72,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 60.48333333333333
         }
       ]
@@ -6665,6 +6679,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 12297.140000000003,
-  "inversionRecuperada": 9874.25629523807,
-  "gananciasTotales": 4936.163704761897
+  "inversionRecuperada": 9953.689628571405,
+  "gananciasTotales": 4975.870371428564
 }
