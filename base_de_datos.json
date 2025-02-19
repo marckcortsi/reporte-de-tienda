@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 356.8500000000001,
-      "ganancia": 846.577625,
+      "adeudo": 374.4100000000001,
+      "ganancia": 852.430125,
       "saldoFavor": 0
     },
     {
@@ -24,36 +24,36 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 19.6,
-      "ganancia": 153.03129166666665,
+      "adeudo": 25.6,
+      "ganancia": 155.03129166666665,
       "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 143.63,
-      "ganancia": 307.13590277777774,
+      "adeudo": 161.94,
+      "ganancia": 313.23756944444443,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 233.98,
-      "ganancia": 537.7436630952383,
+      "adeudo": 266.46,
+      "ganancia": 548.5665797619049,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 101.01999999999997,
-      "ganancia": 419.576021825397,
+      "adeudo": 118.57999999999997,
+      "ganancia": 425.428521825397,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 125.44,
-      "ganancia": 552.7793432539686,
+      "adeudo": 141.94,
+      "ganancia": 558.2793432539686,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 65.89,
-      "ganancia": 821.8062956349204,
+      "adeudo": 94.67,
+      "ganancia": 831.3987956349204,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 88.89,
-      "ganancia": 412.4945694444448,
+      "adeudo": 107.2,
+      "ganancia": 418.59623611111147,
       "saldoFavor": 0
     },
     {
@@ -1159,6 +1159,13 @@
         "costoTotal": 8.78,
         "fecha": "18/2/2025, 9:15:44 a.m.",
         "ganancia": 2.9262499999999996
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 2,
+        "costoTotal": 17.56,
+        "fecha": "19/2/2025, 11:28:53 a.m.",
+        "ganancia": 5.852499999999999
       }
     ],
     "Edgar": [
@@ -1653,6 +1660,13 @@
         "costoTotal": 19.6,
         "fecha": "18/2/2025, 9:16:12 a.m.",
         "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Winis",
+        "piezas": 8,
+        "costoTotal": 6,
+        "fecha": "19/2/2025, 9:42:19 a.m.",
+        "ganancia": 2
       }
     ],
     "Irvin": [
@@ -1977,6 +1991,13 @@
         "costoTotal": 18.14,
         "fecha": "19/2/2025, 8:42:39 a.m.",
         "ganancia": 6.045000000000002
+      },
+      {
+        "producto": "Vive 100 original",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "19/2/2025, 9:45:04 a.m.",
+        "ganancia": 6.101666666666665
       }
     ],
     "Isac": [
@@ -2595,6 +2616,27 @@
         "costoTotal": 6.44,
         "fecha": "18/2/2025, 3:14:57 p.m.",
         "ganancia": 2.1468000000000007
+      },
+      {
+        "producto": "Vive 100 original",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "19/2/2025, 9:45:22 a.m.",
+        "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Paleta Búbalo Xtreme",
+        "piezas": 1,
+        "costoTotal": 5.39,
+        "fecha": "19/2/2025, 9:45:22 a.m.",
+        "ganancia": 1.7949999999999995
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 8.78,
+        "fecha": "19/2/2025, 11:30:08 a.m.",
+        "ganancia": 2.9262499999999996
       }
     ],
     "Isrrael": [
@@ -2842,6 +2884,13 @@
         "costoTotal": 2.45,
         "fecha": "18/2/2025, 3:43:34 p.m.",
         "ganancia": 0.8200000000000001
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 2,
+        "costoTotal": 17.56,
+        "fecha": "19/2/2025, 11:28:34 a.m.",
+        "ganancia": 5.852499999999999
       }
     ],
     "Karen": [
@@ -3453,6 +3502,13 @@
         "costoTotal": 8.78,
         "fecha": "18/2/2025, 1:06:07 p.m.",
         "ganancia": 2.9262499999999996
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "19/2/2025, 11:29:14 a.m.",
+        "ganancia": 5.5
       }
     ],
     "Laura": [
@@ -4752,6 +4808,27 @@
         "costoTotal": 8.78,
         "fecha": "19/2/2025, 8:42:59 a.m.",
         "ganancia": 2.9262499999999996
+      },
+      {
+        "producto": "Vive 100 blueberry",
+        "piezas": 1,
+        "costoTotal": 17.16,
+        "fecha": "19/2/2025, 9:41:15 a.m.",
+        "ganancia": 5.7225
+      },
+      {
+        "producto": "Donitas luna",
+        "piezas": 1,
+        "costoTotal": 1.98,
+        "fecha": "19/2/2025, 11:31:56 a.m.",
+        "ganancia": 0.6599999999999999
+      },
+      {
+        "producto": "Top tops",
+        "piezas": 1,
+        "costoTotal": 9.64,
+        "fecha": "19/2/2025, 11:31:56 a.m.",
+        "ganancia": 3.210000000000001
       }
     ],
     "Rafael": [
@@ -5405,6 +5482,13 @@
         "costoTotal": 21,
         "fecha": "18/2/2025, 12:48:52 p.m.",
         "ganancia": 7
+      },
+      {
+        "producto": "Vive 100 original",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "19/2/2025, 11:29:31 a.m.",
+        "ganancia": 6.101666666666665
       }
     ],
     "Vicente": [
@@ -5522,10 +5606,10 @@
       "descripcion": "Paleta Búbalo Xtreme",
       "precioCompra": 3.6,
       "precioVenta": 5.39,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 3.595
         }
       ]
@@ -5608,23 +5692,18 @@
       "descripcion": "Vive 100 blueberry",
       "precioCompra": 11.44,
       "precioVenta": 17.16,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 11.4375
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7506192505451",
       "descripcion": "Vive 100 original",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 9,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 6,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -5660,10 +5739,10 @@
       "descripcion": "Donitas luna",
       "precioCompra": 1.32,
       "precioVenta": 1.98,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 1.32
         }
       ]
@@ -5785,23 +5864,18 @@
       "descripcion": "Winis",
       "precioCompra": 0.5,
       "precioVenta": 0.75,
-      "piezas": 8,
-      "stockParciales": [
-        {
-          "cantidad": 8,
-          "costoUnitario": 0.5
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500366000797",
       "descripcion": "Top tops",
       "precioCompra": 6.43,
       "precioVenta": 9.64,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 6.43
         }
       ]
@@ -5850,10 +5924,10 @@
       "descripcion": "Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 11
         }
       ]
@@ -5915,13 +5989,8 @@
       "descripcion": "Carlos V",
       "precioCompra": 5.85,
       "precioVenta": 8.78,
-      "piezas": 5,
-      "stockParciales": [
-        {
-          "cantidad": 5,
-          "costoUnitario": 5.85375
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "8000500267035",
@@ -6596,6 +6665,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 12297.140000000003,
-  "inversionRecuperada": 9770.580045238068,
-  "gananciasTotales": 4884.339954761897
+  "inversionRecuperada": 9874.25629523807,
+  "gananciasTotales": 4936.163704761897
 }
