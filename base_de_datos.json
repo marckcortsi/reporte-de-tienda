@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 123.7,
-      "ganancia": 424.09623611111147,
+      "adeudo": 164.37,
+      "ganancia": 437.65040277777814,
       "saldoFavor": 0
     },
     {
@@ -5622,6 +5622,20 @@
         "costoTotal": 16.5,
         "fecha": "20/2/2025, 8:29:33 a.m.",
         "ganancia": 5.5
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "20/2/2025, 12:25:30 p.m.",
+        "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "20/2/2025, 12:25:30 p.m.",
+        "ganancia": 5.559999999999999
       }
     ],
     "Vicente": [
@@ -6150,10 +6164,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16,
       "precioVenta": 23.99,
-      "piezas": 24,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 23,
           "costoUnitario": 15.995833333333332
         }
       ]
@@ -6189,10 +6203,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 29,
+      "piezas": 28,
       "stockParciales": [
         {
-          "cantidad": 29,
+          "cantidad": 28,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -7334,6 +7348,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15808.870000000004,
-  "inversionRecuperada": 10115.750819047595,
-  "gananciasTotales": 5056.969180952373
+  "inversionRecuperada": 10142.866652380928,
+  "gananciasTotales": 5070.52334761904
 }
