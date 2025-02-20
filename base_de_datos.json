@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 342.52,
-      "ganancia": 500.03518849206375,
+      "adeudo": 354.31,
+      "ganancia": 503.96518849206376,
       "saldoFavor": 0
     },
     {
@@ -3024,6 +3024,13 @@
         "costoTotal": 104.80000000000001,
         "fecha": "20/2/2025, 3:52:01 p.m.",
         "ganancia": 34.900000000000006
+      },
+      {
+        "producto": "Tin larin",
+        "piezas": 1,
+        "costoTotal": 11.79,
+        "fecha": "20/2/2025, 5:08:25 p.m.",
+        "ganancia": 3.9299999999999997
       }
     ],
     "Karen": [
@@ -6499,10 +6506,10 @@
       "descripcion": "Tin larin",
       "precioCompra": 7.86,
       "precioVenta": 11.79,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 7.859999999999999
         }
       ]
@@ -7462,6 +7469,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15808.870000000004,
-  "inversionRecuperada": 10447.10915238093,
-  "gananciasTotales": 5222.60084761904
+  "inversionRecuperada": 10454.96915238093,
+  "gananciasTotales": 5226.53084761904
 }
