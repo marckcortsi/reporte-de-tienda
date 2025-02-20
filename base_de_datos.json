@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 199.25,
-      "ganancia": 567.5102361111115,
+      "adeudo": 227.94,
+      "ganancia": 577.0752361111115,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 165.28,
-      "ganancia": 566.0626765873019,
+      "adeudo": 229.03,
+      "ganancia": 587.3160099206352,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 150.35,
-      "ganancia": 849.9571289682536,
+      "adeudo": 179.63,
+      "ganancia": 859.7221289682536,
       "saldoFavor": 0
     },
     {
@@ -429,6 +429,13 @@
         "costoTotal": 115.8,
         "fecha": "20/2/2025, 12:54:37 p.m.",
         "ganancia": 38.6
+      },
+      {
+        "producto": "Jarritos Tutifruti",
+        "piezas": 1,
+        "costoTotal": 28.69,
+        "fecha": "20/2/2025, 2:38:36 p.m.",
+        "ganancia": 9.565000000000001
       }
     ],
     "Carlos": [
@@ -3628,6 +3635,20 @@
         "costoTotal": 16.68,
         "fecha": "20/2/2025, 11:44:33 a.m.",
         "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Coca de 3 litros",
+        "piezas": 1,
+        "costoTotal": 47.5,
+        "fecha": "20/2/2025, 2:38:24 p.m.",
+        "ganancia": 15.833333333333332
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "20/2/2025, 2:39:57 p.m.",
+        "ganancia": 5.42
       }
     ],
     "Laura": [
@@ -5004,6 +5025,20 @@
         "costoTotal": 5.67,
         "fecha": "20/2/2025, 12:55:18 p.m.",
         "ganancia": 1.8900000000000001
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "20/2/2025, 2:39:12 p.m.",
+        "ganancia": 5.42
+      },
+      {
+        "producto": "Leche Carlos V",
+        "piezas": 1,
+        "costoTotal": 13.03,
+        "fecha": "20/2/2025, 2:39:12 p.m.",
+        "ganancia": 4.344999999999999
       }
     ],
     "Rafael": [
@@ -5867,10 +5902,10 @@
       "descripcion": "Coca de 3 litros",
       "precioCompra": 31.67,
       "precioVenta": 47.5,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 31.666666666666668
         }
       ]
@@ -6018,10 +6053,10 @@
       "descripcion": "Jarritos Tutifruti",
       "precioCompra": 19.13,
       "precioVenta": 28.69,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 19.125
         }
       ]
@@ -6351,10 +6386,10 @@
       "descripcion": "Leche Carlos V",
       "precioCompra": 8.69,
       "precioVenta": 13.03,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 8.685
         }
       ]
@@ -6468,10 +6503,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 30,
+      "piezas": 28,
       "stockParciales": [
         {
-          "cantidad": 30,
+          "cantidad": 28,
           "costoUnitario": 10.83
         }
       ]
@@ -7392,6 +7427,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15808.870000000004,
-  "inversionRecuperada": 10284.917485714263,
-  "gananciasTotales": 5141.5425142857075
+  "inversionRecuperada": 10366.054152380928,
+  "gananciasTotales": 5182.1258476190405
 }
