@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 83.44999999999999,
-      "ganancia": 528.9102361111114,
+      "adeudo": 199.25,
+      "ganancia": 567.5102361111115,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 288.76,
-      "ganancia": 555.9982464285715,
+      "adeudo": 350.43,
+      "ganancia": 576.5524130952381,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 144.68,
-      "ganancia": 848.0671289682537,
+      "adeudo": 150.35,
+      "ganancia": 849.9571289682536,
       "saldoFavor": 0
     },
     {
@@ -422,6 +422,13 @@
         "costoTotal": 18.61,
         "fecha": "20/2/2025, 8:30:17 a.m.",
         "ganancia": 6.203333333333333
+      },
+      {
+        "producto": "Malboro Rojo",
+        "piezas": 20,
+        "costoTotal": 115.8,
+        "fecha": "20/2/2025, 12:54:37 p.m.",
+        "ganancia": 38.6
       }
     ],
     "Carlos": [
@@ -2686,6 +2693,27 @@
         "costoTotal": 22.3,
         "fecha": "20/2/2025, 9:12:49 a.m.",
         "ganancia": 7.431666666666668
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "20/2/2025, 12:57:55 p.m.",
+        "ganancia": 7
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "20/2/2025, 12:57:55 p.m.",
+        "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "20/2/2025, 12:57:55 p.m.",
+        "ganancia": 7.994166666666667
       }
     ],
     "Isrrael": [
@@ -4955,6 +4983,13 @@
         "costoTotal": 4.86,
         "fecha": "19/2/2025, 6:00:50 p.m.",
         "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Zumba goma mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.67,
+        "fecha": "20/2/2025, 12:55:18 p.m.",
+        "ganancia": 1.8900000000000001
       }
     ],
     "Rafael": [
@@ -5995,10 +6030,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 14
         }
       ]
@@ -6125,10 +6160,10 @@
       "descripcion": "Malboro Rojo",
       "precioCompra": 3.86,
       "precioVenta": 5.79,
-      "piezas": 60,
+      "piezas": 40,
       "stockParciales": [
         {
-          "cantidad": 60,
+          "cantidad": 40,
           "costoUnitario": 3.86
         }
       ]
@@ -6164,10 +6199,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16,
       "precioVenta": 23.99,
-      "piezas": 23,
+      "piezas": 22,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 22,
           "costoUnitario": 15.995833333333332
         }
       ]
@@ -6203,10 +6238,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 28,
+      "piezas": 27,
       "stockParciales": [
         {
-          "cantidad": 28,
+          "cantidad": 27,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -6476,10 +6511,10 @@
       "descripcion": "Zumba goma mora Azul",
       "precioCompra": 3.78,
       "precioVenta": 5.67,
-      "piezas": 20,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 3.78
         }
       ]
@@ -7348,6 +7383,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15808.870000000004,
-  "inversionRecuperada": 10142.866652380928,
-  "gananciasTotales": 5070.52334761904
+  "inversionRecuperada": 10264.962485714263,
+  "gananciasTotales": 5131.567514285707
 }
