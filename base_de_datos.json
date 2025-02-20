@@ -38,15 +38,15 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 350.43,
-      "ganancia": 576.5524130952381,
+      "adeudo": 355.67,
+      "ganancia": 578.2974130952381,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 237.71999999999997,
-      "ganancia": 465.1351884920637,
+      "adeudo": 342.52,
+      "ganancia": 500.03518849206375,
       "saldoFavor": 0
     },
     {
@@ -67,8 +67,8 @@
       "nombre": "Marcos",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 859.7221289682536,
-      "saldoFavor": 20.37
+      "ganancia": 861.4671289682536,
+      "saldoFavor": 15.13
     },
     {
       "nombre": "Rafael",
@@ -2728,6 +2728,13 @@
         "costoTotal": 23.99,
         "fecha": "20/2/2025, 12:57:55 p.m.",
         "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "20/2/2025, 3:37:21 p.m.",
+        "ganancia": 1.745
       }
     ],
     "Isrrael": [
@@ -2996,6 +3003,13 @@
         "costoTotal": 90.72,
         "fecha": "19/2/2025, 11:36:19 a.m.",
         "ganancia": 30.23666666666667
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 20,
+        "costoTotal": 104.80000000000001,
+        "fecha": "20/2/2025, 3:52:01 p.m.",
+        "ganancia": 34.900000000000006
       }
     ],
     "Karen": [
@@ -5039,6 +5053,13 @@
         "costoTotal": 13.03,
         "fecha": "20/2/2025, 2:39:12 p.m.",
         "ganancia": 4.344999999999999
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "20/2/2025, 3:37:07 p.m.",
+        "ganancia": 1.745
       }
     ],
     "Rafael": [
@@ -6178,10 +6199,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 80,
+      "piezas": 58,
       "stockParciales": [
         {
-          "cantidad": 80,
+          "cantidad": 58,
           "costoUnitario": 3.495
         }
       ]
@@ -7427,6 +7448,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15808.870000000004,
-  "inversionRecuperada": 10366.054152380928,
-  "gananciasTotales": 5182.1258476190405
+  "inversionRecuperada": 10442.94415238093,
+  "gananciasTotales": 5220.51584761904
 }
