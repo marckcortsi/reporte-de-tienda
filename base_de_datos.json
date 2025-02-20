@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 461.0200000000001,
-      "ganancia": 881.3422678571428,
+      "adeudo": 472.8100000000001,
+      "ganancia": 885.2722678571428,
       "saldoFavor": 0
     },
     {
@@ -1208,6 +1208,13 @@
         "costoTotal": 61,
         "fecha": "20/2/2025, 8:29:23 a.m.",
         "ganancia": 20.375
+      },
+      {
+        "producto": "Tin larin",
+        "piezas": 1,
+        "costoTotal": 11.79,
+        "fecha": "20/2/2025, 1:09:16 p.m.",
+        "ganancia": 3.9299999999999997
       }
     ],
     "Edgar": [
@@ -6420,10 +6427,10 @@
       "descripcion": "Tin larin",
       "precioCompra": 7.86,
       "precioVenta": 11.79,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 7.859999999999999
         }
       ]
@@ -7383,6 +7390,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15808.870000000004,
-  "inversionRecuperada": 10264.962485714263,
-  "gananciasTotales": 5131.567514285707
+  "inversionRecuperada": 10272.822485714263,
+  "gananciasTotales": 5135.497514285707
 }
