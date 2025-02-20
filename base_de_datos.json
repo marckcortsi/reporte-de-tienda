@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 59.93999999999998,
-      "ganancia": 521.0669027777781,
+      "adeudo": 64.83999999999999,
+      "ganancia": 522.706902777778,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 374.4100000000001,
-      "ganancia": 852.430125,
+      "adeudo": 400.0200000000001,
+      "ganancia": 860.9672678571428,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 141.94,
-      "ganancia": 558.2793432539686,
+      "adeudo": 148.6,
+      "ganancia": 560.502676587302,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 139.82,
-      "ganancia": 846.4471289682537,
+      "adeudo": 144.68,
+      "ganancia": 848.0671289682537,
       "saldoFavor": 0
     },
     {
@@ -408,6 +408,13 @@
         "costoTotal": 18.61,
         "fecha": "19/2/2025, 8:43:36 a.m.",
         "ganancia": 6.203333333333333
+      },
+      {
+        "producto": "Paletas de Tarrito",
+        "piezas": 2,
+        "costoTotal": 4.9,
+        "fecha": "19/2/2025, 5:59:53 p.m.",
+        "ganancia": 1.6400000000000001
       }
     ],
     "Carlos": [
@@ -1166,6 +1173,20 @@
         "costoTotal": 17.56,
         "fecha": "19/2/2025, 11:28:53 a.m.",
         "ganancia": 5.852499999999999
+      },
+      {
+        "producto": "Palomitas",
+        "piezas": 1,
+        "costoTotal": 15.89,
+        "fecha": "19/2/2025, 6:00:20 p.m.",
+        "ganancia": 5.297142857142857
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 2,
+        "costoTotal": 9.72,
+        "fecha": "19/2/2025, 6:00:20 p.m.",
+        "ganancia": 3.240000000000001
       }
     ],
     "Edgar": [
@@ -3530,6 +3551,20 @@
         "costoTotal": 16.5,
         "fecha": "19/2/2025, 11:29:14 a.m.",
         "ganancia": 5.5
+      },
+      {
+        "producto": "Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "19/2/2025, 5:59:39 p.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Chicles canels",
+        "piezas": 1,
+        "costoTotal": 1.01,
+        "fecha": "19/2/2025, 5:59:39 p.m.",
+        "ganancia": 0.33999999999999997
       }
     ],
     "Laura": [
@@ -4878,6 +4913,13 @@
         "costoTotal": 16.5,
         "fecha": "19/2/2025, 5:56:25 p.m.",
         "ganancia": 5.5
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "19/2/2025, 6:00:50 p.m.",
+        "ganancia": 1.6200000000000006
       }
     ],
     "Rafael": [
@@ -5642,10 +5684,10 @@
       "descripcion": "Paletas de Tarrito",
       "precioCompra": 1.63,
       "precioVenta": 2.45,
-      "piezas": 30,
+      "piezas": 28,
       "stockParciales": [
         {
-          "cantidad": 30,
+          "cantidad": 28,
           "costoUnitario": 1.6300000000000001
         }
       ]
@@ -5668,10 +5710,10 @@
       "descripcion": "Chicles canels",
       "precioCompra": 0.67,
       "precioVenta": 1.01,
-      "piezas": 43,
+      "piezas": 42,
       "stockParciales": [
         {
-          "cantidad": 43,
+          "cantidad": 42,
           "costoUnitario": 0.67
         }
       ]
@@ -5715,10 +5757,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 13,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 10,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -5801,10 +5843,10 @@
       "descripcion": "Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -5947,10 +5989,10 @@
       "descripcion": "Palomitas",
       "precioCompra": 10.59,
       "precioVenta": 15.89,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 10.592857142857143
         }
       ]
@@ -6714,6 +6756,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 12297.140000000003,
-  "inversionRecuperada": 9990.22129523807,
-  "gananciasTotales": 4994.128704761897
+  "inversionRecuperada": 10018.230819047594,
+  "gananciasTotales": 5008.149180952373
 }
