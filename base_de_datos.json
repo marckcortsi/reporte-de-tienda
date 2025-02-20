@@ -59,8 +59,8 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 26.4,
-      "ganancia": 44.138958333333335,
+      "adeudo": 44.54,
+      "ganancia": 50.18395833333334,
       "saldoFavor": 0
     },
     {
@@ -3693,6 +3693,13 @@
         "costoTotal": 11.25,
         "fecha": "20/2/2025, 11:40:30 a.m.",
         "ganancia": 3.75
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 1,
+        "costoTotal": 18.14,
+        "fecha": "20/2/2025, 2:10:24 p.m.",
+        "ganancia": 6.045000000000002
       }
     ],
     "Marcos": [
@@ -6115,13 +6122,8 @@
       "descripcion": "Oreo",
       "precioCompra": 12.09,
       "precioVenta": 18.14,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.094999999999999
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478022540",
@@ -7390,6 +7392,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15808.870000000004,
-  "inversionRecuperada": 10272.822485714263,
-  "gananciasTotales": 5135.497514285707
+  "inversionRecuperada": 10284.917485714263,
+  "gananciasTotales": 5141.5425142857075
 }
