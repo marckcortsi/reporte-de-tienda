@@ -59,16 +59,16 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 44.54,
+      "adeudo": 29.39,
       "ganancia": 50.18395833333334,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 179.63,
+      "adeudo": 0,
       "ganancia": 859.7221289682536,
-      "saldoFavor": 0
+      "saldoFavor": 20.37
     },
     {
       "nombre": "Rafael",
@@ -80,7 +80,7 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 17.16,
+      "adeudo": 0,
       "ganancia": 56.42669642857143,
       "saldoFavor": 0
     },
