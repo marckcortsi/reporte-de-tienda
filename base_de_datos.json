@@ -10,29 +10,29 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 472.8100000000001,
-      "ganancia": 885.2722678571428,
+      "adeudo": 512.2000000000002,
+      "ganancia": 898.4085178571428,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 246.61,
-      "ganancia": 215.31268452380957,
+      "adeudo": 294.03,
+      "ganancia": 231.11768452380957,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 25.6,
-      "ganancia": 155.03129166666665,
+      "adeudo": 90.99,
+      "ganancia": 176.824625,
       "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 171.57999999999998,
-      "ganancia": 316.4475694444444,
+      "adeudo": 205.63,
+      "ganancia": 327.7992361111111,
       "saldoFavor": 0
     },
     {
@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 354.31,
-      "ganancia": 503.96518849206376,
+      "adeudo": 370.56,
+      "ganancia": 509.3851884920638,
       "saldoFavor": 0
     },
     {
@@ -1222,6 +1222,27 @@
         "costoTotal": 11.79,
         "fecha": "20/2/2025, 1:09:16 p.m.",
         "ganancia": 3.9299999999999997
+      },
+      {
+        "producto": "Leche Carlos V",
+        "piezas": 1,
+        "costoTotal": 13.03,
+        "fecha": "21/2/2025, 9:07:25 a.m.",
+        "ganancia": 4.344999999999999
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "21/2/2025, 9:07:25 a.m.",
+        "ganancia": 5.42
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 10.11,
+        "fecha": "21/2/2025, 9:07:25 a.m.",
+        "ganancia": 3.37125
       }
     ],
     "Edgar": [
@@ -1546,6 +1567,27 @@
         "costoTotal": 9.72,
         "fecha": "18/2/2025, 11:58:18 a.m.",
         "ganancia": 3.240000000000001
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "21/2/2025, 9:06:20 a.m.",
+        "ganancia": 5.5
+      },
+      {
+        "producto": "Yogurt galleta",
+        "piezas": 1,
+        "costoTotal": 17.89,
+        "fecha": "21/2/2025, 9:06:20 a.m.",
+        "ganancia": 5.960000000000001
+      },
+      {
+        "producto": "Leche Carlos V",
+        "piezas": 1,
+        "costoTotal": 13.03,
+        "fecha": "21/2/2025, 9:06:44 a.m.",
+        "ganancia": 4.344999999999999
       }
     ],
     "Francisco": [
@@ -1723,6 +1765,20 @@
         "costoTotal": 6,
         "fecha": "19/2/2025, 9:42:19 a.m.",
         "ganancia": 2
+      },
+      {
+        "producto": "Coca de 3 litros",
+        "piezas": 1,
+        "costoTotal": 47.5,
+        "fecha": "21/2/2025, 9:34:40 a.m.",
+        "ganancia": 15.833333333333332
+      },
+      {
+        "producto": "Yogurt galleta",
+        "piezas": 1,
+        "costoTotal": 17.89,
+        "fecha": "21/2/2025, 9:35:19 a.m.",
+        "ganancia": 5.960000000000001
       }
     ],
     "Irvin": [
@@ -2061,6 +2117,20 @@
         "costoTotal": 9.64,
         "fecha": "19/2/2025, 11:49:58 a.m.",
         "ganancia": 3.210000000000001
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 22.3,
+        "fecha": "21/2/2025, 9:07:07 a.m.",
+        "ganancia": 7.431666666666668
+      },
+      {
+        "producto": "Leche fresa",
+        "piezas": 1,
+        "costoTotal": 11.75,
+        "fecha": "21/2/2025, 9:07:07 a.m.",
+        "ganancia": 3.92
       }
     ],
     "Isac": [
@@ -3031,6 +3101,13 @@
         "costoTotal": 11.79,
         "fecha": "20/2/2025, 5:08:25 p.m.",
         "ganancia": 3.9299999999999997
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "21/2/2025, 9:07:46 a.m.",
+        "ganancia": 5.42
       }
     ],
     "Karen": [
@@ -5993,13 +6070,8 @@
       "descripcion": "Coca de 3 litros",
       "precioCompra": 31.67,
       "precioVenta": 47.5,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 31.666666666666668
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7506192505451",
@@ -6209,10 +6281,10 @@
       "descripcion": "Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 11
         }
       ]
@@ -6222,10 +6294,10 @@
       "descripcion": "Emperador senzo",
       "precioCompra": 14.87,
       "precioVenta": 22.3,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 14.868333333333332
         }
       ]
@@ -6477,13 +6549,8 @@
       "descripcion": "Leche Carlos V",
       "precioCompra": 8.69,
       "precioVenta": 13.03,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 8.685
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501055915705",
@@ -6503,10 +6570,10 @@
       "descripcion": "Leche fresa",
       "precioCompra": 7.83,
       "precioVenta": 11.75,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 7.83
         }
       ]
@@ -6581,10 +6648,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 6.74,
       "precioVenta": 10.11,
-      "piezas": 31,
+      "piezas": 30,
       "stockParciales": [
         {
-          "cantidad": 31,
+          "cantidad": 30,
           "costoUnitario": 6.73875
         }
       ]
@@ -6594,10 +6661,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 27,
+      "piezas": 25,
       "stockParciales": [
         {
-          "cantidad": 27,
+          "cantidad": 25,
           "costoUnitario": 10.83
         }
       ]
@@ -6607,10 +6674,10 @@
       "descripcion": "Yogurt galleta",
       "precioCompra": 11.93,
       "precioVenta": 17.89,
-      "piezas": 3,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 1,
           "costoUnitario": 11.93
         }
       ]
@@ -7518,6 +7585,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15808.870000000004,
-  "inversionRecuperada": 10523.287545238072,
-  "gananciasTotales": 5260.692454761897
+  "inversionRecuperada": 10658.281295238072,
+  "gananciasTotales": 5328.198704761898
 }
