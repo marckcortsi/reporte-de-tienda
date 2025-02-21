@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 227.94,
-      "ganancia": 577.0752361111115,
+      "adeudo": 236.93,
+      "ganancia": 580.0707916666671,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 512.2000000000002,
-      "ganancia": 898.4085178571428,
+      "adeudo": 536.1900000000002,
+      "ganancia": 906.4026845238094,
       "saldoFavor": 0
     },
     {
@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 205.63,
-      "ganancia": 327.7992361111111,
+      "adeudo": 214.15,
+      "ganancia": 330.6392361111111,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 90.6,
-      "ganancia": 896.7254027777774,
+      "adeudo": 110.1,
+      "ganancia": 903.2254027777774,
       "saldoFavor": 0
     },
     {
@@ -436,6 +436,13 @@
         "costoTotal": 28.69,
         "fecha": "20/2/2025, 2:38:36 p.m.",
         "ganancia": 9.565000000000001
+      },
+      {
+        "producto": "Rokaleta",
+        "piezas": 1,
+        "costoTotal": 8.99,
+        "fecha": "21/2/2025, 2:18:47 p.m.",
+        "ganancia": 2.9955555555555557
       }
     ],
     "Carlos": [
@@ -1243,6 +1250,13 @@
         "costoTotal": 10.11,
         "fecha": "21/2/2025, 9:07:25 a.m.",
         "ganancia": 3.37125
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "21/2/2025, 2:20:35 p.m.",
+        "ganancia": 7.994166666666667
       }
     ],
     "Edgar": [
@@ -2145,6 +2159,13 @@
         "costoTotal": 11.75,
         "fecha": "21/2/2025, 9:07:07 a.m.",
         "ganancia": 3.92
+      },
+      {
+        "producto": "Top-top salsa negra",
+        "piezas": 1,
+        "costoTotal": 8.52,
+        "fecha": "21/2/2025, 2:19:19 p.m.",
+        "ganancia": 2.84
       }
     ],
     "Isac": [
@@ -5249,6 +5270,13 @@
         "costoTotal": 16.25,
         "fecha": "21/2/2025, 1:42:12 p.m.",
         "ganancia": 5.42
+      },
+      {
+        "producto": "Sol habanero",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "21/2/2025, 2:20:12 p.m.",
+        "ganancia": 6.5
       }
     ],
     "Rafael": [
@@ -6455,10 +6483,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16,
       "precioVenta": 23.99,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 15.995833333333332
         }
       ]
@@ -6559,10 +6587,10 @@
       "descripcion": "Sol habanero",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 13
         }
       ]
@@ -6788,10 +6816,10 @@
       "descripcion": "Top-top salsa negra",
       "precioCompra": 5.68,
       "precioVenta": 8.52,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 5.68
         }
       ]
@@ -6801,10 +6829,10 @@
       "descripcion": "Rokaleta",
       "precioCompra": 5.99,
       "precioVenta": 8.99,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 17,
           "costoUnitario": 5.9944444444444445
         }
       ]
@@ -7634,6 +7662,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15808.870000000004,
-  "inversionRecuperada": 10735.661711904737,
-  "gananciasTotales": 5366.898288095231
+  "inversionRecuperada": 10776.331989682514,
+  "gananciasTotales": 5387.228010317453
 }
