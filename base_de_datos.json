@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 214.15,
-      "ganancia": 330.6392361111111,
+      "adeudo": 264.65,
+      "ganancia": 347.4725694444444,
       "saldoFavor": 0
     },
     {
@@ -59,7 +59,7 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 29.39,
+      "adeudo": 0,
       "ganancia": 50.18395833333334,
       "saldoFavor": 0
     },
@@ -2166,6 +2166,13 @@
         "costoTotal": 8.52,
         "fecha": "21/2/2025, 2:19:19 p.m.",
         "ganancia": 2.84
+      },
+      {
+        "producto": "Coca 3 litros",
+        "piezas": 1,
+        "costoTotal": 50.5,
+        "fecha": "21/2/2025, 3:31:38 p.m.",
+        "ganancia": 16.833333333333336
       }
     ],
     "Isac": [
@@ -6882,10 +6889,10 @@
       "descripcion": "Coca 3 litros",
       "precioCompra": 33.67,
       "precioVenta": 50.5,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 33.666666666666664
         }
       ]
@@ -7676,6 +7683,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15808.870000000004,
-  "inversionRecuperada": 10821.456989682514,
-  "gananciasTotales": 5409.793010317452
+  "inversionRecuperada": 10855.12365634918,
+  "gananciasTotales": 5426.626343650785
 }
