@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 294.03,
-      "ganancia": 231.11768452380957,
+      "adeudo": 313.85999999999996,
+      "ganancia": 237.72893452380958,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 50.85,
-      "ganancia": 883.4654027777774,
+      "adeudo": 90.6,
+      "ganancia": 896.7254027777774,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 164.37,
-      "ganancia": 437.65040277777814,
+      "adeudo": 188.36,
+      "ganancia": 445.6445694444448,
       "saldoFavor": 0
     },
     {
@@ -1588,6 +1588,20 @@
         "costoTotal": 13.03,
         "fecha": "21/2/2025, 9:06:44 a.m.",
         "ganancia": 4.344999999999999
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 10.11,
+        "fecha": "21/2/2025, 1:42:59 p.m.",
+        "ganancia": 3.37125
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 2,
+        "costoTotal": 9.72,
+        "fecha": "21/2/2025, 1:42:59 p.m.",
+        "ganancia": 3.240000000000001
       }
     ],
     "Francisco": [
@@ -5221,6 +5235,20 @@
         "costoTotal": 23.99,
         "fecha": "21/2/2025, 8:17:56 a.m.",
         "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Leche vainilla",
+        "piezas": 2,
+        "costoTotal": 23.5,
+        "fecha": "21/2/2025, 1:42:12 p.m.",
+        "ganancia": 7.84
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "21/2/2025, 1:42:12 p.m.",
+        "ganancia": 5.42
       }
     ],
     "Rafael": [
@@ -5902,6 +5930,13 @@
         "costoTotal": 16.68,
         "fecha": "20/2/2025, 12:25:30 p.m.",
         "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "21/2/2025, 1:41:40 p.m.",
+        "ganancia": 7.994166666666667
       }
     ],
     "Vicente": [
@@ -6071,10 +6106,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 10,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 8,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -6420,10 +6455,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16,
       "precioVenta": 23.99,
-      "piezas": 20,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 15.995833333333332
         }
       ]
@@ -6571,10 +6606,10 @@
       "descripcion": "Leche vainilla",
       "precioCompra": 7.83,
       "precioVenta": 11.75,
-      "piezas": 4,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 2,
           "costoUnitario": 7.83
         }
       ]
@@ -6662,10 +6697,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 6.74,
       "precioVenta": 10.11,
-      "piezas": 30,
+      "piezas": 29,
       "stockParciales": [
         {
-          "cantidad": 30,
+          "cantidad": 29,
           "costoUnitario": 6.73875
         }
       ]
@@ -6675,10 +6710,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 25,
+      "piezas": 24,
       "stockParciales": [
         {
-          "cantidad": 25,
+          "cantidad": 24,
           "costoUnitario": 10.83
         }
       ]
@@ -7599,6 +7634,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15808.870000000004,
-  "inversionRecuperada": 10679.957128571405,
-  "gananciasTotales": 5339.032871428564
+  "inversionRecuperada": 10735.661711904737,
+  "gananciasTotales": 5366.898288095231
 }
