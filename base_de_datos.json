@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 370.56,
-      "ganancia": 509.3851884920638,
+      "adeudo": 399.25,
+      "ganancia": 518.9501884920638,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 903.2254027777774,
+      "adeudo": 39,
+      "ganancia": 916.2254027777774,
       "saldoFavor": 0
     },
     {
@@ -3143,6 +3143,13 @@
         "costoTotal": 16.25,
         "fecha": "21/2/2025, 9:07:46 a.m.",
         "ganancia": 5.42
+      },
+      {
+        "producto": "Jarritos Tutifruti",
+        "piezas": 1,
+        "costoTotal": 28.69,
+        "fecha": "21/2/2025, 3:15:30 p.m.",
+        "ganancia": 9.565000000000001
       }
     ],
     "Karen": [
@@ -5277,6 +5284,13 @@
         "costoTotal": 19.5,
         "fecha": "21/2/2025, 2:20:12 p.m.",
         "ganancia": 6.5
+      },
+      {
+        "producto": "Sol original",
+        "piezas": 2,
+        "costoTotal": 39,
+        "fecha": "21/2/2025, 3:15:54 p.m.",
+        "ganancia": 13
       }
     ],
     "Rafael": [
@@ -6293,10 +6307,10 @@
       "descripcion": "Jarritos Tutifruti",
       "precioCompra": 19.13,
       "precioVenta": 28.69,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 19.125
         }
       ]
@@ -6574,10 +6588,10 @@
       "descripcion": "Sol original",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 5,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 3,
           "costoUnitario": 13
         }
       ]
@@ -7662,6 +7676,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15808.870000000004,
-  "inversionRecuperada": 10776.331989682514,
-  "gananciasTotales": 5387.228010317453
+  "inversionRecuperada": 10821.456989682514,
+  "gananciasTotales": 5409.793010317452
 }
