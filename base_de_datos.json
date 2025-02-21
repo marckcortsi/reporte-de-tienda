@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 229.03,
-      "ganancia": 587.3160099206352,
+      "adeudo": 265.53,
+      "ganancia": 599.4793432539686,
       "saldoFavor": 0
     },
     {
@@ -66,9 +66,9 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 861.4671289682536,
-      "saldoFavor": 15.13
+      "adeudo": 50.85,
+      "ganancia": 883.4654027777774,
+      "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
@@ -3684,6 +3684,20 @@
         "costoTotal": 16.25,
         "fecha": "20/2/2025, 2:39:57 p.m.",
         "ganancia": 5.42
+      },
+      {
+        "producto": "Emperador vainilla",
+        "piezas": 1,
+        "costoTotal": 18.61,
+        "fecha": "21/2/2025, 8:18:11 a.m.",
+        "ganancia": 6.203333333333333
+      },
+      {
+        "producto": "Yogurt piña",
+        "piezas": 1,
+        "costoTotal": 17.89,
+        "fecha": "21/2/2025, 8:18:42 a.m.",
+        "ganancia": 5.960000000000001
       }
     ],
     "Laura": [
@@ -5081,6 +5095,41 @@
         "costoTotal": 5.24,
         "fecha": "20/2/2025, 3:37:07 p.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Leche Carlos V",
+        "piezas": 1,
+        "costoTotal": 13.03,
+        "fecha": "21/2/2025, 8:17:56 a.m.",
+        "ganancia": 4.344999999999999
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "21/2/2025, 8:17:56 a.m.",
+        "ganancia": 5.42
+      },
+      {
+        "producto": "Mini mamut",
+        "piezas": 1,
+        "costoTotal": 2.6,
+        "fecha": "21/2/2025, 8:17:56 a.m.",
+        "ganancia": 0.8678571428571429
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 10.11,
+        "fecha": "21/2/2025, 8:17:56 a.m.",
+        "ganancia": 3.37125
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "21/2/2025, 8:17:56 a.m.",
+        "ganancia": 7.994166666666667
       }
     ],
     "Rafael": [
@@ -6186,10 +6235,10 @@
       "descripcion": "Emperador vainilla",
       "precioCompra": 12.41,
       "precioVenta": 18.61,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.406666666666666
         }
       ]
@@ -6285,10 +6334,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16,
       "precioVenta": 23.99,
-      "piezas": 22,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 22,
+          "cantidad": 21,
           "costoUnitario": 15.995833333333332
         }
       ]
@@ -6415,10 +6464,10 @@
       "descripcion": "Mini mamut",
       "precioCompra": 1.73,
       "precioVenta": 2.6,
-      "piezas": 28,
+      "piezas": 27,
       "stockParciales": [
         {
-          "cantidad": 28,
+          "cantidad": 27,
           "costoUnitario": 1.7321428571428572
         }
       ]
@@ -6428,10 +6477,10 @@
       "descripcion": "Leche Carlos V",
       "precioCompra": 8.69,
       "precioVenta": 13.03,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 8.685
         }
       ]
@@ -6532,10 +6581,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 6.74,
       "precioVenta": 10.11,
-      "piezas": 32,
+      "piezas": 31,
       "stockParciales": [
         {
-          "cantidad": 32,
+          "cantidad": 31,
           "costoUnitario": 6.73875
         }
       ]
@@ -6545,10 +6594,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 28,
+      "piezas": 27,
       "stockParciales": [
         {
-          "cantidad": 28,
+          "cantidad": 27,
           "costoUnitario": 10.83
         }
       ]
@@ -6584,10 +6633,10 @@
       "descripcion": "Yogurt piña",
       "precioCompra": 11.93,
       "precioVenta": 17.89,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 11.93
         }
       ]
@@ -7469,6 +7518,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15808.870000000004,
-  "inversionRecuperada": 10454.96915238093,
-  "gananciasTotales": 5226.53084761904
+  "inversionRecuperada": 10523.287545238072,
+  "gananciasTotales": 5260.692454761897
 }
