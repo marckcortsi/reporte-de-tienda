@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 265.53,
-      "ganancia": 599.4793432539686,
+      "adeudo": 289.52,
+      "ganancia": 607.4735099206353,
       "saldoFavor": 0
     },
     {
@@ -3775,6 +3775,13 @@
         "costoTotal": 17.89,
         "fecha": "21/2/2025, 8:18:42 a.m.",
         "ganancia": 5.960000000000001
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "21/2/2025, 9:40:34 a.m.",
+        "ganancia": 7.994166666666667
       }
     ],
     "Laura": [
@@ -6406,10 +6413,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16,
       "precioVenta": 23.99,
-      "piezas": 21,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 20,
           "costoUnitario": 15.995833333333332
         }
       ]
@@ -7585,6 +7592,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15808.870000000004,
-  "inversionRecuperada": 10658.281295238072,
-  "gananciasTotales": 5328.198704761898
+  "inversionRecuperada": 10674.277128571404,
+  "gananciasTotales": 5336.192871428564
 }
