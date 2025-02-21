@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 289.52,
-      "ganancia": 607.4735099206353,
+      "adeudo": 298.03999999999996,
+      "ganancia": 610.3135099206353,
       "saldoFavor": 0
     },
     {
@@ -3782,6 +3782,13 @@
         "costoTotal": 23.99,
         "fecha": "21/2/2025, 9:40:34 a.m.",
         "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Top-top salsa negra",
+        "piezas": 1,
+        "costoTotal": 8.52,
+        "fecha": "21/2/2025, 11:42:33 a.m.",
+        "ganancia": 2.84
       }
     ],
     "Laura": [
@@ -6746,10 +6753,10 @@
       "descripcion": "Top-top salsa negra",
       "precioCompra": 5.68,
       "precioVenta": 8.52,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 5.68
         }
       ]
@@ -7592,6 +7599,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15808.870000000004,
-  "inversionRecuperada": 10674.277128571404,
-  "gananciasTotales": 5336.192871428564
+  "inversionRecuperada": 10679.957128571405,
+  "gananciasTotales": 5339.032871428564
 }
