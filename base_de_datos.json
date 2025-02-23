@@ -4,20 +4,20 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 580.0707916666671,
-      "saldoFavor": 263.07
+      "ganancia": 589.0574583333338,
+      "saldoFavor": 236.1
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 136.19000000000017,
-      "ganancia": 906.4026845238094,
+      "adeudo": 225.19000000000017,
+      "ganancia": 936.1176845238093,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 313.85999999999996,
+      "adeudo": 0,
       "ganancia": 237.72893452380958,
       "saldoFavor": 0
     },
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 298.03999999999996,
-      "ganancia": 610.3135099206353,
+      "adeudo": 365.10999999999996,
+      "ganancia": 632.6774781746034,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 39,
-      "ganancia": 916.2254027777774,
+      "adeudo": 173.24,
+      "ganancia": 960.9759583333329,
       "saldoFavor": 0
     },
     {
@@ -443,6 +443,13 @@
         "costoTotal": 8.99,
         "fecha": "21/2/2025, 2:18:47 p.m.",
         "ganancia": 2.9955555555555557
+      },
+      {
+        "producto": "Rokaleta",
+        "piezas": 3,
+        "costoTotal": 26.97,
+        "fecha": "21/2/2025, 4:54:21 p.m.",
+        "ganancia": 8.986666666666668
       }
     ],
     "Carlos": [
@@ -1257,6 +1264,27 @@
         "costoTotal": 23.99,
         "fecha": "21/2/2025, 2:20:35 p.m.",
         "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "21/2/2025, 4:56:03 p.m.",
+        "ganancia": 5.42
+      },
+      {
+        "producto": "Leche vainilla",
+        "piezas": 1,
+        "costoTotal": 11.75,
+        "fecha": "21/2/2025, 4:56:03 p.m.",
+        "ganancia": 3.92
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 61,
+        "fecha": "21/2/2025, 4:56:03 p.m.",
+        "ganancia": 20.375
       }
     ],
     "Edgar": [
@@ -3838,6 +3866,41 @@
         "costoTotal": 8.52,
         "fecha": "21/2/2025, 11:42:33 a.m.",
         "ganancia": 2.84
+      },
+      {
+        "producto": "Palomitas",
+        "piezas": 1,
+        "costoTotal": 15.89,
+        "fecha": "21/2/2025, 4:54:55 p.m.",
+        "ganancia": 5.297142857142857
+      },
+      {
+        "producto": "Mini mamut",
+        "piezas": 2,
+        "costoTotal": 5.2,
+        "fecha": "21/2/2025, 4:54:55 p.m.",
+        "ganancia": 1.7357142857142858
+      },
+      {
+        "producto": "Rokaleta",
+        "piezas": 2,
+        "costoTotal": 17.98,
+        "fecha": "21/2/2025, 4:54:55 p.m.",
+        "ganancia": 5.9911111111111115
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "21/2/2025, 4:54:55 p.m.",
+        "ganancia": 5.42
+      },
+      {
+        "producto": "Leche vainilla",
+        "piezas": 1,
+        "costoTotal": 11.75,
+        "fecha": "21/2/2025, 4:54:55 p.m.",
+        "ganancia": 3.92
       }
     ],
     "Laura": [
@@ -5298,6 +5361,62 @@
         "costoTotal": 39,
         "fecha": "21/2/2025, 3:15:54 p.m.",
         "ganancia": 13
+      },
+      {
+        "producto": "Rokaleta",
+        "piezas": 1,
+        "costoTotal": 8.99,
+        "fecha": "21/2/2025, 4:57:48 p.m.",
+        "ganancia": 2.9955555555555557
+      },
+      {
+        "producto": "Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "21/2/2025, 4:57:48 p.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Paleta Búbalo Xtreme",
+        "piezas": 1,
+        "costoTotal": 5.39,
+        "fecha": "21/2/2025, 4:57:48 p.m.",
+        "ganancia": 1.7949999999999995
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 2,
+        "costoTotal": 32.5,
+        "fecha": "21/2/2025, 4:57:48 p.m.",
+        "ganancia": 10.84
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "21/2/2025, 4:57:48 p.m.",
+        "ganancia": 7
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "21/2/2025, 4:57:48 p.m.",
+        "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "21/2/2025, 4:57:48 p.m.",
+        "ganancia": 5.5
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 2,
+        "costoTotal": 20.22,
+        "fecha": "21/2/2025, 4:57:48 p.m.",
+        "ganancia": 6.7425
       }
     ],
     "Rafael": [
@@ -6103,10 +6222,10 @@
       "descripcion": "Paleta Búbalo Xtreme",
       "precioCompra": 3.6,
       "precioVenta": 5.39,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 3.595
         }
       ]
@@ -6228,10 +6347,10 @@
       "descripcion": "Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -6340,10 +6459,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 14
         }
       ]
@@ -6353,10 +6472,10 @@
       "descripcion": "Palomitas",
       "precioCompra": 10.59,
       "precioVenta": 15.89,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 10.592857142857143
         }
       ]
@@ -6379,13 +6498,8 @@
       "descripcion": "Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 11
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000601776",
@@ -6452,10 +6566,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.63,
       "precioVenta": 2.44,
-      "piezas": 149,
+      "piezas": 124,
       "stockParciales": [
         {
-          "cantidad": 149,
+          "cantidad": 124,
           "costoUnitario": 1.625
         }
       ]
@@ -6504,10 +6618,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16,
       "precioVenta": 23.99,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 17,
           "costoUnitario": 15.995833333333332
         }
       ]
@@ -6634,10 +6748,10 @@
       "descripcion": "Mini mamut",
       "precioCompra": 1.73,
       "precioVenta": 2.6,
-      "piezas": 27,
+      "piezas": 25,
       "stockParciales": [
         {
-          "cantidad": 27,
+          "cantidad": 25,
           "costoUnitario": 1.7321428571428572
         }
       ]
@@ -6655,13 +6769,8 @@
       "descripcion": "Leche vainilla",
       "precioCompra": 7.83,
       "precioVenta": 11.75,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 7.83
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501055915682",
@@ -6746,10 +6855,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 6.74,
       "precioVenta": 10.11,
-      "piezas": 29,
+      "piezas": 27,
       "stockParciales": [
         {
-          "cantidad": 29,
+          "cantidad": 27,
           "costoUnitario": 6.73875
         }
       ]
@@ -6759,10 +6868,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 24,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 20,
           "costoUnitario": 10.83
         }
       ]
@@ -6850,10 +6959,10 @@
       "descripcion": "Rokaleta",
       "precioCompra": 5.99,
       "precioVenta": 8.99,
-      "piezas": 17,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 11,
           "costoUnitario": 5.9944444444444445
         }
       ]
@@ -7683,6 +7792,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15808.870000000004,
-  "inversionRecuperada": 10855.12365634918,
-  "gananciasTotales": 5426.626343650785
+  "inversionRecuperada": 11066.58746587299,
+  "gananciasTotales": 5532.442534126976
 }
