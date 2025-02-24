@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 378.42,
-      "ganancia": 585.8824130952381,
+      "adeudo": 390.17,
+      "ganancia": 589.8024130952381,
       "saldoFavor": 0
     },
     {
@@ -2931,6 +2931,13 @@
         "costoTotal": 16.5,
         "fecha": "24/2/2025, 9:12:53 a.m.",
         "ganancia": 5.5
+      },
+      {
+        "producto": "Leche fresa",
+        "piezas": 1,
+        "costoTotal": 11.75,
+        "fecha": "24/2/2025, 9:17:30 a.m.",
+        "ganancia": 3.92
       }
     ],
     "Isrrael": [
@@ -6863,10 +6870,10 @@
       "descripcion": "Leche fresa",
       "precioCompra": 7.83,
       "precioVenta": 11.75,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 7.83
         }
       ]
@@ -7884,6 +7891,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 11225.19746587299,
-  "gananciasTotales": 5611.762534126976
+  "inversionRecuperada": 11233.02746587299,
+  "gananciasTotales": 5615.682534126976
 }
