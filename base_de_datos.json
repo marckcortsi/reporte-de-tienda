@@ -10,15 +10,15 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 313.0300000000002,
-      "ganancia": 965.3993511904758,
+      "adeudo": 329.2800000000002,
+      "ganancia": 970.8193511904758,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 22.3,
-      "ganancia": 245.16060119047626,
+      "adeudo": 41.8,
+      "ganancia": 251.66060119047626,
       "saldoFavor": 0
     },
     {
@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 133.39,
-      "ganancia": 530.3301884920638,
+      "adeudo": 167.89,
+      "ganancia": 541.8335218253972,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 263.08,
-      "ganancia": 990.9276249999995,
+      "adeudo": 275.16999999999996,
+      "ganancia": 994.9588749999995,
       "saldoFavor": 0
     },
     {
@@ -1320,6 +1320,13 @@
         "costoTotal": 42,
         "fecha": "24/2/2025, 3:20:03 p.m.",
         "ganancia": 14
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "24/2/2025, 4:29:32 p.m.",
+        "ganancia": 5.42
       }
     ],
     "Edgar": [
@@ -1686,6 +1693,13 @@
         "costoTotal": 22.3,
         "fecha": "24/2/2025, 9:12:34 a.m.",
         "ganancia": 7.431666666666668
+      },
+      {
+        "producto": "Sol original",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "24/2/2025, 4:38:11 p.m.",
+        "ganancia": 6.5
       }
     ],
     "Francisco": [
@@ -3261,6 +3275,20 @@
         "piezas": 1,
         "costoTotal": 16.25,
         "fecha": "24/2/2025, 9:14:06 a.m.",
+        "ganancia": 5.42
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "24/2/2025, 4:32:22 p.m.",
+        "ganancia": 6.083333333333334
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "24/2/2025, 4:32:22 p.m.",
         "ganancia": 5.42
       }
     ],
@@ -5543,6 +5571,20 @@
         "costoTotal": 18.31,
         "fecha": "24/2/2025, 3:21:22 p.m.",
         "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 10.11,
+        "fecha": "24/2/2025, 4:28:48 p.m.",
+        "ganancia": 3.37125
+      },
+      {
+        "producto": "Donitas luna",
+        "piezas": 1,
+        "costoTotal": 1.98,
+        "fecha": "24/2/2025, 4:28:48 p.m.",
+        "ganancia": 0.6599999999999999
       }
     ],
     "Rafael": [
@@ -6474,10 +6516,10 @@
       "descripcion": "Donitas luna",
       "precioCompra": 1.32,
       "precioVenta": 1.98,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 1.32
         }
       ]
@@ -6779,10 +6821,10 @@
       "descripcion": "Coca-Cola 500ml",
       "precioCompra": 12.17,
       "precioVenta": 18.25,
-      "piezas": 24,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 23,
           "costoUnitario": 12.166666666666666
         }
       ]
@@ -6844,10 +6886,10 @@
       "descripcion": "Sol original",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 13
         }
       ]
@@ -6990,10 +7032,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 6.74,
       "precioVenta": 10.11,
-      "piezas": 27,
+      "piezas": 26,
       "stockParciales": [
         {
-          "cantidad": 27,
+          "cantidad": 26,
           "costoUnitario": 6.73875
         }
       ]
@@ -7003,10 +7045,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 16,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 14,
           "costoUnitario": 10.83
         }
       ]
@@ -7933,6 +7975,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 11303.515799206327,
-  "gananciasTotales": 5650.924200793644
+  "inversionRecuperada": 11358.401215872993,
+  "gananciasTotales": 5678.378784126977
 }
