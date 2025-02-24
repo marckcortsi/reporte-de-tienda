@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 271.0300000000002,
-      "ganancia": 951.3993511904758,
+      "adeudo": 313.0300000000002,
+      "ganancia": 965.3993511904758,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 383.71999999999997,
-      "ganancia": 638.8808115079368,
+      "adeudo": 392.23999999999995,
+      "ganancia": 641.7208115079368,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 222.42000000000002,
-      "ganancia": 977.3759583333328,
+      "adeudo": 263.08,
+      "ganancia": 990.9276249999995,
       "saldoFavor": 0
     },
     {
@@ -1313,6 +1313,13 @@
         "costoTotal": 11.75,
         "fecha": "24/2/2025, 8:15:45 a.m.",
         "ganancia": 3.92
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 2,
+        "costoTotal": 42,
+        "fecha": "24/2/2025, 3:20:03 p.m.",
+        "ganancia": 14
       }
     ],
     "Edgar": [
@@ -3978,6 +3985,13 @@
         "costoTotal": 18.61,
         "fecha": "24/2/2025, 8:16:54 a.m.",
         "ganancia": 6.203333333333333
+      },
+      {
+        "producto": "Top-top salsa negra",
+        "piezas": 1,
+        "costoTotal": 8.52,
+        "fecha": "24/2/2025, 3:20:41 p.m.",
+        "ganancia": 2.84
       }
     ],
     "Laura": [
@@ -5508,6 +5522,27 @@
         "costoTotal": 16.68,
         "fecha": "24/2/2025, 9:14:46 a.m.",
         "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Zumba goma mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.67,
+        "fecha": "24/2/2025, 1:40:33 p.m.",
+        "ganancia": 1.8900000000000001
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "24/2/2025, 1:40:33 p.m.",
+        "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Vive 100 original",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "24/2/2025, 3:21:22 p.m.",
+        "ganancia": 6.101666666666665
       }
     ],
     "Rafael": [
@@ -6400,10 +6435,10 @@
       "descripcion": "Vive 100 original",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -6564,10 +6599,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 8,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 6,
           "costoUnitario": 14
         }
       ]
@@ -6757,10 +6792,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 26,
+      "piezas": 25,
       "stockParciales": [
         {
-          "cantidad": 26,
+          "cantidad": 25,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -7020,10 +7055,10 @@
       "descripcion": "Zumba goma mora Azul",
       "precioCompra": 3.78,
       "precioVenta": 5.67,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 3.78
         }
       ]
@@ -7046,10 +7081,10 @@
       "descripcion": "Top-top salsa negra",
       "precioCompra": 5.68,
       "precioVenta": 8.52,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 5.68
         }
       ]
@@ -7898,6 +7933,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 11242.727465872991,
-  "gananciasTotales": 5620.532534126976
+  "inversionRecuperada": 11303.515799206327,
+  "gananciasTotales": 5650.924200793644
 }
