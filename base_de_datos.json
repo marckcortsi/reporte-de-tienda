@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 41.8,
-      "ganancia": 251.66060119047626,
+      "adeudo": 60.05,
+      "ganancia": 257.74393452380957,
       "saldoFavor": 0
     },
     {
@@ -31,22 +31,22 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 264.65,
-      "ganancia": 347.4725694444444,
+      "adeudo": 99.63999999999999,
+      "ganancia": 362.46673611111106,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 390.17,
-      "ganancia": 589.8024130952381,
+      "adeudo": 414.16,
+      "ganancia": 597.7965797619047,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 167.89,
-      "ganancia": 541.8335218253972,
+      "adeudo": 170.48999999999998,
+      "ganancia": 542.7013789682543,
       "saldoFavor": 0
     },
     {
@@ -1700,6 +1700,13 @@
         "costoTotal": 19.5,
         "fecha": "24/2/2025, 4:38:11 p.m.",
         "ganancia": 6.5
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "24/2/2025, 5:19:16 p.m.",
+        "ganancia": 6.083333333333334
       }
     ],
     "Francisco": [
@@ -2264,6 +2271,20 @@
         "costoTotal": 50.5,
         "fecha": "21/2/2025, 3:31:38 p.m.",
         "ganancia": 16.833333333333336
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "24/2/2025, 5:19:35 p.m.",
+        "ganancia": 7
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "24/2/2025, 5:19:35 p.m.",
+        "ganancia": 7.994166666666667
       }
     ],
     "Isac": [
@@ -2966,6 +2987,13 @@
         "costoTotal": 11.75,
         "fecha": "24/2/2025, 9:17:30 a.m.",
         "ganancia": 3.92
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "24/2/2025, 5:19:49 p.m.",
+        "ganancia": 7.994166666666667
       }
     ],
     "Isrrael": [
@@ -3290,6 +3318,13 @@
         "costoTotal": 16.25,
         "fecha": "24/2/2025, 4:32:22 p.m.",
         "ganancia": 5.42
+      },
+      {
+        "producto": "Mini mamut",
+        "piezas": 1,
+        "costoTotal": 2.6,
+        "fecha": "24/2/2025, 5:00:18 p.m.",
+        "ganancia": 0.8678571428571429
       }
     ],
     "Karen": [
@@ -6641,10 +6676,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 14
         }
       ]
@@ -6795,10 +6830,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16,
       "precioVenta": 23.99,
-      "piezas": 17,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 15,
           "costoUnitario": 15.995833333333332
         }
       ]
@@ -6821,10 +6856,10 @@
       "descripcion": "Coca-Cola 500ml",
       "precioCompra": 12.17,
       "precioVenta": 18.25,
-      "piezas": 23,
+      "piezas": 22,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 22,
           "costoUnitario": 12.166666666666666
         }
       ]
@@ -6925,10 +6960,10 @@
       "descripcion": "Mini mamut",
       "precioCompra": 1.73,
       "precioVenta": 2.6,
-      "piezas": 25,
+      "piezas": 24,
       "stockParciales": [
         {
-          "cantidad": 25,
+          "cantidad": 24,
           "costoUnitario": 1.7321428571428572
         }
       ]
@@ -7975,6 +8010,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 11358.401215872993,
-  "gananciasTotales": 5678.378784126977
+  "inversionRecuperada": 11418.291692063467,
+  "gananciasTotales": 5708.3183079365
 }
