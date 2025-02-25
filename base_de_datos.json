@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 37.589999999999996,
-      "ganancia": 189.054625,
+      "adeudo": 52.14,
+      "ganancia": 193.90462499999998,
       "saldoFavor": 0
     },
     {
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 24.75,
-      "ganancia": 453.8930361111115,
+      "adeudo": 53.239999999999995,
+      "ganancia": 463.388591666667,
       "saldoFavor": 0
     },
     {
@@ -1975,6 +1975,13 @@
         "costoTotal": 22.05,
         "fecha": "25/2/2025, 10:31:12 a.m.",
         "ganancia": 7.380000000000001
+      },
+      {
+        "producto": "Ritz",
+        "piezas": 1,
+        "costoTotal": 14.55,
+        "fecha": "25/2/2025, 11:51:34 a.m.",
+        "ganancia": 4.85
       }
     ],
     "Irvin": [
@@ -6462,6 +6469,20 @@
         "costoTotal": 6.44,
         "fecha": "25/2/2025, 8:22:46 a.m.",
         "ganancia": 2.1468000000000007
+      },
+      {
+        "producto": "Sol adobadas",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "25/2/2025, 11:56:34 a.m.",
+        "ganancia": 6.5
+      },
+      {
+        "producto": "Rokaleta",
+        "piezas": 1,
+        "costoTotal": 8.99,
+        "fecha": "25/2/2025, 11:56:34 a.m.",
+        "ganancia": 2.9955555555555557
       }
     ],
     "Vicente": [
@@ -6987,10 +7008,10 @@
       "descripcion": "Ritz",
       "precioCompra": 9.7,
       "precioVenta": 14.55,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 9.700000000000001
         }
       ]
@@ -7091,10 +7112,10 @@
       "descripcion": "Sol adobadas",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 13
         }
       ]
@@ -7300,10 +7321,10 @@
       "descripcion": "Rokaleta",
       "precioCompra": 5.99,
       "precioVenta": 8.99,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 5.9944444444444445
         }
       ]
@@ -8139,6 +8160,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 11725.754758730134,
-  "gananciasTotales": 5862.105241269834
+  "inversionRecuperada": 11754.44920317458,
+  "gananciasTotales": 5876.450796825389
 }
