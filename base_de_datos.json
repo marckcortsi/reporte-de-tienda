@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 329.2800000000002,
-      "ganancia": 970.8193511904758,
+      "adeudo": 375.8900000000002,
+      "ganancia": 986.3626845238091,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 319.66999999999996,
-      "ganancia": 1009.7988749999994,
+      "adeudo": 342.02,
+      "ganancia": 1017.2488749999993,
       "saldoFavor": 0
     },
     {
@@ -1341,6 +1341,27 @@
         "costoTotal": 16.25,
         "fecha": "24/2/2025, 4:29:32 p.m.",
         "ganancia": 5.42
+      },
+      {
+        "producto": "Leche fresa",
+        "piezas": 1,
+        "costoTotal": 11.75,
+        "fecha": "25/2/2025, 8:55:37 a.m.",
+        "ganancia": 3.92
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "25/2/2025, 8:55:37 a.m.",
+        "ganancia": 5.42
+      },
+      {
+        "producto": "Emperador Nuez",
+        "piezas": 1,
+        "costoTotal": 18.61,
+        "fecha": "25/2/2025, 8:55:37 a.m.",
+        "ganancia": 6.203333333333333
       }
     ],
     "Edgar": [
@@ -5683,6 +5704,20 @@
         "costoTotal": 16.25,
         "fecha": "25/2/2025, 8:25:00 a.m.",
         "ganancia": 5.42
+      },
+      {
+        "producto": "Zumba goma mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.67,
+        "fecha": "25/2/2025, 8:56:37 a.m.",
+        "ganancia": 1.8900000000000001
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "25/2/2025, 8:56:37 a.m.",
+        "ganancia": 5.559999999999999
       }
     ],
     "Rafael": [
@@ -6824,10 +6859,10 @@
       "descripcion": "Emperador Nuez",
       "precioCompra": 12.41,
       "precioVenta": 18.61,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 12.406666666666666
         }
       ]
@@ -6936,10 +6971,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 25,
+      "piezas": 24,
       "stockParciales": [
         {
-          "cantidad": 25,
+          "cantidad": 24,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -7056,13 +7091,8 @@
       "descripcion": "Leche fresa",
       "precioCompra": 7.83,
       "precioVenta": 11.75,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 7.83
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501030490937",
@@ -7142,10 +7172,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 10.83
         }
       ]
@@ -7194,10 +7224,10 @@
       "descripcion": "Zumba goma mora Azul",
       "precioCompra": 3.78,
       "precioVenta": 5.67,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 17,
           "costoUnitario": 3.78
         }
       ]
@@ -8072,6 +8102,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 11600.9032253968,
-  "gananciasTotales": 5799.626774603166
+  "inversionRecuperada": 11646.869892063467,
+  "gananciasTotales": 5822.6201079365
 }
