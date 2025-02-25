@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 375.8900000000002,
-      "ganancia": 986.3626845238091,
+      "adeudo": 426.3900000000002,
+      "ganancia": 1003.1960178571425,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 432.77000000000004,
-      "ganancia": 603.9999130952381,
+      "adeudo": 438.01000000000005,
+      "ganancia": 605.7449130952381,
       "saldoFavor": 0
     },
     {
@@ -1369,6 +1369,13 @@
         "costoTotal": 18.61,
         "fecha": "25/2/2025, 8:55:37 a.m.",
         "ganancia": 6.203333333333333
+      },
+      {
+        "producto": "Coca 3 litros",
+        "piezas": 1,
+        "costoTotal": 50.5,
+        "fecha": "25/2/2025, 10:42:35 a.m.",
+        "ganancia": 16.833333333333336
       }
     ],
     "Edgar": [
@@ -3064,6 +3071,13 @@
         "costoTotal": 18.61,
         "fecha": "25/2/2025, 8:53:48 a.m.",
         "ganancia": 6.203333333333333
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "25/2/2025, 10:41:06 a.m.",
+        "ganancia": 1.745
       }
     ],
     "Isrrael": [
@@ -6900,10 +6914,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 57,
+      "piezas": 56,
       "stockParciales": [
         {
-          "cantidad": 57,
+          "cantidad": 56,
           "costoUnitario": 3.495
         }
       ]
@@ -7325,10 +7339,10 @@
       "descripcion": "Coca 3 litros",
       "precioCompra": 33.67,
       "precioVenta": 50.5,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 33.666666666666664
         }
       ]
@@ -8125,6 +8139,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 11688.593092063467,
-  "gananciasTotales": 5843.526907936501
+  "inversionRecuperada": 11725.754758730134,
+  "gananciasTotales": 5862.105241269834
 }
