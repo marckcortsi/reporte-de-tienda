@@ -4,8 +4,8 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 640.0641250000006,
-      "saldoFavor": 83.08000000000001
+      "ganancia": 642.2109250000005,
+      "saldoFavor": 76.64000000000001
     },
     {
       "nombre": "Carlos",
@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 170.48999999999998,
-      "ganancia": 542.7013789682543,
+      "adeudo": 204.63,
+      "ganancia": 554.0813789682543,
       "saldoFavor": 0
     },
     {
@@ -471,6 +471,13 @@
         "costoTotal": 18.61,
         "fecha": "24/2/2025, 5:55:52 p.m.",
         "ganancia": 6.203333333333333
+      },
+      {
+        "producto": "Encendedor",
+        "piezas": 1,
+        "costoTotal": 6.44,
+        "fecha": "25/2/2025, 10:05:20 a.m.",
+        "ganancia": 2.1468000000000007
       }
     ],
     "Carlos": [
@@ -3381,6 +3388,20 @@
         "costoTotal": 2.6,
         "fecha": "24/2/2025, 5:00:18 p.m.",
         "ganancia": 0.8678571428571429
+      },
+      {
+        "producto": "Yogurt piña",
+        "piezas": 1,
+        "costoTotal": 17.89,
+        "fecha": "25/2/2025, 9:10:22 a.m.",
+        "ganancia": 5.960000000000001
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "25/2/2025, 9:37:08 a.m.",
+        "ganancia": 5.42
       }
     ],
     "Karen": [
@@ -6911,10 +6932,10 @@
       "descripcion": "Encendedor",
       "precioCompra": 4.29,
       "precioVenta": 6.44,
-      "piezas": 23,
+      "piezas": 22,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 22,
           "costoUnitario": 4.2932
         }
       ]
@@ -7172,10 +7193,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 10.83
         }
       ]
@@ -7211,13 +7232,8 @@
       "descripcion": "Yogurt piña",
       "precioCompra": 11.93,
       "precioVenta": 17.89,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 11.93
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "703885005244",
@@ -8102,6 +8118,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 11646.869892063467,
-  "gananciasTotales": 5822.6201079365
+  "inversionRecuperada": 11673.923092063467,
+  "gananciasTotales": 5836.146907936501
 }
