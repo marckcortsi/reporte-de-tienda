@@ -4,14 +4,14 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 642.2109250000005,
-      "saldoFavor": 76.64000000000001
+      "ganancia": 647.0609250000006,
+      "saldoFavor": 62.09000000000002
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 436.5000000000002,
-      "ganancia": 1006.5672678571425,
+      "adeudo": 523.8600000000002,
+      "ganancia": 1035.7335178571425,
       "saldoFavor": 0
     },
     {
@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 99.63999999999999,
-      "ganancia": 362.46673611111106,
+      "adeudo": 102.08999999999999,
+      "ganancia": 363.28673611111105,
       "saldoFavor": 0
     },
     {
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 53.239999999999995,
-      "ganancia": 463.388591666667,
+      "adeudo": 58.88999999999999,
+      "ganancia": 465.27192500000035,
       "saldoFavor": 0
     },
     {
@@ -478,6 +478,13 @@
         "costoTotal": 6.44,
         "fecha": "25/2/2025, 10:05:20 a.m.",
         "ganancia": 2.1468000000000007
+      },
+      {
+        "producto": "Ritz",
+        "piezas": 1,
+        "costoTotal": 14.55,
+        "fecha": "25/2/2025, 5:06:05 p.m.",
+        "ganancia": 4.85
       }
     ],
     "Carlos": [
@@ -1382,6 +1389,27 @@
         "piezas": 1,
         "costoTotal": 10.11,
         "fecha": "25/2/2025, 3:22:51 p.m.",
+        "ganancia": 3.37125
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 61,
+        "fecha": "25/2/2025, 5:07:16 p.m.",
+        "ganancia": 20.375
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "25/2/2025, 5:07:16 p.m.",
+        "ganancia": 5.42
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 10.11,
+        "fecha": "25/2/2025, 5:07:16 p.m.",
         "ganancia": 3.37125
       }
     ],
@@ -2376,6 +2404,13 @@
         "costoTotal": 23.99,
         "fecha": "24/2/2025, 5:19:35 p.m.",
         "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Paletas de Tarrito",
+        "piezas": 1,
+        "costoTotal": 2.45,
+        "fecha": "25/2/2025, 5:06:22 p.m.",
+        "ganancia": 0.8200000000000001
       }
     ],
     "Isac": [
@@ -6553,6 +6588,13 @@
         "costoTotal": 8.99,
         "fecha": "25/2/2025, 11:56:34 a.m.",
         "ganancia": 2.9955555555555557
+      },
+      {
+        "producto": "Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "25/2/2025, 5:05:28 p.m.",
+        "ganancia": 1.8833333333333337
       }
     ],
     "Vicente": [
@@ -6671,10 +6713,10 @@
       "descripcion": "Paletas de Tarrito",
       "precioCompra": 1.63,
       "precioVenta": 2.45,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 1.6300000000000001
         }
       ]
@@ -6804,10 +6846,10 @@
       "descripcion": "Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -7013,10 +7055,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.63,
       "precioVenta": 2.44,
-      "piezas": 124,
+      "piezas": 99,
       "stockParciales": [
         {
-          "cantidad": 124,
+          "cantidad": 99,
           "costoUnitario": 1.625
         }
       ]
@@ -7073,10 +7115,10 @@
       "descripcion": "Ritz",
       "precioCompra": 9.7,
       "precioVenta": 14.55,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 9.700000000000001
         }
       ]
@@ -7287,10 +7329,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 6.74,
       "precioVenta": 10.11,
-      "piezas": 25,
+      "piezas": 24,
       "stockParciales": [
         {
-          "cantidad": 25,
+          "cantidad": 24,
           "costoUnitario": 6.73875
         }
       ]
@@ -7300,10 +7342,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 10.83
         }
       ]
@@ -8225,6 +8267,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 11887.348786507913,
-  "gananciasTotales": 5942.881213492056
+  "inversionRecuperada": 11960.63920317458,
+  "gananciasTotales": 5979.60079682539
 }
