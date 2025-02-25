@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 15.539999999999996,
-      "ganancia": 181.674625,
+      "adeudo": 37.589999999999996,
+      "ganancia": 189.054625,
       "saldoFavor": 0
     },
     {
@@ -1961,6 +1961,13 @@
         "costoTotal": 14.55,
         "fecha": "24/2/2025, 11:25:56 a.m.",
         "ganancia": 4.85
+      },
+      {
+        "producto": "Paletas de Tarrito",
+        "piezas": 9,
+        "costoTotal": 22.05,
+        "fecha": "25/2/2025, 10:31:12 a.m.",
+        "ganancia": 7.380000000000001
       }
     ],
     "Irvin": [
@@ -6559,10 +6566,10 @@
       "descripcion": "Paletas de Tarrito",
       "precioCompra": 1.63,
       "precioVenta": 2.45,
-      "piezas": 28,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 28,
+          "cantidad": 19,
           "costoUnitario": 1.6300000000000001
         }
       ]
@@ -8118,6 +8125,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 11673.923092063467,
-  "gananciasTotales": 5836.146907936501
+  "inversionRecuperada": 11688.593092063467,
+  "gananciasTotales": 5843.526907936501
 }
