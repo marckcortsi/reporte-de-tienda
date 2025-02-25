@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 60.05,
-      "ganancia": 257.74393452380957,
+      "adeudo": 78.66,
+      "ganancia": 263.9472678571429,
       "saldoFavor": 0
     },
     {
@@ -52,7 +52,7 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 392.23999999999995,
+      "adeudo": 192.23999999999995,
       "ganancia": 641.7208115079368,
       "saldoFavor": 0
     },
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 275.16999999999996,
-      "ganancia": 994.9588749999995,
+      "adeudo": 319.66999999999996,
+      "ganancia": 1009.7988749999994,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 188.36,
-      "ganancia": 445.6445694444448,
+      "adeudo": 24.75,
+      "ganancia": 453.8930361111115,
       "saldoFavor": 0
     },
     {
@@ -1721,6 +1721,13 @@
         "costoTotal": 18.25,
         "fecha": "24/2/2025, 5:19:16 p.m.",
         "ganancia": 6.083333333333334
+      },
+      {
+        "producto": "Emperador Chocolate",
+        "piezas": 1,
+        "costoTotal": 18.61,
+        "fecha": "25/2/2025, 8:22:15 a.m.",
+        "ganancia": 6.203333333333333
       }
     ],
     "Francisco": [
@@ -5634,6 +5641,27 @@
         "costoTotal": 1.98,
         "fecha": "24/2/2025, 4:28:48 p.m.",
         "ganancia": 0.6599999999999999
+      },
+      {
+        "producto": "Chokis.",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "25/2/2025, 8:25:00 a.m.",
+        "ganancia": 5.5
+      },
+      {
+        "producto": "Leche fresa",
+        "piezas": 1,
+        "costoTotal": 11.75,
+        "fecha": "25/2/2025, 8:25:00 a.m.",
+        "ganancia": 3.92
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "25/2/2025, 8:25:00 a.m.",
+        "ganancia": 5.42
       }
     ],
     "Rafael": [
@@ -6322,6 +6350,20 @@
         "costoTotal": 23.99,
         "fecha": "21/2/2025, 1:41:40 p.m.",
         "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Vive 100 original",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "25/2/2025, 8:22:46 a.m.",
+        "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Encendedor",
+        "piezas": 1,
+        "costoTotal": 6.44,
+        "fecha": "25/2/2025, 8:22:46 a.m.",
+        "ganancia": 2.1468000000000007
       }
     ],
     "Vicente": [
@@ -6526,10 +6568,10 @@
       "descripcion": "Vive 100 original",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -6813,10 +6855,10 @@
       "descripcion": "Encendedor",
       "precioCompra": 4.29,
       "precioVenta": 6.44,
-      "piezas": 24,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 23,
           "costoUnitario": 4.2932
         }
       ]
@@ -6826,10 +6868,10 @@
       "descripcion": "Emperador Chocolate",
       "precioCompra": 12.41,
       "precioVenta": 18.61,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.406666666666666
         }
       ]
@@ -6998,10 +7040,10 @@
       "descripcion": "Leche fresa",
       "precioCompra": 7.83,
       "precioVenta": 11.75,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 7.83
         }
       ]
@@ -7037,13 +7079,8 @@
       "descripcion": "Chokis.",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 11
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501059242913",
@@ -7089,10 +7126,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 10.83
         }
       ]
@@ -8019,6 +8056,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 11507.898358730134,
-  "gananciasTotales": 5753.121641269833
+  "inversionRecuperada": 11566.466558730133,
+  "gananciasTotales": 5782.413441269833
 }
