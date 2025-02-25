@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 438.01000000000005,
-      "ganancia": 605.7449130952381,
+      "adeudo": 448.49000000000007,
+      "ganancia": 609.2349130952381,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 342.02,
-      "ganancia": 1017.2488749999993,
+      "adeudo": 403.26,
+      "ganancia": 1037.663041666666,
       "saldoFavor": 0
     },
     {
@@ -3085,6 +3085,13 @@
         "costoTotal": 5.24,
         "fecha": "25/2/2025, 10:41:06 a.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 2,
+        "costoTotal": 10.48,
+        "fecha": "25/2/2025, 2:00:10 p.m.",
+        "ganancia": 3.49
       }
     ],
     "Isrrael": [
@@ -5781,6 +5788,27 @@
         "costoTotal": 16.68,
         "fecha": "25/2/2025, 8:56:37 a.m.",
         "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "25/2/2025, 1:58:28 p.m.",
+        "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "25/2/2025, 1:58:28 p.m.",
+        "ganancia": 7
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "25/2/2025, 1:58:28 p.m.",
+        "ganancia": 5.42
       }
     ],
     "Rafael": [
@@ -6865,10 +6893,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 14
         }
       ]
@@ -6949,10 +6977,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 56,
+      "piezas": 54,
       "stockParciales": [
         {
-          "cantidad": 56,
+          "cantidad": 54,
           "costoUnitario": 3.495
         }
       ]
@@ -7009,10 +7037,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16,
       "precioVenta": 23.99,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 15.995833333333332
         }
       ]
@@ -7249,10 +7277,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 10.83
         }
       ]
@@ -8174,6 +8202,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 11780.64920317458,
-  "gananciasTotales": 5889.55079682539
+  "inversionRecuperada": 11828.465036507912,
+  "gananciasTotales": 5913.454963492056
 }
