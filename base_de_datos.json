@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 78.66,
-      "ganancia": 263.9472678571429,
+      "adeudo": 96.55,
+      "ganancia": 269.90726785714287,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 414.16,
-      "ganancia": 597.7965797619047,
+      "adeudo": 432.77000000000004,
+      "ganancia": 603.9999130952381,
       "saldoFavor": 0
     },
     {
@@ -59,8 +59,8 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 50.18395833333334,
+      "adeudo": 15.15,
+      "ganancia": 55.233958333333334,
       "saldoFavor": 0
     },
     {
@@ -1728,6 +1728,13 @@
         "costoTotal": 18.61,
         "fecha": "25/2/2025, 8:22:15 a.m.",
         "ganancia": 6.203333333333333
+      },
+      {
+        "producto": "Yogurt fresa",
+        "piezas": 1,
+        "costoTotal": 17.89,
+        "fecha": "25/2/2025, 8:52:14 a.m.",
+        "ganancia": 5.960000000000001
       }
     ],
     "Francisco": [
@@ -3015,6 +3022,13 @@
         "costoTotal": 23.99,
         "fecha": "24/2/2025, 5:19:49 p.m.",
         "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Emperador Chocolate",
+        "piezas": 1,
+        "costoTotal": 18.61,
+        "fecha": "25/2/2025, 8:53:48 a.m.",
+        "ganancia": 6.203333333333333
       }
     ],
     "Isrrael": [
@@ -4148,6 +4162,13 @@
         "costoTotal": 18.14,
         "fecha": "20/2/2025, 2:10:24 p.m.",
         "ganancia": 6.045000000000002
+      },
+      {
+        "producto": "Marianitas Coco",
+        "piezas": 1,
+        "costoTotal": 15.15,
+        "fecha": "25/2/2025, 8:53:38 a.m.",
+        "ganancia": 5.050000000000001
       }
     ],
     "Marcos": [
@@ -6758,10 +6779,10 @@
       "descripcion": "Marianitas Coco",
       "precioCompra": 10.1,
       "precioVenta": 15.15,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 10.1
         }
       ]
@@ -6868,13 +6889,8 @@
       "descripcion": "Emperador Chocolate",
       "precioCompra": 12.41,
       "precioVenta": 18.61,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.406666666666666
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "613008738860",
@@ -7152,10 +7168,10 @@
       "descripcion": "Yogurt fresa",
       "precioCompra": 11.93,
       "precioVenta": 17.89,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 11.93
         }
       ]
@@ -8056,6 +8072,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 11566.466558730133,
-  "gananciasTotales": 5782.413441269833
+  "inversionRecuperada": 11600.9032253968,
+  "gananciasTotales": 5799.626774603166
 }
