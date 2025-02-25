@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 426.3900000000002,
-      "ganancia": 1003.1960178571425,
+      "adeudo": 436.5000000000002,
+      "ganancia": 1006.5672678571425,
       "saldoFavor": 0
     },
     {
@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 224.13,
-      "ganancia": 560.5813789682543,
+      "adeudo": 247.70999999999998,
+      "ganancia": 568.4413789682543,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 403.26,
-      "ganancia": 1037.663041666666,
+      "adeudo": 429.46,
+      "ganancia": 1046.388041666666,
       "saldoFavor": 0
     },
     {
@@ -1376,6 +1376,13 @@
         "costoTotal": 50.5,
         "fecha": "25/2/2025, 10:42:35 a.m.",
         "ganancia": 16.833333333333336
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 10.11,
+        "fecha": "25/2/2025, 3:22:51 p.m.",
+        "ganancia": 3.37125
       }
     ],
     "Edgar": [
@@ -3451,6 +3458,13 @@
         "costoTotal": 19.5,
         "fecha": "25/2/2025, 1:02:15 p.m.",
         "ganancia": 6.5
+      },
+      {
+        "producto": "Tin larin",
+        "piezas": 2,
+        "costoTotal": 23.58,
+        "fecha": "25/2/2025, 3:22:39 p.m.",
+        "ganancia": 7.859999999999999
       }
     ],
     "Karen": [
@@ -5816,6 +5830,13 @@
         "costoTotal": 16.25,
         "fecha": "25/2/2025, 1:58:28 p.m.",
         "ganancia": 5.42
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 5,
+        "costoTotal": 26.200000000000003,
+        "fecha": "25/2/2025, 3:23:06 p.m.",
+        "ganancia": 8.725000000000001
       }
     ],
     "Rafael": [
@@ -6979,10 +7000,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 54,
+      "piezas": 49,
       "stockParciales": [
         {
-          "cantidad": 54,
+          "cantidad": 49,
           "costoUnitario": 3.495
         }
       ]
@@ -7240,10 +7261,10 @@
       "descripcion": "Tin larin",
       "precioCompra": 7.86,
       "precioVenta": 11.79,
-      "piezas": 7,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 5,
           "costoUnitario": 7.859999999999999
         }
       ]
@@ -7266,10 +7287,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 6.74,
       "precioVenta": 10.11,
-      "piezas": 26,
+      "piezas": 25,
       "stockParciales": [
         {
-          "cantidad": 26,
+          "cantidad": 25,
           "costoUnitario": 6.73875
         }
       ]
@@ -8204,6 +8225,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 11847.415036507913,
-  "gananciasTotales": 5922.924963492056
+  "inversionRecuperada": 11887.348786507913,
+  "gananciasTotales": 5942.881213492056
 }
