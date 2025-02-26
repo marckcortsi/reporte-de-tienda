@@ -80,8 +80,8 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 32.75,
-      "ganancia": 67.34669642857143,
+      "adeudo": 47.3,
+      "ganancia": 72.19669642857143,
       "saldoFavor": 0
     },
     {
@@ -6835,6 +6835,13 @@
         "costoTotal": 16.5,
         "fecha": "24/2/2025, 8:16:41 a.m.",
         "ganancia": 5.5
+      },
+      {
+        "producto": "Ritz",
+        "piezas": 1,
+        "costoTotal": 14.55,
+        "fecha": "26/2/2025, 10:26:05 a.m.",
+        "ganancia": 4.85
       }
     ],
     "Externo": [
@@ -7276,10 +7283,10 @@
       "descripcion": "Ritz",
       "precioCompra": 9.7,
       "precioVenta": 14.55,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 9.700000000000001
         }
       ]
@@ -8428,6 +8435,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 12169.76008174601,
-  "gananciasTotales": 6084.189918253963
+  "inversionRecuperada": 12179.46008174601,
+  "gananciasTotales": 6089.039918253963
 }
