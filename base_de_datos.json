@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 239.40999999999997,
-      "ganancia": 657.4486686507939,
+      "adeudo": 256.09,
+      "ganancia": 663.0086686507939,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 489.84999999999997,
-      "ganancia": 1066.5210916666658,
+      "adeudo": 519.42,
+      "ganancia": 1076.3777583333326,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 110.07,
-      "ganancia": 482.3352583333337,
+      "adeudo": 130.1,
+      "ganancia": 489.00914722222257,
       "saldoFavor": 0
     },
     {
@@ -4335,6 +4335,13 @@
         "costoTotal": 8.52,
         "fecha": "25/2/2025, 5:59:16 p.m.",
         "ganancia": 2.84
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "26/2/2025, 11:21:42 a.m.",
+        "ganancia": 5.559999999999999
       }
     ],
     "Laura": [
@@ -6012,6 +6019,27 @@
         "costoTotal": 16.68,
         "fecha": "26/2/2025, 10:18:21 a.m.",
         "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "26/2/2025, 10:56:05 a.m.",
+        "ganancia": 6.083333333333334
+      },
+      {
+        "producto": "Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "26/2/2025, 10:56:05 a.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Zumba goma mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.67,
+        "fecha": "26/2/2025, 10:56:05 a.m.",
+        "ganancia": 1.8900000000000001
       }
     ],
     "Rafael": [
@@ -6756,6 +6784,27 @@
         "costoTotal": 18.25,
         "fecha": "26/2/2025, 10:17:07 a.m.",
         "ganancia": 6.083333333333334
+      },
+      {
+        "producto": "Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "26/2/2025, 10:56:20 a.m.",
+        "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Rokaleta",
+        "piezas": 1,
+        "costoTotal": 8.99,
+        "fecha": "26/2/2025, 10:56:20 a.m.",
+        "ganancia": 2.9955555555555557
+      },
+      {
+        "producto": "Paleta Búbalo Xtreme",
+        "piezas": 1,
+        "costoTotal": 5.39,
+        "fecha": "26/2/2025, 10:56:20 a.m.",
+        "ganancia": 1.7949999999999995
       }
     ],
     "Vicente": [
@@ -6894,10 +6943,10 @@
       "descripcion": "Paleta Búbalo Xtreme",
       "precioCompra": 3.6,
       "precioVenta": 5.39,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 3.595
         }
       ]
@@ -7014,13 +7063,8 @@
       "descripcion": "Peloneta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 3.7666666666666666
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501011115729",
@@ -7296,10 +7340,10 @@
       "descripcion": "Coca-Cola 500ml",
       "precioCompra": 12.17,
       "precioVenta": 18.25,
-      "piezas": 20,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 12.166666666666666
         }
       ]
@@ -7309,10 +7353,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 21,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 20,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -7557,10 +7601,10 @@
       "descripcion": "Zumba goma mora Azul",
       "precioCompra": 3.78,
       "precioVenta": 5.67,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 3.78
         }
       ]
@@ -7596,10 +7640,10 @@
       "descripcion": "Rokaleta",
       "precioCompra": 5.99,
       "precioVenta": 8.99,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 5.9944444444444445
         }
       ]
@@ -8435,6 +8479,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 12179.46008174601,
-  "gananciasTotales": 6089.039918253963
+  "inversionRecuperada": 12223.649526190455,
+  "gananciasTotales": 6111.130473809519
 }
