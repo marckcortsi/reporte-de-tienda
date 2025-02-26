@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 448.49000000000007,
-      "ganancia": 609.2349130952381,
+      "adeudo": 464.74000000000007,
+      "ganancia": 614.654913095238,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 212.03999999999996,
-      "ganancia": 648.3208115079368,
+      "adeudo": 239.40999999999997,
+      "ganancia": 657.4486686507939,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 429.46,
-      "ganancia": 1046.388041666666,
+      "adeudo": 456.91999999999996,
+      "ganancia": 1055.5410916666658,
       "saldoFavor": 0
     },
     {
@@ -3141,6 +3141,13 @@
         "costoTotal": 10.48,
         "fecha": "25/2/2025, 2:00:10 p.m.",
         "ganancia": 3.49
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "25/2/2025, 5:59:30 p.m.",
+        "ganancia": 5.42
       }
     ],
     "Isrrael": [
@@ -4237,6 +4244,27 @@
         "costoTotal": 19.8,
         "fecha": "25/2/2025, 1:02:26 p.m.",
         "ganancia": 6.6
+      },
+      {
+        "producto": "Mini mamut",
+        "piezas": 1,
+        "costoTotal": 2.6,
+        "fecha": "25/2/2025, 5:59:16 p.m.",
+        "ganancia": 0.8678571428571429
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "25/2/2025, 5:59:16 p.m.",
+        "ganancia": 5.42
+      },
+      {
+        "producto": "Top-top salsa negra",
+        "piezas": 1,
+        "costoTotal": 8.52,
+        "fecha": "25/2/2025, 5:59:16 p.m.",
+        "ganancia": 2.84
       }
     ],
     "Laura": [
@@ -5872,6 +5900,34 @@
         "costoTotal": 26.200000000000003,
         "fecha": "25/2/2025, 3:23:06 p.m.",
         "ganancia": 8.725000000000001
+      },
+      {
+        "producto": "Zumba goma mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.67,
+        "fecha": "25/2/2025, 6:01:33 p.m.",
+        "ganancia": 1.8900000000000001
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 10.11,
+        "fecha": "25/2/2025, 6:01:33 p.m.",
+        "ganancia": 3.37125
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "25/2/2025, 6:01:33 p.m.",
+        "ganancia": 1.745
+      },
+      {
+        "producto": "Encendedor",
+        "piezas": 1,
+        "costoTotal": 6.44,
+        "fecha": "25/2/2025, 6:01:33 p.m.",
+        "ganancia": 2.1468000000000007
       }
     ],
     "Rafael": [
@@ -7042,10 +7098,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 49,
+      "piezas": 48,
       "stockParciales": [
         {
-          "cantidad": 49,
+          "cantidad": 48,
           "costoUnitario": 3.495
         }
       ]
@@ -7081,10 +7137,10 @@
       "descripcion": "Encendedor",
       "precioCompra": 4.29,
       "precioVenta": 6.44,
-      "piezas": 22,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 22,
+          "cantidad": 21,
           "costoUnitario": 4.2932
         }
       ]
@@ -7232,10 +7288,10 @@
       "descripcion": "Mini mamut",
       "precioCompra": 1.73,
       "precioVenta": 2.6,
-      "piezas": 24,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 23,
           "costoUnitario": 1.7321428571428572
         }
       ]
@@ -7329,10 +7385,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 6.74,
       "precioVenta": 10.11,
-      "piezas": 24,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 23,
           "costoUnitario": 6.73875
         }
       ]
@@ -7342,10 +7398,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 9,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 7,
           "costoUnitario": 10.83
         }
       ]
@@ -7389,10 +7445,10 @@
       "descripcion": "Zumba goma mora Azul",
       "precioCompra": 3.78,
       "precioVenta": 5.67,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 16,
           "costoUnitario": 3.78
         }
       ]
@@ -7415,10 +7471,10 @@
       "descripcion": "Top-top salsa negra",
       "precioCompra": 5.68,
       "precioVenta": 8.52,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 5.68
         }
       ]
@@ -8267,6 +8323,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 11960.63920317458,
-  "gananciasTotales": 5979.60079682539
+  "inversionRecuperada": 12008.018296031725,
+  "gananciasTotales": 6003.301703968248
 }
