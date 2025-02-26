@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 52.14,
-      "ganancia": 193.90462499999998,
+      "adeudo": 68.82,
+      "ganancia": 199.46462499999998,
       "saldoFavor": 0
     },
     {
@@ -2052,6 +2052,13 @@
         "costoTotal": 14.55,
         "fecha": "25/2/2025, 11:51:34 a.m.",
         "ganancia": 4.85
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "26/2/2025, 11:43:31 a.m.",
+        "ganancia": 5.559999999999999
       }
     ],
     "Irvin": [
@@ -7360,10 +7367,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 20,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -8486,6 +8493,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 12236.649526190455,
-  "gananciasTotales": 6117.630473809519
+  "inversionRecuperada": 12247.769526190456,
+  "gananciasTotales": 6123.190473809519
 }
