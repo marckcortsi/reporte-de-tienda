@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 464.74000000000007,
-      "ganancia": 614.654913095238,
+      "adeudo": 513.94,
+      "ganancia": 631.0515797619048,
       "saldoFavor": 0
     },
     {
@@ -3148,6 +3148,20 @@
         "costoTotal": 16.25,
         "fecha": "25/2/2025, 5:59:30 p.m.",
         "ganancia": 5.42
+      },
+      {
+        "producto": "Canelitas",
+        "piezas": 1,
+        "costoTotal": 31.31,
+        "fecha": "26/2/2025, 8:36:30 a.m.",
+        "ganancia": 10.436666666666667
+      },
+      {
+        "producto": "Yogurt fresa",
+        "piezas": 1,
+        "costoTotal": 17.89,
+        "fecha": "26/2/2025, 8:36:30 a.m.",
+        "ganancia": 5.960000000000001
       }
     ],
     "Isrrael": [
@@ -7325,10 +7339,10 @@
       "descripcion": "Canelitas",
       "precioCompra": 20.87,
       "precioVenta": 31.31,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 20.87333333333333
         }
       ]
@@ -7424,10 +7438,10 @@
       "descripcion": "Yogurt fresa",
       "precioCompra": 11.93,
       "precioVenta": 17.89,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 11.93
         }
       ]
@@ -8323,6 +8337,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 12008.018296031725,
-  "gananciasTotales": 6003.301703968248
+  "inversionRecuperada": 12040.821629365058,
+  "gananciasTotales": 6019.698370634915
 }
