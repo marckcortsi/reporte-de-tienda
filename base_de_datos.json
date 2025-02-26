@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 124.97,
-      "ganancia": 279.3772678571429,
+      "adeudo": 155.73,
+      "ganancia": 289.6363154761905,
       "saldoFavor": 0
     },
     {
@@ -38,15 +38,15 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 513.94,
-      "ganancia": 631.0515797619048,
+      "adeudo": 560,
+      "ganancia": 646.4007464285713,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 247.70999999999998,
-      "ganancia": 568.4413789682543,
+      "adeudo": 280.21,
+      "ganancia": 579.2813789682543,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 456.91999999999996,
-      "ganancia": 1055.5410916666658,
+      "adeudo": 489.84999999999997,
+      "ganancia": 1066.5210916666658,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 58.88999999999999,
-      "ganancia": 465.27192500000035,
+      "adeudo": 110.07,
+      "ganancia": 482.3352583333337,
       "saldoFavor": 0
     },
     {
@@ -1812,6 +1812,34 @@
         "costoTotal": 28.42,
         "fecha": "25/2/2025, 2:16:39 p.m.",
         "ganancia": 9.470000000000002
+      },
+      {
+        "producto": "Mini mamut",
+        "piezas": 2,
+        "costoTotal": 5.2,
+        "fecha": "26/2/2025, 10:21:45 a.m.",
+        "ganancia": 1.7357142857142858
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "26/2/2025, 10:21:45 a.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Paletas de Tarrito",
+        "piezas": 1,
+        "costoTotal": 2.45,
+        "fecha": "26/2/2025, 10:21:45 a.m.",
+        "ganancia": 0.8200000000000001
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "26/2/2025, 10:21:45 a.m.",
+        "ganancia": 6.083333333333334
       }
     ],
     "Francisco": [
@@ -3162,6 +3190,27 @@
         "costoTotal": 17.89,
         "fecha": "26/2/2025, 8:36:30 a.m.",
         "ganancia": 5.960000000000001
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "26/2/2025, 10:17:29 a.m.",
+        "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Paleta Búbalo Xtreme",
+        "piezas": 1,
+        "costoTotal": 5.39,
+        "fecha": "26/2/2025, 10:17:29 a.m.",
+        "ganancia": 1.7949999999999995
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "26/2/2025, 10:18:36 a.m.",
+        "ganancia": 5.559999999999999
       }
     ],
     "Isrrael": [
@@ -3521,6 +3570,13 @@
         "costoTotal": 23.58,
         "fecha": "25/2/2025, 3:22:39 p.m.",
         "ganancia": 7.859999999999999
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 2,
+        "costoTotal": 32.5,
+        "fecha": "26/2/2025, 10:17:17 a.m.",
+        "ganancia": 10.84
       }
     ],
     "Karen": [
@@ -5942,6 +5998,20 @@
         "costoTotal": 6.44,
         "fecha": "25/2/2025, 6:01:33 p.m.",
         "ganancia": 2.1468000000000007
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "26/2/2025, 10:18:21 a.m.",
+        "ganancia": 5.42
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "26/2/2025, 10:18:21 a.m.",
+        "ganancia": 5.559999999999999
       }
     ],
     "Rafael": [
@@ -6665,6 +6735,27 @@
         "costoTotal": 5.65,
         "fecha": "25/2/2025, 5:05:28 p.m.",
         "ganancia": 1.8833333333333337
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "26/2/2025, 10:17:07 a.m.",
+        "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "26/2/2025, 10:17:07 a.m.",
+        "ganancia": 5.42
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "26/2/2025, 10:17:07 a.m.",
+        "ganancia": 6.083333333333334
       }
     ],
     "Vicente": [
@@ -6783,10 +6874,10 @@
       "descripcion": "Paletas de Tarrito",
       "precioCompra": 1.63,
       "precioVenta": 2.45,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 17,
           "costoUnitario": 1.6300000000000001
         }
       ]
@@ -6796,10 +6887,10 @@
       "descripcion": "Paleta Búbalo Xtreme",
       "precioCompra": 3.6,
       "precioVenta": 5.39,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 3.595
         }
       ]
@@ -6848,10 +6939,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -7172,10 +7263,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16,
       "precioVenta": 23.99,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 15.995833333333332
         }
       ]
@@ -7198,10 +7289,10 @@
       "descripcion": "Coca-Cola 500ml",
       "precioCompra": 12.17,
       "precioVenta": 18.25,
-      "piezas": 22,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 22,
+          "cantidad": 20,
           "costoUnitario": 12.166666666666666
         }
       ]
@@ -7211,10 +7302,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 24,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 21,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -7302,10 +7393,10 @@
       "descripcion": "Mini mamut",
       "precioCompra": 1.73,
       "precioVenta": 2.6,
-      "piezas": 23,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 21,
           "costoUnitario": 1.7321428571428572
         }
       ]
@@ -7412,10 +7503,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 7,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 3,
           "costoUnitario": 10.83
         }
       ]
@@ -8337,6 +8428,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 12040.821629365058,
-  "gananciasTotales": 6019.698370634915
+  "inversionRecuperada": 12169.76008174601,
+  "gananciasTotales": 6084.189918253963
 }
