@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 212.22,
-      "ganancia": 516.8969250000004,
+      "adeudo": 231.72,
+      "ganancia": 523.3969250000004,
       "saldoFavor": 0
     },
     {
@@ -7141,6 +7141,13 @@
         "costoTotal": 18.31,
         "fecha": "27/2/2025, 8:16:31 a.m.",
         "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Sol Rifaditas",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "27/2/2025, 1:28:02 p.m.",
+        "ganancia": 6.5
       }
     ],
     "Vicente": [
@@ -7644,10 +7651,10 @@
       "descripcion": "Sol Rifaditas",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 13
         }
       ]
@@ -8668,6 +8675,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 12766.416153174587,
-  "gananciasTotales": 6382.523846825392
+  "inversionRecuperada": 12779.416153174587,
+  "gananciasTotales": 6389.023846825392
 }
