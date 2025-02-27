@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 575.72,
-      "ganancia": 652.1426908730158,
+      "adeudo": 590.87,
+      "ganancia": 657.1926908730157,
       "saldoFavor": 0
     },
     {
@@ -3337,6 +3337,13 @@
         "costoTotal": 10.48,
         "fecha": "26/2/2025, 4:36:34 p.m.",
         "ganancia": 3.49
+      },
+      {
+        "producto": "Marianitas Coco",
+        "piezas": 1,
+        "costoTotal": 15.15,
+        "fecha": "27/2/2025, 9:03:45 a.m.",
+        "ganancia": 5.050000000000001
       }
     ],
     "Isrrael": [
@@ -7361,10 +7368,10 @@
       "descripcion": "Marianitas Coco",
       "precioCompra": 10.1,
       "precioVenta": 15.15,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 10.1
         }
       ]
@@ -8533,6 +8540,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 12581.21573650792,
-  "gananciasTotales": 6289.924263492058
+  "inversionRecuperada": 12591.31573650792,
+  "gananciasTotales": 6294.9742634920585
 }
