@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 122.32999999999998,
-      "ganancia": 709.0439805555562,
+      "adeudo": 201.51999999999998,
+      "ganancia": 735.4423138888897,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 603.2700000000002,
-      "ganancia": 1062.7193908730158,
+      "adeudo": 699.8200000000002,
+      "ganancia": 1094.9443908730157,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 623.38,
-      "ganancia": 668.0268575396824,
+      "adeudo": 658.93,
+      "ganancia": 679.8768575396824,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 517.26,
-      "ganancia": 1107.8251194444433,
+      "adeudo": 541.25,
+      "ganancia": 1115.81928611111,
       "saldoFavor": 0
     },
     {
@@ -520,6 +520,20 @@
         "costoTotal": 115.8,
         "fecha": "26/2/2025, 4:38:41 p.m.",
         "ganancia": 38.6
+      },
+      {
+        "producto": "Coca 3 litros",
+        "piezas": 1,
+        "costoTotal": 50.5,
+        "fecha": "27/2/2025, 2:52:26 p.m.",
+        "ganancia": 16.833333333333336
+      },
+      {
+        "producto": "Jarritos Tutifruti",
+        "piezas": 1,
+        "costoTotal": 28.69,
+        "fecha": "27/2/2025, 2:52:26 p.m.",
+        "ganancia": 9.565000000000001
       }
     ],
     "Carlos": [
@@ -1509,6 +1523,27 @@
         "costoTotal": 10.11,
         "fecha": "27/2/2025, 10:19:42 a.m.",
         "ganancia": 3.37125
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "27/2/2025, 2:50:20 p.m.",
+        "ganancia": 7
+      },
+      {
+        "producto": "Ritz",
+        "piezas": 1,
+        "costoTotal": 14.55,
+        "fecha": "27/2/2025, 2:51:27 p.m.",
+        "ganancia": 4.85
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 61,
+        "fecha": "27/2/2025, 2:52:39 p.m.",
+        "ganancia": 20.375
       }
     ],
     "Edgar": [
@@ -3421,6 +3456,20 @@
         "costoTotal": 8.52,
         "fecha": "27/2/2025, 12:08:59 p.m.",
         "ganancia": 2.84
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "27/2/2025, 2:50:31 p.m.",
+        "ganancia": 7
+      },
+      {
+        "producto": "Ritz",
+        "piezas": 1,
+        "costoTotal": 14.55,
+        "fecha": "27/2/2025, 2:51:54 p.m.",
+        "ganancia": 4.85
       }
     ],
     "Isrrael": [
@@ -6348,6 +6397,13 @@
         "costoTotal": 19.5,
         "fecha": "27/2/2025, 12:43:40 p.m.",
         "ganancia": 6.5
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "27/2/2025, 2:51:14 p.m.",
+        "ganancia": 7.994166666666667
       }
     ],
     "Rafael": [
@@ -7456,10 +7512,10 @@
       "descripcion": "Jarritos Tutifruti",
       "precioCompra": 19.13,
       "precioVenta": 28.69,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 19.125
         }
       ]
@@ -7482,10 +7538,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 3,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 1,
           "costoUnitario": 14
         }
       ]
@@ -7547,10 +7603,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.63,
       "precioVenta": 2.44,
-      "piezas": 92,
+      "piezas": 67,
       "stockParciales": [
         {
-          "cantidad": 92,
+          "cantidad": 67,
           "costoUnitario": 1.625
         }
       ]
@@ -7573,10 +7629,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16,
       "precioVenta": 23.99,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 15.995833333333332
         }
       ]
@@ -7586,10 +7642,10 @@
       "descripcion": "Ritz",
       "precioCompra": 9.7,
       "precioVenta": 14.55,
-      "piezas": 8,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 6,
           "costoUnitario": 9.700000000000001
         }
       ]
@@ -7875,10 +7931,10 @@
       "descripcion": "Coca 3 litros",
       "precioCompra": 33.67,
       "precioVenta": 50.5,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 33.666666666666664
         }
       ]
@@ -8675,6 +8731,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 12779.416153174587,
-  "gananciasTotales": 6389.023846825392
+  "inversionRecuperada": 12936.228653174587,
+  "gananciasTotales": 6467.491346825392
 }
