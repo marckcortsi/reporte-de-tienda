@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 223.21,
-      "ganancia": 312.6315932539683,
+      "adeudo": 233.74,
+      "ganancia": 316.14159325396827,
       "saldoFavor": 0
     },
     {
@@ -1959,6 +1959,20 @@
         "costoTotal": 23.99,
         "fecha": "27/2/2025, 12:44:28 p.m.",
         "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Zumba goma mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.67,
+        "fecha": "27/2/2025, 1:17:46 p.m.",
+        "ganancia": 1.8900000000000001
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "27/2/2025, 1:17:46 p.m.",
+        "ganancia": 1.6200000000000006
       }
     ],
     "Francisco": [
@@ -7331,10 +7345,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -7776,10 +7790,10 @@
       "descripcion": "Zumba goma mora Azul",
       "precioCompra": 3.78,
       "precioVenta": 5.67,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 3.78
         }
       ]
@@ -8654,6 +8668,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 12759.396153174586,
-  "gananciasTotales": 6379.013846825392
+  "inversionRecuperada": 12766.416153174587,
+  "gananciasTotales": 6382.523846825392
 }
