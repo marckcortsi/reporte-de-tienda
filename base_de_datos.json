@@ -59,15 +59,15 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 34.65,
-      "ganancia": 62.24090277777778,
+      "adeudo": 49.8,
+      "ganancia": 67.29090277777777,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 456.82,
-      "ganancia": 1087.6797027777768,
+      "adeudo": 471.79,
+      "ganancia": 1092.6709527777766,
       "saldoFavor": 0
     },
     {
@@ -4582,6 +4582,13 @@
         "costoTotal": 19.5,
         "fecha": "26/2/2025, 11:40:11 a.m.",
         "ganancia": 6.5
+      },
+      {
+        "producto": "Marianitas Coco",
+        "piezas": 1,
+        "costoTotal": 15.15,
+        "fecha": "27/2/2025, 10:10:43 a.m.",
+        "ganancia": 5.050000000000001
       }
     ],
     "Marcos": [
@@ -6222,6 +6229,20 @@
         "costoTotal": 16.68,
         "fecha": "27/2/2025, 8:21:51 a.m.",
         "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "27/2/2025, 9:08:16 a.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 10.11,
+        "fecha": "27/2/2025, 9:49:19 a.m.",
+        "ganancia": 3.37125
       }
     ],
     "Rafael": [
@@ -7212,10 +7233,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -7368,10 +7389,10 @@
       "descripcion": "Marianitas Coco",
       "precioCompra": 10.1,
       "precioVenta": 15.15,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 10.1
         }
       ]
@@ -7628,10 +7649,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 6.74,
       "precioVenta": 10.11,
-      "piezas": 22,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 22,
+          "cantidad": 21,
           "costoUnitario": 6.73875
         }
       ]
@@ -8540,6 +8561,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 12591.31573650792,
-  "gananciasTotales": 6294.9742634920585
+  "inversionRecuperada": 12611.394486507921,
+  "gananciasTotales": 6305.015513492059
 }
