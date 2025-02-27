@@ -10,15 +10,15 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 588.2800000000002,
-      "ganancia": 1057.7181408730157,
+      "adeudo": 603.2700000000002,
+      "ganancia": 1062.7193908730158,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 179.72,
-      "ganancia": 298.1374265873016,
+      "adeudo": 223.21,
+      "ganancia": 312.6315932539683,
       "saldoFavor": 0
     },
     {
@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 110.60999999999999,
-      "ganancia": 366.6336805555555,
+      "adeudo": 169.35999999999999,
+      "ganancia": 386.2170138888888,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 590.87,
-      "ganancia": 657.1926908730157,
+      "adeudo": 623.38,
+      "ganancia": 668.0268575396824,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 273.67999999999995,
-      "ganancia": 669.3806130952383,
+      "adeudo": 290.35999999999996,
+      "ganancia": 674.9406130952383,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 471.79,
-      "ganancia": 1092.6709527777766,
+      "adeudo": 517.26,
+      "ganancia": 1107.8251194444433,
       "saldoFavor": 0
     },
     {
@@ -80,8 +80,8 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 47.3,
-      "ganancia": 72.70364087301587,
+      "adeudo": 57.41,
+      "ganancia": 76.07489087301587,
       "saldoFavor": 0
     },
     {
@@ -1495,6 +1495,20 @@
         "costoTotal": 17.89,
         "fecha": "27/2/2025, 8:20:23 a.m.",
         "ganancia": 5.960000000000001
+      },
+      {
+        "producto": "Shots",
+        "piezas": 2,
+        "costoTotal": 4.88,
+        "fecha": "27/2/2025, 10:19:42 a.m.",
+        "ganancia": 1.63
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 10.11,
+        "fecha": "27/2/2025, 10:19:42 a.m.",
+        "ganancia": 3.37125
       }
     ],
     "Edgar": [
@@ -1930,6 +1944,20 @@
         "piezas": 1,
         "costoTotal": 23.99,
         "fecha": "26/2/2025, 4:34:28 p.m.",
+        "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Sol original",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "27/2/2025, 12:43:07 p.m.",
+        "ganancia": 6.5
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "27/2/2025, 12:44:28 p.m.",
         "ganancia": 7.994166666666667
       }
     ],
@@ -2551,6 +2579,27 @@
         "costoTotal": 8.52,
         "fecha": "26/2/2025, 4:31:08 p.m.",
         "ganancia": 2.84
+      },
+      {
+        "producto": "Sol adobadas",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "27/2/2025, 12:08:40 p.m.",
+        "ganancia": 6.5
+      },
+      {
+        "producto": "Maruchan chile pikin",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "27/2/2025, 12:08:40 p.m.",
+        "ganancia": 7
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "27/2/2025, 12:43:58 p.m.",
+        "ganancia": 6.083333333333334
       }
     ],
     "Isac": [
@@ -3344,6 +3393,20 @@
         "costoTotal": 15.15,
         "fecha": "27/2/2025, 9:03:45 a.m.",
         "ganancia": 5.050000000000001
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "27/2/2025, 12:08:59 p.m.",
+        "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Top-top salsa negra",
+        "piezas": 1,
+        "costoTotal": 8.52,
+        "fecha": "27/2/2025, 12:08:59 p.m.",
+        "ganancia": 2.84
       }
     ],
     "Isrrael": [
@@ -4496,6 +4559,13 @@
         "costoTotal": 2.44,
         "fecha": "27/2/2025, 8:20:58 a.m.",
         "ganancia": 0.815
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "27/2/2025, 12:45:46 p.m.",
+        "ganancia": 5.559999999999999
       }
     ],
     "Laura": [
@@ -6243,6 +6313,27 @@
         "costoTotal": 10.11,
         "fecha": "27/2/2025, 9:49:19 a.m.",
         "ganancia": 3.37125
+      },
+      {
+        "producto": "Donitas luna",
+        "piezas": 1,
+        "costoTotal": 1.98,
+        "fecha": "27/2/2025, 12:09:43 p.m.",
+        "ganancia": 0.6599999999999999
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "27/2/2025, 12:09:43 p.m.",
+        "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Sol habanero",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "27/2/2025, 12:43:40 p.m.",
+        "ganancia": 6.5
       }
     ],
     "Rafael": [
@@ -7122,6 +7213,13 @@
         "costoTotal": 14.55,
         "fecha": "26/2/2025, 10:26:05 a.m.",
         "ganancia": 4.85
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 10.11,
+        "fecha": "27/2/2025, 12:44:16 p.m.",
+        "ganancia": 3.37125
       }
     ],
     "Externo": [
@@ -7272,10 +7370,10 @@
       "descripcion": "Donitas luna",
       "precioCompra": 1.32,
       "precioVenta": 1.98,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 1.32
         }
       ]
@@ -7363,10 +7461,10 @@
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 14
         }
       ]
@@ -7428,10 +7526,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.63,
       "precioVenta": 2.44,
-      "piezas": 94,
+      "piezas": 92,
       "stockParciales": [
         {
-          "cantidad": 94,
+          "cantidad": 92,
           "costoUnitario": 1.625
         }
       ]
@@ -7454,10 +7552,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16,
       "precioVenta": 23.99,
-      "piezas": 11,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 8,
           "costoUnitario": 15.995833333333332
         }
       ]
@@ -7480,10 +7578,10 @@
       "descripcion": "Coca-Cola 500ml",
       "precioCompra": 12.17,
       "precioVenta": 18.25,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 12.166666666666666
         }
       ]
@@ -7493,10 +7591,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 17,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -7545,23 +7643,18 @@
       "descripcion": "Sol original",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 13
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7503022458758",
       "descripcion": "Sol habanero",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 13
         }
       ]
@@ -7571,10 +7664,10 @@
       "descripcion": "Sol adobadas",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 13
         }
       ]
@@ -7649,10 +7742,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 6.74,
       "precioVenta": 10.11,
-      "piezas": 21,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 19,
           "costoUnitario": 6.73875
         }
       ]
@@ -7709,10 +7802,10 @@
       "descripcion": "Top-top salsa negra",
       "precioCompra": 5.68,
       "precioVenta": 8.52,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 5.68
         }
       ]
@@ -8561,6 +8654,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 12611.394486507921,
-  "gananciasTotales": 6305.015513492059
+  "inversionRecuperada": 12759.396153174586,
+  "gananciasTotales": 6379.013846825392
 }
