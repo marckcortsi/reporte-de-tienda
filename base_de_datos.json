@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 169.35999999999999,
-      "ganancia": 386.2170138888888,
+      "adeudo": 219.85999999999999,
+      "ganancia": 403.0503472222221,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 658.93,
-      "ganancia": 679.8768575396824,
+      "adeudo": 695.4799999999999,
+      "ganancia": 692.0585242063491,
       "saldoFavor": 0
     },
     {
@@ -59,8 +59,8 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 49.8,
-      "ganancia": 67.29090277777777,
+      "adeudo": 64.95,
+      "ganancia": 72.34090277777777,
       "saldoFavor": 0
     },
     {
@@ -2649,6 +2649,13 @@
         "costoTotal": 18.25,
         "fecha": "27/2/2025, 12:43:58 p.m.",
         "ganancia": 6.083333333333334
+      },
+      {
+        "producto": "Coca 3 litros",
+        "piezas": 1,
+        "costoTotal": 50.5,
+        "fecha": "28/2/2025, 10:58:38 a.m.",
+        "ganancia": 16.833333333333336
       }
     ],
     "Isac": [
@@ -3470,6 +3477,20 @@
         "costoTotal": 14.55,
         "fecha": "27/2/2025, 2:51:54 p.m.",
         "ganancia": 4.85
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "28/2/2025, 8:34:12 a.m.",
+        "ganancia": 1.745
+      },
+      {
+        "producto": "Canelitas",
+        "piezas": 1,
+        "costoTotal": 31.31,
+        "fecha": "28/2/2025, 9:23:02 a.m.",
+        "ganancia": 10.436666666666667
       }
     ],
     "Isrrael": [
@@ -4728,6 +4749,13 @@
         "piezas": 1,
         "costoTotal": 15.15,
         "fecha": "27/2/2025, 10:10:43 a.m.",
+        "ganancia": 5.050000000000001
+      },
+      {
+        "producto": "Marianitas Coco",
+        "piezas": 1,
+        "costoTotal": 15.15,
+        "fecha": "28/2/2025, 10:58:23 a.m.",
         "ganancia": 5.050000000000001
       }
     ],
@@ -7592,13 +7620,8 @@
       "descripcion": "Marianitas Coco",
       "precioCompra": 10.1,
       "precioVenta": 15.15,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 10.1
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478022540",
@@ -7618,10 +7641,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 42,
+      "piezas": 41,
       "stockParciales": [
         {
-          "cantidad": 42,
+          "cantidad": 41,
           "costoUnitario": 3.495
         }
       ]
@@ -7795,10 +7818,10 @@
       "descripcion": "Canelitas",
       "precioCompra": 20.87,
       "precioVenta": 31.31,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 20.87333333333333
         }
       ]
@@ -7959,10 +7982,10 @@
       "descripcion": "Coca 3 litros",
       "precioCompra": 33.67,
       "precioVenta": 50.5,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 33.666666666666664
         }
       ]
@@ -8759,6 +8782,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 15816.700000000004,
-  "inversionRecuperada": 12953.510319841253,
-  "gananciasTotales": 6476.139680158723
+  "inversionRecuperada": 13021.645319841253,
+  "gananciasTotales": 6510.204680158723
 }
