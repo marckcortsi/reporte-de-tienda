@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 224.39999999999998,
-      "ganancia": 743.0734250000007,
+      "adeudo": 340,
+      "ganancia": 781.6734250000007,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 0.8099999999999454,
-      "ganancia": 676.0956130952384,
+      "adeudo": 61.809999999999945,
+      "ganancia": 696.4706130952384,
       "saldoFavor": 0
     },
     {
@@ -548,6 +548,13 @@
         "costoTotal": 4.9,
         "fecha": "28/2/2025, 4:46:23 p.m.",
         "ganancia": 1.6400000000000001
+      },
+      {
+        "producto": "Marlboro",
+        "piezas": 20,
+        "costoTotal": 115.60000000000001,
+        "fecha": "3/3/2025, 8:08:05 a.m.",
+        "ganancia": 38.6
       }
     ],
     "Carlos": [
@@ -4678,6 +4685,13 @@
         "costoTotal": 1.01,
         "fecha": "28/2/2025, 4:37:18 p.m.",
         "ganancia": 0.33999999999999997
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 61,
+        "fecha": "3/3/2025, 8:07:36 a.m.",
+        "ganancia": 20.375
       }
     ],
     "Laura": [
@@ -7695,10 +7709,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.63,
       "precioVenta": 2.44,
-      "piezas": 63,
+      "piezas": 38,
       "stockParciales": [
         {
-          "cantidad": 63,
+          "cantidad": 38,
           "costoUnitario": 1.625
         }
       ]
@@ -8020,10 +8034,10 @@
       "descripcion": "Marlboro",
       "precioCompra": 3.85,
       "precioVenta": 5.78,
-      "piezas": 100,
+      "piezas": 80,
       "stockParciales": [
         {
-          "cantidad": 100,
+          "cantidad": 80,
           "costoUnitario": 3.85
         }
       ]
@@ -8902,6 +8916,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 16559.440000000006,
-  "inversionRecuperada": 13074.039208730144,
-  "gananciasTotales": 6536.400791269834
+  "inversionRecuperada": 13191.664208730144,
+  "gananciasTotales": 6595.375791269835
 }
