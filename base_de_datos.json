@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 105.32,
-      "ganancia": 212.1382361111111,
+      "adeudo": 119.86999999999999,
+      "ganancia": 216.9882361111111,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 719.4699999999999,
-      "ganancia": 700.0526908730158,
+      "adeudo": 758.64,
+      "ganancia": 713.1076908730158,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 633.3199999999999,
-      "ganancia": 1146.502619444443,
+      "adeudo": 682.3499999999999,
+      "ganancia": 1162.8417861111095,
       "saldoFavor": 0
     },
     {
@@ -2262,6 +2262,13 @@
         "costoTotal": 36.5,
         "fecha": "26/2/2025, 4:31:23 p.m.",
         "ganancia": 12.166666666666668
+      },
+      {
+        "producto": "Ritz",
+        "piezas": 1,
+        "costoTotal": 14.55,
+        "fecha": "3/3/2025, 12:17:29 p.m.",
+        "ganancia": 4.85
       }
     ],
     "Irvin": [
@@ -3526,6 +3533,20 @@
         "costoTotal": 23.99,
         "fecha": "3/3/2025, 8:27:57 a.m.",
         "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Jarritos Tutifruti",
+        "piezas": 1,
+        "costoTotal": 28.69,
+        "fecha": "3/3/2025, 3:13:15 p.m.",
+        "ganancia": 9.565000000000001
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 2,
+        "costoTotal": 10.48,
+        "fecha": "3/3/2025, 5:55:45 p.m.",
+        "ganancia": 3.49
       }
     ],
     "Isrrael": [
@@ -6537,6 +6558,27 @@
         "costoTotal": 18.25,
         "fecha": "3/3/2025, 8:27:10 a.m.",
         "ganancia": 6.083333333333334
+      },
+      {
+        "producto": "Totis Sal y limón",
+        "piezas": 1,
+        "costoTotal": 19.8,
+        "fecha": "3/3/2025, 3:13:57 p.m.",
+        "ganancia": 6.6
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "3/3/2025, 3:13:57 p.m.",
+        "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "3/3/2025, 5:55:39 p.m.",
+        "ganancia": 1.745
       }
     ],
     "Rafael": [
@@ -7543,13 +7585,8 @@
       "descripcion": "Totis Sal y limón",
       "precioCompra": 13.2,
       "precioVenta": 19.8,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 13.200000000000001
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500366004832",
@@ -7673,10 +7710,10 @@
       "descripcion": "Jarritos Tutifruti",
       "precioCompra": 19.13,
       "precioVenta": 28.69,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 19.125
         }
       ]
@@ -7738,10 +7775,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 36,
+      "piezas": 33,
       "stockParciales": [
         {
-          "cantidad": 36,
+          "cantidad": 33,
           "costoUnitario": 3.495
         }
       ]
@@ -7777,10 +7814,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16,
       "precioVenta": 23.99,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 15.995833333333332
         }
       ]
@@ -7790,10 +7827,10 @@
       "descripcion": "Ritz",
       "precioCompra": 9.7,
       "precioVenta": 14.55,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 9.700000000000001
         }
       ]
@@ -8958,6 +8995,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 16559.440000000006,
-  "inversionRecuperada": 13258.73337539681,
-  "gananciasTotales": 6628.906624603167
+  "inversionRecuperada": 13327.239208730145,
+  "gananciasTotales": 6663.1507912698335
 }
