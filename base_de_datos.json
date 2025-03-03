@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 593.15,
-      "ganancia": 1133.11428611111,
+      "adeudo": 633.3199999999999,
+      "ganancia": 1146.502619444443,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 258.01,
-      "ganancia": 532.1602583333338,
+      "adeudo": 276.26,
+      "ganancia": 538.2435916666672,
       "saldoFavor": 0
     },
     {
@@ -6502,6 +6502,27 @@
         "costoTotal": 31.3,
         "fecha": "3/3/2025, 6:57:43 a.m.",
         "ganancia": 10.43
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "3/3/2025, 8:13:01 a.m.",
+        "ganancia": 1.745
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "3/3/2025, 8:13:01 a.m.",
+        "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "3/3/2025, 8:27:10 a.m.",
+        "ganancia": 6.083333333333334
       }
     ],
     "Rafael": [
@@ -7323,6 +7344,13 @@
         "costoTotal": 5.24,
         "fecha": "28/2/2025, 4:36:48 p.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "3/3/2025, 8:26:47 a.m.",
+        "ganancia": 6.083333333333334
       }
     ],
     "Vicente": [
@@ -7696,10 +7724,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 37,
+      "piezas": 36,
       "stockParciales": [
         {
-          "cantidad": 37,
+          "cantidad": 36,
           "costoUnitario": 3.495
         }
       ]
@@ -7761,10 +7789,10 @@
       "descripcion": "Coca-Cola 500ml",
       "precioCompra": 12.17,
       "precioVenta": 18.25,
-      "piezas": 15,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 13,
           "costoUnitario": 12.166666666666666
         }
       ]
@@ -7774,10 +7802,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 16,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -8916,6 +8944,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 16559.440000000006,
-  "inversionRecuperada": 13191.664208730144,
-  "gananciasTotales": 6595.375791269835
+  "inversionRecuperada": 13230.612542063478,
+  "gananciasTotales": 6614.847457936501
 }
