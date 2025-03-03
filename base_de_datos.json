@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 340,
-      "ganancia": 781.6734250000007,
+      "adeudo": 358.19,
+      "ganancia": 787.7384250000008,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 695.4799999999999,
-      "ganancia": 692.0585242063491,
+      "adeudo": 719.4699999999999,
+      "ganancia": 700.0526908730158,
       "saldoFavor": 0
     },
     {
@@ -555,6 +555,13 @@
         "costoTotal": 115.60000000000001,
         "fecha": "3/3/2025, 8:08:05 a.m.",
         "ganancia": 38.6
+      },
+      {
+        "producto": "Emperador Chocolate",
+        "piezas": 1,
+        "costoTotal": 18.19,
+        "fecha": "3/3/2025, 8:28:42 a.m.",
+        "ganancia": 6.065000000000001
       }
     ],
     "Carlos": [
@@ -3512,6 +3519,13 @@
         "costoTotal": 31.31,
         "fecha": "28/2/2025, 9:23:02 a.m.",
         "ganancia": 10.436666666666667
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "3/3/2025, 8:27:57 a.m.",
+        "ganancia": 7.994166666666667
       }
     ],
     "Isrrael": [
@@ -7763,10 +7777,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16,
       "precioVenta": 23.99,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 15.995833333333332
         }
       ]
@@ -8114,10 +8128,10 @@
       "descripcion": "Emperador Chocolate",
       "precioCompra": 12.13,
       "precioVenta": 18.19,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 12.125
         }
       ]
@@ -8944,6 +8958,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 16559.440000000006,
-  "inversionRecuperada": 13230.612542063478,
-  "gananciasTotales": 6614.847457936501
+  "inversionRecuperada": 13258.73337539681,
+  "gananciasTotales": 6628.906624603167
 }
