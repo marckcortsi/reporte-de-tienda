@@ -3,9 +3,9 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 358.19,
+      "adeudo": 0,
       "ganancia": 787.7384250000008,
-      "saldoFavor": 0
+      "saldoFavor": 252.81
     },
     {
       "nombre": "Carlos",
@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 119.86999999999999,
-      "ganancia": 216.9882361111111,
+      "adeudo": 16.549999999999983,
+      "ganancia": 222.5482361111111,
       "saldoFavor": 0
     },
     {
@@ -38,14 +38,14 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 776.28,
-      "ganancia": 718.9876908730158,
+      "adeudo": 805.51,
+      "ganancia": 728.7268575396824,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 387.17999999999995,
+      "adeudo": 87.17999999999995,
       "ganancia": 615.4449900793654,
       "saldoFavor": 0
     },
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 720.9999999999999,
-      "ganancia": 1175.7215083333317,
+      "adeudo": 726.2399999999999,
+      "ganancia": 1177.4665083333316,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 276.26,
-      "ganancia": 538.2435916666672,
+      "adeudo": 294.51,
+      "ganancia": 544.3269250000005,
       "saldoFavor": 0
     },
     {
@@ -2276,6 +2276,13 @@
         "costoTotal": 14.55,
         "fecha": "3/3/2025, 12:17:29 p.m.",
         "ganancia": 4.85
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "4/3/2025, 1:54:41 p.m.",
+        "ganancia": 5.559999999999999
       }
     ],
     "Irvin": [
@@ -3568,6 +3575,20 @@
         "costoTotal": 17.64,
         "fecha": "4/3/2025, 8:28:01 a.m.",
         "ganancia": 5.880000000000001
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "4/3/2025, 1:04:50 p.m.",
+        "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "4/3/2025, 1:04:50 p.m.",
+        "ganancia": 1.745
       }
     ],
     "Isrrael": [
@@ -6635,6 +6656,13 @@
         "costoTotal": 8.99,
         "fecha": "4/3/2025, 10:55:20 a.m.",
         "ganancia": 2.9955555555555557
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "4/3/2025, 1:04:57 p.m.",
+        "ganancia": 1.745
       }
     ],
     "Rafael": [
@@ -7463,6 +7491,13 @@
         "costoTotal": 18.25,
         "fecha": "3/3/2025, 8:26:47 a.m.",
         "ganancia": 6.083333333333334
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "4/3/2025, 12:12:03 p.m.",
+        "ganancia": 6.083333333333334
       }
     ],
     "Vicente": [
@@ -7847,10 +7882,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 33,
+      "piezas": 31,
       "stockParciales": [
         {
-          "cantidad": 33,
+          "cantidad": 31,
           "costoUnitario": 3.495
         }
       ]
@@ -7886,10 +7921,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16,
       "precioVenta": 23.99,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 15.995833333333332
         }
       ]
@@ -7912,10 +7947,10 @@
       "descripcion": "Coca-Cola 500ml",
       "precioCompra": 12.17,
       "precioVenta": 18.25,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 12.166666666666666
         }
       ]
@@ -7925,10 +7960,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -9062,6 +9097,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 16559.440000000006,
-  "inversionRecuperada": 13511.170319841256,
-  "gananciasTotales": 6755.099680158722
+  "inversionRecuperada": 13557.442819841257,
+  "gananciasTotales": 6778.227180158721
 }
