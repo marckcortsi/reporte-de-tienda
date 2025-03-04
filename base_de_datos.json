@@ -17,15 +17,15 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 257.73,
-      "ganancia": 324.13575992063494,
+      "adeudo": 287.34000000000003,
+      "ganancia": 334.0070099206349,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 16.549999999999983,
-      "ganancia": 222.5482361111111,
+      "adeudo": 34.79999999999998,
+      "ganancia": 228.63156944444444,
       "saldoFavor": 0
     },
     {
@@ -38,15 +38,15 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 805.51,
-      "ganancia": 728.7268575396824,
+      "adeudo": 810.75,
+      "ganancia": 730.4718575396824,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 87.17999999999995,
-      "ganancia": 615.4449900793654,
+      "adeudo": 166.36999999999995,
+      "ganancia": 641.8433234126989,
       "saldoFavor": 0
     },
     {
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 294.51,
-      "ganancia": 544.3269250000005,
+      "adeudo": 299.75,
+      "ganancia": 546.0719250000005,
       "saldoFavor": 0
     },
     {
@@ -2043,6 +2043,20 @@
         "costoTotal": 23.99,
         "fecha": "4/3/2025, 10:54:55 a.m.",
         "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 10.11,
+        "fecha": "4/3/2025, 5:40:49 p.m.",
+        "ganancia": 3.37125
+      },
+      {
+        "producto": "Sol Rifaditas",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "4/3/2025, 5:40:49 p.m.",
+        "ganancia": 6.5
       }
     ],
     "Francisco": [
@@ -2283,6 +2297,13 @@
         "costoTotal": 16.68,
         "fecha": "4/3/2025, 1:54:41 p.m.",
         "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "4/3/2025, 4:12:31 p.m.",
+        "ganancia": 6.083333333333334
       }
     ],
     "Irvin": [
@@ -3589,6 +3610,13 @@
         "costoTotal": 5.24,
         "fecha": "4/3/2025, 1:04:50 p.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "4/3/2025, 3:47:08 p.m.",
+        "ganancia": 1.745
       }
     ],
     "Isrrael": [
@@ -3969,6 +3997,20 @@
         "costoTotal": 90.72,
         "fecha": "4/3/2025, 11:36:17 a.m.",
         "ganancia": 30.23666666666667
+      },
+      {
+        "producto": "Coca 3 litros",
+        "piezas": 1,
+        "costoTotal": 50.5,
+        "fecha": "4/3/2025, 2:31:12 p.m.",
+        "ganancia": 16.833333333333336
+      },
+      {
+        "producto": "Jarritos Tutifruti",
+        "piezas": 1,
+        "costoTotal": 28.69,
+        "fecha": "4/3/2025, 2:31:12 p.m.",
+        "ganancia": 9.565000000000001
       }
     ],
     "Karen": [
@@ -7498,6 +7540,13 @@
         "costoTotal": 18.25,
         "fecha": "4/3/2025, 12:12:03 p.m.",
         "ganancia": 6.083333333333334
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "4/3/2025, 3:47:19 p.m.",
+        "ganancia": 1.745
       }
     ],
     "Vicente": [
@@ -7817,10 +7866,10 @@
       "descripcion": "Jarritos Tutifruti",
       "precioCompra": 19.13,
       "precioVenta": 28.69,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 19.125
         }
       ]
@@ -7882,10 +7931,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 31,
+      "piezas": 29,
       "stockParciales": [
         {
-          "cantidad": 31,
+          "cantidad": 29,
           "costoUnitario": 3.495
         }
       ]
@@ -7947,10 +7996,10 @@
       "descripcion": "Coca-Cola 500ml",
       "precioCompra": 12.17,
       "precioVenta": 18.25,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 12.166666666666666
         }
       ]
@@ -7999,10 +8048,10 @@
       "descripcion": "Sol Rifaditas",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 13
         }
       ]
@@ -8098,10 +8147,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 6.74,
       "precioVenta": 10.11,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 6.73875
         }
       ]
@@ -8202,10 +8251,10 @@
       "descripcion": "Coca 3 litros",
       "precioCompra": 33.67,
       "precioVenta": 50.5,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 33.666666666666664
         }
       ]
@@ -9097,6 +9146,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 16559.440000000006,
-  "inversionRecuperada": 13557.442819841257,
-  "gananciasTotales": 6778.227180158721
+  "inversionRecuperada": 13649.129903174591,
+  "gananciasTotales": 6824.070096825387
 }
