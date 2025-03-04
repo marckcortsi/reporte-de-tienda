@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 233.74,
-      "ganancia": 316.14159325396827,
+      "adeudo": 257.73,
+      "ganancia": 324.13575992063494,
       "saldoFavor": 0
     },
     {
@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 219.85999999999999,
-      "ganancia": 403.0503472222221,
+      "adeudo": 251.16,
+      "ganancia": 413.4803472222221,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 758.64,
-      "ganancia": 713.1076908730158,
+      "adeudo": 776.28,
+      "ganancia": 718.9876908730158,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 682.3499999999999,
-      "ganancia": 1162.8417861111095,
+      "adeudo": 720.9999999999999,
+      "ganancia": 1175.7215083333317,
       "saldoFavor": 0
     },
     {
@@ -2036,6 +2036,13 @@
         "costoTotal": 4.86,
         "fecha": "27/2/2025, 1:17:46 p.m.",
         "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "4/3/2025, 10:54:55 a.m.",
+        "ganancia": 7.994166666666667
       }
     ],
     "Francisco": [
@@ -2691,6 +2698,13 @@
         "costoTotal": 50.5,
         "fecha": "28/2/2025, 10:58:38 a.m.",
         "ganancia": 16.833333333333336
+      },
+      {
+        "producto": "Galletas Principe",
+        "piezas": 1,
+        "costoTotal": 31.3,
+        "fecha": "4/3/2025, 8:29:10 a.m.",
+        "ganancia": 10.43
       }
     ],
     "Isac": [
@@ -3547,6 +3561,13 @@
         "costoTotal": 10.48,
         "fecha": "3/3/2025, 5:55:45 p.m.",
         "ganancia": 3.49
+      },
+      {
+        "producto": "Galletas oreo",
+        "piezas": 1,
+        "costoTotal": 17.64,
+        "fecha": "4/3/2025, 8:28:01 a.m.",
+        "ganancia": 5.880000000000001
       }
     ],
     "Isrrael": [
@@ -6579,6 +6600,27 @@
         "costoTotal": 5.24,
         "fecha": "3/3/2025, 5:55:39 p.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.99,
+        "fecha": "4/3/2025, 10:55:20 a.m.",
+        "ganancia": 7.994166666666667
+      },
+      {
+        "producto": "Zumba goma mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.67,
+        "fecha": "4/3/2025, 10:55:20 a.m.",
+        "ganancia": 1.8900000000000001
+      },
+      {
+        "producto": "Rokaleta",
+        "piezas": 1,
+        "costoTotal": 8.99,
+        "fecha": "4/3/2025, 10:55:20 a.m.",
+        "ganancia": 2.9955555555555557
       }
     ],
     "Rafael": [
@@ -7814,10 +7856,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16,
       "precioVenta": 23.99,
-      "piezas": 5,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 3,
           "costoUnitario": 15.995833333333332
         }
       ]
@@ -8022,10 +8064,10 @@
       "descripcion": "Zumba goma mora Azul",
       "precioCompra": 3.78,
       "precioVenta": 5.67,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 3.78
         }
       ]
@@ -8061,10 +8103,10 @@
       "descripcion": "Rokaleta",
       "precioCompra": 5.99,
       "precioVenta": 8.99,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 5.9944444444444445
         }
       ]
@@ -8126,10 +8168,10 @@
       "descripcion": "Galletas Principe",
       "precioCompra": 20.87,
       "precioVenta": 31.3,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 20.87
         }
       ]
@@ -8152,10 +8194,10 @@
       "descripcion": "Galletas oreo",
       "precioCompra": 11.76,
       "precioVenta": 17.64,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 11.76
         }
       ]
@@ -8995,6 +9037,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 16559.440000000006,
-  "inversionRecuperada": 13327.239208730145,
-  "gananciasTotales": 6663.1507912698335
+  "inversionRecuperada": 13401.635319841256,
+  "gananciasTotales": 6700.334680158722
 }
