@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 296.46,
-      "ganancia": 585.2083234126987,
+      "adeudo": 387.17999999999995,
+      "ganancia": 615.4449900793654,
       "saldoFavor": 0
     },
     {
@@ -3941,6 +3941,13 @@
         "costoTotal": 16.25,
         "fecha": "26/2/2025, 4:38:08 p.m.",
         "ganancia": 5.42
+      },
+      {
+        "producto": "Churros grandes de ajonjoli",
+        "piezas": 1,
+        "costoTotal": 90.72,
+        "fecha": "4/3/2025, 11:36:17 a.m.",
+        "ganancia": 30.23666666666667
       }
     ],
     "Karen": [
@@ -7681,13 +7688,8 @@
       "descripcion": "Churros grandes de ajonjoli",
       "precioCompra": 60.48,
       "precioVenta": 90.72,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 60.48333333333333
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7503018627083",
@@ -9039,6 +9041,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 16559.440000000006,
-  "inversionRecuperada": 13414.635319841256,
-  "gananciasTotales": 6706.834680158722
+  "inversionRecuperada": 13475.11865317459,
+  "gananciasTotales": 6737.071346825389
 }
