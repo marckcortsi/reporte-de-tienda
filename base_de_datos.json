@@ -80,8 +80,8 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 76.07489087301587,
+      "adeudo": 54.08,
+      "ganancia": 94.1032242063492,
       "saldoFavor": 0
     },
     {
@@ -7556,6 +7556,27 @@
         "costoTotal": 10.11,
         "fecha": "27/2/2025, 12:44:16 p.m.",
         "ganancia": 3.37125
+      },
+      {
+        "producto": "Galletas oreo",
+        "piezas": 1,
+        "costoTotal": 17.64,
+        "fecha": "4/3/2025, 11:58:57 a.m.",
+        "ganancia": 5.880000000000001
+      },
+      {
+        "producto": "Emperador Chocolate",
+        "piezas": 1,
+        "costoTotal": 18.19,
+        "fecha": "4/3/2025, 11:58:57 a.m.",
+        "ganancia": 6.065000000000001
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "4/3/2025, 11:58:57 a.m.",
+        "ganancia": 6.083333333333334
       }
     ],
     "Externo": [
@@ -7891,10 +7912,10 @@
       "descripcion": "Coca-Cola 500ml",
       "precioCompra": 12.17,
       "precioVenta": 18.25,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 12.166666666666666
         }
       ]
@@ -8198,10 +8219,10 @@
       "descripcion": "Galletas oreo",
       "precioCompra": 11.76,
       "precioVenta": 17.64,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 11.76
         }
       ]
@@ -8211,10 +8232,10 @@
       "descripcion": "Emperador Chocolate",
       "precioCompra": 12.13,
       "precioVenta": 18.19,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 12.125
         }
       ]
@@ -9041,6 +9062,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 16559.440000000006,
-  "inversionRecuperada": 13475.11865317459,
-  "gananciasTotales": 6737.071346825389
+  "inversionRecuperada": 13511.170319841256,
+  "gananciasTotales": 6755.099680158722
 }
