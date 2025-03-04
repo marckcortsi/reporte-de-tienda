@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 61.809999999999945,
-      "ganancia": 696.4706130952384,
+      "adeudo": 81.30999999999995,
+      "ganancia": 702.9706130952384,
       "saldoFavor": 0
     },
     {
@@ -4748,6 +4748,13 @@
         "costoTotal": 61,
         "fecha": "3/3/2025, 8:07:36 a.m.",
         "ganancia": 20.375
+      },
+      {
+        "producto": "Sol adobadas",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "4/3/2025, 11:02:47 a.m.",
+        "ganancia": 6.5
       }
     ],
     "Laura": [
@@ -7960,13 +7967,8 @@
       "descripcion": "Sol adobadas",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 13
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000630363",
@@ -9037,6 +9039,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 16559.440000000006,
-  "inversionRecuperada": 13401.635319841256,
-  "gananciasTotales": 6700.334680158722
+  "inversionRecuperada": 13414.635319841256,
+  "gananciasTotales": 6706.834680158722
 }
