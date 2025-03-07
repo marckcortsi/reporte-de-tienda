@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 84.47999999999998,
-      "ganancia": 245.19156944444444,
+      "adeudo": 115.73999999999998,
+      "ganancia": 255.61156944444446,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 939.2500000000001,
-      "ganancia": 773.2810242063491,
+      "adeudo": 949.3700000000001,
+      "ganancia": 776.6560242063492,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 166.28999999999994,
-      "ganancia": 731.3046130952386,
+      "adeudo": 252.88999999999993,
+      "ganancia": 760.1631130952385,
       "saldoFavor": 0
     },
     {
@@ -80,8 +80,8 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 103.97,
-      "ganancia": 110.73370039682538,
+      "adeudo": 122.22,
+      "ganancia": 116.81703373015871,
       "saldoFavor": 0
     },
     {
@@ -2430,6 +2430,13 @@
         "costoTotal": 15.63,
         "fecha": "6/3/2025, 4:15:48 p.m.",
         "ganancia": 5.210000000000001
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 2,
+        "costoTotal": 31.26,
+        "fecha": "7/3/2025, 5:21:30 p.m.",
+        "ganancia": 10.420000000000002
       }
     ],
     "Irvin": [
@@ -3855,6 +3862,27 @@
         "costoTotal": 10.48,
         "fecha": "7/3/2025, 10:38:56 a.m.",
         "ganancia": 3.49
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "7/3/2025, 3:44:28 p.m.",
+        "ganancia": 1.745
+      },
+      {
+        "producto": "Shots",
+        "piezas": 1,
+        "costoTotal": 2.44,
+        "fecha": "7/3/2025, 3:44:28 p.m.",
+        "ganancia": 0.815
+      },
+      {
+        "producto": "Shots",
+        "piezas": 1,
+        "costoTotal": 2.44,
+        "fecha": "7/3/2025, 5:29:29 p.m.",
+        "ganancia": 0.815
       }
     ],
     "Isrrael": [
@@ -5140,6 +5168,48 @@
         "costoTotal": 8.52,
         "fecha": "7/3/2025, 8:41:59 a.m.",
         "ganancia": 2.84
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 2,
+        "costoTotal": 20.22,
+        "fecha": "7/3/2025, 5:29:08 p.m.",
+        "ganancia": 6.7425
+      },
+      {
+        "producto": "Zumba goma mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.67,
+        "fecha": "7/3/2025, 5:29:08 p.m.",
+        "ganancia": 1.8900000000000001
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 16.68,
+        "fecha": "7/3/2025, 5:29:08 p.m.",
+        "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Gummy pop",
+        "piezas": 4,
+        "costoTotal": 8.6,
+        "fecha": "7/3/2025, 5:29:08 p.m.",
+        "ganancia": 2.856
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 15.63,
+        "fecha": "7/3/2025, 5:29:08 p.m.",
+        "ganancia": 5.210000000000001
+      },
+      {
+        "producto": "Totis chile y limón",
+        "piezas": 1,
+        "costoTotal": 19.8,
+        "fecha": "7/3/2025, 5:29:08 p.m.",
+        "ganancia": 6.6
       }
     ],
     "Laura": [
@@ -8200,6 +8270,13 @@
         "costoTotal": 18.25,
         "fecha": "6/3/2025, 4:17:12 p.m.",
         "ganancia": 6.083333333333334
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "7/3/2025, 3:37:15 p.m.",
+        "ganancia": 6.083333333333334
       }
     ],
     "Externo": [
@@ -8285,13 +8362,8 @@
       "descripcion": "Totis chile y limón",
       "precioCompra": 13.2,
       "precioVenta": 19.8,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 13.200000000000001
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "703885005251",
@@ -8449,10 +8521,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 3.495
         }
       ]
@@ -8462,10 +8534,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.63,
       "precioVenta": 2.44,
-      "piezas": 34,
+      "piezas": 32,
       "stockParciales": [
         {
-          "cantidad": 34,
+          "cantidad": 32,
           "costoUnitario": 1.625
         }
       ]
@@ -8509,10 +8581,10 @@
       "descripcion": "Coca-Cola 500ml",
       "precioCompra": 12.17,
       "precioVenta": 18.25,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 12.166666666666666
         }
       ]
@@ -8522,10 +8594,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.12,
       "precioVenta": 16.68,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 11.120000000000001
         }
       ]
@@ -8652,10 +8724,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 6.74,
       "precioVenta": 10.11,
-      "piezas": 18,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 16,
           "costoUnitario": 6.73875
         }
       ]
@@ -8678,10 +8750,10 @@
       "descripcion": "Zumba goma mora Azul",
       "precioCompra": 3.78,
       "precioVenta": 5.67,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 3.78
         }
       ]
@@ -8897,10 +8969,10 @@
       "descripcion": "Gummy pop",
       "precioCompra": 1.44,
       "precioVenta": 2.15,
-      "piezas": 25,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 25,
+          "cantidad": 21,
           "costoUnitario": 1.436
         }
       ]
@@ -8910,10 +8982,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.42,
       "precioVenta": 15.63,
-      "piezas": 11,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 8,
           "costoUnitario": 10.42
         }
       ]
@@ -9794,6 +9866,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 17370.73000000001,
-  "inversionRecuperada": 14625.346204761901,
-  "gananciasTotales": 7312.313795238082
+  "inversionRecuperada": 14722.839371428572,
+  "gananciasTotales": 7361.0506285714155
 }
