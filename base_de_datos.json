@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 958.7999999999998,
-      "ganancia": 1254.9668972222198,
+      "adeudo": 998.9299999999998,
+      "ganancia": 1268.3468972222197,
       "saldoFavor": 0
     },
     {
@@ -7132,6 +7132,20 @@
         "costoTotal": 8.99,
         "fecha": "7/3/2025, 11:58:55 a.m.",
         "ganancia": 2.9955555555555557
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "7/3/2025, 1:24:57 p.m.",
+        "ganancia": 6.083333333333334
+      },
+      {
+        "producto": "Maruchan pikin",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "7/3/2025, 1:24:57 p.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Rafael": [
@@ -8495,10 +8509,10 @@
       "descripcion": "Coca-Cola 500ml",
       "precioCompra": 12.17,
       "precioVenta": 18.25,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 12.166666666666666
         }
       ]
@@ -8818,10 +8832,10 @@
       "descripcion": "Maruchan pikin",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -9780,6 +9794,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 17370.73000000001,
-  "inversionRecuperada": 14598.596204761901,
-  "gananciasTotales": 7298.933795238082
+  "inversionRecuperada": 14625.346204761901,
+  "gananciasTotales": 7312.313795238082
 }
