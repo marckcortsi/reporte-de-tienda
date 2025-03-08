@@ -67,7 +67,7 @@
       "nombre": "Marcos",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 1268.3468972222197,
+      "ganancia": 1277.760230555553,
       "saldoFavor": 0
     },
     {
@@ -7216,6 +7216,13 @@
         "costoTotal": 21.88,
         "fecha": "7/3/2025, 1:24:57 p.m.",
         "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Nescafe",
+        "piezas": 1,
+        "costoTotal": 28.24,
+        "fecha": "7/3/2025, 6:15:01 p.m.",
+        "ganancia": 9.413333333333334
       }
     ],
     "Rafael": [
@@ -8917,13 +8924,8 @@
       "descripcion": "Nescafe",
       "precioCompra": 18.83,
       "precioVenta": 28.24,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 18.826666666666664
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "038629002068",
@@ -9866,6 +9868,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 17370.73000000001,
-  "inversionRecuperada": 14722.839371428572,
-  "gananciasTotales": 7361.0506285714155
+  "inversionRecuperada": 14741.666038095238,
+  "gananciasTotales": 7370.463961904748
 }
