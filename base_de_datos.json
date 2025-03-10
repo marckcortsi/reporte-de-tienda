@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 127.03,
-      "ganancia": 914.4878694444454,
+      "adeudo": 257.18,
+      "ganancia": 957.9378694444455,
       "saldoFavor": 0
     },
     {
@@ -632,6 +632,20 @@
         "costoTotal": 18.19,
         "fecha": "7/3/2025, 8:41:33 a.m.",
         "ganancia": 6.065000000000001
+      },
+      {
+        "producto": "Ritz",
+        "piezas": 1,
+        "costoTotal": 14.55,
+        "fecha": "10/3/2025, 1:14:29 p.m.",
+        "ganancia": 4.85
+      },
+      {
+        "producto": "Marlboro",
+        "piezas": 20,
+        "costoTotal": 115.60000000000001,
+        "fecha": "10/3/2025, 1:14:29 p.m.",
+        "ganancia": 38.6
       }
     ],
     "Carlos": [
@@ -8703,10 +8717,10 @@
       "descripcion": "Ritz",
       "precioCompra": 9.7,
       "precioVenta": 14.55,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 9.700000000000001
         }
       ]
@@ -8956,10 +8970,10 @@
       "descripcion": "Marlboro",
       "precioCompra": 3.85,
       "precioVenta": 5.78,
-      "piezas": 40,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 40,
+          "cantidad": 20,
           "costoUnitario": 3.85
         }
       ]
@@ -9986,6 +10000,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 17370.73000000001,
-  "inversionRecuperada": 14935.65345476191,
-  "gananciasTotales": 7467.456545238083
+  "inversionRecuperada": 15022.353454761911,
+  "gananciasTotales": 7510.906545238084
 }
