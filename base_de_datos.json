@@ -52,15 +52,15 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 293.94999999999993,
+      "adeudo": 93.94999999999993,
       "ganancia": 773.8461130952385,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 83.65590277777777,
+      "adeudo": 31.31,
+      "ganancia": 94.09256944444444,
       "saldoFavor": 0
     },
     {
@@ -5394,6 +5394,13 @@
         "costoTotal": 15.75,
         "fecha": "7/3/2025, 8:52:26 a.m.",
         "ganancia": 5.25
+      },
+      {
+        "producto": "Canelitas",
+        "piezas": 1,
+        "costoTotal": 31.31,
+        "fecha": "10/3/2025, 12:28:54 p.m.",
+        "ganancia": 10.436666666666667
       }
     ],
     "Marcos": [
@@ -8800,13 +8807,8 @@
       "descripcion": "Canelitas",
       "precioCompra": 20.87,
       "precioVenta": 31.31,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 20.87333333333333
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501030490920",
@@ -9984,6 +9986,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 17370.73000000001,
-  "inversionRecuperada": 14914.780121428577,
-  "gananciasTotales": 7457.0198785714165
+  "inversionRecuperada": 14935.65345476191,
+  "gananciasTotales": 7467.456545238083
 }
