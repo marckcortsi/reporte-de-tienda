@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 632.6900000000002,
-      "ganancia": 1105.8960575396823,
+      "adeudo": 666.5700000000002,
+      "ganancia": 1117.1893908730156,
       "saldoFavor": 0
     },
     {
@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 391.21999999999997,
-      "ganancia": 464.09756944444433,
+      "adeudo": 409.46999999999997,
+      "ganancia": 470.18090277777765,
       "saldoFavor": 0
     },
     {
@@ -45,15 +45,15 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 257.3599999999999,
-      "ganancia": 672.1733234126987,
+      "adeudo": 277.6899999999999,
+      "ganancia": 678.9549900793653,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 93.94999999999993,
-      "ganancia": 773.8461130952385,
+      "adeudo": 114.63999999999993,
+      "ganancia": 780.7444464285719,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 98.25,
-      "ganancia": 1319.911480555553,
+      "adeudo": 118.94,
+      "ganancia": 1326.8098138888863,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 187.18,
-      "ganancia": 608.5369250000006,
+      "adeudo": 205.43,
+      "ganancia": 614.6202583333339,
       "saldoFavor": 0
     },
     {
@@ -1670,6 +1670,20 @@
         "costoTotal": 10.57,
         "fecha": "10/3/2025, 8:08:13 a.m.",
         "ganancia": 3.5200000000000005
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "10/3/2025, 2:42:42 p.m.",
+        "ganancia": 6.083333333333334
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 15.63,
+        "fecha": "10/3/2025, 3:42:07 p.m.",
+        "ganancia": 5.210000000000001
       }
     ],
     "Edgar": [
@@ -2964,6 +2978,13 @@
         "costoTotal": 21.88,
         "fecha": "10/3/2025, 2:17:40 p.m.",
         "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "10/3/2025, 2:42:05 p.m.",
+        "ganancia": 6.083333333333334
       }
     ],
     "Isac": [
@@ -4368,6 +4389,20 @@
         "costoTotal": 16.68,
         "fecha": "6/3/2025, 5:02:10 p.m.",
         "ganancia": 5.559999999999999
+      },
+      {
+        "producto": "Vive 100",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "10/3/2025, 4:34:21 p.m.",
+        "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Chicles canels",
+        "piezas": 2,
+        "costoTotal": 2.02,
+        "fecha": "10/3/2025, 4:34:21 p.m.",
+        "ganancia": 0.6799999999999999
       }
     ],
     "Karen": [
@@ -5301,6 +5336,20 @@
         "costoTotal": 4.3,
         "fecha": "10/3/2025, 12:26:28 p.m.",
         "ganancia": 1.428
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "10/3/2025, 2:42:20 p.m.",
+        "ganancia": 6.083333333333334
+      },
+      {
+        "producto": "Shots",
+        "piezas": 1,
+        "costoTotal": 2.44,
+        "fecha": "10/3/2025, 3:41:54 p.m.",
+        "ganancia": 0.815
       }
     ],
     "Laura": [
@@ -7377,6 +7426,20 @@
         "costoTotal": 21.88,
         "fecha": "10/3/2025, 2:18:42 p.m.",
         "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "10/3/2025, 2:43:40 p.m.",
+        "ganancia": 6.083333333333334
+      },
+      {
+        "producto": "Shots",
+        "piezas": 1,
+        "costoTotal": 2.44,
+        "fecha": "10/3/2025, 3:39:33 p.m.",
+        "ganancia": 0.815
       }
     ],
     "Rafael": [
@@ -8310,6 +8373,13 @@
         "costoTotal": 21.88,
         "fecha": "10/3/2025, 10:37:24 a.m.",
         "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Coca-Cola 500ml",
+        "piezas": 1,
+        "costoTotal": 18.25,
+        "fecha": "10/3/2025, 2:43:57 p.m.",
+        "ganancia": 6.083333333333334
       }
     ],
     "Vicente": [
@@ -8524,10 +8594,10 @@
       "descripcion": "Chicles canels",
       "precioCompra": 0.67,
       "precioVenta": 1.01,
-      "piezas": 40,
+      "piezas": 38,
       "stockParciales": [
         {
-          "cantidad": 40,
+          "cantidad": 38,
           "costoUnitario": 0.67
         }
       ]
@@ -8704,10 +8774,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.63,
       "precioVenta": 2.44,
-      "piezas": 30,
+      "piezas": 28,
       "stockParciales": [
         {
-          "cantidad": 30,
+          "cantidad": 28,
           "costoUnitario": 1.625
         }
       ]
@@ -8751,13 +8821,8 @@
       "descripcion": "Coca-Cola 500ml",
       "precioCompra": 12.17,
       "precioVenta": 18.25,
-      "piezas": 5,
-      "stockParciales": [
-        {
-          "cantidad": 5,
-          "costoUnitario": 12.166666666666666
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000318599",
@@ -8970,10 +9035,10 @@
       "descripcion": "Vive 100",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 24,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 23,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -9137,10 +9202,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.42,
       "precioVenta": 15.63,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 10.42
         }
       ]
@@ -10021,6 +10086,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 17370.73000000001,
-  "inversionRecuperada": 15064.520121428579,
-  "gananciasTotales": 7531.999878571418
+  "inversionRecuperada": 15152.571788095243,
+  "gananciasTotales": 7576.038211904749
 }
