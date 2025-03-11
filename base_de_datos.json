@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 419.10999999999996,
-      "ganancia": 473.9989583333332,
+      "adeudo": 440.98999999999995,
+      "ganancia": 481.29562499999986,
       "saldoFavor": 0
     },
     {
@@ -2999,6 +2999,13 @@
         "costoTotal": 9.64,
         "fecha": "11/3/2025, 11:47:06 a.m.",
         "ganancia": 3.210000000000001
+      },
+      {
+        "producto": "Maruchan limón habanero",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "11/3/2025, 11:59:36 a.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Isac": [
@@ -9207,10 +9214,10 @@
       "descripcion": "Maruchan limón habanero",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -10177,6 +10184,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 17370.73000000001,
-  "inversionRecuperada": 15300.288788095248,
-  "gananciasTotales": 7649.981211904751
+  "inversionRecuperada": 15314.872121428582,
+  "gananciasTotales": 7657.277878571418
 }
