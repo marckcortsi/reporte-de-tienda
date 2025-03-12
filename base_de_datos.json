@@ -38,22 +38,22 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 553.13,
-      "ganancia": 812.8590797619048,
+      "adeudo": 568.85,
+      "ganancia": 818.0940797619048,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 24.30999999999989,
-      "ganancia": 692.8747123015876,
+      "adeudo": 41.079999999999885,
+      "ganancia": 699.2247123015876,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 150.76999999999995,
-      "ganancia": 793.401168650794,
+      "adeudo": 163.96999999999994,
+      "ganancia": 797.7411686507941,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 222.46999999999997,
-      "ganancia": 1362.611869444442,
+      "adeudo": 246.77999999999997,
+      "ganancia": 1370.7135361111086,
       "saldoFavor": 0
     },
     {
@@ -4086,6 +4086,13 @@
         "costoTotal": 18.31,
         "fecha": "12/3/2025, 11:37:31 a.m.",
         "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 3,
+        "costoTotal": 15.72,
+        "fecha": "12/3/2025, 1:01:02 p.m.",
+        "ganancia": 5.235
       }
     ],
     "Isrrael": [
@@ -4536,6 +4543,13 @@
         "costoTotal": 24.31,
         "fecha": "12/3/2025, 12:51:24 p.m.",
         "ganancia": 8.101666666666667
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "12/3/2025, 12:59:43 p.m.",
+        "ganancia": 6.35
       }
     ],
     "Karen": [
@@ -5518,6 +5532,13 @@
         "costoTotal": 4.3,
         "fecha": "12/3/2025, 11:36:21 a.m.",
         "ganancia": 1.428
+      },
+      {
+        "producto": "Aciditos",
+        "piezas": 20,
+        "costoTotal": 13.200000000000001,
+        "fecha": "12/3/2025, 1:02:09 p.m.",
+        "ganancia": 4.340000000000002
       }
     ],
     "Laura": [
@@ -7657,6 +7678,13 @@
         "costoTotal": 17.7,
         "fecha": "12/3/2025, 12:53:14 p.m.",
         "ganancia": 6.579999999999998
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24.31,
+        "fecha": "12/3/2025, 1:03:59 p.m.",
+        "ganancia": 8.101666666666667
       }
     ],
     "Rafael": [
@@ -9316,10 +9344,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 11.18,
       "precioVenta": 16.77,
-      "piezas": 24,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 10.42
         },
         {
@@ -9463,10 +9491,10 @@
       "descripcion": "Arizona kiwi",
       "precioCompra": 16.21,
       "precioVenta": 24.31,
-      "piezas": 23,
+      "piezas": 22,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 22,
           "costoUnitario": 16.208333333333332
         }
       ]
@@ -9502,10 +9530,10 @@
       "descripcion": "Aciditos",
       "precioCompra": 0.44,
       "precioVenta": 0.66,
-      "piezas": 100,
+      "piezas": 80,
       "stockParciales": [
         {
-          "cantidad": 100,
+          "cantidad": 80,
           "costoUnitario": 0.44299999999999995
         }
       ]
@@ -9554,10 +9582,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 100,
+      "piezas": 97,
       "stockParciales": [
         {
-          "cantidad": 100,
+          "cantidad": 97,
           "costoUnitario": 3.495
         }
       ]
@@ -10696,6 +10724,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 15613.854597619062,
-  "gananciasTotales": 7807.875402380942
+  "inversionRecuperada": 15659.827930952397,
+  "gananciasTotales": 7831.902069047609
 }
