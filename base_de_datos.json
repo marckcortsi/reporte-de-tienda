@@ -10,15 +10,15 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 727.5700000000002,
-      "ganancia": 1138.1724464285712,
+      "adeudo": 788.0800000000002,
+      "ganancia": 1158.346017857143,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 426.27,
-      "ganancia": 380.9297321428571,
+      "adeudo": 436.66999999999996,
+      "ganancia": 384.4011607142857,
       "saldoFavor": 0
     },
     {
@@ -31,29 +31,29 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 440.98999999999995,
-      "ganancia": 481.29562499999986,
+      "adeudo": 459.59999999999997,
+      "ganancia": 487.4989583333332,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 501.0800000000001,
-      "ganancia": 795.5124130952381,
+      "adeudo": 534.82,
+      "ganancia": 806.7574130952381,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 277.6899999999999,
-      "ganancia": 679.5630456349209,
+      "adeudo": 293.3199999999999,
+      "ganancia": 684.7730456349209,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 140.68999999999994,
-      "ganancia": 790.0431686507941,
+      "adeudo": 146.46999999999994,
+      "ganancia": 791.973168650794,
       "saldoFavor": 0
     },
     {
@@ -66,22 +66,22 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 145.41,
-      "ganancia": 1336.2435361111086,
+      "adeudo": 153.51999999999998,
+      "ganancia": 1338.9485361111088,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 245.62,
-      "ganancia": 628.6266472222228,
+      "adeudo": 281.57,
+      "ganancia": 640.6083138888895,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 117.42508928571426,
+      "adeudo": 17.64,
+      "ganancia": 123.30508928571426,
       "saldoFavor": 0
     },
     {
@@ -1691,6 +1691,34 @@
         "costoTotal": 61,
         "fecha": "10/3/2025, 6:00:42 p.m.",
         "ganancia": 20.375
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 15.63,
+        "fecha": "12/3/2025, 8:46:30 a.m.",
+        "ganancia": 5.210000000000001
+      },
+      {
+        "producto": "Mini mamut",
+        "piezas": 3,
+        "costoTotal": 7.800000000000001,
+        "fecha": "12/3/2025, 8:46:30 a.m.",
+        "ganancia": 2.6035714285714286
+      },
+      {
+        "producto": "Galletas Principe",
+        "piezas": 1,
+        "costoTotal": 31.3,
+        "fecha": "12/3/2025, 8:46:30 a.m.",
+        "ganancia": 10.43
+      },
+      {
+        "producto": "Marlboro",
+        "piezas": 1,
+        "costoTotal": 5.78,
+        "fecha": "12/3/2025, 8:46:30 a.m.",
+        "ganancia": 1.9300000000000002
       }
     ],
     "Edgar": [
@@ -2218,6 +2246,13 @@
         "costoTotal": 21.88,
         "fecha": "10/3/2025, 10:36:58 a.m.",
         "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Mini mamut",
+        "piezas": 4,
+        "costoTotal": 10.4,
+        "fecha": "12/3/2025, 8:49:16 a.m.",
+        "ganancia": 3.4714285714285715
       }
     ],
     "Francisco": [
@@ -3006,6 +3041,13 @@
         "costoTotal": 21.88,
         "fecha": "11/3/2025, 11:59:36 a.m.",
         "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Emperador Nuez",
+        "piezas": 1,
+        "costoTotal": 18.61,
+        "fecha": "12/3/2025, 8:50:20 a.m.",
+        "ganancia": 6.203333333333333
       }
     ],
     "Isac": [
@@ -4002,6 +4044,20 @@
         "costoTotal": 14.55,
         "fecha": "11/3/2025, 11:41:04 a.m.",
         "ganancia": 4.85
+      },
+      {
+        "producto": "Galletas Principe",
+        "piezas": 1,
+        "costoTotal": 31.3,
+        "fecha": "12/3/2025, 8:47:31 a.m.",
+        "ganancia": 10.43
+      },
+      {
+        "producto": "Shots",
+        "piezas": 1,
+        "costoTotal": 2.44,
+        "fecha": "12/3/2025, 8:47:31 a.m.",
+        "ganancia": 0.815
       }
     ],
     "Isrrael": [
@@ -4438,6 +4494,13 @@
         "costoTotal": 2.02,
         "fecha": "10/3/2025, 4:34:21 p.m.",
         "ganancia": 0.6799999999999999
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 15.63,
+        "fecha": "12/3/2025, 8:45:51 a.m.",
+        "ganancia": 5.210000000000001
       }
     ],
     "Karen": [
@@ -5406,6 +5469,13 @@
         "costoTotal": 21.88,
         "fecha": "11/3/2025, 10:26:27 a.m.",
         "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Marlboro",
+        "piezas": 1,
+        "costoTotal": 5.78,
+        "fecha": "12/3/2025, 8:13:54 a.m.",
+        "ganancia": 1.9300000000000002
       }
     ],
     "Laura": [
@@ -7517,6 +7587,20 @@
         "costoTotal": 21.88,
         "fecha": "11/3/2025, 11:41:25 a.m.",
         "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Zumba goma mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.67,
+        "fecha": "11/3/2025, 3:59:14 p.m.",
+        "ganancia": 1.8900000000000001
+      },
+      {
+        "producto": "Shots",
+        "piezas": 1,
+        "costoTotal": 2.44,
+        "fecha": "12/3/2025, 8:12:52 a.m.",
+        "ganancia": 0.815
       }
     ],
     "Rafael": [
@@ -8471,6 +8555,20 @@
         "costoTotal": 21.88,
         "fecha": "11/3/2025, 11:40:39 a.m.",
         "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Galletas oreo",
+        "piezas": 1,
+        "costoTotal": 17.64,
+        "fecha": "12/3/2025, 8:44:09 a.m.",
+        "ganancia": 5.880000000000001
+      },
+      {
+        "producto": "Vive 100",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "12/3/2025, 8:44:09 a.m.",
+        "ganancia": 6.101666666666665
       }
     ],
     "Vicente": [
@@ -8613,6 +8711,13 @@
         "costoTotal": 18.25,
         "fecha": "7/3/2025, 3:37:15 p.m.",
         "ganancia": 6.083333333333334
+      },
+      {
+        "producto": "Galletas oreo",
+        "piezas": 1,
+        "costoTotal": 17.64,
+        "fecha": "12/3/2025, 8:51:17 a.m.",
+        "ganancia": 5.880000000000001
       }
     ],
     "Externo": [
@@ -8846,10 +8951,10 @@
       "descripcion": "Emperador Nuez",
       "precioCompra": 12.41,
       "precioVenta": 18.61,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.406666666666666
         }
       ]
@@ -8872,13 +8977,8 @@
       "descripcion": "Shots",
       "precioCompra": 1.63,
       "precioVenta": 2.44,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 1.625
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "3",
@@ -8992,10 +9092,10 @@
       "descripcion": "Mini mamut",
       "precioCompra": 1.73,
       "precioVenta": 2.6,
-      "piezas": 17,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 10,
           "costoUnitario": 1.7321428571428572
         }
       ]
@@ -9073,10 +9173,10 @@
       "descripcion": "Zumba goma mora Azul",
       "precioCompra": 3.78,
       "precioVenta": 5.67,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 3.78
         }
       ]
@@ -9133,10 +9233,10 @@
       "descripcion": "Vive 100",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 22,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 22,
+          "cantidad": 21,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -9154,10 +9254,10 @@
       "descripcion": "Marlboro",
       "precioCompra": 3.85,
       "precioVenta": 5.78,
-      "piezas": 20,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 18,
           "costoUnitario": 3.85
         }
       ]
@@ -9167,10 +9267,10 @@
       "descripcion": "Galletas Principe",
       "precioCompra": 20.87,
       "precioVenta": 31.3,
-      "piezas": 3,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 1,
           "costoUnitario": 20.87
         }
       ]
@@ -9193,13 +9293,8 @@
       "descripcion": "Galletas oreo",
       "precioCompra": 11.76,
       "precioVenta": 17.64,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 11.76
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478022496",
@@ -9300,10 +9395,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.42,
       "precioVenta": 15.63,
-      "piezas": 6,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 4,
           "costoUnitario": 10.42
         }
       ]
@@ -10184,6 +10279,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 17370.73000000001,
-  "inversionRecuperada": 15314.872121428582,
-  "gananciasTotales": 7657.277878571418
+  "inversionRecuperada": 15452.442121428585,
+  "gananciasTotales": 7726.077878571419
 }
