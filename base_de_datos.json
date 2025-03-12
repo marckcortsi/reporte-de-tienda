@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 257.18,
-      "ganancia": 958.545925000001,
+      "adeudo": 361.22,
+      "ganancia": 993.285925000001,
       "saldoFavor": 0
     },
     {
@@ -24,9 +24,9 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 256.219625,
-      "saldoFavor": 0.26
+      "adeudo": 11.98,
+      "ganancia": 260.2974821428571,
+      "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
@@ -38,22 +38,22 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 534.82,
-      "ganancia": 806.7574130952381,
+      "adeudo": 553.13,
+      "ganancia": 812.8590797619048,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 293.3199999999999,
-      "ganancia": 684.7730456349209,
+      "adeudo": 317.6299999999999,
+      "ganancia": 692.8747123015876,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 146.46999999999994,
-      "ganancia": 791.973168650794,
+      "adeudo": 150.76999999999995,
+      "ganancia": 793.401168650794,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 153.51999999999998,
-      "ganancia": 1338.9485361111088,
+      "adeudo": 222.46999999999997,
+      "ganancia": 1362.611869444442,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 281.57,
-      "ganancia": 640.6083138888895,
+      "adeudo": 292.63,
+      "ganancia": 644.2933138888894,
       "saldoFavor": 0
     },
     {
@@ -646,6 +646,13 @@
         "costoTotal": 115.60000000000001,
         "fecha": "10/3/2025, 1:14:29 p.m.",
         "ganancia": 38.6
+      },
+      {
+        "producto": "Marlboro",
+        "piezas": 18,
+        "costoTotal": 104.04,
+        "fecha": "12/3/2025, 9:05:44 a.m.",
+        "ganancia": 34.74
       }
     ],
     "Carlos": [
@@ -2528,6 +2535,20 @@
         "costoTotal": 31.26,
         "fecha": "7/3/2025, 5:21:30 p.m.",
         "ganancia": 10.420000000000002
+      },
+      {
+        "producto": "Mini mamut",
+        "piezas": 1,
+        "costoTotal": 2.6,
+        "fecha": "12/3/2025, 10:35:22 a.m.",
+        "ganancia": 0.8678571428571429
+      },
+      {
+        "producto": "Top tops",
+        "piezas": 1,
+        "costoTotal": 9.64,
+        "fecha": "12/3/2025, 10:35:22 a.m.",
+        "ganancia": 3.210000000000001
       }
     ],
     "Irvin": [
@@ -4058,6 +4079,13 @@
         "costoTotal": 2.44,
         "fecha": "12/3/2025, 8:47:31 a.m.",
         "ganancia": 0.815
+      },
+      {
+        "producto": "Vive 100",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "12/3/2025, 11:37:31 a.m.",
+        "ganancia": 6.101666666666665
       }
     ],
     "Isrrael": [
@@ -4501,6 +4529,13 @@
         "costoTotal": 15.63,
         "fecha": "12/3/2025, 8:45:51 a.m.",
         "ganancia": 5.210000000000001
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24.31,
+        "fecha": "12/3/2025, 12:51:24 p.m.",
+        "ganancia": 8.101666666666667
       }
     ],
     "Karen": [
@@ -5476,6 +5511,13 @@
         "costoTotal": 5.78,
         "fecha": "12/3/2025, 8:13:54 a.m.",
         "ganancia": 1.9300000000000002
+      },
+      {
+        "producto": "Gummy pop",
+        "piezas": 2,
+        "costoTotal": 4.3,
+        "fecha": "12/3/2025, 11:36:21 a.m.",
+        "ganancia": 1.428
       }
     ],
     "Laura": [
@@ -7601,6 +7643,20 @@
         "costoTotal": 2.44,
         "fecha": "12/3/2025, 8:12:52 a.m.",
         "ganancia": 0.815
+      },
+      {
+        "producto": "Coca-cola 3 litros",
+        "piezas": 1,
+        "costoTotal": 51.25,
+        "fecha": "12/3/2025, 12:53:14 p.m.",
+        "ganancia": 17.083333333333336
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 17.7,
+        "fecha": "12/3/2025, 12:53:14 p.m.",
+        "ganancia": 6.579999999999998
       }
     ],
     "Rafael": [
@@ -8569,6 +8625,20 @@
         "costoTotal": 18.31,
         "fecha": "12/3/2025, 8:44:09 a.m.",
         "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Zumba goma mora Azul",
+        "piezas": 1,
+        "costoTotal": 5.67,
+        "fecha": "12/3/2025, 11:38:22 a.m.",
+        "ganancia": 1.8900000000000001
+      },
+      {
+        "producto": "Paleta Búbalo Xtreme",
+        "piezas": 1,
+        "costoTotal": 5.39,
+        "fecha": "12/3/2025, 11:38:22 a.m.",
+        "ganancia": 1.7949999999999995
       }
     ],
     "Vicente": [
@@ -8784,10 +8854,10 @@
       "descripcion": "Paleta Búbalo Xtreme",
       "precioCompra": 3.6,
       "precioVenta": 5.39,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 3.595
         }
       ]
@@ -8806,14 +8876,6 @@
       ]
     },
     {
-      "codigo": "7500366004832",
-      "descripcion": "Totis chile y limón",
-      "precioCompra": 13.2,
-      "precioVenta": 19.8,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "703885005251",
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
@@ -8825,14 +8887,6 @@
           "costoUnitario": 3.2399999999999998
         }
       ]
-    },
-    {
-      "codigo": "7506192505451",
-      "descripcion": "Vive 100 original",
-      "precioCompra": 12.21,
-      "precioVenta": 18.31,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "7503018627083",
@@ -8900,27 +8954,6 @@
       ]
     },
     {
-      "codigo": "744886405053",
-      "descripcion": "Jarritos Tutifruti",
-      "precioCompra": 19.13,
-      "precioVenta": 28.69,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7500366000797",
-      "descripcion": "Top tops",
-      "precioCompra": 6.43,
-      "precioVenta": 9.64,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 6.43
-        }
-      ]
-    },
-    {
       "codigo": "041789001987",
       "descripcion": "Maruchan chile pikin",
       "precioCompra": 14,
@@ -8960,27 +8993,6 @@
       ]
     },
     {
-      "codigo": "75071295",
-      "descripcion": "Pall Mall",
-      "precioCompra": 3.5,
-      "precioVenta": 5.24,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 3.495
-        }
-      ]
-    },
-    {
-      "codigo": "75078843",
-      "descripcion": "Shots",
-      "precioCompra": 1.63,
-      "precioVenta": 2.44,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "3",
       "descripcion": "Encendedor",
       "precioCompra": 4.29,
@@ -8992,14 +9004,6 @@
           "costoUnitario": 4.2932
         }
       ]
-    },
-    {
-      "codigo": "613008738860",
-      "descripcion": "Arizona ponche",
-      "precioCompra": 16,
-      "precioVenta": 23.99,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "7622210833709",
@@ -9015,23 +9019,19 @@
       ]
     },
     {
-      "codigo": "75004699",
-      "descripcion": "Coca-Cola 500ml",
-      "precioCompra": 12.17,
-      "precioVenta": 18.25,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "7501000318599",
       "descripcion": "Takis",
-      "precioCompra": 11.12,
-      "precioVenta": 16.68,
-      "piezas": 7,
+      "precioCompra": 11.8,
+      "precioVenta": 17.7,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 11.120000000000001
+        },
+        {
+          "cantidad": 15,
+          "costoUnitario": 11.8
         }
       ]
     },
@@ -9077,13 +9077,17 @@
     {
       "codigo": "7503022458758",
       "descripcion": "Sol habanero",
-      "precioCompra": 13,
-      "precioVenta": 19.5,
-      "piezas": 3,
+      "precioCompra": 12.9,
+      "precioVenta": 19.35,
+      "piezas": 9,
       "stockParciales": [
         {
           "cantidad": 3,
           "costoUnitario": 13
+        },
+        {
+          "cantidad": 6,
+          "costoUnitario": 12.9
         }
       ]
     },
@@ -9092,42 +9096,30 @@
       "descripcion": "Mini mamut",
       "precioCompra": 1.73,
       "precioVenta": 2.6,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 1.7321428571428572
         }
       ]
-    },
-    {
-      "codigo": "7501030490937",
-      "descripcion": "Canelitas",
-      "precioCompra": 20.87,
-      "precioVenta": 31.31,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "7501030490920",
       "descripcion": "Polvorones",
       "precioCompra": 20.87,
       "precioVenta": 31.31,
-      "piezas": 3,
+      "piezas": 6,
       "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 20.87333333333333
+        },
         {
           "cantidad": 3,
           "costoUnitario": 20.87333333333333
         }
       ]
-    },
-    {
-      "codigo": "7501059242913",
-      "descripcion": "Tin larin",
-      "precioCompra": 7.86,
-      "precioVenta": 11.79,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "097339000054",
@@ -9156,27 +9148,14 @@
       ]
     },
     {
-      "codigo": "7501032398583",
-      "descripcion": "Yogurt fresa",
-      "precioCompra": 11.93,
-      "precioVenta": 17.89,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 11.93
-        }
-      ]
-    },
-    {
       "codigo": "703885005244",
       "descripcion": "Zumba goma mora Azul",
       "precioCompra": 3.78,
       "precioVenta": 5.67,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 3.78
         }
       ]
@@ -9208,14 +9187,6 @@
       ]
     },
     {
-      "codigo": "7501011145566",
-      "descripcion": "Rokaleta",
-      "precioCompra": 5.99,
-      "precioVenta": 8.99,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "75010065590191",
       "descripcion": "Palimitas",
       "precioCompra": 10.42,
@@ -9229,36 +9200,15 @@
       ]
     },
     {
-      "codigo": "75061925054511",
+      "codigo": "7506192505451",
       "descripcion": "Vive 100",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 21,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 20,
           "costoUnitario": 12.208333333333334
-        }
-      ]
-    },
-    {
-      "codigo": "75010553130681",
-      "descripcion": "Coca 3 litros",
-      "precioCompra": 33.67,
-      "precioVenta": 50.5,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "75001322",
-      "descripcion": "Marlboro",
-      "precioCompra": 3.85,
-      "precioVenta": 5.78,
-      "piezas": 18,
-      "stockParciales": [
-        {
-          "cantidad": 18,
-          "costoUnitario": 3.85
         }
       ]
     },
@@ -9267,53 +9217,32 @@
       "descripcion": "Galletas Principe",
       "precioCompra": 20.87,
       "precioVenta": 31.3,
-      "piezas": 1,
+      "piezas": 6,
       "stockParciales": [
         {
           "cantidad": 1,
           "costoUnitario": 20.87
-        }
-      ]
-    },
-    {
-      "codigo": "7501000601776",
-      "descripcion": "Emperador zenzo",
-      "precioCompra": 14.87,
-      "precioVenta": 22.3,
-      "piezas": 2,
-      "stockParciales": [
+        },
         {
-          "cantidad": 2,
-          "costoUnitario": 14.868333333333332
+          "cantidad": 5,
+          "costoUnitario": 20.869999999999997
         }
       ]
-    },
-    {
-      "codigo": "7622210833662",
-      "descripcion": "Galletas oreo",
-      "precioCompra": 11.76,
-      "precioVenta": 17.64,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7500478022496",
-      "descripcion": "Emperador Chocolate",
-      "precioCompra": 12.13,
-      "precioVenta": 18.19,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "041789001154",
       "descripcion": "Maruchan limón habanero",
-      "precioCompra": 14.58,
-      "precioVenta": 21.88,
-      "piezas": 6,
+      "precioCompra": 14.67,
+      "precioVenta": 22,
+      "piezas": 18,
       "stockParciales": [
         {
           "cantidad": 6,
           "costoUnitario": 14.583333333333334
+        },
+        {
+          "cantidad": 12,
+          "costoUnitario": 14.666666666666666
         }
       ]
     },
@@ -9329,14 +9258,6 @@
           "costoUnitario": 14.583333333333334
         }
       ]
-    },
-    {
-      "codigo": "7501058610959",
-      "descripcion": "Nescafe",
-      "precioCompra": 18.83,
-      "precioVenta": 28.24,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "038629002068",
@@ -9382,10 +9303,10 @@
       "descripcion": "Gummy pop",
       "precioCompra": 1.44,
       "precioVenta": 2.15,
-      "piezas": 17,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 15,
           "costoUnitario": 1.436
         }
       ]
@@ -9393,13 +9314,329 @@
     {
       "codigo": "8000500267035",
       "descripcion": "Kinder delice",
-      "precioCompra": 10.42,
-      "precioVenta": 15.63,
-      "piezas": 4,
+      "precioCompra": 11.18,
+      "precioVenta": 16.77,
+      "piezas": 24,
       "stockParciales": [
         {
           "cantidad": 4,
           "costoUnitario": 10.42
+        },
+        {
+          "cantidad": 20,
+          "costoUnitario": 11.18
+        }
+      ]
+    },
+    {
+      "codigo": "75004699",
+      "descripcion": "Coca-cola 500 ml",
+      "precioCompra": 13.13,
+      "precioVenta": 19.69,
+      "piezas": 24,
+      "stockParciales": [
+        {
+          "cantidad": 24,
+          "costoUnitario": 13.125
+        }
+      ]
+    },
+    {
+      "codigo": "7501055313068",
+      "descripcion": "Coca-cola 3 litros",
+      "precioCompra": 34.17,
+      "precioVenta": 51.25,
+      "piezas": 11,
+      "stockParciales": [
+        {
+          "cantidad": 11,
+          "costoUnitario": 34.166666666666664
+        }
+      ]
+    },
+    {
+      "codigo": "7501055304691",
+      "descripcion": "Delaware",
+      "precioCompra": 19.19,
+      "precioVenta": 28.78,
+      "piezas": 8,
+      "stockParciales": [
+        {
+          "cantidad": 8,
+          "costoUnitario": 19.1875
+        }
+      ]
+    },
+    {
+      "codigo": "7501032398606",
+      "descripcion": "Yogurt piña",
+      "precioCompra": 13.5,
+      "precioVenta": 20.25,
+      "piezas": 6,
+      "stockParciales": [
+        {
+          "cantidad": 6,
+          "costoUnitario": 13.5
+        }
+      ]
+    },
+    {
+      "codigo": "7501032398637",
+      "descripcion": "Yogurt galleta",
+      "precioCompra": 13.5,
+      "precioVenta": 20.25,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 13.5
+        }
+      ]
+    },
+    {
+      "codigo": "7501032398576",
+      "descripcion": "Yogurt fresa",
+      "precioCompra": 10.93,
+      "precioVenta": 16.39,
+      "piezas": 3,
+      "stockParciales": [
+        {
+          "cantidad": 3,
+          "costoUnitario": 10.93
+        }
+      ]
+    },
+    {
+      "codigo": "75000011",
+      "descripcion": "Leche de chocolate",
+      "precioCompra": 9.36,
+      "precioVenta": 14.03,
+      "piezas": 6,
+      "stockParciales": [
+        {
+          "cantidad": 6,
+          "costoUnitario": 9.355
+        }
+      ]
+    },
+    {
+      "codigo": "7501020570878",
+      "descripcion": "Leche de vainilla",
+      "precioCompra": 7.13,
+      "precioVenta": 10.7,
+      "piezas": 6,
+      "stockParciales": [
+        {
+          "cantidad": 6,
+          "costoUnitario": 7.13
+        }
+      ]
+    },
+    {
+      "codigo": "7501020570861",
+      "descripcion": "Leche de fresa",
+      "precioCompra": 7.13,
+      "precioVenta": 10.7,
+      "piezas": 6,
+      "stockParciales": [
+        {
+          "cantidad": 6,
+          "costoUnitario": 7.13
+        }
+      ]
+    },
+    {
+      "codigo": "7501059242913",
+      "descripcion": "Chocolate Larin",
+      "precioCompra": 7.86,
+      "precioVenta": 11.79,
+      "piezas": 10,
+      "stockParciales": [
+        {
+          "cantidad": 10,
+          "costoUnitario": 7.859999999999999
+        }
+      ]
+    },
+    {
+      "codigo": "613008738822",
+      "descripcion": "Arizona kiwi",
+      "precioCompra": 16.21,
+      "precioVenta": 24.31,
+      "piezas": 23,
+      "stockParciales": [
+        {
+          "cantidad": 23,
+          "costoUnitario": 16.208333333333332
+        }
+      ]
+    },
+    {
+      "codigo": "7501000601776",
+      "descripcion": "Emperador senzo",
+      "precioCompra": 14.87,
+      "precioVenta": 22.3,
+      "piezas": 6,
+      "stockParciales": [
+        {
+          "cantidad": 6,
+          "costoUnitario": 14.868333333333332
+        }
+      ]
+    },
+    {
+      "codigo": "7622210833662",
+      "descripcion": "Oreo",
+      "precioCompra": 13.07,
+      "precioVenta": 19.6,
+      "piezas": 6,
+      "stockParciales": [
+        {
+          "cantidad": 6,
+          "costoUnitario": 13.066666666666668
+        }
+      ]
+    },
+    {
+      "codigo": "725226003351",
+      "descripcion": "Aciditos",
+      "precioCompra": 0.44,
+      "precioVenta": 0.66,
+      "piezas": 100,
+      "stockParciales": [
+        {
+          "cantidad": 100,
+          "costoUnitario": 0.44299999999999995
+        }
+      ]
+    },
+    {
+      "codigo": "7500478008926",
+      "descripcion": "Chokis",
+      "precioCompra": 11,
+      "precioVenta": 16.5,
+      "piezas": 6,
+      "stockParciales": [
+        {
+          "cantidad": 6,
+          "costoUnitario": 11
+        }
+      ]
+    },
+    {
+      "codigo": "75078843",
+      "descripcion": "Shots",
+      "precioCompra": 1.71,
+      "precioVenta": 2.56,
+      "piezas": 200,
+      "stockParciales": [
+        {
+          "cantidad": 200,
+          "costoUnitario": 1.71
+        }
+      ]
+    },
+    {
+      "codigo": "75001322",
+      "descripcion": "Marlboro",
+      "precioCompra": 3.86,
+      "precioVenta": 5.79,
+      "piezas": 100,
+      "stockParciales": [
+        {
+          "cantidad": 100,
+          "costoUnitario": 3.86
+        }
+      ]
+    },
+    {
+      "codigo": "75071295",
+      "descripcion": "Pall Mall",
+      "precioCompra": 3.5,
+      "precioVenta": 5.24,
+      "piezas": 100,
+      "stockParciales": [
+        {
+          "cantidad": 100,
+          "costoUnitario": 3.495
+        }
+      ]
+    },
+    {
+      "codigo": "724869100090",
+      "descripcion": "Mazapan",
+      "precioCompra": 2.83,
+      "precioVenta": 4.25,
+      "piezas": 24,
+      "stockParciales": [
+        {
+          "cantidad": 24,
+          "costoUnitario": 2.8333333333333335
+        }
+      ]
+    },
+    {
+      "codigo": "7501345744442",
+      "descripcion": "Dragoncitos",
+      "precioCompra": 0.24,
+      "precioVenta": 0.36,
+      "piezas": 100,
+      "stockParciales": [
+        {
+          "cantidad": 100,
+          "costoUnitario": 0.2397
+        }
+      ]
+    },
+    {
+      "codigo": "7503020760006",
+      "descripcion": "Churritos chile",
+      "precioCompra": 7.5,
+      "precioVenta": 11.25,
+      "piezas": 10,
+      "stockParciales": [
+        {
+          "cantidad": 10,
+          "costoUnitario": 7.5
+        }
+      ]
+    },
+    {
+      "codigo": "7503020760020",
+      "descripcion": "Churritos sal",
+      "precioCompra": 7.5,
+      "precioVenta": 11.25,
+      "piezas": 10,
+      "stockParciales": [
+        {
+          "cantidad": 10,
+          "costoUnitario": 7.5
+        }
+      ]
+    },
+    {
+      "codigo": "7503020501623",
+      "descripcion": "Papas sol",
+      "precioCompra": 12.5,
+      "precioVenta": 18.75,
+      "piezas": 6,
+      "stockParciales": [
+        {
+          "cantidad": 6,
+          "costoUnitario": 12.5
+        }
+      ]
+    },
+    {
+      "codigo": "7503022458505",
+      "descripcion": "Papas sol chipotle",
+      "precioCompra": 12.88,
+      "precioVenta": 19.31,
+      "piezas": 8,
+      "stockParciales": [
+        {
+          "cantidad": 8,
+          "costoUnitario": 12.875
         }
       ]
     }
@@ -10274,11 +10511,191 @@
       "cantidad": 20,
       "costoTotal": 208.4,
       "fecha": "5/3/2025, 8:18:58 a.m."
+    },
+    {
+      "producto": "Coca-cola 500 ml",
+      "cantidad": 24,
+      "costoTotal": 315,
+      "fecha": "12/3/2025, 11:56:32 a.m."
+    },
+    {
+      "producto": "Coca-cola 3 litros",
+      "cantidad": 12,
+      "costoTotal": 410,
+      "fecha": "12/3/2025, 11:57:28 a.m."
+    },
+    {
+      "producto": "Delaware",
+      "cantidad": 8,
+      "costoTotal": 153.5,
+      "fecha": "12/3/2025, 11:58:13 a.m."
+    },
+    {
+      "producto": "Yogurt piña",
+      "cantidad": 6,
+      "costoTotal": 81,
+      "fecha": "12/3/2025, 12:01:37 p.m."
+    },
+    {
+      "producto": "Yogurt galleta",
+      "cantidad": 3,
+      "costoTotal": 40.5,
+      "fecha": "12/3/2025, 12:02:48 p.m."
+    },
+    {
+      "producto": "Yogurt fresa",
+      "cantidad": 3,
+      "costoTotal": 32.79,
+      "fecha": "12/3/2025, 12:05:20 p.m."
+    },
+    {
+      "producto": "Leche de chocolate",
+      "cantidad": 6,
+      "costoTotal": 56.13,
+      "fecha": "12/3/2025, 12:06:45 p.m."
+    },
+    {
+      "producto": "Leche de vainilla",
+      "cantidad": 6,
+      "costoTotal": 42.78,
+      "fecha": "12/3/2025, 12:09:26 p.m."
+    },
+    {
+      "producto": "Leche de fresa",
+      "cantidad": 6,
+      "costoTotal": 42.78,
+      "fecha": "12/3/2025, 12:10:30 p.m."
+    },
+    {
+      "producto": "Takis",
+      "cantidad": 15,
+      "costoTotal": 177,
+      "fecha": "12/3/2025, 12:11:26 p.m."
+    },
+    {
+      "producto": "Kinder delice",
+      "cantidad": 20,
+      "costoTotal": 223.6,
+      "fecha": "12/3/2025, 12:13:05 p.m."
+    },
+    {
+      "producto": "Chocolate Larin",
+      "cantidad": 10,
+      "costoTotal": 78.6,
+      "fecha": "12/3/2025, 12:14:38 p.m."
+    },
+    {
+      "producto": "Arizona kiwi",
+      "cantidad": 24,
+      "costoTotal": 389,
+      "fecha": "12/3/2025, 12:16:46 p.m."
+    },
+    {
+      "producto": "Emperador senzo",
+      "cantidad": 6,
+      "costoTotal": 89.21,
+      "fecha": "12/3/2025, 12:19:47 p.m."
+    },
+    {
+      "producto": "Polvorones",
+      "cantidad": 3,
+      "costoTotal": 62.62,
+      "fecha": "12/3/2025, 12:22:22 p.m."
+    },
+    {
+      "producto": "Oreo",
+      "cantidad": 6,
+      "costoTotal": 78.4,
+      "fecha": "12/3/2025, 12:24:38 p.m."
+    },
+    {
+      "producto": "Galletas Principe",
+      "cantidad": 5,
+      "costoTotal": 104.35,
+      "fecha": "12/3/2025, 12:26:31 p.m."
+    },
+    {
+      "producto": "Aciditos",
+      "cantidad": 100,
+      "costoTotal": 44.3,
+      "fecha": "12/3/2025, 12:28:59 p.m."
+    },
+    {
+      "producto": "Chokis",
+      "cantidad": 6,
+      "costoTotal": 66,
+      "fecha": "12/3/2025, 12:30:07 p.m."
+    },
+    {
+      "producto": "Maruchan limón habanero",
+      "cantidad": 12,
+      "costoTotal": 176,
+      "fecha": "12/3/2025, 12:32:01 p.m."
+    },
+    {
+      "producto": "Shots",
+      "cantidad": 200,
+      "costoTotal": 342,
+      "fecha": "12/3/2025, 12:34:41 p.m."
+    },
+    {
+      "producto": "Marlboro",
+      "cantidad": 100,
+      "costoTotal": 386,
+      "fecha": "12/3/2025, 12:36:04 p.m."
+    },
+    {
+      "producto": "Pall Mall",
+      "cantidad": 100,
+      "costoTotal": 349.5,
+      "fecha": "12/3/2025, 12:36:35 p.m."
+    },
+    {
+      "producto": "Mazapan",
+      "cantidad": 24,
+      "costoTotal": 68,
+      "fecha": "12/3/2025, 12:40:56 p.m."
+    },
+    {
+      "producto": "Dragoncitos",
+      "cantidad": 100,
+      "costoTotal": 23.97,
+      "fecha": "12/3/2025, 12:41:56 p.m."
+    },
+    {
+      "producto": "Churritos chile",
+      "cantidad": 10,
+      "costoTotal": 75,
+      "fecha": "12/3/2025, 12:44:12 p.m."
+    },
+    {
+      "producto": "Churritos sal",
+      "cantidad": 10,
+      "costoTotal": 75,
+      "fecha": "12/3/2025, 12:44:28 p.m."
+    },
+    {
+      "producto": "Papas sol",
+      "cantidad": 6,
+      "costoTotal": 75,
+      "fecha": "12/3/2025, 12:46:08 p.m."
+    },
+    {
+      "producto": "Papas sol chipotle",
+      "cantidad": 8,
+      "costoTotal": 103,
+      "fecha": "12/3/2025, 12:48:07 p.m."
+    },
+    {
+      "producto": "Sol habanero",
+      "cantidad": 6,
+      "costoTotal": 77.4,
+      "fecha": "12/3/2025, 12:49:52 p.m."
     }
   ],
   "numInversionistas": 12,
   "totalInversion": 6000,
-  "gastoEnProductos": 17370.73000000001,
-  "inversionRecuperada": 15452.442121428585,
-  "gananciasTotales": 7726.077878571419
+  "gastoEnProductos": 21609.160000000007,
+  "inversionRecuperada": 15613.854597619062,
+  "gananciasTotales": 7807.875402380942
 }
