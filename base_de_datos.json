@@ -59,15 +59,15 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 31.31,
-      "ganancia": 94.70062499999999,
+      "adeudo": 42.56,
+      "ganancia": 98.45062499999999,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 349.10999999999996,
-      "ganancia": 1405.495202777775,
+      "adeudo": 354.34999999999997,
+      "ganancia": 1407.2402027777748,
       "saldoFavor": 0
     },
     {
@@ -5779,6 +5779,13 @@
         "costoTotal": 31.31,
         "fecha": "10/3/2025, 12:28:54 p.m.",
         "ganancia": 10.436666666666667
+      },
+      {
+        "producto": "Churritos chile",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "13/3/2025, 4:02:05 p.m.",
+        "ganancia": 3.75
       }
     ],
     "Marcos": [
@@ -7853,6 +7860,13 @@
         "costoTotal": 19.31,
         "fecha": "13/3/2025, 1:06:02 p.m.",
         "ganancia": 6.434999999999999
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "13/3/2025, 4:02:13 p.m.",
+        "ganancia": 1.745
       }
     ],
     "Rafael": [
@@ -9799,10 +9813,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 89,
+      "piezas": 88,
       "stockParciales": [
         {
-          "cantidad": 89,
+          "cantidad": 88,
           "costoUnitario": 3.495
         }
       ]
@@ -9838,10 +9852,10 @@
       "descripcion": "Churritos chile",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 7.5
         }
       ]
@@ -10941,6 +10955,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 16022.0885261905,
-  "gananciasTotales": 8013.981473809512
+  "inversionRecuperada": 16033.083526190501,
+  "gananciasTotales": 8019.476473809512
 }
