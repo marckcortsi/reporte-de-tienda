@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 361.22,
-      "ganancia": 993.285925000001,
+      "adeudo": 412.3,
+      "ganancia": 1010.3100916666676,
       "saldoFavor": 0
     },
     {
@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 472.99999999999994,
-      "ganancia": 396.5078273809524,
+      "adeudo": 496.60999999999996,
+      "ganancia": 404.3778273809524,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 211.19999999999996,
-      "ganancia": 813.4811686507941,
+      "adeudo": 290.06,
+      "ganancia": 839.7511686507942,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 305.48999999999995,
-      "ganancia": 1390.9585361111083,
+      "adeudo": 349.10999999999996,
+      "ganancia": 1405.495202777775,
       "saldoFavor": 0
     },
     {
@@ -80,8 +80,8 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 17.64,
-      "ganancia": 123.30508928571426,
+      "adeudo": 41.95,
+      "ganancia": 131.40675595238093,
       "saldoFavor": 0
     },
     {
@@ -653,6 +653,20 @@
         "costoTotal": 104.04,
         "fecha": "12/3/2025, 9:05:44 a.m.",
         "ganancia": 34.74
+      },
+      {
+        "producto": "Delaware",
+        "piezas": 1,
+        "costoTotal": 28.78,
+        "fecha": "13/3/2025, 12:04:09 p.m.",
+        "ganancia": 9.592500000000001
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 22.3,
+        "fecha": "13/3/2025, 1:04:03 p.m.",
+        "ganancia": 7.431666666666668
       }
     ],
     "Carlos": [
@@ -2295,6 +2309,20 @@
         "costoTotal": 22.3,
         "fecha": "13/3/2025, 8:22:56 a.m.",
         "ganancia": 7.431666666666668
+      },
+      {
+        "producto": "Papas sol",
+        "piezas": 1,
+        "costoTotal": 18.75,
+        "fecha": "13/3/2025, 1:04:34 p.m.",
+        "ganancia": 6.25
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "13/3/2025, 1:04:34 p.m.",
+        "ganancia": 1.6200000000000006
       }
     ],
     "Francisco": [
@@ -5609,6 +5637,27 @@
         "costoTotal": 5.24,
         "fecha": "13/3/2025, 8:23:10 a.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Aciditos",
+        "piezas": 5,
+        "costoTotal": 3.3000000000000003,
+        "fecha": "13/3/2025, 9:48:21 a.m.",
+        "ganancia": 1.0850000000000004
+      },
+      {
+        "producto": "Coca-cola 3 litros",
+        "piezas": 1,
+        "costoTotal": 51.25,
+        "fecha": "13/3/2025, 9:50:18 a.m.",
+        "ganancia": 17.083333333333336
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24.31,
+        "fecha": "13/3/2025, 1:14:51 p.m.",
+        "ganancia": 8.101666666666667
       }
     ],
     "Laura": [
@@ -7790,6 +7839,20 @@
         "costoTotal": 17.7,
         "fecha": "13/3/2025, 8:24:02 a.m.",
         "ganancia": 6.579999999999998
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24.31,
+        "fecha": "13/3/2025, 1:06:02 p.m.",
+        "ganancia": 8.101666666666667
+      },
+      {
+        "producto": "Papas sol chipotle",
+        "piezas": 1,
+        "costoTotal": 19.31,
+        "fecha": "13/3/2025, 1:06:02 p.m.",
+        "ganancia": 6.434999999999999
       }
     ],
     "Rafael": [
@@ -8963,6 +9026,13 @@
         "costoTotal": 17.64,
         "fecha": "12/3/2025, 8:51:17 a.m.",
         "ganancia": 5.880000000000001
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24.31,
+        "fecha": "13/3/2025, 1:16:12 p.m.",
+        "ganancia": 8.101666666666667
       }
     ],
     "Externo": [
@@ -9055,10 +9125,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -9521,10 +9591,10 @@
       "descripcion": "Coca-cola 3 litros",
       "precioCompra": 34.17,
       "precioVenta": 51.25,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 34.166666666666664
         }
       ]
@@ -9534,10 +9604,10 @@
       "descripcion": "Delaware",
       "precioCompra": 19.19,
       "precioVenta": 28.78,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 19.1875
         }
       ]
@@ -9638,10 +9708,10 @@
       "descripcion": "Arizona kiwi",
       "precioCompra": 16.21,
       "precioVenta": 24.31,
-      "piezas": 21,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 18,
           "costoUnitario": 16.208333333333332
         }
       ]
@@ -9651,10 +9721,10 @@
       "descripcion": "Emperador senzo",
       "precioCompra": 14.87,
       "precioVenta": 22.3,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 14.868333333333332
         }
       ]
@@ -9677,10 +9747,10 @@
       "descripcion": "Aciditos",
       "precioCompra": 0.44,
       "precioVenta": 0.66,
-      "piezas": 80,
+      "piezas": 75,
       "stockParciales": [
         {
-          "cantidad": 80,
+          "cantidad": 75,
           "costoUnitario": 0.44299999999999995
         }
       ]
@@ -9794,10 +9864,10 @@
       "descripcion": "Papas sol",
       "precioCompra": 12.5,
       "precioVenta": 18.75,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 12.5
         }
       ]
@@ -9807,10 +9877,10 @@
       "descripcion": "Papas sol chipotle",
       "precioCompra": 12.88,
       "precioVenta": 19.31,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 12.875
         }
       ]
@@ -10871,6 +10941,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 15874.411026190499,
-  "gananciasTotales": 7940.178973809513
+  "inversionRecuperada": 16022.0885261905,
+  "gananciasTotales": 8013.981473809512
 }
