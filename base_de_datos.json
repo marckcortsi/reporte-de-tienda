@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 635.58,
-      "ganancia": 840.3340797619048,
+      "adeudo": 659.89,
+      "ganancia": 848.4357464285715,
       "saldoFavor": 0
     },
     {
@@ -4226,6 +4226,13 @@
         "costoTotal": 19.5,
         "fecha": "14/3/2025, 12:14:22 p.m.",
         "ganancia": 6.5
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24.31,
+        "fecha": "14/3/2025, 1:08:42 p.m.",
+        "ganancia": 8.101666666666667
       }
     ],
     "Isrrael": [
@@ -9939,10 +9946,10 @@
       "descripcion": "Arizona kiwi",
       "precioCompra": 16.21,
       "precioVenta": 24.31,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 16.208333333333332
         }
       ]
@@ -11172,6 +11179,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 16391.922559523842,
-  "gananciasTotales": 8201.977440476181
+  "inversionRecuperada": 16408.130892857174,
+  "gananciasTotales": 8210.079107142848
 }
