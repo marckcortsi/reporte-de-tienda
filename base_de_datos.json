@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 354.34999999999997,
-      "ganancia": 1407.2402027777748,
+      "adeudo": 415.56999999999994,
+      "ganancia": 1428.391236111108,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 400.31,
-      "ganancia": 680.1758138888894,
+      "adeudo": 412,
+      "ganancia": 684.0524138888894,
       "saldoFavor": 0
     },
     {
@@ -7867,6 +7867,48 @@
         "costoTotal": 5.24,
         "fecha": "13/3/2025, 4:02:13 p.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Dragoncitos",
+        "piezas": 3,
+        "costoTotal": 1.08,
+        "fecha": "13/3/2025, 5:10:44 p.m.",
+        "ganancia": 0.3609
+      },
+      {
+        "producto": "Aciditos",
+        "piezas": 5,
+        "costoTotal": 3.3000000000000003,
+        "fecha": "13/3/2025, 5:10:44 p.m.",
+        "ganancia": 1.0850000000000004
+      },
+      {
+        "producto": "Encendedor",
+        "piezas": 1,
+        "costoTotal": 6.44,
+        "fecha": "13/3/2025, 5:10:44 p.m.",
+        "ganancia": 2.1468000000000007
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "14/3/2025, 8:18:56 a.m.",
+        "ganancia": 6.35
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 1,
+        "costoTotal": 19.6,
+        "fecha": "14/3/2025, 8:18:56 a.m.",
+        "ganancia": 6.533333333333333
+      },
+      {
+        "producto": "Leche de chocolate",
+        "piezas": 1,
+        "costoTotal": 14.03,
+        "fecha": "14/3/2025, 8:18:56 a.m.",
+        "ganancia": 4.674999999999999
       }
     ],
     "Rafael": [
@@ -8891,6 +8933,34 @@
         "costoTotal": 19.6,
         "fecha": "13/3/2025, 8:55:00 a.m.",
         "ganancia": 6.533333333333333
+      },
+      {
+        "producto": "Aciditos",
+        "piezas": 6,
+        "costoTotal": 3.96,
+        "fecha": "13/3/2025, 5:45:52 p.m.",
+        "ganancia": 1.3020000000000005
+      },
+      {
+        "producto": "Gummy pop",
+        "piezas": 1,
+        "costoTotal": 2.15,
+        "fecha": "13/3/2025, 5:45:52 p.m.",
+        "ganancia": 0.714
+      },
+      {
+        "producto": "Zumba Goma Sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "13/3/2025, 5:45:52 p.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Dragoncitos",
+        "piezas": 2,
+        "costoTotal": 0.72,
+        "fecha": "13/3/2025, 5:45:52 p.m.",
+        "ganancia": 0.24059999999999998
       }
     ],
     "Vicente": [
@@ -9139,10 +9209,10 @@
       "descripcion": "Zumba Goma Sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -9256,10 +9326,10 @@
       "descripcion": "Encendedor",
       "precioCompra": 4.29,
       "precioVenta": 6.44,
-      "piezas": 21,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 20,
           "costoUnitario": 4.2932
         }
       ]
@@ -9562,10 +9632,10 @@
       "descripcion": "Gummy pop",
       "precioCompra": 1.44,
       "precioVenta": 2.15,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 1.436
         }
       ]
@@ -9575,10 +9645,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 11.18,
       "precioVenta": 16.77,
-      "piezas": 23,
+      "piezas": 22,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 10.42
         },
         {
@@ -9670,10 +9740,10 @@
       "descripcion": "Leche de chocolate",
       "precioCompra": 9.36,
       "precioVenta": 14.03,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 9.355
         }
       ]
@@ -9748,10 +9818,10 @@
       "descripcion": "Oreo",
       "precioCompra": 13.07,
       "precioVenta": 19.6,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 13.066666666666668
         }
       ]
@@ -9761,10 +9831,10 @@
       "descripcion": "Aciditos",
       "precioCompra": 0.44,
       "precioVenta": 0.66,
-      "piezas": 75,
+      "piezas": 64,
       "stockParciales": [
         {
-          "cantidad": 75,
+          "cantidad": 64,
           "costoUnitario": 0.44299999999999995
         }
       ]
@@ -9839,10 +9909,10 @@
       "descripcion": "Dragoncitos",
       "precioCompra": 0.24,
       "precioVenta": 0.36,
-      "piezas": 100,
+      "piezas": 95,
       "stockParciales": [
         {
-          "cantidad": 100,
+          "cantidad": 95,
           "costoUnitario": 0.2397
         }
       ]
@@ -10955,6 +11025,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 16033.083526190501,
-  "gananciasTotales": 8019.476473809512
+  "inversionRecuperada": 16080.965892857168,
+  "gananciasTotales": 8044.504107142846
 }
