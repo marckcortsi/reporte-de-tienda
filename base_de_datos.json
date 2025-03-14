@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 232.21000000000015,
-      "ganancia": 1173.056255952381,
+      "adeudo": 381.19000000000017,
+      "ganancia": 1222.7158392857143,
       "saldoFavor": 0
     },
     {
@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 11.98,
-      "ganancia": 260.2974821428571,
+      "adeudo": 45.519999999999996,
+      "ganancia": 272.9974821428571,
       "saldoFavor": 0
     },
     {
@@ -1775,6 +1775,48 @@
         "costoTotal": 7.800000000000001,
         "fecha": "13/3/2025, 8:55:27 a.m.",
         "ganancia": 2.6035714285714286
+      },
+      {
+        "producto": "Maruchan limón habanero",
+        "piezas": 1,
+        "costoTotal": 22,
+        "fecha": "14/3/2025, 4:54:32 p.m.",
+        "ganancia": 7.416666666666666
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24.31,
+        "fecha": "14/3/2025, 4:54:32 p.m.",
+        "ganancia": 8.101666666666667
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 11.79,
+        "fecha": "14/3/2025, 4:54:32 p.m.",
+        "ganancia": 3.9299999999999997
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "14/3/2025, 4:54:32 p.m.",
+        "ganancia": 5.59
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 10.11,
+        "fecha": "14/3/2025, 4:54:32 p.m.",
+        "ganancia": 3.37125
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 64,
+        "fecha": "14/3/2025, 4:54:54 p.m.",
+        "ganancia": 21.250000000000004
       }
     ],
     "Edgar": [
@@ -2626,6 +2668,13 @@
         "costoTotal": 9.64,
         "fecha": "12/3/2025, 10:35:22 a.m.",
         "ganancia": 3.210000000000001
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 2,
+        "costoTotal": 33.54,
+        "fecha": "14/3/2025, 4:53:32 p.m.",
+        "ganancia": 12.7
       }
     ],
     "Irvin": [
@@ -9622,10 +9671,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 6.74,
       "precioVenta": 10.11,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 6.73875
         }
       ]
@@ -9717,10 +9766,10 @@
       "descripcion": "Maruchan limón habanero",
       "precioCompra": 14.67,
       "precioVenta": 22,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 14.583333333333334
         },
         {
@@ -9799,14 +9848,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 11.18,
       "precioVenta": 16.77,
-      "piezas": 22,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 2,
-          "costoUnitario": 10.42
-        },
-        {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 11.18
         }
       ]
@@ -9933,10 +9978,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 7.86,
       "precioVenta": 11.79,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 7.859999999999999
         }
       ]
@@ -9946,10 +9991,10 @@
       "descripcion": "Arizona kiwi",
       "precioCompra": 16.21,
       "precioVenta": 24.31,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 16.208333333333332
         }
       ]
@@ -10011,10 +10056,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 200,
+      "piezas": 175,
       "stockParciales": [
         {
-          "cantidad": 200,
+          "cantidad": 175,
           "costoUnitario": 1.71
         }
       ]
@@ -11179,6 +11224,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 16408.130892857174,
-  "gananciasTotales": 8210.079107142848
+  "inversionRecuperada": 16528.29130952384,
+  "gananciasTotales": 8272.438690476183
 }
