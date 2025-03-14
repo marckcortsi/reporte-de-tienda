@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 475.98999999999995,
-      "ganancia": 492.95895833333316,
+      "adeudo": 546.55,
+      "ganancia": 516.4772916666665,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 616.08,
-      "ganancia": 833.8340797619048,
+      "adeudo": 635.58,
+      "ganancia": 840.3340797619048,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 438.93999999999994,
-      "ganancia": 1436.861236111108,
+      "adeudo": 477.79999999999995,
+      "ganancia": 1449.7979027777747,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 432.25,
-      "ganancia": 690.8024138888894,
+      "adeudo": 456.56,
+      "ganancia": 698.9040805555561,
       "saldoFavor": 0
     },
     {
@@ -3153,6 +3153,20 @@
         "costoTotal": 16.39,
         "fecha": "14/3/2025, 8:32:47 a.m.",
         "ganancia": 5.460000000000001
+      },
+      {
+        "producto": "Papas sol chipotle",
+        "piezas": 1,
+        "costoTotal": 19.31,
+        "fecha": "14/3/2025, 12:13:55 p.m.",
+        "ganancia": 6.434999999999999
+      },
+      {
+        "producto": "Coca-cola 3 litros",
+        "piezas": 1,
+        "costoTotal": 51.25,
+        "fecha": "14/3/2025, 12:20:54 p.m.",
+        "ganancia": 17.083333333333336
       }
     ],
     "Isac": [
@@ -4205,6 +4219,13 @@
         "costoTotal": 5.24,
         "fecha": "14/3/2025, 10:51:05 a.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Sol limon",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "14/3/2025, 12:14:22 p.m.",
+        "ganancia": 6.5
       }
     ],
     "Isrrael": [
@@ -7993,6 +8014,27 @@
         "costoTotal": 17.7,
         "fecha": "14/3/2025, 10:53:41 a.m.",
         "ganancia": 6.579999999999998
+      },
+      {
+        "producto": "Aciditos",
+        "piezas": 5,
+        "costoTotal": 3.3000000000000003,
+        "fecha": "14/3/2025, 11:22:21 a.m.",
+        "ganancia": 1.0850000000000004
+      },
+      {
+        "producto": "Churritos chile",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "14/3/2025, 12:14:05 p.m.",
+        "ganancia": 3.75
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24.31,
+        "fecha": "14/3/2025, 12:23:29 p.m.",
+        "ganancia": 8.101666666666667
       }
     ],
     "Rafael": [
@@ -9052,6 +9094,13 @@
         "costoTotal": 20.25,
         "fecha": "14/3/2025, 8:33:37 a.m.",
         "ganancia": 6.75
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24.31,
+        "fecha": "14/3/2025, 12:23:23 p.m.",
+        "ganancia": 8.101666666666667
       }
     ],
     "Vicente": [
@@ -9467,10 +9516,10 @@
       "descripcion": "Sol limon",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 13
         }
       ]
@@ -9773,10 +9822,10 @@
       "descripcion": "Coca-cola 3 litros",
       "precioCompra": 34.17,
       "precioVenta": 51.25,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 34.166666666666664
         }
       ]
@@ -9890,10 +9939,10 @@
       "descripcion": "Arizona kiwi",
       "precioCompra": 16.21,
       "precioVenta": 24.31,
-      "piezas": 18,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 16,
           "costoUnitario": 16.208333333333332
         }
       ]
@@ -9929,10 +9978,10 @@
       "descripcion": "Aciditos",
       "precioCompra": 0.44,
       "precioVenta": 0.66,
-      "piezas": 64,
+      "piezas": 59,
       "stockParciales": [
         {
-          "cantidad": 64,
+          "cantidad": 59,
           "costoUnitario": 0.44299999999999995
         }
       ]
@@ -10020,10 +10069,10 @@
       "descripcion": "Churritos chile",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 7.5
         }
       ]
@@ -10059,10 +10108,10 @@
       "descripcion": "Papas sol chipotle",
       "precioCompra": 12.88,
       "precioVenta": 19.31,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 12.875
         }
       ]
@@ -11123,6 +11172,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 16289.749226190508,
-  "gananciasTotales": 8150.920773809513
+  "inversionRecuperada": 16391.922559523842,
+  "gananciasTotales": 8201.977440476181
 }
