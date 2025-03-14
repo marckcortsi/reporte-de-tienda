@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 295.3,
-      "ganancia": 841.4961686507942,
+      "adeudo": 313,
+      "ganancia": 848.0761686507942,
       "saldoFavor": 0
     },
     {
@@ -80,8 +80,8 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 41.95,
-      "ganancia": 131.40675595238093,
+      "adeudo": 60.260000000000005,
+      "ganancia": 137.5084226190476,
       "saldoFavor": 0
     },
     {
@@ -5714,6 +5714,13 @@
         "costoTotal": 5.24,
         "fecha": "14/3/2025, 10:51:12 a.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 17.7,
+        "fecha": "14/3/2025, 11:21:08 a.m.",
+        "ganancia": 6.579999999999998
       }
     ],
     "Laura": [
@@ -9201,6 +9208,13 @@
         "costoTotal": 24.31,
         "fecha": "13/3/2025, 1:16:12 p.m.",
         "ganancia": 8.101666666666667
+      },
+      {
+        "producto": "Vive 100",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "14/3/2025, 11:20:57 a.m.",
+        "ganancia": 6.101666666666665
       }
     ],
     "Externo": [
@@ -9436,10 +9450,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.8,
       "precioVenta": 17.7,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 11.120000000000001
         },
         {
@@ -9617,10 +9631,10 @@
       "descripcion": "Vive 100",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 20,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -11109,6 +11123,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 16266.420892857173,
-  "gananciasTotales": 8138.2391071428465
+  "inversionRecuperada": 16289.749226190508,
+  "gananciasTotales": 8150.920773809513
 }
