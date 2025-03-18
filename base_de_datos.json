@@ -24,9 +24,9 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 45.519999999999996,
+      "adeudo": 0,
       "ganancia": 272.9974821428571,
-      "saldoFavor": 0
+      "saldoFavor": 0.48
     },
     {
       "nombre": "Irvin",
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 659.89,
-      "ganancia": 848.4357464285715,
+      "adeudo": 681.9,
+      "ganancia": 855.7707464285716,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 848.0761686507942,
+      "adeudo": 37.51,
+      "ganancia": 860.5178353174609,
       "saldoFavor": 0
     },
     {
@@ -4282,6 +4282,20 @@
         "costoTotal": 24.31,
         "fecha": "14/3/2025, 1:08:42 p.m.",
         "ganancia": 8.101666666666667
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "14/3/2025, 5:08:00 p.m.",
+        "ganancia": 5.59
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "14/3/2025, 5:08:00 p.m.",
+        "ganancia": 1.745
       }
     ],
     "Isrrael": [
@@ -5798,6 +5812,20 @@
         "costoTotal": 17.7,
         "fecha": "14/3/2025, 11:21:08 a.m.",
         "ganancia": 6.579999999999998
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24.31,
+        "fecha": "14/3/2025, 5:07:16 p.m.",
+        "ganancia": 8.101666666666667
+      },
+      {
+        "producto": "Aciditos",
+        "piezas": 20,
+        "costoTotal": 13.200000000000001,
+        "fecha": "14/3/2025, 5:07:16 p.m.",
+        "ganancia": 4.340000000000002
       }
     ],
     "Laura": [
@@ -9848,10 +9876,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 11.18,
       "precioVenta": 16.77,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 11.18
         }
       ]
@@ -9991,10 +10019,10 @@
       "descripcion": "Arizona kiwi",
       "precioCompra": 16.21,
       "precioVenta": 24.31,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 16.208333333333332
         }
       ]
@@ -10030,10 +10058,10 @@
       "descripcion": "Aciditos",
       "precioCompra": 0.44,
       "precioVenta": 0.66,
-      "piezas": 59,
+      "piezas": 39,
       "stockParciales": [
         {
-          "cantidad": 59,
+          "cantidad": 39,
           "costoUnitario": 0.44299999999999995
         }
       ]
@@ -10082,10 +10110,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 85,
+      "piezas": 84,
       "stockParciales": [
         {
-          "cantidad": 85,
+          "cantidad": 84,
           "costoUnitario": 3.495
         }
       ]
@@ -11224,6 +11252,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 16528.29130952384,
-  "gananciasTotales": 8272.438690476183
+  "inversionRecuperada": 16568.034642857172,
+  "gananciasTotales": 8292.215357142852
 }
