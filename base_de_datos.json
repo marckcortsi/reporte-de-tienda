@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 381.19000000000017,
-      "ganancia": 1222.7158392857143,
+      "adeudo": 408.59000000000015,
+      "ganancia": 1231.8527440476191,
       "saldoFavor": 0
     },
     {
@@ -38,15 +38,15 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 681.9,
-      "ganancia": 855.7707464285716,
+      "adeudo": 735.15,
+      "ganancia": 873.5224130952382,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 69.85999999999989,
-      "ganancia": 708.8172123015876,
+      "adeudo": 123.64999999999989,
+      "ganancia": 726.7472123015875,
       "saldoFavor": 0
     },
     {
@@ -59,15 +59,15 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 62.160000000000004,
+      "adeudo": 0,
       "ganancia": 104.98395833333332,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 1449.7979027777747,
+      "adeudo": 15.94,
+      "ganancia": 1455.1129027777745,
       "saldoFavor": 0
     },
     {
@@ -80,7 +80,7 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 60.260000000000005,
+      "adeudo": 0,
       "ganancia": 137.5084226190476,
       "saldoFavor": 0
     },
@@ -1817,6 +1817,20 @@
         "costoTotal": 64,
         "fecha": "14/3/2025, 4:54:54 p.m.",
         "ganancia": 21.250000000000004
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 1,
+        "costoTotal": 19.6,
+        "fecha": "18/3/2025, 8:24:00 a.m.",
+        "ganancia": 6.533333333333333
+      },
+      {
+        "producto": "Mini mamut",
+        "piezas": 3,
+        "costoTotal": 7.800000000000001,
+        "fecha": "18/3/2025, 8:24:00 a.m.",
+        "ganancia": 2.6035714285714286
       }
     ],
     "Edgar": [
@@ -4296,6 +4310,27 @@
         "costoTotal": 5.24,
         "fecha": "14/3/2025, 5:08:00 p.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Yogurt piña",
+        "piezas": 1,
+        "costoTotal": 20.25,
+        "fecha": "18/3/2025, 8:16:51 a.m.",
+        "ganancia": 6.75
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 22.3,
+        "fecha": "18/3/2025, 8:33:38 a.m.",
+        "ganancia": 7.431666666666668
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 10.7,
+        "fecha": "18/3/2025, 8:33:38 a.m.",
+        "ganancia": 3.5699999999999994
       }
     ],
     "Isrrael": [
@@ -4760,6 +4795,20 @@
         "costoTotal": 28.78,
         "fecha": "12/3/2025, 3:21:35 p.m.",
         "ganancia": 9.592500000000001
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 2,
+        "costoTotal": 33.54,
+        "fecha": "18/3/2025, 8:42:34 a.m.",
+        "ganancia": 11.18
+      },
+      {
+        "producto": "Yogurt piña",
+        "piezas": 1,
+        "costoTotal": 20.25,
+        "fecha": "18/3/2025, 8:42:34 a.m.",
+        "ganancia": 6.75
       }
     ],
     "Karen": [
@@ -8119,6 +8168,20 @@
         "costoTotal": 24.31,
         "fecha": "14/3/2025, 12:23:29 p.m.",
         "ganancia": 8.101666666666667
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 10.7,
+        "fecha": "18/3/2025, 8:15:48 a.m.",
+        "ganancia": 3.5699999999999994
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "18/3/2025, 8:15:48 a.m.",
+        "ganancia": 1.745
       }
     ],
     "Rafael": [
@@ -9656,10 +9719,10 @@
       "descripcion": "Mini mamut",
       "precioCompra": 1.73,
       "precioVenta": 2.6,
-      "piezas": 6,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 3,
           "costoUnitario": 1.7321428571428572
         }
       ]
@@ -9876,10 +9939,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 11.18,
       "precioVenta": 16.77,
-      "piezas": 18,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 16,
           "costoUnitario": 11.18
         }
       ]
@@ -9928,10 +9991,10 @@
       "descripcion": "Yogurt piña",
       "precioCompra": 13.5,
       "precioVenta": 20.25,
-      "piezas": 3,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 1,
           "costoUnitario": 13.5
         }
       ]
@@ -9980,10 +10043,10 @@
       "descripcion": "Leche de vainilla",
       "precioCompra": 7.13,
       "precioVenta": 10.7,
-      "piezas": 6,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 4,
           "costoUnitario": 7.13
         }
       ]
@@ -10032,10 +10095,10 @@
       "descripcion": "Emperador senzo",
       "precioCompra": 14.87,
       "precioVenta": 22.3,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 14.868333333333332
         }
       ]
@@ -10045,10 +10108,10 @@
       "descripcion": "Oreo",
       "precioCompra": 13.07,
       "precioVenta": 19.6,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 13.066666666666668
         }
       ]
@@ -10110,10 +10173,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 84,
+      "piezas": 83,
       "stockParciales": [
         {
-          "cantidad": 84,
+          "cantidad": 83,
           "costoUnitario": 3.495
         }
       ]
@@ -11252,6 +11315,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 16568.034642857172,
-  "gananciasTotales": 8292.215357142852
+  "inversionRecuperada": 16668.2810714286,
+  "gananciasTotales": 8342.348928571424
 }
