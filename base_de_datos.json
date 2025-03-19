@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 194.8999999999999,
-      "ganancia": 750.4988789682543,
+      "adeudo": 211.2899999999999,
+      "ganancia": 755.9588789682543,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 98.08999999999999,
-      "ganancia": 1482.3929027777742,
+      "adeudo": 125.55999999999999,
+      "ganancia": 1491.552902777774,
       "saldoFavor": 0
     },
     {
@@ -4956,6 +4956,13 @@
         "costoTotal": 20.25,
         "fecha": "19/3/2025, 8:40:56 a.m.",
         "ganancia": 6.75
+      },
+      {
+        "producto": "Yogurt fresa",
+        "piezas": 1,
+        "costoTotal": 16.39,
+        "fecha": "19/3/2025, 8:51:54 a.m.",
+        "ganancia": 5.460000000000001
       }
     ],
     "Karen": [
@@ -8371,6 +8378,20 @@
         "costoTotal": 5.24,
         "fecha": "18/3/2025, 5:29:36 p.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "19/3/2025, 8:47:24 a.m.",
+        "ganancia": 5.59
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 1,
+        "costoTotal": 10.7,
+        "fecha": "19/3/2025, 8:47:24 a.m.",
+        "ganancia": 3.5699999999999994
       }
     ],
     "Rafael": [
@@ -10182,10 +10203,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 11.18,
       "precioVenta": 16.77,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 11.18
         }
       ]
@@ -10255,13 +10276,8 @@
       "descripcion": "Yogurt fresa",
       "precioCompra": 10.93,
       "precioVenta": 16.39,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 10.93
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "75000011",
@@ -10289,10 +10305,10 @@
       "descripcion": "Leche de fresa",
       "precioCompra": 7.13,
       "precioVenta": 10.7,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 7.13
         }
       ]
@@ -11538,6 +11554,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 17121.04183333335,
-  "gananciasTotales": 8569.448166666663
+  "inversionRecuperada": 17150.281833333353,
+  "gananciasTotales": 8584.068166666662
 }
