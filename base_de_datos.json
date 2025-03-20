@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 895.77,
-      "ganancia": 927.0022464285717,
+      "adeudo": 918.99,
+      "ganancia": 934.7342464285717,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 284.33,
-      "ganancia": 1544.4679027777738,
+      "adeudo": 306.87,
+      "ganancia": 1551.9815694444405,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 601.3500000000001,
-      "ganancia": 747.8347472222231,
+      "adeudo": 642.9200000000002,
+      "ganancia": 761.6964138888898,
       "saldoFavor": 0
     },
     {
@@ -4597,6 +4597,20 @@
         "costoTotal": 31.3,
         "fecha": "20/3/2025, 8:47:30 a.m.",
         "ganancia": 10.430000000000003
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "20/3/2025, 11:45:54 a.m.",
+        "ganancia": 5.59
+      },
+      {
+        "producto": "Gummy pop",
+        "piezas": 3,
+        "costoTotal": 6.449999999999999,
+        "fecha": "20/3/2025, 11:45:54 a.m.",
+        "ganancia": 2.142
       }
     ],
     "Isrrael": [
@@ -8630,6 +8644,20 @@
         "costoTotal": 10.7,
         "fecha": "20/3/2025, 8:51:59 a.m.",
         "ganancia": 3.5699999999999994
+      },
+      {
+        "producto": "Maruchan pikin",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "20/3/2025, 11:38:37 a.m.",
+        "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Aciditos",
+        "piezas": 1,
+        "costoTotal": 0.66,
+        "fecha": "20/3/2025, 11:46:38 a.m.",
+        "ganancia": 0.21700000000000008
       }
     ],
     "Rafael": [
@@ -9773,6 +9801,20 @@
         "costoTotal": 10.7,
         "fecha": "20/3/2025, 8:53:24 a.m.",
         "ganancia": 3.5699999999999994
+      },
+      {
+        "producto": "Maruchan pikin",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "20/3/2025, 11:38:08 a.m.",
+        "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Coca-cola 500 ml",
+        "piezas": 1,
+        "costoTotal": 19.69,
+        "fecha": "20/3/2025, 11:38:08 a.m.",
+        "ganancia": 6.565000000000001
       }
     ],
     "Vicente": [
@@ -10388,10 +10430,10 @@
       "descripcion": "Maruchan pikin",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 4,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 2,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -10440,10 +10482,10 @@
       "descripcion": "Gummy pop",
       "precioCompra": 1.44,
       "precioVenta": 2.15,
-      "piezas": 8,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 5,
           "costoUnitario": 1.436
         }
       ]
@@ -10453,10 +10495,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 11.18,
       "precioVenta": 16.77,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 11.18
         }
       ]
@@ -10466,10 +10508,10 @@
       "descripcion": "Coca-cola 500 ml",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 21,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 20,
           "costoUnitario": 13.125
         }
       ]
@@ -10595,13 +10637,8 @@
       "descripcion": "Aciditos",
       "precioCompra": 0.44,
       "precioVenta": 0.66,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 0.44299999999999995
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478008926",
@@ -11784,6 +11821,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 17663.8796904762,
-  "gananciasTotales": 8840.690309523809
+  "inversionRecuperada": 17722.102357142863,
+  "gananciasTotales": 8869.797642857144
 }
