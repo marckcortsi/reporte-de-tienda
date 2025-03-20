@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 672.4800000000002,
-      "ganancia": 1319.6482202380953,
+      "adeudo": 701.7900000000002,
+      "ganancia": 1329.4215535714286,
       "saldoFavor": 0
     },
     {
@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 260.31999999999994,
-      "ganancia": 772.3013789682543,
+      "adeudo": 291.62999999999994,
+      "ganancia": 782.738045634921,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 273.63,
-      "ganancia": 1540.8979027777739,
+      "adeudo": 284.33,
+      "ganancia": 1544.4679027777738,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 590.6500000000001,
-      "ganancia": 744.264747222223,
+      "adeudo": 601.3500000000001,
+      "ganancia": 747.8347472222231,
       "saldoFavor": 0
     },
     {
@@ -1936,6 +1936,20 @@
         "costoTotal": 15.89,
         "fecha": "19/3/2025, 6:01:50 p.m.",
         "ganancia": 5.297142857142857
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 10.7,
+        "fecha": "20/3/2025, 8:52:34 a.m.",
+        "ganancia": 3.5699999999999994
+      },
+      {
+        "producto": "Emperador Nuez",
+        "piezas": 1,
+        "costoTotal": 18.61,
+        "fecha": "20/3/2025, 8:52:34 a.m.",
+        "ganancia": 6.203333333333333
       }
     ],
     "Edgar": [
@@ -5103,6 +5117,13 @@
         "costoTotal": 20.25,
         "fecha": "20/3/2025, 8:45:45 a.m.",
         "ganancia": 6.75
+      },
+      {
+        "producto": "Polvorones",
+        "piezas": 1,
+        "costoTotal": 31.31,
+        "fecha": "20/3/2025, 8:57:57 a.m.",
+        "ganancia": 10.436666666666667
       }
     ],
     "Karen": [
@@ -8602,6 +8623,13 @@
         "costoTotal": 31.3,
         "fecha": "20/3/2025, 8:48:03 a.m.",
         "ganancia": 10.430000000000003
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 1,
+        "costoTotal": 10.7,
+        "fecha": "20/3/2025, 8:51:59 a.m.",
+        "ganancia": 3.5699999999999994
       }
     ],
     "Rafael": [
@@ -9738,6 +9766,13 @@
         "costoTotal": 19.69,
         "fecha": "19/3/2025, 10:24:16 a.m.",
         "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 10.7,
+        "fecha": "20/3/2025, 8:53:24 a.m.",
+        "ganancia": 3.5699999999999994
       }
     ],
     "Vicente": [
@@ -10104,13 +10139,8 @@
       "descripcion": "Emperador Nuez",
       "precioCompra": 12.41,
       "precioVenta": 18.61,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.406666666666666
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "3",
@@ -10224,12 +10254,8 @@
       "descripcion": "Polvorones",
       "precioCompra": 20.87,
       "precioVenta": 31.31,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 20.87333333333333
-        },
         {
           "cantidad": 3,
           "costoUnitario": 20.87333333333333
@@ -10511,26 +10537,16 @@
       "descripcion": "Leche de vainilla",
       "precioCompra": 7.13,
       "precioVenta": 10.7,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 7.13
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501020570861",
       "descripcion": "Leche de fresa",
       "precioCompra": 7.13,
       "precioVenta": 10.7,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 7.13
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501059242913",
@@ -11768,6 +11784,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 17609.209690476197,
-  "gananciasTotales": 8813.34030952381
+  "inversionRecuperada": 17663.8796904762,
+  "gananciasTotales": 8840.690309523809
 }
