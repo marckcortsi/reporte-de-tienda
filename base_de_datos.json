@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 767.7900000000002,
-      "ganancia": 1351.6715535714286,
+      "adeudo": 799.0900000000001,
+      "ganancia": 1362.1015535714287,
       "saldoFavor": 0
     },
     {
@@ -1971,6 +1971,13 @@
         "costoTotal": 44,
         "fecha": "20/3/2025, 2:53:19 p.m.",
         "ganancia": 14.833333333333332
+      },
+      {
+        "producto": "Galletas Principe",
+        "piezas": 1,
+        "costoTotal": 31.3,
+        "fecha": "21/3/2025, 9:27:26 a.m.",
+        "ganancia": 10.430000000000003
       }
     ],
     "Edgar": [
@@ -10515,10 +10522,10 @@
       "descripcion": "Galletas Principe",
       "precioCompra": 20.87,
       "precioVenta": 31.3,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 20.869999999999997
         }
       ]
@@ -11922,6 +11929,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 17940.53402380952,
-  "gananciasTotales": 8981.545976190482
+  "inversionRecuperada": 17961.40402380952,
+  "gananciasTotales": 8991.975976190482
 }
