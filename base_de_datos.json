@@ -31,22 +31,22 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 473.41999999999996,
-      "ganancia": 542.2706249999998,
+      "adeudo": 491.11999999999995,
+      "ganancia": 548.1706249999997,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 456.68000000000006,
-      "ganancia": 947.2959130952383,
+      "adeudo": 489.59000000000003,
+      "ganancia": 958.253579761905,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 291.62999999999994,
-      "ganancia": 782.738045634921,
+      "adeudo": 309.3299999999999,
+      "ganancia": 788.638045634921,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 360.41,
-      "ganancia": 1570.5065694444404,
+      "adeudo": 402.42,
+      "ganancia": 1584.5082361111072,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 362.9200000000002,
-      "ganancia": 761.6964138888898,
+      "adeudo": 392.3500000000002,
+      "ganancia": 771.4980805555565,
       "saldoFavor": 0
     },
     {
@@ -3461,6 +3461,13 @@
         "costoTotal": 22,
         "fecha": "20/3/2025, 2:50:55 p.m.",
         "ganancia": 7.416666666666666
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 17.7,
+        "fecha": "21/3/2025, 1:08:19 p.m.",
+        "ganancia": 5.899999999999999
       }
     ],
     "Isac": [
@@ -4681,6 +4688,20 @@
         "costoTotal": 10.57,
         "fecha": "21/3/2025, 9:18:57 a.m.",
         "ganancia": 3.5200000000000005
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24.31,
+        "fecha": "21/3/2025, 12:01:49 p.m.",
+        "ganancia": 8.101666666666667
+      },
+      {
+        "producto": "Gummy pop",
+        "piezas": 4,
+        "costoTotal": 8.6,
+        "fecha": "21/3/2025, 12:01:49 p.m.",
+        "ganancia": 2.856
       }
     ],
     "Isrrael": [
@@ -5208,6 +5229,13 @@
         "costoTotal": 31.31,
         "fecha": "20/3/2025, 8:57:57 a.m.",
         "ganancia": 10.436666666666667
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 17.7,
+        "fecha": "21/3/2025, 1:06:47 p.m.",
+        "ganancia": 5.899999999999999
       }
     ],
     "Karen": [
@@ -8784,6 +8812,20 @@
         "costoTotal": 17.7,
         "fecha": "21/3/2025, 9:19:38 a.m.",
         "ganancia": 6.579999999999998
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24.31,
+        "fecha": "21/3/2025, 1:14:19 p.m.",
+        "ganancia": 8.101666666666667
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 17.7,
+        "fecha": "21/3/2025, 1:15:14 p.m.",
+        "ganancia": 5.899999999999999
       }
     ],
     "Rafael": [
@@ -9941,6 +9983,20 @@
         "costoTotal": 19.69,
         "fecha": "20/3/2025, 11:38:08 a.m.",
         "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24.31,
+        "fecha": "21/3/2025, 12:01:33 p.m.",
+        "ganancia": 8.101666666666667
+      },
+      {
+        "producto": "Shots",
+        "piezas": 2,
+        "costoTotal": 5.12,
+        "fecha": "21/3/2025, 12:01:33 p.m.",
+        "ganancia": 1.7000000000000002
       }
     ],
     "Vicente": [
@@ -10341,10 +10397,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.8,
       "precioVenta": 17.7,
-      "piezas": 15,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 12,
           "costoUnitario": 11.8
         }
       ]
@@ -10590,10 +10646,10 @@
       "descripcion": "Gummy pop",
       "precioCompra": 1.44,
       "precioVenta": 2.15,
-      "piezas": 5,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 1,
           "costoUnitario": 1.436
         }
       ]
@@ -10716,10 +10772,10 @@
       "descripcion": "Arizona kiwi",
       "precioCompra": 16.21,
       "precioVenta": 24.31,
-      "piezas": 6,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 3,
           "costoUnitario": 16.208333333333332
         }
       ]
@@ -10761,10 +10817,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 124,
+      "piezas": 122,
       "stockParciales": [
         {
-          "cantidad": 124,
+          "cantidad": 122,
           "costoUnitario": 1.71
         }
       ]
@@ -11929,6 +11985,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 17961.40402380952,
-  "gananciasTotales": 8991.975976190482
+  "inversionRecuperada": 18054.59302380951,
+  "gananciasTotales": 9038.536976190484
 }
