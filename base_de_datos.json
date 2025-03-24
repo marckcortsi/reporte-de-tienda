@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 494.83000000000004,
-      "ganancia": 959.998579761905,
+      "adeudo": 546.08,
+      "ganancia": 977.0819130952384,
       "saldoFavor": 0
     },
     {
@@ -4744,6 +4744,13 @@
         "costoTotal": 5.24,
         "fecha": "24/3/2025, 8:23:29 a.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Coca-cola 3 litros",
+        "piezas": 1,
+        "costoTotal": 51.25,
+        "fecha": "24/3/2025, 1:50:11 p.m.",
+        "ganancia": 17.083333333333336
       }
     ],
     "Isrrael": [
@@ -10773,10 +10780,10 @@
       "descripcion": "Coca-cola 3 litros",
       "precioCompra": 34.17,
       "precioVenta": 51.25,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 34.166666666666664
         }
       ]
@@ -12073,6 +12080,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 18376.72844047618,
-  "gananciasTotales": 9199.30155952382
+  "inversionRecuperada": 18410.89510714285,
+  "gananciasTotales": 9216.384892857153
 }
