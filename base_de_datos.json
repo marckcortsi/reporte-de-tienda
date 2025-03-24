@@ -4,14 +4,14 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 1131.3928297619057,
-      "saldoFavor": 224.46
+      "ganancia": 1180.4228297619056,
+      "saldoFavor": 77.36000000000001
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 399.09000000000015,
-      "ganancia": 1362.1015535714287,
+      "adeudo": 578.0000000000001,
+      "ganancia": 1421.6228035714287,
       "saldoFavor": 0
     },
     {
@@ -38,22 +38,22 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 489.59000000000003,
-      "ganancia": 958.253579761905,
+      "adeudo": 494.83000000000004,
+      "ganancia": 959.998579761905,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 309.3299999999999,
-      "ganancia": 788.638045634921,
+      "adeudo": 311.3499999999999,
+      "ganancia": 789.318045634921,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 909.493835317461,
+      "adeudo": 102.92999999999999,
+      "ganancia": 943.7188353174611,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 402.42,
-      "ganancia": 1584.5082361111072,
+      "adeudo": 443.73,
+      "ganancia": 1598.2765694444404,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 392.3500000000002,
-      "ganancia": 771.4980805555565,
+      "adeudo": 397.7400000000002,
+      "ganancia": 773.2930805555565,
       "saldoFavor": 0
     },
     {
@@ -730,6 +730,20 @@
         "costoTotal": 28.78,
         "fecha": "20/3/2025, 12:19:58 p.m.",
         "ganancia": 9.592500000000001
+      },
+      {
+        "producto": "Marlboro",
+        "piezas": 20,
+        "costoTotal": 115.8,
+        "fecha": "21/3/2025, 4:23:32 p.m.",
+        "ganancia": 38.6
+      },
+      {
+        "producto": "Galletas Principe",
+        "piezas": 1,
+        "costoTotal": 31.3,
+        "fecha": "24/3/2025, 8:33:31 a.m.",
+        "ganancia": 10.430000000000003
       }
     ],
     "Carlos": [
@@ -1978,6 +1992,27 @@
         "costoTotal": 31.3,
         "fecha": "21/3/2025, 9:27:26 a.m.",
         "ganancia": 10.430000000000003
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 10.11,
+        "fecha": "21/3/2025, 2:00:20 p.m.",
+        "ganancia": 3.37125
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 64,
+        "fecha": "21/3/2025, 2:00:20 p.m.",
+        "ganancia": 21.250000000000004
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 20,
+        "costoTotal": 104.80000000000001,
+        "fecha": "21/3/2025, 4:24:10 p.m.",
+        "ganancia": 34.900000000000006
       }
     ],
     "Edgar": [
@@ -4702,6 +4737,13 @@
         "costoTotal": 8.6,
         "fecha": "21/3/2025, 12:01:49 p.m.",
         "ganancia": 2.856
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "24/3/2025, 8:23:29 a.m.",
+        "ganancia": 1.745
       }
     ],
     "Isrrael": [
@@ -5236,6 +5278,13 @@
         "costoTotal": 17.7,
         "fecha": "21/3/2025, 1:06:47 p.m.",
         "ganancia": 5.899999999999999
+      },
+      {
+        "producto": "Chicles canels",
+        "piezas": 2,
+        "costoTotal": 2.02,
+        "fecha": "21/3/2025, 4:26:24 p.m.",
+        "ganancia": 0.6799999999999999
       }
     ],
     "Karen": [
@@ -6358,6 +6407,34 @@
         "costoTotal": 2.56,
         "fecha": "21/3/2025, 8:56:17 a.m.",
         "ganancia": 0.8500000000000001
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "21/3/2025, 2:30:56 p.m.",
+        "ganancia": 5.59
+      },
+      {
+        "producto": "Paleta Búbalo Xtreme",
+        "piezas": 1,
+        "costoTotal": 5.39,
+        "fecha": "21/3/2025, 4:24:55 p.m.",
+        "ganancia": 1.7949999999999995
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 64,
+        "fecha": "21/3/2025, 4:24:55 p.m.",
+        "ganancia": 21.250000000000004
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "24/3/2025, 8:33:57 a.m.",
+        "ganancia": 5.59
       }
     ],
     "Laura": [
@@ -8826,6 +8903,20 @@
         "costoTotal": 17.7,
         "fecha": "21/3/2025, 1:15:14 p.m.",
         "ganancia": 5.899999999999999
+      },
+      {
+        "producto": "Papas sol chipotle",
+        "piezas": 1,
+        "costoTotal": 19.31,
+        "fecha": "21/3/2025, 4:25:33 p.m.",
+        "ganancia": 6.434999999999999
+      },
+      {
+        "producto": "Maruchan limón habanero",
+        "piezas": 1,
+        "costoTotal": 22,
+        "fecha": "21/3/2025, 4:25:33 p.m.",
+        "ganancia": 7.333333333333334
       }
     ],
     "Rafael": [
@@ -9997,6 +10088,13 @@
         "costoTotal": 5.12,
         "fecha": "21/3/2025, 12:01:33 p.m.",
         "ganancia": 1.7000000000000002
+      },
+      {
+        "producto": "Paleta Búbalo Xtreme",
+        "piezas": 1,
+        "costoTotal": 5.39,
+        "fecha": "21/3/2025, 2:00:36 p.m.",
+        "ganancia": 1.7949999999999995
       }
     ],
     "Vicente": [
@@ -10233,23 +10331,18 @@
       "descripcion": "Paleta Búbalo Xtreme",
       "precioCompra": 3.6,
       "precioVenta": 5.39,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 3.595
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "018804002106",
       "descripcion": "Chicles canels",
       "precioCompra": 0.67,
       "precioVenta": 1.01,
-      "piezas": 36,
+      "piezas": 34,
       "stockParciales": [
         {
-          "cantidad": 36,
+          "cantidad": 34,
           "costoUnitario": 0.67
         }
       ]
@@ -10500,10 +10593,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 6.74,
       "precioVenta": 10.11,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 6.73875
         }
       ]
@@ -10578,23 +10671,18 @@
       "descripcion": "Galletas Principe",
       "precioCompra": 20.87,
       "precioVenta": 31.3,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 20.869999999999997
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "041789001154",
       "descripcion": "Maruchan limón habanero",
       "precioCompra": 14.67,
       "precioVenta": 22,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 14.666666666666666
         }
       ]
@@ -10659,10 +10747,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 11.18,
       "precioVenta": 16.77,
-      "piezas": 12,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 10,
           "costoUnitario": 11.18
         }
       ]
@@ -10817,10 +10905,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 122,
+      "piezas": 72,
       "stockParciales": [
         {
-          "cantidad": 122,
+          "cantidad": 72,
           "costoUnitario": 1.71
         }
       ]
@@ -10830,10 +10918,10 @@
       "descripcion": "Marlboro",
       "precioCompra": 3.86,
       "precioVenta": 5.79,
-      "piezas": 60,
+      "piezas": 40,
       "stockParciales": [
         {
-          "cantidad": 60,
+          "cantidad": 40,
           "costoUnitario": 3.86
         }
       ]
@@ -10843,10 +10931,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 72,
+      "piezas": 51,
       "stockParciales": [
         {
-          "cantidad": 72,
+          "cantidad": 51,
           "costoUnitario": 3.495
         }
       ]
@@ -10921,10 +11009,10 @@
       "descripcion": "Papas sol chipotle",
       "precioCompra": 12.88,
       "precioVenta": 19.31,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 12.875
         }
       ]
@@ -11985,6 +12073,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 18054.59302380951,
-  "gananciasTotales": 9038.536976190484
+  "inversionRecuperada": 18376.72844047618,
+  "gananciasTotales": 9199.30155952382
 }
