@@ -4,14 +4,14 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 1180.4228297619056,
-      "saldoFavor": 77.36000000000001
+      "ganancia": 1187.756163095239,
+      "saldoFavor": 55.360000000000014
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 578.0000000000001,
-      "ganancia": 1421.6228035714287,
+      "adeudo": 676.0200000000001,
+      "ganancia": 1454.2103035714285,
       "saldoFavor": 0
     },
     {
@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 491.11999999999995,
-      "ganancia": 548.1706249999997,
+      "adeudo": 513.1199999999999,
+      "ganancia": 555.5039583333331,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 546.08,
-      "ganancia": 977.0819130952384,
+      "adeudo": 556.5600000000001,
+      "ganancia": 980.5719130952384,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 102.92999999999999,
-      "ganancia": 943.7188353174611,
+      "adeudo": 124.92999999999999,
+      "ganancia": 951.0521686507944,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 443.73,
-      "ganancia": 1598.2765694444404,
+      "adeudo": 507.05,
+      "ganancia": 1619.3799027777734,
       "saldoFavor": 0
     },
     {
@@ -80,7 +80,7 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 15.75,
+      "adeudo": 0,
       "ganancia": 142.7584226190476,
       "saldoFavor": 0
     },
@@ -744,6 +744,13 @@
         "costoTotal": 31.3,
         "fecha": "24/3/2025, 8:33:31 a.m.",
         "ganancia": 10.430000000000003
+      },
+      {
+        "producto": "Maruchan limón habanero",
+        "piezas": 1,
+        "costoTotal": 22,
+        "fecha": "24/3/2025, 2:06:55 p.m.",
+        "ganancia": 7.333333333333334
       }
     ],
     "Carlos": [
@@ -2013,6 +2020,27 @@
         "costoTotal": 104.80000000000001,
         "fecha": "21/3/2025, 4:24:10 p.m.",
         "ganancia": 34.900000000000006
+      },
+      {
+        "producto": "Delaware",
+        "piezas": 1,
+        "costoTotal": 28.78,
+        "fecha": "24/3/2025, 2:07:08 p.m.",
+        "ganancia": 9.592500000000001
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "24/3/2025, 4:02:17 p.m.",
+        "ganancia": 1.745
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 64,
+        "fecha": "24/3/2025, 5:59:42 p.m.",
+        "ganancia": 21.250000000000004
       }
     ],
     "Edgar": [
@@ -3503,6 +3531,13 @@
         "costoTotal": 17.7,
         "fecha": "21/3/2025, 1:08:19 p.m.",
         "ganancia": 5.899999999999999
+      },
+      {
+        "producto": "Maruchan limón habanero",
+        "piezas": 1,
+        "costoTotal": 22,
+        "fecha": "24/3/2025, 2:05:32 p.m.",
+        "ganancia": 7.333333333333334
       }
     ],
     "Isac": [
@@ -4751,6 +4786,20 @@
         "costoTotal": 51.25,
         "fecha": "24/3/2025, 1:50:11 p.m.",
         "ganancia": 17.083333333333336
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "24/3/2025, 4:02:04 p.m.",
+        "ganancia": 1.745
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "24/3/2025, 5:59:54 p.m.",
+        "ganancia": 1.745
       }
     ],
     "Isrrael": [
@@ -6442,6 +6491,13 @@
         "costoTotal": 16.77,
         "fecha": "24/3/2025, 8:33:57 a.m.",
         "ganancia": 5.59
+      },
+      {
+        "producto": "Maruchan limón habanero",
+        "piezas": 1,
+        "costoTotal": 22,
+        "fecha": "24/3/2025, 4:01:53 p.m.",
+        "ganancia": 7.333333333333334
       }
     ],
     "Laura": [
@@ -8924,6 +8980,34 @@
         "costoTotal": 22,
         "fecha": "21/3/2025, 4:25:33 p.m.",
         "ganancia": 7.333333333333334
+      },
+      {
+        "producto": "Maruchan limón habanero",
+        "piezas": 1,
+        "costoTotal": 22,
+        "fecha": "24/3/2025, 2:06:17 p.m.",
+        "ganancia": 7.333333333333334
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.77,
+        "fecha": "24/3/2025, 2:06:17 p.m.",
+        "ganancia": 5.59
+      },
+      {
+        "producto": "Papas sol chipotle",
+        "piezas": 1,
+        "costoTotal": 19.31,
+        "fecha": "24/3/2025, 2:06:17 p.m.",
+        "ganancia": 6.434999999999999
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "24/3/2025, 4:02:11 p.m.",
+        "ganancia": 1.745
       }
     ],
     "Rafael": [
@@ -10686,10 +10770,10 @@
       "descripcion": "Maruchan limón habanero",
       "precioCompra": 14.67,
       "precioVenta": 22,
-      "piezas": 11,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 7,
           "costoUnitario": 14.666666666666666
         }
       ]
@@ -10754,10 +10838,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 11.18,
       "precioVenta": 16.77,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 11.18
         }
       ]
@@ -10793,10 +10877,10 @@
       "descripcion": "Delaware",
       "precioCompra": 19.19,
       "precioVenta": 28.78,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 19.1875
         }
       ]
@@ -10912,10 +10996,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 72,
+      "piezas": 47,
       "stockParciales": [
         {
-          "cantidad": 72,
+          "cantidad": 47,
           "costoUnitario": 1.71
         }
       ]
@@ -10938,10 +11022,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 51,
+      "piezas": 47,
       "stockParciales": [
         {
-          "cantidad": 51,
+          "cantidad": 47,
           "costoUnitario": 3.495
         }
       ]
@@ -11016,10 +11100,10 @@
       "descripcion": "Papas sol chipotle",
       "precioCompra": 12.88,
       "precioVenta": 19.31,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 12.875
         }
       ]
@@ -12080,6 +12164,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 21609.160000000007,
-  "inversionRecuperada": 18410.89510714285,
-  "gananciasTotales": 9216.384892857153
+  "inversionRecuperada": 18569.534273809517,
+  "gananciasTotales": 9295.565726190493
 }
