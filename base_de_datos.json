@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 126.96999999999998,
-      "ganancia": 1248.5311630952388,
+      "adeudo": 147.96999999999997,
+      "ganancia": 1255.5311630952388,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 868.3900000000001,
-      "ganancia": 1518.3319702380952,
+      "adeudo": 923.08,
+      "ganancia": 1536.5632202380953,
       "saldoFavor": 0
     },
     {
@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 14.07,
-      "ganancia": 277.84748214285713,
+      "adeudo": 53.38,
+      "ganancia": 290.9491488095238,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 710.85,
-      "ganancia": 1031.9952464285718,
+      "adeudo": 721.33,
+      "ganancia": 1035.4852464285718,
       "saldoFavor": 0
     },
     {
@@ -59,29 +59,29 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 48.709999999999994,
-      "ganancia": 121.22062499999998,
+      "adeudo": 66.10999999999999,
+      "ganancia": 127.02062499999998,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 710.6100000000001,
-      "ganancia": 1687.2265694444397,
+      "adeudo": 715.8500000000001,
+      "ganancia": 1688.9715694444396,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 506.20000000000016,
-      "ganancia": 809.4486805555565,
+      "adeudo": 522.7000000000002,
+      "ganancia": 814.9486805555565,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 72.05,
-      "ganancia": 166.77508928571424,
+      "adeudo": 86.6,
+      "ganancia": 171.62508928571424,
       "saldoFavor": 0
     },
     {
@@ -785,6 +785,13 @@
         "piezas": 1,
         "costoTotal": 21,
         "fecha": "26/3/2025, 2:26:14 p.m.",
+        "ganancia": 7
+      },
+      {
+        "producto": "Galletas arcoiris",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "27/3/2025, 8:27:29 a.m.",
         "ganancia": 7
       }
     ],
@@ -2125,6 +2132,34 @@
         "costoTotal": 28.5,
         "fecha": "26/3/2025, 8:39:17 a.m.",
         "ganancia": 9.5
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 10.11,
+        "fecha": "26/3/2025, 6:04:13 p.m.",
+        "ganancia": 3.37125
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 11.79,
+        "fecha": "26/3/2025, 6:04:13 p.m.",
+        "ganancia": 3.9299999999999997
+      },
+      {
+        "producto": "Galletas arcoiris",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "27/3/2025, 8:13:41 a.m.",
+        "ganancia": 7
+      },
+      {
+        "producto": "Chocolate Larin",
+        "piezas": 1,
+        "costoTotal": 11.79,
+        "fecha": "27/3/2025, 8:13:41 a.m.",
+        "ganancia": 3.9299999999999997
       }
     ],
     "Edgar": [
@@ -3081,6 +3116,20 @@
         "costoTotal": 14.55,
         "fecha": "25/3/2025, 9:42:19 a.m.",
         "ganancia": 4.85
+      },
+      {
+        "producto": "Galletas arcoiris",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "27/3/2025, 8:27:39 a.m.",
+        "ganancia": 7
+      },
+      {
+        "producto": "Vive 100",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "27/3/2025, 8:27:39 a.m.",
+        "ganancia": 6.101666666666665
       }
     ],
     "Irvin": [
@@ -5010,6 +5059,13 @@
         "costoTotal": 10.48,
         "fecha": "26/3/2025, 4:03:11 p.m.",
         "ganancia": 3.49
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 2,
+        "costoTotal": 10.48,
+        "fecha": "26/3/2025, 6:03:51 p.m.",
+        "ganancia": 3.49
       }
     ],
     "Isrrael": [
@@ -6926,6 +6982,13 @@
         "piezas": 1,
         "costoTotal": 17.4,
         "fecha": "26/3/2025, 8:36:27 a.m.",
+        "ganancia": 5.799999999999999
+      },
+      {
+        "producto": "Galletas oreo",
+        "piezas": 1,
+        "costoTotal": 17.4,
+        "fecha": "27/3/2025, 8:27:19 a.m.",
         "ganancia": 5.799999999999999
       }
     ],
@@ -9379,6 +9442,13 @@
         "costoTotal": 5.24,
         "fecha": "26/3/2025, 4:03:17 p.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "27/3/2025, 8:14:05 a.m.",
+        "ganancia": 1.745
       }
     ],
     "Rafael": [
@@ -10613,6 +10683,13 @@
         "costoTotal": 0.72,
         "fecha": "26/3/2025, 5:10:34 p.m.",
         "ganancia": 0.24059999999999998
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "27/3/2025, 8:13:28 a.m.",
+        "ganancia": 5.5
       }
     ],
     "Vicente": [
@@ -10811,6 +10888,13 @@
         "costoTotal": 19.69,
         "fecha": "26/3/2025, 5:23:51 p.m.",
         "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Ritz",
+        "piezas": 1,
+        "costoTotal": 14.55,
+        "fecha": "27/3/2025, 8:26:59 a.m.",
+        "ganancia": 4.85
       }
     ],
     "Externo": [
@@ -10992,13 +11076,8 @@
       "descripcion": "Ritz",
       "precioCompra": 9.7,
       "precioVenta": 14.55,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 9.700000000000001
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000318599",
@@ -11095,10 +11174,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 6.74,
       "precioVenta": 10.11,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 6.73875
         }
       ]
@@ -11160,10 +11239,10 @@
       "descripcion": "Vive 100",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -11251,10 +11330,10 @@
       "descripcion": "Chocolate Larin",
       "precioCompra": 7.86,
       "precioVenta": 11.79,
-      "piezas": 4,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 2,
           "costoUnitario": 7.859999999999999
         }
       ]
@@ -11290,10 +11369,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 42,
+      "piezas": 39,
       "stockParciales": [
         {
-          "cantidad": 42,
+          "cantidad": 39,
           "costoUnitario": 3.495
         }
       ]
@@ -11394,10 +11473,10 @@
       "descripcion": "Galletas arcoiris",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 4,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 1,
           "costoUnitario": 14
         }
       ]
@@ -11446,10 +11525,10 @@
       "descripcion": "Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 11
         }
       ]
@@ -11511,10 +11590,10 @@
       "descripcion": "Galletas oreo",
       "precioCompra": 11.6,
       "precioVenta": 17.4,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 11.6
         }
       ]
@@ -12641,6 +12720,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 22322.950000000008,
-  "inversionRecuperada": 19426.669373809513,
-  "gananciasTotales": 9724.1106261905
+  "inversionRecuperada": 19546.121457142846,
+  "gananciasTotales": 9783.828542857169
 }
