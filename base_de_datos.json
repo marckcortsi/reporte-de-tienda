@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 301.53,
-      "ganancia": 1009.915635317461,
+      "adeudo": 306.77,
+      "ganancia": 1011.660635317461,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 522.4400000000002,
-      "ganancia": 1724.4982361111063,
+      "adeudo": 563.7900000000002,
+      "ganancia": 1738.1815694444394,
       "saldoFavor": 0
     },
     {
@@ -7065,6 +7065,13 @@
         "costoTotal": 18.75,
         "fecha": "27/3/2025, 4:33:01 p.m.",
         "ganancia": 6.25
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "28/3/2025, 2:37:09 p.m.",
+        "ganancia": 1.745
       }
     ],
     "Laura": [
@@ -9743,6 +9750,20 @@
         "costoTotal": 13.2,
         "fecha": "28/3/2025, 12:22:59 p.m.",
         "ganancia": 4.399999999999999
+      },
+      {
+        "producto": "Sol habanero",
+        "piezas": 1,
+        "costoTotal": 19.35,
+        "fecha": "28/3/2025, 2:39:39 p.m.",
+        "ganancia": 6.350000000000001
+      },
+      {
+        "producto": "Maruchan limón habanero",
+        "piezas": 1,
+        "costoTotal": 22,
+        "fecha": "28/3/2025, 2:39:39 p.m.",
+        "ganancia": 7.333333333333334
       }
     ],
     "Rafael": [
@@ -11450,10 +11471,10 @@
       "descripcion": "Sol habanero",
       "precioCompra": 12.9,
       "precioVenta": 19.35,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 13
         },
         {
@@ -11571,10 +11592,10 @@
       "descripcion": "Maruchan limón habanero",
       "precioCompra": 14.67,
       "precioVenta": 22,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 14.666666666666666
         }
       ]
@@ -11668,10 +11689,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 32,
+      "piezas": 31,
       "stockParciales": [
         {
-          "cantidad": 32,
+          "cantidad": 31,
           "costoUnitario": 3.495
         }
       ]
@@ -12999,6 +13020,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 22322.950000000008,
-  "inversionRecuperada": 20180.450023809488,
-  "gananciasTotales": 10100.869976190514
+  "inversionRecuperada": 20211.611690476155,
+  "gananciasTotales": 10116.298309523849
 }
