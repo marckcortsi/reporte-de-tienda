@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 53.38,
-      "ganancia": 290.9491488095238,
+      "adeudo": 73.07000000000001,
+      "ganancia": 297.5141488095238,
       "saldoFavor": 0
     },
     {
@@ -3200,6 +3200,13 @@
         "costoTotal": 18.31,
         "fecha": "27/3/2025, 8:27:39 a.m.",
         "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Coca-cola 500 ml",
+        "piezas": 1,
+        "costoTotal": 19.69,
+        "fecha": "28/3/2025, 2:52:03 p.m.",
+        "ganancia": 6.565000000000001
       }
     ],
     "Irvin": [
@@ -11631,10 +11638,10 @@
       "descripcion": "Coca-cola 500 ml",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 13.125
         }
       ]
@@ -13020,6 +13027,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 22322.950000000008,
-  "inversionRecuperada": 20211.611690476155,
-  "gananciasTotales": 10116.298309523849
+  "inversionRecuperada": 20224.736690476155,
+  "gananciasTotales": 10122.86330952385
 }
