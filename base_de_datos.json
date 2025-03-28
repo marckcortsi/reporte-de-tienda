@@ -10,7 +10,7 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 941.7800000000001,
+      "adeudo": 341.7800000000001,
       "ganancia": 1542.7982202380954,
       "saldoFavor": 0
     },
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 739.7900000000002,
-      "ganancia": 1696.9515694444397,
+      "adeudo": 785.6900000000002,
+      "ganancia": 1712.2515694444396,
       "saldoFavor": 0
     },
     {
@@ -9624,6 +9624,20 @@
         "costoTotal": 5.24,
         "fecha": "27/3/2025, 4:31:48 p.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Nescafe latte",
+        "piezas": 1,
+        "costoTotal": 28.5,
+        "fecha": "28/3/2025, 8:11:59 a.m.",
+        "ganancia": 9.5
+      },
+      {
+        "producto": "Galletas oreo",
+        "piezas": 1,
+        "costoTotal": 17.4,
+        "fecha": "28/3/2025, 8:11:59 a.m.",
+        "ganancia": 5.799999999999999
       }
     ],
     "Rafael": [
@@ -11690,10 +11704,10 @@
       "descripcion": "Nescafe latte",
       "precioCompra": 19,
       "precioVenta": 28.5,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 19
         }
       ]
@@ -11768,10 +11782,10 @@
       "descripcion": "Galletas oreo",
       "precioCompra": 11.6,
       "precioVenta": 17.4,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 11.6
         }
       ]
@@ -12898,6 +12912,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 22322.950000000008,
-  "inversionRecuperada": 19895.321690476158,
-  "gananciasTotales": 9958.428309523842
+  "inversionRecuperada": 19925.921690476156,
+  "gananciasTotales": 9973.728309523842
 }
