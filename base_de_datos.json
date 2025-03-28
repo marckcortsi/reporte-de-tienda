@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 446.1099999999999,
-      "ganancia": 834.240545634921,
+      "adeudo": 483.1699999999999,
+      "ganancia": 846.5922123015877,
       "saldoFavor": 0
     },
     {
@@ -5810,6 +5810,20 @@
         "costoTotal": 23.58,
         "fecha": "28/3/2025, 12:22:46 p.m.",
         "ganancia": 7.859999999999999
+      },
+      {
+        "producto": "Vive 100",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "28/3/2025, 12:27:19 p.m.",
+        "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Papas sol",
+        "piezas": 1,
+        "costoTotal": 18.75,
+        "fecha": "28/3/2025, 12:27:19 p.m.",
+        "ganancia": 6.25
       }
     ],
     "Karen": [
@@ -11544,10 +11558,10 @@
       "descripcion": "Vive 100",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -11719,13 +11733,8 @@
       "descripcion": "Papas sol",
       "precioCompra": 12.5,
       "precioVenta": 18.75,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.5
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7503022458505",
@@ -12990,6 +12999,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 22322.950000000008,
-  "inversionRecuperada": 20155.741690476156,
-  "gananciasTotales": 10088.518309523846
+  "inversionRecuperada": 20180.450023809488,
+  "gananciasTotales": 10100.869976190514
 }
