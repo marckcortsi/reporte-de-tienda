@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 718.3399999999999,
-      "ganancia": 623.9122916666664,
+      "adeudo": 721.9399999999999,
+      "ganancia": 625.1152916666664,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 834.38,
-      "ganancia": 1073.1669130952384,
+      "adeudo": 837.98,
+      "ganancia": 1074.3699130952384,
       "saldoFavor": 0
     },
     {
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 663.2900000000002,
-      "ganancia": 861.8101138888899,
+      "adeudo": 666.8900000000002,
+      "ganancia": 863.0131138888898,
       "saldoFavor": 0
     },
     {
@@ -3979,6 +3979,13 @@
         "costoTotal": 8.52,
         "fecha": "1/4/2025, 11:26:55 a.m.",
         "ganancia": 2.84
+      },
+      {
+        "producto": "Dragoncitos",
+        "piezas": 10,
+        "costoTotal": 3.5999999999999996,
+        "fecha": "1/4/2025, 12:40:25 p.m.",
+        "ganancia": 1.2029999999999998
       }
     ],
     "Isac": [
@@ -5367,6 +5374,13 @@
         "costoTotal": 18.31,
         "fecha": "1/4/2025, 11:25:17 a.m.",
         "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Dragoncitos",
+        "piezas": 10,
+        "costoTotal": 3.5999999999999996,
+        "fecha": "1/4/2025, 12:41:23 p.m.",
+        "ganancia": 1.2029999999999998
       }
     ],
     "Isrrael": [
@@ -11299,6 +11313,13 @@
         "costoTotal": 16.5,
         "fecha": "1/4/2025, 8:16:33 a.m.",
         "ganancia": 5.5
+      },
+      {
+        "producto": "Dragoncitos",
+        "piezas": 10,
+        "costoTotal": 3.5999999999999996,
+        "fecha": "1/4/2025, 12:41:13 p.m.",
+        "ganancia": 1.2029999999999998
       }
     ],
     "Vicente": [
@@ -11950,10 +11971,10 @@
       "descripcion": "Dragoncitos",
       "precioCompra": 0.24,
       "precioVenta": 0.36,
-      "piezas": 86,
+      "piezas": 56,
       "stockParciales": [
         {
-          "cantidad": 86,
+          "cantidad": 56,
           "costoUnitario": 0.2397
         }
       ]
@@ -13230,6 +13251,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 22322.950000000008,
-  "inversionRecuperada": 20610.893714285674,
-  "gananciasTotales": 10315.83628571433
+  "inversionRecuperada": 20618.084714285676,
+  "gananciasTotales": 10319.445285714328
 }
