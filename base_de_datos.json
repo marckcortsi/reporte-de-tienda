@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 476.78999999999996,
-      "ganancia": 1365.0790797619052,
+      "adeudo": 508.28999999999996,
+      "ganancia": 1375.5790797619052,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 536.7900000000001,
-      "ganancia": 1607.7216130952381,
+      "adeudo": 651.46,
+      "ganancia": 1645.9232797619047,
       "saldoFavor": 0
     },
     {
@@ -38,36 +38,36 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 837.98,
-      "ganancia": 1074.3699130952384,
+      "adeudo": 887.64,
+      "ganancia": 1090.821579761905,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 126.5399999999999,
-      "ganancia": 846.5922123015877,
+      "adeudo": 130.7899999999999,
+      "ganancia": 848.0088789682543,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 327.63,
-      "ganancia": 1018.6106353174611,
+      "adeudo": 374.85,
+      "ganancia": 1034.345635317461,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 94.75999999999999,
-      "ganancia": 136.570625,
+      "adeudo": 116.11999999999999,
+      "ganancia": 143.691875,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 696.6300000000002,
-      "ganancia": 1782.453236111106,
+      "adeudo": 762.5600000000002,
+      "ganancia": 1804.4315694444392,
       "saldoFavor": 0
     },
     {
@@ -842,6 +842,13 @@
         "costoTotal": 18.3,
         "fecha": "1/4/2025, 11:26:40 a.m.",
         "ganancia": 6.100000000000001
+      },
+      {
+        "producto": "Galletas principe",
+        "piezas": 1,
+        "costoTotal": 31.5,
+        "fecha": "2/4/2025, 10:23:40 a.m.",
+        "ganancia": 10.5
       }
     ],
     "Carlos": [
@@ -2293,6 +2300,41 @@
         "costoTotal": 18.3,
         "fecha": "1/4/2025, 8:18:43 a.m.",
         "ganancia": 6.100000000000001
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "1/4/2025, 4:01:29 p.m.",
+        "ganancia": 1.745
+      },
+      {
+        "producto": "Mazapan",
+        "piezas": 1,
+        "costoTotal": 4.25,
+        "fecha": "1/4/2025, 4:01:29 p.m.",
+        "ganancia": 1.4166666666666665
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 12,
+        "costoTotal": 62.88,
+        "fecha": "1/4/2025, 5:16:45 p.m.",
+        "ganancia": 20.94
+      },
+      {
+        "producto": "Galletas principe",
+        "piezas": 1,
+        "costoTotal": 31.5,
+        "fecha": "2/4/2025, 8:55:19 a.m.",
+        "ganancia": 10.5
+      },
+      {
+        "producto": "Leche vainilla",
+        "piezas": 1,
+        "costoTotal": 10.8,
+        "fecha": "2/4/2025, 8:55:19 a.m.",
+        "ganancia": 3.6000000000000005
       }
     ],
     "Edgar": [
@@ -5381,6 +5423,27 @@
         "costoTotal": 3.5999999999999996,
         "fecha": "1/4/2025, 12:41:23 p.m.",
         "ganancia": 1.2029999999999998
+      },
+      {
+        "producto": "Leche fresa",
+        "piezas": 1,
+        "costoTotal": 12,
+        "fecha": "2/4/2025, 8:53:27 a.m.",
+        "ganancia": 4
+      },
+      {
+        "producto": "Sol habanero",
+        "piezas": 1,
+        "costoTotal": 19.35,
+        "fecha": "2/4/2025, 12:57:36 p.m.",
+        "ganancia": 6.350000000000001
+      },
+      {
+        "producto": "Vive 100",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "2/4/2025, 12:57:36 p.m.",
+        "ganancia": 6.101666666666665
       }
     ],
     "Isrrael": [
@@ -5992,6 +6055,13 @@
         "costoTotal": 18.75,
         "fecha": "28/3/2025, 12:27:19 p.m.",
         "ganancia": 6.25
+      },
+      {
+        "producto": "Mazapan",
+        "piezas": 1,
+        "costoTotal": 4.25,
+        "fecha": "1/4/2025, 4:02:26 p.m.",
+        "ganancia": 1.4166666666666665
       }
     ],
     "Karen": [
@@ -7254,6 +7324,20 @@
         "costoTotal": 18.3,
         "fecha": "1/4/2025, 8:17:19 a.m.",
         "ganancia": 6.100000000000001
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 3,
+        "costoTotal": 15.72,
+        "fecha": "1/4/2025, 4:01:48 p.m.",
+        "ganancia": 5.235
+      },
+      {
+        "producto": "Galletas principe",
+        "piezas": 1,
+        "costoTotal": 31.5,
+        "fecha": "2/4/2025, 8:52:41 a.m.",
+        "ganancia": 10.5
       }
     ],
     "Laura": [
@@ -7424,6 +7508,20 @@
         "costoTotal": 17.4,
         "fecha": "1/4/2025, 8:17:31 a.m.",
         "ganancia": 5.799999999999999
+      },
+      {
+        "producto": "Churritos chile",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "2/4/2025, 12:56:34 p.m.",
+        "ganancia": 3.75
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 1,
+        "costoTotal": 10.11,
+        "fecha": "2/4/2025, 12:56:34 p.m.",
+        "ganancia": 3.37125
       }
     ],
     "Marcos": [
@@ -10009,6 +10107,48 @@
         "costoTotal": 18.31,
         "fecha": "1/4/2025, 11:25:11 a.m.",
         "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "1/4/2025, 4:02:03 p.m.",
+        "ganancia": 1.745
+      },
+      {
+        "producto": "Leche vainilla",
+        "piezas": 1,
+        "costoTotal": 10.8,
+        "fecha": "2/4/2025, 8:15:44 a.m.",
+        "ganancia": 3.6000000000000005
+      },
+      {
+        "producto": "Vive 100",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "2/4/2025, 8:51:55 a.m.",
+        "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Chicles canels",
+        "piezas": 2,
+        "costoTotal": 2.02,
+        "fecha": "2/4/2025, 8:51:55 a.m.",
+        "ganancia": 0.6799999999999999
+      },
+      {
+        "producto": "Churritos sal",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "2/4/2025, 10:23:59 a.m.",
+        "ganancia": 3.75
+      },
+      {
+        "producto": "Vive 100",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "2/4/2025, 12:01:09 p.m.",
+        "ganancia": 6.101666666666665
       }
     ],
     "Rafael": [
@@ -11591,10 +11731,10 @@
       "descripcion": "Chicles canels",
       "precioCompra": 0.67,
       "precioVenta": 1.01,
-      "piezas": 34,
+      "piezas": 32,
       "stockParciales": [
         {
-          "cantidad": 34,
+          "cantidad": 32,
           "costoUnitario": 0.67
         }
       ]
@@ -11737,12 +11877,8 @@
       "descripcion": "Sol habanero",
       "precioCompra": 12.9,
       "precioVenta": 19.35,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 13
-        },
         {
           "cantidad": 6,
           "costoUnitario": 12.9
@@ -11775,10 +11911,10 @@
       "descripcion": "Carlos V",
       "precioCompra": 6.74,
       "precioVenta": 10.11,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 6.73875
         }
       ]
@@ -11840,10 +11976,10 @@
       "descripcion": "Vive 100",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 11,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 8,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -11941,27 +12077,14 @@
       "stockParciales": []
     },
     {
-      "codigo": "75071295",
-      "descripcion": "Pall Mall",
-      "precioCompra": 3.5,
-      "precioVenta": 5.24,
-      "piezas": 27,
-      "stockParciales": [
-        {
-          "cantidad": 27,
-          "costoUnitario": 3.495
-        }
-      ]
-    },
-    {
       "codigo": "724869100090",
       "descripcion": "Mazapan",
       "precioCompra": 2.83,
       "precioVenta": 4.25,
-      "piezas": 23,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 21,
           "costoUnitario": 2.8333333333333335
         }
       ]
@@ -11984,10 +12107,10 @@
       "descripcion": "Churritos chile",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 7.5
         }
       ]
@@ -11997,10 +12120,10 @@
       "descripcion": "Churritos sal",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 7.5
         }
       ]
@@ -12047,13 +12170,8 @@
       "descripcion": "Galletas principe",
       "precioCompra": 21,
       "precioVenta": 31.5,
-      "piezas": 3,
-      "stockParciales": [
-        {
-          "cantidad": 3,
-          "costoUnitario": 21
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000601776",
@@ -12092,13 +12210,8 @@
       "descripcion": "Leche vainilla",
       "precioCompra": 7.2,
       "precioVenta": 10.8,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 7.2
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7506475117883",
@@ -12113,13 +12226,8 @@
       "descripcion": "Leche fresa",
       "precioCompra": 8,
       "precioVenta": 12,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 8
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7622210833662",
@@ -13251,6 +13359,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 22322.950000000008,
-  "inversionRecuperada": 20618.084714285676,
-  "gananciasTotales": 10319.445285714328
+  "inversionRecuperada": 20841.270130952336,
+  "gananciasTotales": 10430.849869047666
 }
