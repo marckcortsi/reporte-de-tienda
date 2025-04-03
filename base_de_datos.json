@@ -10,15 +10,15 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 686.71,
-      "ganancia": 1657.679663095238,
+      "adeudo": 729.7900000000001,
+      "ganancia": 1672.0379964285714,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 116.34999999999988,
-      "ganancia": 527.6236607142856,
+      "adeudo": 125.77999999999989,
+      "ganancia": 530.7661607142857,
       "saldoFavor": 0
     },
     {
@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 740.67,
-      "ganancia": 631.3619583333331,
+      "adeudo": 749.1899999999999,
+      "ganancia": 634.2019583333331,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 919.46,
-      "ganancia": 1101.4249130952385,
+      "adeudo": 928.89,
+      "ganancia": 1104.5674130952384,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 374.85,
-      "ganancia": 1034.345635317461,
+      "adeudo": 409.12000000000006,
+      "ganancia": 1045.7664686507942,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 794.3200000000002,
-      "ganancia": 1815.0215694444391,
+      "adeudo": 856.7100000000002,
+      "ganancia": 1835.8149027777724,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 685.0800000000003,
-      "ganancia": 869.0764472222232,
+      "adeudo": 694.5100000000002,
+      "ganancia": 872.2189472222233,
       "saldoFavor": 0
     },
     {
@@ -2370,6 +2370,20 @@
         "costoTotal": 10.11,
         "fecha": "3/4/2025, 9:00:08 a.m.",
         "ganancia": 3.37125
+      },
+      {
+        "producto": "Arizona sandía",
+        "piezas": 1,
+        "costoTotal": 24.22,
+        "fecha": "3/4/2025, 9:46:17 a.m.",
+        "ganancia": 8.073333333333334
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 2,
+        "costoTotal": 18.86,
+        "fecha": "3/4/2025, 3:42:03 p.m.",
+        "ganancia": 6.284999999999998
       }
     ],
     "Edgar": [
@@ -3058,6 +3072,13 @@
         "costoTotal": 13.03,
         "fecha": "3/4/2025, 8:57:55 a.m.",
         "ganancia": 4.343333333333334
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.43,
+        "fecha": "3/4/2025, 3:42:15 p.m.",
+        "ganancia": 3.142499999999999
       }
     ],
     "Francisco": [
@@ -4084,6 +4105,13 @@
         "costoTotal": 18.73,
         "fecha": "3/4/2025, 8:59:00 a.m.",
         "ganancia": 6.246666666666666
+      },
+      {
+        "producto": "Top-top hot chili",
+        "piezas": 1,
+        "costoTotal": 8.52,
+        "fecha": "3/4/2025, 12:55:22 p.m.",
+        "ganancia": 2.84
       }
     ],
     "Isac": [
@@ -5514,6 +5542,13 @@
         "costoTotal": 20.07,
         "fecha": "3/4/2025, 9:04:37 a.m.",
         "ganancia": 6.686666666666667
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.43,
+        "fecha": "3/4/2025, 3:42:09 p.m.",
+        "ganancia": 3.142499999999999
       }
     ],
     "Isrrael": [
@@ -7408,6 +7443,27 @@
         "costoTotal": 31.5,
         "fecha": "2/4/2025, 8:52:41 a.m.",
         "ganancia": 10.5
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.6,
+        "fecha": "3/4/2025, 12:55:34 p.m.",
+        "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "3/4/2025, 2:23:57 p.m.",
+        "ganancia": 1.745
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.43,
+        "fecha": "3/4/2025, 3:43:27 p.m.",
+        "ganancia": 3.142499999999999
       }
     ],
     "Laura": [
@@ -10240,6 +10296,27 @@
         "costoTotal": 13.03,
         "fecha": "3/4/2025, 9:00:38 a.m.",
         "ganancia": 4.343333333333334
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24.22,
+        "fecha": "3/4/2025, 9:46:41 a.m.",
+        "ganancia": 8.073333333333334
+      },
+      {
+        "producto": "Papas sol chipotle",
+        "piezas": 1,
+        "costoTotal": 19.31,
+        "fecha": "3/4/2025, 2:24:23 p.m.",
+        "ganancia": 6.434999999999999
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 2,
+        "costoTotal": 18.86,
+        "fecha": "3/4/2025, 3:42:22 p.m.",
+        "ganancia": 6.284999999999998
       }
     ],
     "Rafael": [
@@ -11558,6 +11635,13 @@
         "costoTotal": 18.19,
         "fecha": "3/4/2025, 8:58:27 a.m.",
         "ganancia": 6.063333333333334
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.43,
+        "fecha": "3/4/2025, 3:46:25 p.m.",
+        "ganancia": 3.142499999999999
       }
     ],
     "Vicente": [
@@ -11863,10 +11947,10 @@
       "descripcion": "Doritos",
       "precioCompra": 13.07,
       "precioVenta": 19.6,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 13.066666666666666
         }
       ]
@@ -12032,10 +12116,10 @@
       "descripcion": "Top-top hot chili",
       "precioCompra": 5.68,
       "precioVenta": 8.52,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 5.68
         }
       ]
@@ -12188,13 +12272,8 @@
       "descripcion": "Papas sol chipotle",
       "precioCompra": 12.88,
       "precioVenta": 19.31,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.875
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7622210575609",
@@ -12279,10 +12358,10 @@
       "descripcion": "Arizona kiwi",
       "precioCompra": 16.15,
       "precioVenta": 24.22,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 16.146666666666665
         }
       ]
@@ -12292,10 +12371,10 @@
       "descripcion": "Arizona sandía",
       "precioCompra": 16.15,
       "precioVenta": 24.22,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 16.146666666666665
         }
       ]
@@ -12417,10 +12496,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 100,
+      "piezas": 99,
       "stockParciales": [
         {
-          "cantidad": 100,
+          "cantidad": 99,
           "costoUnitario": 3.495
         }
       ]
@@ -12443,10 +12522,10 @@
       "descripcion": "Bonice",
       "precioCompra": 6.29,
       "precioVenta": 9.43,
-      "piezas": 24,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 16,
           "costoUnitario": 6.2875000000000005
         }
       ]
@@ -13693,6 +13772,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 24183.60000000001,
-  "inversionRecuperada": 21000.084164285676,
-  "gananciasTotales": 10510.26583571433
+  "inversionRecuperada": 21117.79416428567,
+  "gananciasTotales": 10569.10583571433
 }
