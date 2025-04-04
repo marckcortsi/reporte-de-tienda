@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 969.85,
-      "ganancia": 1118.2219964285719,
+      "adeudo": 979.28,
+      "ganancia": 1121.3644964285718,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 910.8800000000001,
-      "ganancia": 1853.8697837301534,
+      "adeudo": 720.3100000000001,
+      "ganancia": 1857.0122837301533,
       "saldoFavor": 0
     },
     {
@@ -5682,6 +5682,13 @@
         "costoTotal": 14.85,
         "fecha": "4/4/2025, 9:15:00 a.m.",
         "ganancia": 4.949999999999999
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.43,
+        "fecha": "4/4/2025, 1:26:14 p.m.",
+        "ganancia": 3.142499999999999
       }
     ],
     "Isrrael": [
@@ -10548,6 +10555,13 @@
         "costoTotal": 9.43,
         "fecha": "4/4/2025, 11:19:11 a.m.",
         "ganancia": 3.142499999999999
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.43,
+        "fecha": "4/4/2025, 2:34:27 p.m.",
+        "ganancia": 3.142499999999999
       }
     ],
     "Rafael": [
@@ -12768,10 +12782,10 @@
       "descripcion": "Bonice",
       "precioCompra": 6.29,
       "precioVenta": 9.43,
-      "piezas": 11,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 9,
           "costoUnitario": 6.2875000000000005
         }
       ]
@@ -14018,6 +14032,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 24183.60000000001,
-  "inversionRecuperada": 21434.79005714281,
-  "gananciasTotales": 10727.60994285719
+  "inversionRecuperada": 21447.365057142808,
+  "gananciasTotales": 10733.89494285719
 }
