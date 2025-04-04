@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 115.63000000000001,
-      "ganancia": 311.7008154761905,
+      "adeudo": 139.03,
+      "ganancia": 319.51152976190474,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 409.12000000000006,
-      "ganancia": 1047.511468650794,
+      "adeudo": 418.55000000000007,
+      "ganancia": 1050.653968650794,
       "saldoFavor": 0
     },
     {
@@ -3487,6 +3487,20 @@
         "costoTotal": 11.25,
         "fecha": "1/4/2025, 11:24:03 a.m.",
         "ganancia": 3.75
+      },
+      {
+        "producto": "Mamuts",
+        "piezas": 8,
+        "costoTotal": 20.8,
+        "fecha": "4/4/2025, 12:28:56 p.m.",
+        "ganancia": 6.942857142857143
+      },
+      {
+        "producto": "Mamuts",
+        "piezas": 1,
+        "costoTotal": 2.6,
+        "fecha": "4/4/2025, 12:29:12 p.m.",
+        "ganancia": 0.8678571428571429
       }
     ],
     "Irvin": [
@@ -7611,6 +7625,13 @@
         "costoTotal": 5.24,
         "fecha": "4/4/2025, 8:04:56 a.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.43,
+        "fecha": "4/4/2025, 1:14:49 p.m.",
+        "ganancia": 3.142499999999999
       }
     ],
     "Laura": [
@@ -12674,10 +12695,10 @@
       "descripcion": "Mamuts",
       "precioCompra": 1.73,
       "precioVenta": 2.6,
-      "piezas": 21,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 12,
           "costoUnitario": 1.7321428571428572
         }
       ]
@@ -12747,10 +12768,10 @@
       "descripcion": "Bonice",
       "precioCompra": 6.29,
       "precioVenta": 9.43,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 6.2875000000000005
         }
       ]
@@ -13997,6 +14018,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 24183.60000000001,
-  "inversionRecuperada": 21412.91327142853,
-  "gananciasTotales": 10716.656728571475
+  "inversionRecuperada": 21434.79005714281,
+  "gananciasTotales": 10727.60994285719
 }
