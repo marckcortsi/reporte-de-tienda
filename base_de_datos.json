@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 826.07,
-      "ganancia": 1704.133294047619,
+      "adeudo": 394.92999999999995,
+      "ganancia": 1710.418294047619,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 720.3100000000001,
-      "ganancia": 1857.0122837301533,
+      "adeudo": 729.74,
+      "ganancia": 1860.1547837301532,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 766.5200000000002,
-      "ganancia": 896.2181138888901,
+      "adeudo": 775.9500000000002,
+      "ganancia": 899.3606138888902,
       "saldoFavor": 0
     },
     {
@@ -2433,6 +2433,20 @@
         "costoTotal": 7.800000000000001,
         "fecha": "4/4/2025, 8:06:13 a.m.",
         "ganancia": 2.6035714285714286
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.43,
+        "fecha": "4/4/2025, 4:11:21 p.m.",
+        "ganancia": 3.142499999999999
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.43,
+        "fecha": "4/4/2025, 4:16:22 p.m.",
+        "ganancia": 3.142499999999999
       }
     ],
     "Edgar": [
@@ -10562,6 +10576,13 @@
         "costoTotal": 9.43,
         "fecha": "4/4/2025, 2:34:27 p.m.",
         "ganancia": 3.142499999999999
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.43,
+        "fecha": "4/4/2025, 4:11:13 p.m.",
+        "ganancia": 3.142499999999999
       }
     ],
     "Rafael": [
@@ -11922,6 +11943,13 @@
         "costoTotal": 10.48,
         "fecha": "4/4/2025, 11:24:38 a.m.",
         "ganancia": 3.49
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.43,
+        "fecha": "4/4/2025, 4:11:30 p.m.",
+        "ganancia": 3.142499999999999
       }
     ],
     "Vicente": [
@@ -12782,10 +12810,10 @@
       "descripcion": "Bonice",
       "precioCompra": 6.29,
       "precioVenta": 9.43,
-      "piezas": 9,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 5,
           "costoUnitario": 6.2875000000000005
         }
       ]
@@ -14032,6 +14060,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 24183.60000000001,
-  "inversionRecuperada": 21447.365057142808,
-  "gananciasTotales": 10733.89494285719
+  "inversionRecuperada": 21472.515057142802,
+  "gananciasTotales": 10746.46494285719
 }
