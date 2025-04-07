@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 479.15,
-      "ganancia": 1738.410794047619,
+      "adeudo": 504.09,
+      "ganancia": 1746.7243654761905,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 979.28,
-      "ganancia": 1121.3644964285718,
+      "adeudo": 1015.72,
+      "ganancia": 1133.5111630952385,
       "saldoFavor": 0
     },
     {
@@ -80,7 +80,7 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 120.64999999999999,
+      "adeudo": 0,
       "ganancia": 182.9780059523809,
       "saldoFavor": 0
     },
@@ -2475,6 +2475,20 @@
         "costoTotal": 20.22,
         "fecha": "4/4/2025, 4:59:02 p.m.",
         "ganancia": 6.7425
+      },
+      {
+        "producto": "Oreo chocolate",
+        "piezas": 1,
+        "costoTotal": 17.14,
+        "fecha": "7/4/2025, 8:17:57 a.m.",
+        "ganancia": 5.710000000000001
+      },
+      {
+        "producto": "Mamuts",
+        "piezas": 3,
+        "costoTotal": 7.800000000000001,
+        "fecha": "7/4/2025, 8:17:57 a.m.",
+        "ganancia": 2.6035714285714286
       }
     ],
     "Edgar": [
@@ -5731,6 +5745,20 @@
         "costoTotal": 9.43,
         "fecha": "4/4/2025, 1:26:14 p.m.",
         "ganancia": 3.142499999999999
+      },
+      {
+        "producto": "Leche de freza",
+        "piezas": 1,
+        "costoTotal": 11.75,
+        "fecha": "7/4/2025, 8:46:27 a.m.",
+        "ganancia": 3.916666666666667
+      },
+      {
+        "producto": "Oreo vainilla",
+        "piezas": 1,
+        "costoTotal": 24.69,
+        "fecha": "7/4/2025, 8:46:27 a.m.",
+        "ganancia": 8.23
       }
     ],
     "Isrrael": [
@@ -12618,26 +12646,16 @@
       "descripcion": "Oreo vainilla",
       "precioCompra": 16.46,
       "precioVenta": 24.69,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 16.46
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7622210833662",
       "descripcion": "Oreo chocolate",
       "precioCompra": 11.43,
       "precioVenta": 17.14,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 11.43
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "759686241121",
@@ -12738,13 +12756,8 @@
       "descripcion": "Leche de freza",
       "precioCompra": 7.83,
       "precioVenta": 11.75,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 7.833333333333333
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000601776",
@@ -12767,10 +12780,10 @@
       "descripcion": "Mamuts",
       "precioCompra": 1.73,
       "precioVenta": 2.6,
-      "piezas": 12,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 9,
           "costoUnitario": 1.7321428571428572
         }
       ]
@@ -14090,6 +14103,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 24183.60000000001,
-  "inversionRecuperada": 21542.750057142803,
-  "gananciasTotales": 10781.46994285719
+  "inversionRecuperada": 21583.66981904756,
+  "gananciasTotales": 10801.930180952426
 }
