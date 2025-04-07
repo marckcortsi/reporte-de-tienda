@@ -3,7 +3,7 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 562.7600000000001,
+      "adeudo": 62.760000000000105,
       "ganancia": 1393.7424130952386,
       "saldoFavor": 0
     },
@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 174.2799999999999,
-      "ganancia": 546.9319940476191,
+      "adeudo": 198.4999999999999,
+      "ganancia": 555.0053273809525,
       "saldoFavor": 0
     },
     {
@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 795.0599999999998,
-      "ganancia": 649.4911249999998,
+      "adeudo": 810.0199999999999,
+      "ganancia": 654.4777916666665,
       "saldoFavor": 0
     },
     {
@@ -45,9 +45,9 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 166.77999999999992,
+      "adeudo": 0,
       "ganancia": 860.0083432539686,
-      "saldoFavor": 0
+      "saldoFavor": 0.22
     },
     {
       "nombre": "Karen",
@@ -59,14 +59,14 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 161.64999999999998,
-      "ganancia": 158.86187500000003,
+      "adeudo": 176.60999999999999,
+      "ganancia": 163.8485416666667,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 729.74,
+      "adeudo": 429.74,
       "ganancia": 1860.1547837301532,
       "saldoFavor": 0
     },
@@ -3205,6 +3205,13 @@
         "costoTotal": 9.43,
         "fecha": "4/4/2025, 11:19:21 a.m.",
         "ganancia": 3.142499999999999
+      },
+      {
+        "producto": "Arizona Mango",
+        "piezas": 1,
+        "costoTotal": 24.22,
+        "fecha": "7/4/2025, 10:45:29 a.m.",
+        "ganancia": 8.073333333333334
       }
     ],
     "Francisco": [
@@ -4273,6 +4280,13 @@
         "costoTotal": 9.43,
         "fecha": "4/4/2025, 11:19:27 a.m.",
         "ganancia": 3.142499999999999
+      },
+      {
+        "producto": "Marianistas de coco",
+        "piezas": 1,
+        "costoTotal": 14.96,
+        "fecha": "7/4/2025, 8:50:58 a.m.",
+        "ganancia": 4.986666666666666
       }
     ],
     "Isac": [
@@ -7921,6 +7935,13 @@
         "costoTotal": 17.14,
         "fecha": "4/4/2025, 8:28:49 a.m.",
         "ganancia": 5.710000000000001
+      },
+      {
+        "producto": "Marianistas de coco",
+        "piezas": 1,
+        "costoTotal": 14.96,
+        "fecha": "7/4/2025, 10:23:59 a.m.",
+        "ganancia": 4.986666666666666
       }
     ],
     "Marcos": [
@@ -12696,13 +12717,8 @@
       "descripcion": "Arizona Mango",
       "precioCompra": 16.15,
       "precioVenta": 24.22,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 16.146666666666665
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "613008772901",
@@ -12801,10 +12817,10 @@
       "descripcion": "Marianistas de coco",
       "precioCompra": 9.97,
       "precioVenta": 14.96,
-      "piezas": 3,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 1,
           "costoUnitario": 9.973333333333334
         }
       ]
@@ -14103,6 +14119,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 24183.60000000001,
-  "inversionRecuperada": 21583.66981904756,
-  "gananciasTotales": 10801.930180952426
+  "inversionRecuperada": 21619.763152380892,
+  "gananciasTotales": 10819.976847619091
 }
