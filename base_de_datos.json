@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 551.1700000000001,
-      "ganancia": 1389.8724130952385,
+      "adeudo": 562.7600000000001,
+      "ganancia": 1393.7424130952386,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 394.92999999999995,
-      "ganancia": 1710.418294047619,
+      "adeudo": 479.15,
+      "ganancia": 1738.410794047619,
       "saldoFavor": 0
     },
     {
@@ -45,14 +45,14 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 157.3499999999999,
-      "ganancia": 856.8658432539686,
+      "adeudo": 166.77999999999992,
+      "ganancia": 860.0083432539686,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 418.55000000000007,
+      "adeudo": 218.55000000000007,
       "ganancia": 1050.653968650794,
       "saldoFavor": 0
     },
@@ -863,6 +863,20 @@
         "costoTotal": 24.69,
         "fecha": "4/4/2025, 8:27:27 a.m.",
         "ganancia": 8.23
+      },
+      {
+        "producto": "Paletas de Tarrito",
+        "piezas": 3,
+        "costoTotal": 7.3500000000000005,
+        "fecha": "4/4/2025, 5:00:07 p.m.",
+        "ganancia": 2.46
+      },
+      {
+        "producto": "Sandibrocha",
+        "piezas": 2,
+        "costoTotal": 4.24,
+        "fecha": "4/4/2025, 5:00:07 p.m.",
+        "ganancia": 1.4100000000000001
       }
     ],
     "Carlos": [
@@ -2447,6 +2461,20 @@
         "costoTotal": 9.43,
         "fecha": "4/4/2025, 4:16:22 p.m.",
         "ganancia": 3.142499999999999
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 64,
+        "fecha": "4/4/2025, 4:59:02 p.m.",
+        "ganancia": 21.250000000000004
+      },
+      {
+        "producto": "Carlos V",
+        "piezas": 2,
+        "costoTotal": 20.22,
+        "fecha": "4/4/2025, 4:59:02 p.m.",
+        "ganancia": 6.7425
       }
     ],
     "Edgar": [
@@ -6342,6 +6370,13 @@
         "costoTotal": 5.2,
         "fecha": "3/4/2025, 5:35:12 p.m.",
         "ganancia": 1.7357142857142858
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.43,
+        "fecha": "7/4/2025, 8:08:44 a.m.",
+        "ganancia": 3.142499999999999
       }
     ],
     "Karen": [
@@ -12229,10 +12264,10 @@
       "descripcion": "Paletas de Tarrito",
       "precioCompra": 1.63,
       "precioVenta": 2.45,
-      "piezas": 7,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 4,
           "costoUnitario": 1.6300000000000001
         }
       ]
@@ -12398,13 +12433,8 @@
       "descripcion": "Carlos V",
       "precioCompra": 6.74,
       "precioVenta": 10.11,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 6.73875
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "703885005244",
@@ -12614,10 +12644,10 @@
       "descripcion": "Sandibrocha",
       "precioCompra": 1.42,
       "precioVenta": 2.12,
-      "piezas": 38,
+      "piezas": 36,
       "stockParciales": [
         {
-          "cantidad": 38,
+          "cantidad": 36,
           "costoUnitario": 1.415
         }
       ]
@@ -12797,10 +12827,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 200,
+      "piezas": 175,
       "stockParciales": [
         {
-          "cantidad": 200,
+          "cantidad": 175,
           "costoUnitario": 1.71
         }
       ]
@@ -12810,10 +12840,10 @@
       "descripcion": "Bonice",
       "precioCompra": 6.29,
       "precioVenta": 9.43,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 6.2875000000000005
         }
       ]
@@ -14060,6 +14090,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 24183.60000000001,
-  "inversionRecuperada": 21472.515057142802,
-  "gananciasTotales": 10746.46494285719
+  "inversionRecuperada": 21542.750057142803,
+  "gananciasTotales": 10781.46994285719
 }
