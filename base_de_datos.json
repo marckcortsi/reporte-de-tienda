@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 863.64,
-      "ganancia": 1866.410451190476,
+      "adeudo": 903.14,
+      "ganancia": 1879.5771178571424,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1135.44,
-      "ganancia": 1173.4694964285711,
+      "adeudo": 1184.68,
+      "ganancia": 1189.8811630952375,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 374.8700000000001,
-      "ganancia": 1102.7561115079366,
+      "adeudo": 380.1100000000001,
+      "ganancia": 1104.5011115079365,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 643.26,
-      "ganancia": 1931.3886726190417,
+      "adeudo": 658.85,
+      "ganancia": 1936.5836726190416,
       "saldoFavor": 0
     },
     {
@@ -2643,6 +2643,20 @@
         "costoTotal": 64,
         "fecha": "9/4/2025, 6:09:37 p.m.",
         "ganancia": 21.250000000000004
+      },
+      {
+        "producto": "Emperador zenso",
+        "piezas": 1,
+        "costoTotal": 20.5,
+        "fecha": "10/4/2025, 8:51:37 a.m.",
+        "ganancia": 6.833333333333334
+      },
+      {
+        "producto": "Yogurt galleta",
+        "piezas": 1,
+        "costoTotal": 19,
+        "fecha": "10/4/2025, 8:51:37 a.m.",
+        "ganancia": 6.333333333333334
       }
     ],
     "Edgar": [
@@ -6102,6 +6116,27 @@
         "costoTotal": 10.48,
         "fecha": "9/4/2025, 6:08:52 p.m.",
         "ganancia": 3.49
+      },
+      {
+        "producto": "Oreo vainilla",
+        "piezas": 1,
+        "costoTotal": 25,
+        "fecha": "10/4/2025, 8:52:00 a.m.",
+        "ganancia": 8.333333333333332
+      },
+      {
+        "producto": "Yogurt galleta",
+        "piezas": 1,
+        "costoTotal": 19,
+        "fecha": "10/4/2025, 8:52:00 a.m.",
+        "ganancia": 6.333333333333334
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "10/4/2025, 8:52:00 a.m.",
+        "ganancia": 1.745
       }
     ],
     "Isrrael": [
@@ -8198,6 +8233,13 @@
         "piezas": 1,
         "costoTotal": 5.24,
         "fecha": "9/4/2025, 3:16:39 p.m.",
+        "ganancia": 1.745
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "10/4/2025, 9:06:14 a.m.",
         "ganancia": 1.745
       }
     ],
@@ -11262,6 +11304,20 @@
         "costoTotal": 8.39,
         "fecha": "9/4/2025, 6:10:25 p.m.",
         "ganancia": 2.7955555555555556
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "10/4/2025, 8:52:05 a.m.",
+        "ganancia": 1.745
+      },
+      {
+        "producto": "Lucas tamarindo",
+        "piezas": 1,
+        "costoTotal": 10.35,
+        "fecha": "10/4/2025, 9:05:58 a.m.",
+        "ganancia": 3.4499999999999993
       }
     ],
     "Rafael": [
@@ -13383,10 +13439,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 81,
+      "piezas": 78,
       "stockParciales": [
         {
-          "cantidad": 81,
+          "cantidad": 78,
           "costoUnitario": 3.495
         }
       ]
@@ -13594,23 +13650,18 @@
       "descripcion": "Emperador zenso",
       "precioCompra": 13.67,
       "precioVenta": 20.5,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 13.666666666666666
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7622210575609",
       "descripcion": "Oreo vainilla",
       "precioCompra": 16.67,
       "precioVenta": 25,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 16.666666666666668
         }
       ]
@@ -13701,13 +13752,8 @@
       "descripcion": "Yogurt galleta",
       "precioCompra": 12.67,
       "precioVenta": 19,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 12.666666666666666
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501032398606",
@@ -13756,10 +13802,10 @@
       "descripcion": "Lucas tamarindo",
       "precioCompra": 6.9,
       "precioVenta": 10.35,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 6.9
         }
       ]
@@ -15319,6 +15365,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 27352.110000000004,
-  "inversionRecuperada": 22746.916288888828,
-  "gananciasTotales": 11383.553711111175
+  "inversionRecuperada": 22819.967955555498,
+  "gananciasTotales": 11420.072044444514
 }
