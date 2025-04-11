@@ -10,22 +10,22 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1037.8799999999999,
-      "ganancia": 1924.4929511904757,
+      "adeudo": 717.77,
+      "ganancia": 1951.0400940476186,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 386.92999999999995,
-      "ganancia": 617.8153273809528,
+      "adeudo": 403.17999999999995,
+      "ganancia": 623.2319940476194,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 221.47,
-      "ganancia": 346.99319642857137,
+      "adeudo": 253.97,
+      "ganancia": 357.8265297619047,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 753.73,
-      "ganancia": 1212.8944964285708,
+      "adeudo": 787.78,
+      "ganancia": 1224.3111630952376,
       "saldoFavor": 0
     },
     {
@@ -2727,6 +2727,20 @@
         "costoTotal": 5.24,
         "fecha": "11/4/2025, 8:29:36 a.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 64,
+        "fecha": "11/4/2025, 3:00:29 p.m.",
+        "ganancia": 21.250000000000004
+      },
+      {
+        "producto": "Palomitas",
+        "piezas": 1,
+        "costoTotal": 15.89,
+        "fecha": "11/4/2025, 3:00:29 p.m.",
+        "ganancia": 5.297142857142857
       }
     ],
     "Edgar": [
@@ -3513,6 +3527,13 @@
         "costoTotal": 19.5,
         "fecha": "10/4/2025, 12:01:03 p.m.",
         "ganancia": 6.5
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "11/4/2025, 3:00:57 p.m.",
+        "ganancia": 5.416666666666666
       }
     ],
     "Francisco": [
@@ -3893,6 +3914,13 @@
         "costoTotal": 19.69,
         "fecha": "10/4/2025, 2:55:24 p.m.",
         "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 2,
+        "costoTotal": 32.5,
+        "fecha": "11/4/2025, 2:40:49 p.m.",
+        "ganancia": 10.833333333333332
       }
     ],
     "Irvin": [
@@ -6270,6 +6298,20 @@
         "costoTotal": 14.85,
         "fecha": "11/4/2025, 8:39:10 a.m.",
         "ganancia": 4.949999999999999
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "11/4/2025, 3:02:37 p.m.",
+        "ganancia": 5.416666666666666
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 17.8,
+        "fecha": "11/4/2025, 3:02:37 p.m.",
+        "ganancia": 6
       }
     ],
     "Isrrael": [
@@ -13399,13 +13441,8 @@
       "descripcion": "Palomitas",
       "precioCompra": 10.59,
       "precioVenta": 15.89,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 10.592857142857143
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "3",
@@ -13425,12 +13462,8 @@
       "descripcion": "Takis",
       "precioCompra": 11.87,
       "precioVenta": 17.8,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 11.8
-        },
         {
           "cantidad": 15,
           "costoUnitario": 11.866666666666667
@@ -13739,10 +13772,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 125,
+      "piezas": 100,
       "stockParciales": [
         {
-          "cantidad": 125,
+          "cantidad": 100,
           "costoUnitario": 1.71
         }
       ]
@@ -13967,10 +14000,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 22,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 22,
+          "cantidad": 18,
           "costoUnitario": 10.833333333333334
         }
       ]
@@ -15632,6 +15665,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 27352.110000000004,
-  "inversionRecuperada": 23377.025455555497,
-  "gananciasTotales": 11698.944544444523
+  "inversionRecuperada": 23485.501646031684,
+  "gananciasTotales": 11753.158353968332
 }
