@@ -38,7 +38,7 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1253.73,
+      "adeudo": 753.73,
       "ganancia": 1212.8944964285708,
       "saldoFavor": 0
     },
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 760.52,
-      "ganancia": 1970.5370059523748,
+      "adeudo": 562.64,
+      "ganancia": 1971.2420059523747,
       "saldoFavor": 0
     },
     {
@@ -11577,6 +11577,13 @@
         "costoTotal": 21.88,
         "fecha": "11/4/2025, 12:55:23 p.m.",
         "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Sandibrocha",
+        "piezas": 1,
+        "costoTotal": 2.12,
+        "fecha": "11/4/2025, 2:09:35 p.m.",
+        "ganancia": 0.7050000000000001
       }
     ],
     "Rafael": [
@@ -13646,10 +13653,10 @@
       "descripcion": "Sandibrocha",
       "precioCompra": 1.42,
       "precioVenta": 2.12,
-      "piezas": 25,
+      "piezas": 24,
       "stockParciales": [
         {
-          "cantidad": 25,
+          "cantidad": 24,
           "costoUnitario": 1.415
         }
       ]
@@ -15625,6 +15632,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 27352.110000000004,
-  "inversionRecuperada": 23375.610455555496,
-  "gananciasTotales": 11698.239544444523
+  "inversionRecuperada": 23377.025455555497,
+  "gananciasTotales": 11698.944544444523
 }
