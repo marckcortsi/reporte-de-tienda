@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 397.8300000000001,
-      "ganancia": 1505.4232464285717,
+      "adeudo": 422.8300000000001,
+      "ganancia": 1513.756579761905,
       "saldoFavor": 0
     },
     {
@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 901.5499999999998,
-      "ganancia": 684.9899583333332,
+      "adeudo": 923.4299999999998,
+      "ganancia": 692.2866249999998,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1238.88,
-      "ganancia": 1207.9444964285708,
+      "adeudo": 1253.73,
+      "ganancia": 1212.8944964285708,
       "saldoFavor": 0
     },
     {
@@ -52,22 +52,22 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 438.5600000000001,
-      "ganancia": 1124.078611507936,
+      "adeudo": 497.9300000000001,
+      "ganancia": 1143.9402781746028,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 37.859999999999985,
-      "ganancia": 184.2652083333334,
+      "adeudo": 57.359999999999985,
+      "ganancia": 190.7652083333334,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 720.33,
-      "ganancia": 1957.1386726190415,
+      "adeudo": 760.52,
+      "ganancia": 1970.5370059523748,
       "saldoFavor": 0
     },
     {
@@ -926,6 +926,13 @@
         "costoTotal": 117,
         "fecha": "11/4/2025, 8:28:29 a.m.",
         "ganancia": 38.99999999999999
+      },
+      {
+        "producto": "Oreo vainilla",
+        "piezas": 1,
+        "costoTotal": 25,
+        "fecha": "11/4/2025, 8:38:49 a.m.",
+        "ganancia": 8.333333333333332
       }
     ],
     "Carlos": [
@@ -4651,6 +4658,13 @@
         "costoTotal": 19.5,
         "fecha": "10/4/2025, 12:01:16 p.m.",
         "ganancia": 6.5
+      },
+      {
+        "producto": "Maruchan habanero",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "11/4/2025, 12:25:48 p.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Isac": [
@@ -6249,6 +6263,13 @@
         "costoTotal": 10.48,
         "fecha": "10/4/2025, 5:49:21 p.m.",
         "ganancia": 3.49
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 14.85,
+        "fecha": "11/4/2025, 8:39:10 a.m.",
+        "ganancia": 4.949999999999999
       }
     ],
     "Isrrael": [
@@ -8388,6 +8409,27 @@
         "costoTotal": 2.12,
         "fecha": "10/4/2025, 5:19:49 p.m.",
         "ganancia": 0.7050000000000001
+      },
+      {
+        "producto": "Maruchan habanero",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "11/4/2025, 12:25:39 p.m.",
+        "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 17.8,
+        "fecha": "11/4/2025, 12:37:48 p.m.",
+        "ganancia": 6
+      },
+      {
+        "producto": "Coca-cola 500 ml",
+        "piezas": 1,
+        "costoTotal": 19.69,
+        "fecha": "11/4/2025, 12:54:03 p.m.",
+        "ganancia": 6.565000000000001
       }
     ],
     "Laura": [
@@ -8621,6 +8663,13 @@
         "costoTotal": 25,
         "fecha": "11/4/2025, 8:06:09 a.m.",
         "ganancia": 8.333333333333332
+      },
+      {
+        "producto": "Sol adobada",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "11/4/2025, 12:20:31 p.m.",
+        "ganancia": 6.5
       }
     ],
     "Marcos": [
@@ -11514,6 +11563,20 @@
         "costoTotal": 5.24,
         "fecha": "11/4/2025, 8:28:40 a.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Vive 100",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "11/4/2025, 12:55:23 p.m.",
+        "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Maruchan chili pikin",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "11/4/2025, 12:55:23 p.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Rafael": [
@@ -13355,10 +13418,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.87,
       "precioVenta": 17.8,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 11.8
         },
         {
@@ -13492,10 +13555,10 @@
       "descripcion": "Vive 100",
       "precioCompra": 12.21,
       "precioVenta": 18.31,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 12.208333333333334
         }
       ]
@@ -13518,10 +13581,10 @@
       "descripcion": "Coca-cola 500 ml",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 13.125
         }
       ]
@@ -13810,10 +13873,10 @@
       "descripcion": "Chokis",
       "precioCompra": 9.9,
       "precioVenta": 14.85,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 9.9
         }
       ]
@@ -13860,10 +13923,10 @@
       "descripcion": "Oreo vainilla",
       "precioCompra": 16.67,
       "precioVenta": 25,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 16.666666666666668
         }
       ]
@@ -13923,10 +13986,10 @@
       "descripcion": "Maruchan chili pikin",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -13936,10 +13999,10 @@
       "descripcion": "Maruchan habanero",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 12,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 10,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -14046,10 +14109,10 @@
       "descripcion": "Sol adobada",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 13
         }
       ]
@@ -15562,6 +15625,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 27352.110000000004,
-  "inversionRecuperada": 23255.1604555555,
-  "gananciasTotales": 11637.899544444519
+  "inversionRecuperada": 23375.610455555496,
+  "gananciasTotales": 11698.239544444523
 }
