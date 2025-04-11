@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 280.8300000000001,
-      "ganancia": 1466.4232464285717,
+      "adeudo": 397.8300000000001,
+      "ganancia": 1505.4232464285717,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 989.14,
-      "ganancia": 1908.2479511904755,
+      "adeudo": 1037.8799999999999,
+      "ganancia": 1924.4929511904757,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 715.09,
-      "ganancia": 1955.3936726190416,
+      "adeudo": 720.33,
+      "ganancia": 1957.1386726190415,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 962.0000000000002,
-      "ganancia": 961.4328361111126,
+      "adeudo": 987.0000000000002,
+      "ganancia": 969.766169444446,
       "saldoFavor": 0
     },
     {
@@ -919,6 +919,13 @@
         "costoTotal": 31.59,
         "fecha": "10/4/2025, 12:16:17 p.m.",
         "ganancia": 10.5275
+      },
+      {
+        "producto": "Marlboro",
+        "piezas": 20,
+        "costoTotal": 117,
+        "fecha": "11/4/2025, 8:28:29 a.m.",
+        "ganancia": 38.99999999999999
       }
     ],
     "Carlos": [
@@ -2685,6 +2692,34 @@
         "costoTotal": 10.65,
         "fecha": "10/4/2025, 2:14:47 p.m.",
         "ganancia": 3.5500000000000007
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "11/4/2025, 8:29:36 a.m.",
+        "ganancia": 5.416666666666666
+      },
+      {
+        "producto": "Chokis chocolate",
+        "piezas": 1,
+        "costoTotal": 23,
+        "fecha": "11/4/2025, 8:29:36 a.m.",
+        "ganancia": 7.666666666666666
+      },
+      {
+        "producto": "Mazapan",
+        "piezas": 1,
+        "costoTotal": 4.25,
+        "fecha": "11/4/2025, 8:29:36 a.m.",
+        "ganancia": 1.4166666666666665
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "11/4/2025, 8:29:36 a.m.",
+        "ganancia": 1.745
       }
     ],
     "Edgar": [
@@ -11472,6 +11507,13 @@
         "costoTotal": 10.48,
         "fecha": "11/4/2025, 8:05:28 a.m.",
         "ganancia": 3.49
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "11/4/2025, 8:28:40 a.m.",
+        "ganancia": 1.745
       }
     ],
     "Rafael": [
@@ -12916,6 +12958,13 @@
         "costoTotal": 24.22,
         "fecha": "10/4/2025, 11:53:24 a.m.",
         "ganancia": 8.073333333333334
+      },
+      {
+        "producto": "Oreo chocolate",
+        "piezas": 1,
+        "costoTotal": 25,
+        "fecha": "11/4/2025, 8:28:53 a.m.",
+        "ganancia": 8.333333333333332
       }
     ],
     "Vicente": [
@@ -13482,10 +13531,10 @@
       "descripcion": "Mazapan",
       "precioCompra": 2.83,
       "precioVenta": 4.25,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 16,
           "costoUnitario": 2.8333333333333335
         }
       ]
@@ -13594,10 +13643,10 @@
       "descripcion": "Marlboro",
       "precioCompra": 3.9,
       "precioVenta": 5.85,
-      "piezas": 79,
+      "piezas": 59,
       "stockParciales": [
         {
-          "cantidad": 79,
+          "cantidad": 59,
           "costoUnitario": 3.9
         }
       ]
@@ -13607,10 +13656,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 73,
+      "piezas": 71,
       "stockParciales": [
         {
-          "cantidad": 73,
+          "cantidad": 71,
           "costoUnitario": 3.495
         }
       ]
@@ -13774,13 +13823,8 @@
       "descripcion": "Oreo chocolate",
       "precioCompra": 16.67,
       "precioVenta": 25,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 16.666666666666668
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478022496",
@@ -13829,13 +13873,8 @@
       "descripcion": "Chokis chocolate",
       "precioCompra": 15.33,
       "precioVenta": 23,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 15.333333333333334
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000635726",
@@ -13858,10 +13897,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 23,
+      "piezas": 22,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 22,
           "costoUnitario": 10.833333333333334
         }
       ]
@@ -15523,6 +15562,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 27352.110000000004,
-  "inversionRecuperada": 23124.503788888836,
-  "gananciasTotales": 11572.576211111185
+  "inversionRecuperada": 23255.1604555555,
+  "gananciasTotales": 11637.899544444519
 }
