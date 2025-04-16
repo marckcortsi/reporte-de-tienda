@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 518.9900000000001,
-      "ganancia": 1545.7988019841273,
+      "adeudo": 167.2900000000002,
+      "ganancia": 1595.2288019841274,
       "saldoFavor": 0
     },
     {
@@ -52,7 +52,7 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 528.8000000000001,
+      "adeudo": 228.80000000000007,
       "ganancia": 1154.2241670634917,
       "saldoFavor": 0
     },
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 73.00999999999999,
-      "ganancia": 2025.8486726190415,
+      "adeudo": 83.49,
+      "ganancia": 2029.3386726190415,
       "saldoFavor": 0
     },
     {
@@ -953,6 +953,20 @@
         "piezas": 1,
         "costoTotal": 31.3,
         "fecha": "15/4/2025, 12:18:20 p.m.",
+        "ganancia": 10.43
+      },
+      {
+        "producto": "Marlboro",
+        "piezas": 20,
+        "costoTotal": 117,
+        "fecha": "16/4/2025, 8:02:53 a.m.",
+        "ganancia": 38.99999999999999
+      },
+      {
+        "producto": "Principe",
+        "piezas": 1,
+        "costoTotal": 31.3,
+        "fecha": "16/4/2025, 8:02:53 a.m.",
         "ganancia": 10.43
       }
     ],
@@ -11962,6 +11976,13 @@
         "costoTotal": 21.88,
         "fecha": "15/4/2025, 2:58:13 p.m.",
         "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 2,
+        "costoTotal": 10.48,
+        "fecha": "16/4/2025, 8:03:07 a.m.",
+        "ganancia": 3.49
       }
     ],
     "Rafael": [
@@ -14050,10 +14071,10 @@
       "descripcion": "Marlboro",
       "precioCompra": 3.9,
       "precioVenta": 5.85,
-      "piezas": 59,
+      "piezas": 39,
       "stockParciales": [
         {
-          "cantidad": 59,
+          "cantidad": 39,
           "costoUnitario": 3.9
         }
       ]
@@ -14063,10 +14084,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 66,
+      "piezas": 64,
       "stockParciales": [
         {
-          "cantidad": 66,
+          "cantidad": 64,
           "costoUnitario": 3.495
         }
       ]
@@ -14180,13 +14201,8 @@
       "descripcion": "Principe",
       "precioCompra": 20.87,
       "precioVenta": 31.3,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 20.87
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "8000500267035",
@@ -15826,6 +15842,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 27352.110000000004,
-  "inversionRecuperada": 24025.383907936437,
-  "gananciasTotales": 12022.146092063582
+  "inversionRecuperada": 24131.243907936438,
+  "gananciasTotales": 12075.066092063582
 }
