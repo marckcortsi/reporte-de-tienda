@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 848.6199999999999,
-      "ganancia": 1994.5769988095233,
+      "adeudo": 928.3399999999999,
+      "ganancia": 2021.0619988095232,
       "saldoFavor": 0
     },
     {
@@ -38,22 +38,22 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 877.6699999999998,
-      "ganancia": 1254.2661630952373,
+      "adeudo": 882.9099999999999,
+      "ganancia": 1256.0111630952372,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 318.61,
-      "ganancia": 972.141200396826,
+      "adeudo": 326.71000000000004,
+      "ganancia": 974.8445337301594,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 228.80000000000007,
-      "ganancia": 1154.2241670634917,
+      "adeudo": 230.92000000000007,
+      "ganancia": 1154.9291670634916,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 83.49,
-      "ganancia": 2029.3386726190415,
+      "adeudo": 104.44999999999999,
+      "ganancia": 2036.3186726190415,
       "saldoFavor": 0
     },
     {
@@ -2825,6 +2825,20 @@
         "costoTotal": 4.25,
         "fecha": "15/4/2025, 1:47:46 p.m.",
         "ganancia": 1.4166666666666665
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 3,
+        "costoTotal": 15.72,
+        "fecha": "16/4/2025, 8:54:07 a.m.",
+        "ganancia": 5.235
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 64,
+        "fecha": "16/4/2025, 1:40:18 p.m.",
+        "ganancia": 21.250000000000004
       }
     ],
     "Edgar": [
@@ -6522,6 +6536,13 @@
         "costoTotal": 18.31,
         "fecha": "15/4/2025, 10:20:04 a.m.",
         "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "16/4/2025, 8:54:13 a.m.",
+        "ganancia": 1.745
       }
     ],
     "Isrrael": [
@@ -7280,6 +7301,20 @@
         "costoTotal": 51.25,
         "fecha": "15/4/2025, 2:47:47 p.m.",
         "ganancia": 17.083333333333336
+      },
+      {
+        "producto": "Paletas de Tarrito",
+        "piezas": 1,
+        "costoTotal": 2.45,
+        "fecha": "16/4/2025, 11:14:01 a.m.",
+        "ganancia": 0.8200000000000001
+      },
+      {
+        "producto": "Pelón pelo neta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "16/4/2025, 11:14:01 a.m.",
+        "ganancia": 1.8833333333333337
       }
     ],
     "Karen": [
@@ -8745,6 +8780,13 @@
         "costoTotal": 8.39,
         "fecha": "15/4/2025, 10:32:35 a.m.",
         "ganancia": 2.7955555555555556
+      },
+      {
+        "producto": "Sandibrocha",
+        "piezas": 1,
+        "costoTotal": 2.12,
+        "fecha": "16/4/2025, 11:55:46 a.m.",
+        "ganancia": 0.7050000000000001
       }
     ],
     "Laura": [
@@ -11983,6 +12025,13 @@
         "costoTotal": 10.48,
         "fecha": "16/4/2025, 8:03:07 a.m.",
         "ganancia": 3.49
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 4,
+        "costoTotal": 20.96,
+        "fecha": "16/4/2025, 1:40:03 p.m.",
+        "ganancia": 6.98
       }
     ],
     "Rafael": [
@@ -13734,10 +13783,10 @@
       "descripcion": "Paletas de Tarrito",
       "precioCompra": 1.63,
       "precioVenta": 2.45,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 1.6300000000000001
         }
       ]
@@ -14032,10 +14081,10 @@
       "descripcion": "Sandibrocha",
       "precioCompra": 1.42,
       "precioVenta": 2.12,
-      "piezas": 21,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 20,
           "costoUnitario": 1.415
         }
       ]
@@ -14084,10 +14133,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 64,
+      "piezas": 56,
       "stockParciales": [
         {
-          "cantidad": 64,
+          "cantidad": 56,
           "costoUnitario": 3.495
         }
       ]
@@ -14097,10 +14146,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 74,
+      "piezas": 49,
       "stockParciales": [
         {
-          "cantidad": 74,
+          "cantidad": 49,
           "costoUnitario": 1.71
         }
       ]
@@ -14175,10 +14224,10 @@
       "descripcion": "Pelón pelo neta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 16,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -15842,6 +15891,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 27352.110000000004,
-  "inversionRecuperada": 24131.243907936438,
-  "gananciasTotales": 12075.066092063582
+  "inversionRecuperada": 24208.765574603105,
+  "gananciasTotales": 12113.684425396916
 }
