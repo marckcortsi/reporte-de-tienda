@@ -3,57 +3,57 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 487.6900000000001,
-      "ganancia": 1535.3688019841272,
+      "adeudo": 518.9900000000001,
+      "ganancia": 1545.7988019841273,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 761.92,
-      "ganancia": 1965.756760714285,
+      "adeudo": 848.6199999999999,
+      "ganancia": 1994.5769988095233,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 442.24999999999994,
-      "ganancia": 636.2553273809528,
+      "adeudo": 483.59,
+      "ganancia": 649.5119940476195,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 253.97,
-      "ganancia": 357.8265297619047,
-      "saldoFavor": 0
+      "adeudo": 0,
+      "ganancia": 370.324863095238,
+      "saldoFavor": 8.54
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 925.5499999999998,
-      "ganancia": 692.9916249999999,
+      "adeudo": 933.9399999999998,
+      "ganancia": 695.7871805555554,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 814.51,
-      "ganancia": 1233.217829761904,
+      "adeudo": 877.6699999999998,
+      "ganancia": 1254.2661630952373,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 194.78,
-      "ganancia": 930.8653670634925,
+      "adeudo": 318.61,
+      "ganancia": 972.141200396826,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 518.2900000000001,
-      "ganancia": 1150.723611507936,
+      "adeudo": 528.8000000000001,
+      "ganancia": 1154.2241670634917,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 2001.5103392857084,
+      "adeudo": 73.00999999999999,
+      "ganancia": 2025.8486726190415,
       "saldoFavor": 0
     },
     {
@@ -946,6 +946,13 @@
         "piezas": 1,
         "costoTotal": 31.3,
         "fecha": "14/4/2025, 10:26:46 a.m.",
+        "ganancia": 10.43
+      },
+      {
+        "producto": "Principe",
+        "piezas": 1,
+        "costoTotal": 31.3,
+        "fecha": "15/4/2025, 12:18:20 p.m.",
         "ganancia": 10.43
       }
     ],
@@ -2776,6 +2783,34 @@
         "costoTotal": 8.5,
         "fecha": "14/4/2025, 9:51:32 a.m.",
         "ganancia": 2.833333333333333
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 64,
+        "fecha": "14/4/2025, 5:43:50 p.m.",
+        "ganancia": 21.250000000000004
+      },
+      {
+        "producto": "Tin larin",
+        "piezas": 1,
+        "costoTotal": 10.65,
+        "fecha": "15/4/2025, 10:34:34 a.m.",
+        "ganancia": 3.5500000000000007
+      },
+      {
+        "producto": "Mamuts",
+        "piezas": 3,
+        "costoTotal": 7.800000000000001,
+        "fecha": "15/4/2025, 12:39:01 p.m.",
+        "ganancia": 2.6035714285714286
+      },
+      {
+        "producto": "Mazapan",
+        "piezas": 1,
+        "costoTotal": 4.25,
+        "fecha": "15/4/2025, 1:47:46 p.m.",
+        "ganancia": 1.4166666666666665
       }
     ],
     "Edgar": [
@@ -3583,6 +3618,41 @@
         "costoTotal": 24.22,
         "fecha": "14/4/2025, 9:51:05 a.m.",
         "ganancia": 8.073333333333334
+      },
+      {
+        "producto": "Zumba goma sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "14/4/2025, 5:45:45 p.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Zumba goma sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "15/4/2025, 12:44:11 p.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Zumba goma mora Azul",
+        "piezas": 1,
+        "costoTotal": 4.88,
+        "fecha": "15/4/2025, 12:56:43 p.m.",
+        "ganancia": 1.1
+      },
+      {
+        "producto": "Zumba goma sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "15/4/2025, 12:56:43 p.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Maruchan chili pikin",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "15/4/2025, 2:57:37 p.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Francisco": [
@@ -3970,6 +4040,20 @@
         "costoTotal": 32.5,
         "fecha": "11/4/2025, 2:40:49 p.m.",
         "ganancia": 10.833333333333332
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 17.8,
+        "fecha": "15/4/2025, 11:23:14 a.m.",
+        "ganancia": 5.933333333333334
+      },
+      {
+        "producto": "Coca-cola 500 ml",
+        "piezas": 1,
+        "costoTotal": 19.69,
+        "fecha": "15/4/2025, 2:47:34 p.m.",
+        "ganancia": 6.565000000000001
       }
     ],
     "Irvin": [
@@ -4749,6 +4833,13 @@
         "costoTotal": 2.12,
         "fecha": "14/4/2025, 12:20:19 p.m.",
         "ganancia": 0.7050000000000001
+      },
+      {
+        "producto": "Rocaleta",
+        "piezas": 1,
+        "costoTotal": 8.39,
+        "fecha": "15/4/2025, 11:50:26 a.m.",
+        "ganancia": 2.7955555555555556
       }
     ],
     "Isac": [
@@ -6389,6 +6480,34 @@
         "costoTotal": 5.24,
         "fecha": "14/4/2025, 2:20:48 p.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Tin larin",
+        "piezas": 2,
+        "costoTotal": 21.3,
+        "fecha": "14/4/2025, 5:43:32 p.m.",
+        "ganancia": 7.100000000000001
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "14/4/2025, 5:43:32 p.m.",
+        "ganancia": 1.745
+      },
+      {
+        "producto": "Vive 100",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "15/4/2025, 10:15:29 a.m.",
+        "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Vive 100",
+        "piezas": 1,
+        "costoTotal": 18.31,
+        "fecha": "15/4/2025, 10:20:04 a.m.",
+        "ganancia": 6.101666666666665
       }
     ],
     "Isrrael": [
@@ -7119,6 +7238,34 @@
         "costoTotal": 16.25,
         "fecha": "14/4/2025, 2:20:33 p.m.",
         "ganancia": 5.416666666666666
+      },
+      {
+        "producto": "Coca-cola 500 ml",
+        "piezas": 1,
+        "costoTotal": 19.69,
+        "fecha": "15/4/2025, 10:31:19 a.m.",
+        "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Tin larin",
+        "piezas": 2,
+        "costoTotal": 21.3,
+        "fecha": "15/4/2025, 12:59:32 p.m.",
+        "ganancia": 7.100000000000001
+      },
+      {
+        "producto": "Del valle Frut",
+        "piezas": 1,
+        "costoTotal": 31.59,
+        "fecha": "15/4/2025, 2:47:47 p.m.",
+        "ganancia": 10.5275
+      },
+      {
+        "producto": "Coca-Cola de 3 litros",
+        "piezas": 1,
+        "costoTotal": 51.25,
+        "fecha": "15/4/2025, 2:47:47 p.m.",
+        "ganancia": 17.083333333333336
       }
     ],
     "Karen": [
@@ -8570,6 +8717,20 @@
         "costoTotal": 17.8,
         "fecha": "14/4/2025, 12:19:49 p.m.",
         "ganancia": 5.933333333333334
+      },
+      {
+        "producto": "Sandibrocha",
+        "piezas": 1,
+        "costoTotal": 2.12,
+        "fecha": "15/4/2025, 10:32:35 a.m.",
+        "ganancia": 0.7050000000000001
+      },
+      {
+        "producto": "Rocaleta",
+        "piezas": 1,
+        "costoTotal": 8.39,
+        "fecha": "15/4/2025, 10:32:35 a.m.",
+        "ganancia": 2.7955555555555556
       }
     ],
     "Laura": [
@@ -11766,6 +11927,41 @@
         "costoTotal": 18.31,
         "fecha": "14/4/2025, 1:19:31 p.m.",
         "ganancia": 6.101666666666665
+      },
+      {
+        "producto": "Pelón pelo rico",
+        "piezas": 1,
+        "costoTotal": 7.53,
+        "fecha": "15/4/2025, 10:15:53 a.m.",
+        "ganancia": 2.5133333333333336
+      },
+      {
+        "producto": "Sandibrocha",
+        "piezas": 1,
+        "costoTotal": 2.12,
+        "fecha": "15/4/2025, 10:16:15 a.m.",
+        "ganancia": 0.7050000000000001
+      },
+      {
+        "producto": "Zumba goma sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "15/4/2025, 12:33:35 p.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Vive 100",
+        "piezas": 2,
+        "costoTotal": 36.62,
+        "fecha": "15/4/2025, 12:36:43 p.m.",
+        "ganancia": 12.20333333333333
+      },
+      {
+        "producto": "Maruchan chili pikin",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "15/4/2025, 2:58:13 p.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Rafael": [
@@ -13578,7 +13774,7 @@
       ]
     },
     {
-      "codigo": "1",
+      "codigo": "7501006559019",
       "descripcion": "Palomitas de Maiz",
       "precioCompra": 10.42,
       "precioVenta": 15.63,
@@ -13589,14 +13785,6 @@
           "costoUnitario": 10.421428571428573
         }
       ]
-    },
-    {
-      "codigo": "7501006559019",
-      "descripcion": "Palomitas",
-      "precioCompra": 10.59,
-      "precioVenta": 15.89,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "3",
@@ -13616,10 +13804,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.87,
       "precioVenta": 17.8,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 11.866666666666667
         }
       ]
@@ -13693,12 +13881,8 @@
       "descripcion": "Zumba goma mora Azul",
       "precioCompra": 3.25,
       "precioVenta": 4.88,
-      "piezas": 21,
+      "piezas": 20,
       "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 3.78
-        },
         {
           "cantidad": 20,
           "costoUnitario": 3.25
@@ -13745,19 +13929,6 @@
       ]
     },
     {
-      "codigo": "7506192505451",
-      "descripcion": "Vive 100",
-      "precioCompra": 12.21,
-      "precioVenta": 18.31,
-      "piezas": 4,
-      "stockParciales": [
-        {
-          "cantidad": 4,
-          "costoUnitario": 12.208333333333334
-        }
-      ]
-    },
-    {
       "codigo": "724869007832",
       "descripcion": "Gummy pop",
       "precioCompra": 1.44,
@@ -13775,10 +13946,10 @@
       "descripcion": "Coca-cola 500 ml",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 7,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 5,
           "costoUnitario": 13.125
         }
       ]
@@ -13788,10 +13959,10 @@
       "descripcion": "Mazapan",
       "precioCompra": 2.83,
       "precioVenta": 4.25,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 2.8333333333333335
         }
       ]
@@ -13840,10 +14011,10 @@
       "descripcion": "Sandibrocha",
       "precioCompra": 1.42,
       "precioVenta": 2.12,
-      "piezas": 23,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 21,
           "costoUnitario": 1.415
         }
       ]
@@ -13858,27 +14029,6 @@
         {
           "cantidad": 100,
           "costoUnitario": 0.475
-        }
-      ]
-    },
-    {
-      "codigo": "7501055915705",
-      "descripcion": "Leche de vainilla",
-      "precioCompra": 7.83,
-      "precioVenta": 11.75,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7501000630363",
-      "descripcion": "Mamuts",
-      "precioCompra": 1.73,
-      "precioVenta": 2.6,
-      "piezas": 3,
-      "stockParciales": [
-        {
-          "cantidad": 3,
-          "costoUnitario": 1.7321428571428572
         }
       ]
     },
@@ -13913,10 +14063,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 67,
+      "piezas": 66,
       "stockParciales": [
         {
-          "cantidad": 67,
+          "cantidad": 66,
           "costoUnitario": 3.495
         }
       ]
@@ -13926,31 +14076,23 @@
       "descripcion": "Shots",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 99,
+      "piezas": 74,
       "stockParciales": [
         {
-          "cantidad": 99,
+          "cantidad": 74,
           "costoUnitario": 1.71
         }
       ]
-    },
-    {
-      "codigo": "12345",
-      "descripcion": "Bonice",
-      "precioCompra": 6.29,
-      "precioVenta": 9.43,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "7501055313068",
       "descripcion": "Coca-Cola de 3 litros",
       "precioCompra": 34.17,
       "precioVenta": 51.25,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 34.166666666666664
         }
       ]
@@ -13973,10 +14115,10 @@
       "descripcion": "Del valle Frut",
       "precioCompra": 21.06,
       "precioVenta": 31.59,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 21.0625
         }
       ]
@@ -13986,10 +14128,10 @@
       "descripcion": "Pelón pelo rico",
       "precioCompra": 5.02,
       "precioVenta": 7.53,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 5.016666666666667
         }
       ]
@@ -13999,10 +14141,10 @@
       "descripcion": "Zumba goma sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 15,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 11,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -14025,114 +14167,26 @@
       "descripcion": "Rocaleta",
       "precioCompra": 5.59,
       "precioVenta": 8.39,
-      "piezas": 12,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 10,
           "costoUnitario": 5.594444444444445
         }
       ]
-    },
-    {
-      "codigo": "613008772963",
-      "descripcion": "Arizona mango",
-      "precioCompra": 16.15,
-      "precioVenta": 24.22,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "613008772871",
-      "descripcion": "Arizona ponche",
-      "precioCompra": 16.15,
-      "precioVenta": 24.22,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "613008772901",
-      "descripcion": "Arizona kiwi",
-      "precioCompra": 16.15,
-      "precioVenta": 24.22,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7500478008926",
-      "descripcion": "Chokis",
-      "precioCompra": 9.9,
-      "precioVenta": 14.85,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7622210575586",
-      "descripcion": "Oreo chocolate",
-      "precioCompra": 16.67,
-      "precioVenta": 25,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7500478022496",
-      "descripcion": "Emperador chocolate",
-      "precioCompra": 12.13,
-      "precioVenta": 18.19,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "7501030491071",
       "descripcion": "Principe",
       "precioCompra": 20.87,
       "precioVenta": 31.3,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 20.87
         }
       ]
-    },
-    {
-      "codigo": "7501000601776",
-      "descripcion": "Emperador zenso",
-      "precioCompra": 13.67,
-      "precioVenta": 20.5,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7622210575609",
-      "descripcion": "Oreo vainilla",
-      "precioCompra": 16.67,
-      "precioVenta": 25,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7500478037421",
-      "descripcion": "Chokis chocolate",
-      "precioCompra": 15.33,
-      "precioVenta": 23,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7501000635726",
-      "descripcion": "Arcoiris",
-      "precioCompra": 12.67,
-      "precioVenta": 19,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7500478021581",
-      "descripcion": "Emperador conbinado",
-      "precioCompra": 14,
-      "precioVenta": 21,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "8000500267035",
@@ -14152,10 +14206,10 @@
       "descripcion": "Tin larin",
       "precioCompra": 7.1,
       "precioVenta": 10.65,
-      "piezas": 26,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 26,
+          "cantidad": 21,
           "costoUnitario": 7.1
         }
       ]
@@ -14165,10 +14219,10 @@
       "descripcion": "Maruchan chili pikin",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 9,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 7,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -14185,30 +14239,6 @@
           "costoUnitario": 14.583333333333334
         }
       ]
-    },
-    {
-      "codigo": "7501032398637",
-      "descripcion": "Yogurt galleta",
-      "precioCompra": 12.67,
-      "precioVenta": 19,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7501032398606",
-      "descripcion": "Yogurt piña",
-      "precioCompra": 12.67,
-      "precioVenta": 19,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "7501032398583",
-      "descripcion": "Yogurt fresa",
-      "precioCompra": 12.67,
-      "precioVenta": 19,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "7502226815114",
@@ -14261,14 +14291,6 @@
           "costoUnitario": 6.9
         }
       ]
-    },
-    {
-      "codigo": "7502226815053",
-      "descripcion": "Lucas cereza",
-      "precioCompra": 6.9,
-      "precioVenta": 10.35,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "7503020501623",
@@ -15804,6 +15826,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 27352.110000000004,
-  "inversionRecuperada": 23707.61775714279,
-  "gananciasTotales": 11864.182242857223
+  "inversionRecuperada": 24025.383907936437,
+  "gananciasTotales": 12022.146092063582
 }
