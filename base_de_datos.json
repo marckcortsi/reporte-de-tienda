@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 928.3399999999999,
-      "ganancia": 2021.0619988095232,
+      "adeudo": 769.91,
+      "ganancia": 2034.9236654761899,
       "saldoFavor": 0
     },
     {
@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 933.9399999999998,
-      "ganancia": 695.7871805555554,
+      "adeudo": 936.0599999999998,
+      "ganancia": 696.4921805555555,
       "saldoFavor": 0
     },
     {
@@ -2839,6 +2839,20 @@
         "costoTotal": 64,
         "fecha": "16/4/2025, 1:40:18 p.m.",
         "ganancia": 21.250000000000004
+      },
+      {
+        "producto": "Coca-cola 500 ml",
+        "piezas": 1,
+        "costoTotal": 19.69,
+        "fecha": "16/4/2025, 4:02:08 p.m.",
+        "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Maruchan chili pikin",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "16/4/2025, 4:02:08 p.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Edgar": [
@@ -4868,6 +4882,13 @@
         "costoTotal": 8.39,
         "fecha": "15/4/2025, 11:50:26 a.m.",
         "ganancia": 2.7955555555555556
+      },
+      {
+        "producto": "Sandibrocha",
+        "piezas": 1,
+        "costoTotal": 2.12,
+        "fecha": "16/4/2025, 4:01:43 p.m.",
+        "ganancia": 0.7050000000000001
       }
     ],
     "Isac": [
@@ -14016,10 +14037,10 @@
       "descripcion": "Coca-cola 500 ml",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 13.125
         }
       ]
@@ -14081,10 +14102,10 @@
       "descripcion": "Sandibrocha",
       "precioCompra": 1.42,
       "precioVenta": 2.12,
-      "piezas": 20,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 1.415
         }
       ]
@@ -14284,10 +14305,10 @@
       "descripcion": "Maruchan chili pikin",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -15891,6 +15912,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 27352.110000000004,
-  "inversionRecuperada": 24208.765574603105,
-  "gananciasTotales": 12113.684425396916
+  "inversionRecuperada": 24237.888907936438,
+  "gananciasTotales": 12128.251092063583
 }
