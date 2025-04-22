@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1023.1599999999999,
-      "ganancia": 2119.2303321428562,
+      "adeudo": 1047.9099999999999,
+      "ganancia": 2127.4803321428562,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 224.48999999999998,
-      "ganancia": 2076.3370059523745,
+      "adeudo": 246.36999999999998,
+      "ganancia": 2083.633672619041,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1047.38,
-      "ganancia": 989.8853361111127,
+      "adeudo": 1088.95,
+      "ganancia": 1003.7470027777794,
       "saldoFavor": 0
     },
     {
@@ -2930,6 +2930,20 @@
         "costoTotal": 104.80000000000001,
         "fecha": "21/4/2025, 5:59:21 p.m.",
         "ganancia": 34.900000000000006
+      },
+      {
+        "producto": "Mazapan",
+        "piezas": 2,
+        "costoTotal": 8.5,
+        "fecha": "22/4/2025, 8:55:15 a.m.",
+        "ganancia": 2.833333333333333
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "22/4/2025, 8:55:15 a.m.",
+        "ganancia": 5.416666666666666
       }
     ],
     "Edgar": [
@@ -12298,6 +12312,13 @@
         "costoTotal": 11.25,
         "fecha": "21/4/2025, 10:13:39 a.m.",
         "ganancia": 3.75
+      },
+      {
+        "producto": "Maruchan chili pikin",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "22/4/2025, 8:55:48 a.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Rafael": [
@@ -13770,6 +13791,20 @@
         "costoTotal": 31.59,
         "fecha": "21/4/2025, 1:08:31 p.m.",
         "ganancia": 10.5275
+      },
+      {
+        "producto": "Coca-cola 500 ml",
+        "piezas": 1,
+        "costoTotal": 19.69,
+        "fecha": "22/4/2025, 8:55:32 a.m.",
+        "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Maruchan habanero",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "22/4/2025, 8:55:32 a.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Vicente": [
@@ -14289,10 +14324,10 @@
       "descripcion": "Coca-cola 500 ml",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 13.125
         }
       ]
@@ -14302,10 +14337,10 @@
       "descripcion": "Mazapan",
       "precioCompra": 2.83,
       "precioVenta": 4.25,
-      "piezas": 12,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 10,
           "costoUnitario": 2.8333333333333335
         }
       ]
@@ -14526,10 +14561,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 10.833333333333334
         }
       ]
@@ -14552,10 +14587,10 @@
       "descripcion": "Maruchan chili pikin",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -14565,10 +14600,10 @@
       "descripcion": "Maruchan habanero",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -16154,6 +16189,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 27352.110000000004,
-  "inversionRecuperada": 24760.260296825316,
-  "gananciasTotales": 12389.279703174692
+  "inversionRecuperada": 24819.05196349198,
+  "gananciasTotales": 12418.688036508027
 }
