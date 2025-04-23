@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 341.44000000000017,
-      "ganancia": 1653.2745797619052,
+      "adeudo": 491.84000000000015,
+      "ganancia": 1703.4065797619053,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1174.5099999999998,
-      "ganancia": 2169.679117857142,
+      "adeudo": 1079.82,
+      "ganancia": 2204.7077845238086,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1153.57,
-      "ganancia": 1346.2024964285702,
+      "adeudo": 1161.96,
+      "ganancia": 1348.9980519841258,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 258.9100000000001,
-      "ganancia": 1164.2580559523806,
+      "adeudo": 264.1500000000001,
+      "ganancia": 1166.0030559523805,
       "saldoFavor": 0
     },
     {
@@ -1003,6 +1003,27 @@
         "costoTotal": 17.82,
         "fecha": "23/4/2025, 8:17:07 a.m.",
         "ganancia": 5.938000000000001
+      },
+      {
+        "producto": "Pelón pelo neta",
+        "piezas": 3,
+        "costoTotal": 16.950000000000003,
+        "fecha": "23/4/2025, 5:55:30 p.m.",
+        "ganancia": 5.650000000000001
+      },
+      {
+        "producto": "Marlboro",
+        "piezas": 19,
+        "costoTotal": 111.14999999999999,
+        "fecha": "23/4/2025, 5:55:30 p.m.",
+        "ganancia": 37.05
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 22.3,
+        "fecha": "23/4/2025, 5:55:30 p.m.",
+        "ganancia": 7.432
       }
     ],
     "Carlos": [
@@ -3014,6 +3035,27 @@
         "costoTotal": 10.48,
         "fecha": "23/4/2025, 3:20:00 p.m.",
         "ganancia": 3.49
+      },
+      {
+        "producto": "Shots",
+        "piezas": 23,
+        "costoTotal": 58.88,
+        "fecha": "23/4/2025, 5:53:05 p.m.",
+        "ganancia": 19.55
+      },
+      {
+        "producto": "Arcoiris",
+        "piezas": 1,
+        "costoTotal": 20.8,
+        "fecha": "23/4/2025, 5:55:48 p.m.",
+        "ganancia": 6.932
+      },
+      {
+        "producto": "Gatorade Azul",
+        "piezas": 1,
+        "costoTotal": 25.63,
+        "fecha": "23/4/2025, 5:55:48 p.m.",
+        "ganancia": 8.546666666666667
       }
     ],
     "Edgar": [
@@ -6907,6 +6949,13 @@
         "costoTotal": 15.72,
         "fecha": "23/4/2025, 3:18:11 p.m.",
         "ganancia": 5.235
+      },
+      {
+        "producto": "Rocaleta",
+        "piezas": 1,
+        "costoTotal": 8.39,
+        "fecha": "23/4/2025, 5:58:00 p.m.",
+        "ganancia": 2.7955555555555556
       }
     ],
     "Isrrael": [
@@ -9207,6 +9256,13 @@
         "costoTotal": 19.6,
         "fecha": "23/4/2025, 11:34:30 a.m.",
         "ganancia": 6.533333333333335
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.24,
+        "fecha": "23/4/2025, 5:56:02 p.m.",
+        "ganancia": 1.745
       }
     ],
     "Laura": [
@@ -14772,23 +14828,18 @@
       "descripcion": "Marlboro",
       "precioCompra": 3.9,
       "precioVenta": 5.85,
-      "piezas": 19,
-      "stockParciales": [
-        {
-          "cantidad": 19,
-          "costoUnitario": 3.9
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "75071295",
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 3.495
         }
       ]
@@ -14798,13 +14849,8 @@
       "descripcion": "Shots",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 23,
-      "stockParciales": [
-        {
-          "cantidad": 23,
-          "costoUnitario": 1.71
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501055313068",
@@ -14871,10 +14917,10 @@
       "descripcion": "Pelón pelo neta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 12,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 9,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -14884,10 +14930,10 @@
       "descripcion": "Rocaleta",
       "precioCompra": 5.59,
       "precioVenta": 8.39,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 5.594444444444445
         }
       ]
@@ -15074,10 +15120,10 @@
       "descripcion": "Arcoiris",
       "precioCompra": 13.87,
       "precioVenta": 20.8,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 13.868
         }
       ]
@@ -15100,10 +15146,10 @@
       "descripcion": "Emperador senzo",
       "precioCompra": 14.87,
       "precioVenta": 22.3,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 14.868
         }
       ]
@@ -15204,13 +15250,8 @@
       "descripcion": "Gatorade Azul",
       "precioCompra": 17.08,
       "precioVenta": 25.63,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 17.083333333333332
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "Bonice",
@@ -16797,6 +16838,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 28252.370000000003,
-  "inversionRecuperada": 25390.054766666588,
-  "gananciasTotales": 12704.165233333431
+  "inversionRecuperada": 25569.69354444436,
+  "gananciasTotales": 12793.866455555655
 }
