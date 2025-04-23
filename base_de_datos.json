@@ -10,15 +10,15 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1121.0099999999998,
-      "ganancia": 2151.8458321428566,
+      "adeudo": 1136.7299999999998,
+      "ganancia": 2157.0808321428567,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 493.34999999999997,
-      "ganancia": 652.7719940476195,
+      "adeudo": 554.4699999999999,
+      "ganancia": 673.1434940476196,
       "saldoFavor": 0
     },
     {
@@ -31,22 +31,22 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 944.4499999999998,
-      "ganancia": 699.287736111111,
+      "adeudo": 966.7499999999998,
+      "ganancia": 706.719736111111,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1060.26,
-      "ganancia": 1315.0994964285703,
+      "adeudo": 1092.62,
+      "ganancia": 1325.8874964285703,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 458.33,
-      "ganancia": 1018.718700396826,
+      "adeudo": 479.13,
+      "ganancia": 1025.6507003968259,
       "saldoFavor": 0
     },
     {
@@ -2979,6 +2979,13 @@
         "costoTotal": 10.06,
         "fecha": "23/4/2025, 8:08:43 a.m.",
         "ganancia": 3.356
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 3,
+        "costoTotal": 15.72,
+        "fecha": "23/4/2025, 8:38:00 a.m.",
+        "ganancia": 5.235
       }
     ],
     "Edgar": [
@@ -3828,6 +3835,27 @@
         "costoTotal": 9.76,
         "fecha": "21/4/2025, 10:14:20 a.m.",
         "ganancia": 3.26
+      },
+      {
+        "producto": "Senzao",
+        "piezas": 1,
+        "costoTotal": 31.59,
+        "fecha": "23/4/2025, 9:03:09 a.m.",
+        "ganancia": 10.5275
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "23/4/2025, 9:04:03 a.m.",
+        "ganancia": 5.5
+      },
+      {
+        "producto": "Leche Carlos V",
+        "piezas": 1,
+        "costoTotal": 13.03,
+        "fecha": "23/4/2025, 9:04:03 a.m.",
+        "ganancia": 4.343999999999999
       }
     ],
     "Francisco": [
@@ -5036,6 +5064,13 @@
         "costoTotal": 8.39,
         "fecha": "22/4/2025, 12:11:02 p.m.",
         "ganancia": 2.7955555555555556
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 22.3,
+        "fecha": "23/4/2025, 8:32:18 a.m.",
+        "ganancia": 7.432
       }
     ],
     "Isac": [
@@ -6781,6 +6816,20 @@
         "costoTotal": 10.48,
         "fecha": "22/4/2025, 3:57:23 p.m.",
         "ganancia": 3.49
+      },
+      {
+        "producto": "Leche Vainilla",
+        "piezas": 1,
+        "costoTotal": 10.06,
+        "fecha": "23/4/2025, 9:02:39 a.m.",
+        "ganancia": 3.356
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 22.3,
+        "fecha": "23/4/2025, 9:02:39 a.m.",
+        "ganancia": 7.432
       }
     ],
     "Isrrael": [
@@ -7588,6 +7637,13 @@
         "costoTotal": 31.59,
         "fecha": "23/4/2025, 8:18:08 a.m.",
         "ganancia": 10.5275
+      },
+      {
+        "producto": "Arcoiris",
+        "piezas": 1,
+        "costoTotal": 20.8,
+        "fecha": "23/4/2025, 9:05:05 a.m.",
+        "ganancia": 6.932
       }
     ],
     "Karen": [
@@ -14610,10 +14666,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.5,
       "precioVenta": 5.24,
-      "piezas": 29,
+      "piezas": 26,
       "stockParciales": [
         {
-          "cantidad": 29,
+          "cantidad": 26,
           "costoUnitario": 3.495
         }
       ]
@@ -14649,10 +14705,10 @@
       "descripcion": "Senzao",
       "precioCompra": 21.06,
       "precioVenta": 31.59,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 21.0625
         }
       ]
@@ -14904,10 +14960,10 @@
       "descripcion": "Arcoiris",
       "precioCompra": 13.87,
       "precioVenta": 20.8,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 13.868
         }
       ]
@@ -14917,10 +14973,10 @@
       "descripcion": "Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 11
         }
       ]
@@ -14930,10 +14986,10 @@
       "descripcion": "Emperador senzo",
       "precioCompra": 14.87,
       "precioVenta": 22.3,
-      "piezas": 4,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 2,
           "costoUnitario": 14.868
         }
       ]
@@ -14943,10 +14999,10 @@
       "descripcion": "Leche Carlos V",
       "precioCompra": 8.69,
       "precioVenta": 13.03,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 8.686
         }
       ]
@@ -14956,10 +15012,10 @@
       "descripcion": "Leche Vainilla",
       "precioCompra": 6.7,
       "precioVenta": 10.06,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 6.704000000000001
         }
       ]
@@ -16627,6 +16683,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 28252.370000000003,
-  "inversionRecuperada": 25107.908219047542,
-  "gananciasTotales": 12563.091780952476
+  "inversionRecuperada": 25209.44971904754,
+  "gananciasTotales": 12613.850280952478
 }
