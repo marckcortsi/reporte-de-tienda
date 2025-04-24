@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 491.84000000000015,
-      "ganancia": 1703.4065797619053,
+      "adeudo": 531.9600000000002,
+      "ganancia": 1716.7765797619054,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1079.82,
-      "ganancia": 2204.7077845238086,
+      "adeudo": 1119.71,
+      "ganancia": 2218.0150702380943,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1161.96,
-      "ganancia": 1348.9980519841258,
+      "adeudo": 1188.52,
+      "ganancia": 1357.8540519841258,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 500.49999999999994,
-      "ganancia": 2168.350839285708,
+      "adeudo": 510.4599999999999,
+      "ganancia": 2171.671672619041,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1133.32,
-      "ganancia": 1018.5318027777794,
+      "adeudo": 1192.1899999999998,
+      "ganancia": 1038.1598027777795,
       "saldoFavor": 0
     },
     {
@@ -1023,6 +1023,20 @@
         "piezas": 1,
         "costoTotal": 22.3,
         "fecha": "23/4/2025, 5:55:30 p.m.",
+        "ganancia": 7.432
+      },
+      {
+        "producto": "Emperador",
+        "piezas": 1,
+        "costoTotal": 17.82,
+        "fecha": "24/4/2025, 8:56:10 a.m.",
+        "ganancia": 5.938000000000001
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 22.3,
+        "fecha": "24/4/2025, 9:00:18 a.m.",
         "ganancia": 7.432
       }
     ],
@@ -3056,6 +3070,27 @@
         "costoTotal": 25.63,
         "fecha": "23/4/2025, 5:55:48 p.m.",
         "ganancia": 8.546666666666667
+      },
+      {
+        "producto": "Leche Vainilla",
+        "piezas": 1,
+        "costoTotal": 10.06,
+        "fecha": "24/4/2025, 8:49:29 a.m.",
+        "ganancia": 3.356
+      },
+      {
+        "producto": "Mamut",
+        "piezas": 3,
+        "costoTotal": 9.03,
+        "fecha": "24/4/2025, 8:49:29 a.m.",
+        "ganancia": 3.0192857142857137
+      },
+      {
+        "producto": "Arcoiris",
+        "piezas": 1,
+        "costoTotal": 20.8,
+        "fecha": "24/4/2025, 8:49:29 a.m.",
+        "ganancia": 6.932
       }
     ],
     "Edgar": [
@@ -6956,6 +6991,20 @@
         "costoTotal": 8.39,
         "fecha": "23/4/2025, 5:58:00 p.m.",
         "ganancia": 2.7955555555555556
+      },
+      {
+        "producto": "Leche fresa",
+        "piezas": 1,
+        "costoTotal": 10.06,
+        "fecha": "24/4/2025, 8:53:43 a.m.",
+        "ganancia": 3.356
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "24/4/2025, 8:53:43 a.m.",
+        "ganancia": 5.5
       }
     ],
     "Isrrael": [
@@ -12711,6 +12760,13 @@
         "costoTotal": 20.93,
         "fecha": "24/4/2025, 8:01:56 a.m.",
         "ganancia": 6.977999999999998
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.96,
+        "fecha": "24/4/2025, 8:53:54 a.m.",
+        "ganancia": 3.3208333333333337
       }
     ],
     "Rafael": [
@@ -14232,6 +14288,34 @@
         "costoTotal": 22.3,
         "fecha": "23/4/2025, 8:09:00 a.m.",
         "ganancia": 7.432
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 1,
+        "costoTotal": 20.93,
+        "fecha": "24/4/2025, 8:06:18 a.m.",
+        "ganancia": 6.977999999999998
+      },
+      {
+        "producto": "Leche Vainilla",
+        "piezas": 1,
+        "costoTotal": 10.06,
+        "fecha": "24/4/2025, 8:06:18 a.m.",
+        "ganancia": 3.356
+      },
+      {
+        "producto": "Leche fresa",
+        "piezas": 1,
+        "costoTotal": 10.06,
+        "fecha": "24/4/2025, 8:54:09 a.m.",
+        "ganancia": 3.356
+      },
+      {
+        "producto": "Emperador",
+        "piezas": 1,
+        "costoTotal": 17.82,
+        "fecha": "24/4/2025, 8:56:42 a.m.",
+        "ganancia": 5.938000000000001
       }
     ],
     "Vicente": [
@@ -15083,10 +15167,10 @@
       "descripcion": "Mamut",
       "precioCompra": 2,
       "precioVenta": 3.01,
-      "piezas": 25,
+      "piezas": 22,
       "stockParciales": [
         {
-          "cantidad": 25,
+          "cantidad": 22,
           "costoUnitario": 2.0035714285714286
         }
       ]
@@ -15096,10 +15180,10 @@
       "descripcion": "Oreo",
       "precioCompra": 13.95,
       "precioVenta": 20.93,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 13.952000000000002
         }
       ]
@@ -15109,10 +15193,10 @@
       "descripcion": "Emperador",
       "precioCompra": 11.88,
       "precioVenta": 17.82,
-      "piezas": 4,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 2,
           "costoUnitario": 11.882
         }
       ]
@@ -15122,23 +15206,18 @@
       "descripcion": "Arcoiris",
       "precioCompra": 13.87,
       "precioVenta": 20.8,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 13.868
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478008926",
       "descripcion": "Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 11
         }
       ]
@@ -15148,13 +15227,8 @@
       "descripcion": "Emperador senzo",
       "precioCompra": 14.87,
       "precioVenta": 22.3,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 14.868
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7506475117883",
@@ -15174,23 +15248,18 @@
       "descripcion": "Leche Vainilla",
       "precioCompra": 6.7,
       "precioVenta": 10.06,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 6.704000000000001
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501020570861",
       "descripcion": "Leche fresa",
       "precioCompra": 6.7,
       "precioVenta": 10.06,
-      "piezas": 5,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 3,
           "costoUnitario": 6.704000000000001
         }
       ]
@@ -15260,10 +15329,10 @@
       "descripcion": "Bonice",
       "precioCompra": 6.64,
       "precioVenta": 9.96,
-      "piezas": 24,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 23,
           "costoUnitario": 6.639166666666667
         }
       ]
@@ -16884,6 +16953,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 29316.820000000003,
-  "inversionRecuperada": 25592.33154444436,
-  "gananciasTotales": 12805.188455555653
+  "inversionRecuperada": 25709.249425396752,
+  "gananciasTotales": 12863.670574603273
 }
