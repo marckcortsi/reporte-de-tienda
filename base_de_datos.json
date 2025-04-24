@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 466.53999999999996,
-      "ganancia": 2157.028839285708,
+      "adeudo": 500.49999999999994,
+      "ganancia": 2168.350839285708,
       "saldoFavor": 0
     },
     {
@@ -12697,6 +12697,20 @@
         "costoTotal": 5.24,
         "fecha": "23/4/2025, 3:18:53 p.m.",
         "ganancia": 1.745
+      },
+      {
+        "producto": "Leche Carlos V",
+        "piezas": 1,
+        "costoTotal": 13.03,
+        "fecha": "24/4/2025, 8:01:56 a.m.",
+        "ganancia": 4.343999999999999
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 1,
+        "costoTotal": 20.93,
+        "fecha": "24/4/2025, 8:01:56 a.m.",
+        "ganancia": 6.977999999999998
       }
     ],
     "Rafael": [
@@ -14824,33 +14838,21 @@
       ]
     },
     {
-      "codigo": "75001322",
-      "descripcion": "Marlboro",
-      "precioCompra": 3.9,
-      "precioVenta": 5.85,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
       "codigo": "75071295",
       "descripcion": "Pall Mall",
-      "precioCompra": 3.5,
-      "precioVenta": 5.24,
-      "piezas": 18,
+      "precioCompra": 3.52,
+      "precioVenta": 5.27,
+      "piezas": 118,
       "stockParciales": [
         {
           "cantidad": 18,
           "costoUnitario": 3.495
+        },
+        {
+          "cantidad": 100,
+          "costoUnitario": 3.515
         }
       ]
-    },
-    {
-      "codigo": "75078843",
-      "descripcion": "Shots",
-      "precioCompra": 1.71,
-      "precioVenta": 2.56,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "7501055313068",
@@ -15094,10 +15096,10 @@
       "descripcion": "Oreo",
       "precioCompra": 13.95,
       "precioVenta": 20.93,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 13.952000000000002
         }
       ]
@@ -15159,10 +15161,10 @@
       "descripcion": "Leche Carlos V",
       "precioCompra": 8.69,
       "precioVenta": 13.03,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 8.686
         }
       ]
@@ -15263,6 +15265,32 @@
         {
           "cantidad": 24,
           "costoUnitario": 6.639166666666667
+        }
+      ]
+    },
+    {
+      "codigo": "75001322",
+      "descripcion": "Malboro",
+      "precioCompra": 3.71,
+      "precioVenta": 5.56,
+      "piezas": 100,
+      "stockParciales": [
+        {
+          "cantidad": 100,
+          "costoUnitario": 3.7095
+        }
+      ]
+    },
+    {
+      "codigo": "75078843",
+      "descripcion": "Shots",
+      "precioCompra": 1.71,
+      "precioVenta": 2.56,
+      "piezas": 200,
+      "stockParciales": [
+        {
+          "cantidad": 200,
+          "costoUnitario": 1.71
         }
       ]
     }
@@ -16833,11 +16861,29 @@
       "cantidad": 24,
       "costoTotal": 159.34,
       "fecha": "23/4/2025, 8:16:17 a.m."
+    },
+    {
+      "producto": "Malboro",
+      "cantidad": 100,
+      "costoTotal": 370.95,
+      "fecha": "24/4/2025, 7:58:51 a.m."
+    },
+    {
+      "producto": "Shots",
+      "cantidad": 200,
+      "costoTotal": 342,
+      "fecha": "24/4/2025, 7:59:42 a.m."
+    },
+    {
+      "producto": "Pall Mall",
+      "cantidad": 100,
+      "costoTotal": 351.5,
+      "fecha": "24/4/2025, 8:00:20 a.m."
     }
   ],
   "numInversionistas": 12,
   "totalInversion": 6000,
-  "gastoEnProductos": 28252.370000000003,
-  "inversionRecuperada": 25569.69354444436,
-  "gananciasTotales": 12793.866455555655
+  "gastoEnProductos": 29316.820000000003,
+  "inversionRecuperada": 25592.33154444436,
+  "gananciasTotales": 12805.188455555653
 }
