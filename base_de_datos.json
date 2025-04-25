@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 996.2099999999998,
-      "ganancia": 716.5405694444444,
+      "adeudo": 1022.7699999999998,
+      "ganancia": 725.3965694444444,
       "saldoFavor": 0
     },
     {
@@ -5281,6 +5281,20 @@
         "costoTotal": 9.96,
         "fecha": "24/4/2025, 3:51:09 p.m.",
         "ganancia": 3.3208333333333337
+      },
+      {
+        "producto": "Leche fresa",
+        "piezas": 1,
+        "costoTotal": 10.06,
+        "fecha": "25/4/2025, 9:03:35 a.m.",
+        "ganancia": 3.356
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "25/4/2025, 9:03:35 a.m.",
+        "ganancia": 5.5
       }
     ],
     "Isac": [
@@ -15468,13 +15482,8 @@
       "descripcion": "Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 11
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000601776",
@@ -15505,10 +15514,10 @@
       "descripcion": "Leche fresa",
       "precioCompra": 6.7,
       "precioVenta": 10.06,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 6.704000000000001
         }
       ]
@@ -17202,6 +17211,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 29316.820000000003,
-  "inversionRecuperada": 26056.849706349145,
-  "gananciasTotales": 13037.80029365089
+  "inversionRecuperada": 26074.553706349147,
+  "gananciasTotales": 13046.656293650889
 }
