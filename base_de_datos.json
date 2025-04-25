@@ -10,7 +10,7 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1261.4,
+      "adeudo": 861.4000000000001,
       "ganancia": 2265.1918226190464,
       "saldoFavor": 0
     },
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 908.3799999999998,
-      "ganancia": 1060.2489694444464,
+      "adeudo": 913.6499999999997,
+      "ganancia": 1062.0239694444465,
       "saldoFavor": 0
     },
     {
@@ -14715,6 +14715,13 @@
         "costoTotal": 7.53,
         "fecha": "25/4/2025, 1:41:30 p.m.",
         "ganancia": 2.5133333333333336
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.27,
+        "fecha": "25/4/2025, 2:22:14 p.m.",
+        "ganancia": 1.7749999999999995
       }
     ],
     "Vicente": [
@@ -15321,10 +15328,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.52,
       "precioVenta": 5.27,
-      "piezas": 107,
+      "piezas": 106,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 3.495
         },
         {
@@ -17328,6 +17335,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 29316.820000000003,
-  "inversionRecuperada": 26283.982006349142,
-  "gananciasTotales": 13151.297993650887
+  "inversionRecuperada": 26287.47700634914,
+  "gananciasTotales": 13153.072993650887
 }
