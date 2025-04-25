@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1192.13,
-      "ganancia": 2242.1668226190463,
+      "adeudo": 1197.4,
+      "ganancia": 2243.9418226190464,
       "saldoFavor": 0
     },
     {
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 842.1899999999998,
-      "ganancia": 1038.1598027777795,
+      "adeudo": 873.0899999999998,
+      "ganancia": 1048.4814694444462,
       "saldoFavor": 0
     },
     {
@@ -3140,6 +3140,13 @@
         "costoTotal": 13.03,
         "fecha": "25/4/2025, 8:12:27 a.m.",
         "ganancia": 4.343999999999999
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.27,
+        "fecha": "25/4/2025, 8:15:42 a.m.",
+        "ganancia": 1.7749999999999995
       }
     ],
     "Edgar": [
@@ -14540,6 +14547,20 @@
         "costoTotal": 17.82,
         "fecha": "24/4/2025, 8:56:42 a.m.",
         "ganancia": 5.938000000000001
+      },
+      {
+        "producto": "Gatorade Naranja",
+        "piezas": 1,
+        "costoTotal": 25.63,
+        "fecha": "25/4/2025, 8:16:57 a.m.",
+        "ganancia": 8.546666666666667
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.27,
+        "fecha": "25/4/2025, 8:16:57 a.m.",
+        "ganancia": 1.7749999999999995
       }
     ],
     "Vicente": [
@@ -15150,10 +15171,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.52,
       "precioVenta": 5.27,
-      "piezas": 110,
+      "piezas": 108,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 8,
           "costoUnitario": 3.495
         },
         {
@@ -15522,10 +15543,10 @@
       "descripcion": "Gatorade Naranja",
       "precioCompra": 17.08,
       "precioVenta": 25.63,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 17.083333333333332
         }
       ]
@@ -17167,6 +17188,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 29316.820000000003,
-  "inversionRecuperada": 26006.942373015812,
-  "gananciasTotales": 13012.787626984224
+  "inversionRecuperada": 26031.015706349142,
+  "gananciasTotales": 13024.88429365089
 }
