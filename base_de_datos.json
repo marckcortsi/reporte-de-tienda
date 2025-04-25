@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1236.17,
-      "ganancia": 1373.796551984126,
+      "adeudo": 1267.16,
+      "ganancia": 1384.130551984126,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 338.1299999999999,
-      "ganancia": 2214.2910059523747,
+      "adeudo": 357.6299999999999,
+      "ganancia": 2220.7910059523747,
       "saldoFavor": 0
     },
     {
@@ -7124,6 +7124,20 @@
         "costoTotal": 21.88,
         "fecha": "24/4/2025, 1:54:36 p.m.",
         "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 1,
+        "costoTotal": 20.93,
+        "fecha": "25/4/2025, 9:06:51 a.m.",
+        "ganancia": 6.977999999999998
+      },
+      {
+        "producto": "Leche fresa",
+        "piezas": 1,
+        "costoTotal": 10.06,
+        "fecha": "25/4/2025, 9:06:51 a.m.",
+        "ganancia": 3.356
       }
     ],
     "Isrrael": [
@@ -13026,6 +13040,13 @@
         "costoTotal": 10.06,
         "fecha": "25/4/2025, 8:11:13 a.m.",
         "ganancia": 3.356
+      },
+      {
+        "producto": "Sol limon",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "25/4/2025, 9:07:55 a.m.",
+        "ganancia": 6.5
       }
     ],
     "Rafael": [
@@ -14979,12 +15000,8 @@
       "descripcion": "Sol limon",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 13
-        },
         {
           "cantidad": 3,
           "costoUnitario": 13
@@ -15448,10 +15465,10 @@
       "descripcion": "Oreo",
       "precioCompra": 13.95,
       "precioVenta": 20.93,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 13.952000000000002
         }
       ]
@@ -15514,13 +15531,8 @@
       "descripcion": "Leche fresa",
       "precioCompra": 6.7,
       "precioVenta": 10.06,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 6.704000000000001
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "613008772871",
@@ -17211,6 +17223,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 29316.820000000003,
-  "inversionRecuperada": 26074.553706349147,
-  "gananciasTotales": 13046.656293650889
+  "inversionRecuperada": 26108.20970634915,
+  "gananciasTotales": 13063.490293650888
 }
