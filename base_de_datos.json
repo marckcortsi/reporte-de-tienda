@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 563.5500000000002,
-      "ganancia": 1727.3040797619053,
+      "adeudo": 581.3700000000002,
+      "ganancia": 1733.2420797619054,
       "saldoFavor": 0
     },
     {
@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 537.15,
-      "ganancia": 1045.0004623015877,
+      "adeudo": 558.0799999999999,
+      "ganancia": 1051.9784623015878,
       "saldoFavor": 0
     },
     {
@@ -1045,6 +1045,13 @@
         "costoTotal": 31.59,
         "fecha": "24/4/2025, 9:12:02 a.m.",
         "ganancia": 10.5275
+      },
+      {
+        "producto": "Emperador",
+        "piezas": 1,
+        "costoTotal": 17.82,
+        "fecha": "25/4/2025, 9:02:20 a.m.",
+        "ganancia": 5.938000000000001
       }
     ],
     "Carlos": [
@@ -7945,6 +7952,13 @@
         "costoTotal": 21.88,
         "fecha": "24/4/2025, 2:09:51 p.m.",
         "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 1,
+        "costoTotal": 20.93,
+        "fecha": "25/4/2025, 9:02:06 a.m.",
+        "ganancia": 6.977999999999998
       }
     ],
     "Karen": [
@@ -15420,10 +15434,10 @@
       "descripcion": "Oreo",
       "precioCompra": 13.95,
       "precioVenta": 20.93,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 13.952000000000002
         }
       ]
@@ -15433,10 +15447,10 @@
       "descripcion": "Emperador",
       "precioCompra": 11.88,
       "precioVenta": 17.82,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 11.882
         }
       ]
@@ -17188,6 +17202,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 29316.820000000003,
-  "inversionRecuperada": 26031.015706349142,
-  "gananciasTotales": 13024.88429365089
+  "inversionRecuperada": 26056.849706349145,
+  "gananciasTotales": 13037.80029365089
 }
