@@ -24,15 +24,15 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 82.67,
-      "ganancia": 400.74999642857125,
+      "adeudo": 88.69,
+      "ganancia": 402.76285357142837,
       "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1034.0199999999998,
-      "ganancia": 729.1465694444444,
+      "adeudo": 1085.2699999999998,
+      "ganancia": 746.2299027777777,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 382.53000000000003,
-      "ganancia": 1205.5026607142856,
+      "adeudo": 387.65000000000003,
+      "ganancia": 1207.2026607142857,
       "saldoFavor": 0
     },
     {
@@ -4467,6 +4467,13 @@
         "costoTotal": 2.16,
         "fecha": "24/4/2025, 1:03:39 p.m.",
         "ganancia": 0.7218
+      },
+      {
+        "producto": "Mamut",
+        "piezas": 2,
+        "costoTotal": 6.02,
+        "fecha": "25/4/2025, 5:33:46 p.m.",
+        "ganancia": 2.0128571428571425
       }
     ],
     "Irvin": [
@@ -5309,6 +5316,13 @@
         "costoTotal": 11.25,
         "fecha": "25/4/2025, 12:29:01 p.m.",
         "ganancia": 3.75
+      },
+      {
+        "producto": "Coca-Cola de 3 litros",
+        "piezas": 1,
+        "costoTotal": 51.25,
+        "fecha": "25/4/2025, 5:34:02 p.m.",
+        "ganancia": 17.083333333333336
       }
     ],
     "Isac": [
@@ -9578,6 +9592,13 @@
         "costoTotal": 17.8,
         "fecha": "25/4/2025, 11:26:17 a.m.",
         "ganancia": 5.933333333333334
+      },
+      {
+        "producto": "Shots",
+        "piezas": 2,
+        "costoTotal": 5.12,
+        "fecha": "25/4/2025, 5:34:12 p.m.",
+        "ganancia": 1.7000000000000002
       }
     ],
     "Laura": [
@@ -15345,10 +15366,10 @@
       "descripcion": "Coca-Cola de 3 litros",
       "precioCompra": 34.17,
       "precioVenta": 51.25,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 34.166666666666664
         }
       ]
@@ -15564,10 +15585,10 @@
       "descripcion": "Mamut",
       "precioCompra": 2,
       "precioVenta": 3.01,
-      "piezas": 18,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 16,
           "costoUnitario": 2.0035714285714286
         }
       ]
@@ -15737,10 +15758,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 175,
+      "piezas": 173,
       "stockParciales": [
         {
-          "cantidad": 175,
+          "cantidad": 173,
           "costoUnitario": 1.71
         }
       ]
@@ -17335,6 +17356,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 29316.820000000003,
-  "inversionRecuperada": 26287.47700634914,
-  "gananciasTotales": 13153.072993650887
+  "inversionRecuperada": 26329.07081587295,
+  "gananciasTotales": 13173.86918412708
 }
