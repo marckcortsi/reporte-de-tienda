@@ -3,22 +3,22 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 581.3700000000002,
-      "ganancia": 1733.2420797619054,
+      "adeudo": 751.0700000000003,
+      "ganancia": 1789.8520797619053,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 861.4000000000001,
-      "ganancia": 2265.1918226190464,
+      "adeudo": 1003.5000000000001,
+      "ganancia": 2312.563489285713,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 562.9899999999999,
-      "ganancia": 675.9834940476196,
+      "adeudo": 598.5799999999999,
+      "ganancia": 687.8509940476196,
       "saldoFavor": 0
     },
     {
@@ -38,15 +38,15 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1296.43,
-      "ganancia": 1393.905551984126,
+      "adeudo": 1386.91,
+      "ganancia": 1431.777718650793,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 603.4,
-      "ganancia": 1067.0901289682545,
+      "adeudo": 630.3,
+      "ganancia": 1076.0567956349212,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 415.03999999999985,
-      "ganancia": 2239.9285059523745,
+      "adeudo": 495.33999999999975,
+      "ganancia": 2266.803029761898,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 913.6499999999997,
-      "ganancia": 1062.0239694444465,
+      "adeudo": 1015.1099999999998,
+      "ganancia": 1095.84480277778,
       "saldoFavor": 0
     },
     {
@@ -1052,6 +1052,34 @@
         "costoTotal": 17.82,
         "fecha": "25/4/2025, 9:02:20 a.m.",
         "ganancia": 5.938000000000001
+      },
+      {
+        "producto": "Malboro",
+        "piezas": 20,
+        "costoTotal": 111.19999999999999,
+        "fecha": "28/4/2025, 8:27:55 a.m.",
+        "ganancia": 37.01
+      },
+      {
+        "producto": "Sol habanero",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "28/4/2025, 1:09:45 p.m.",
+        "ganancia": 6.6
+      },
+      {
+        "producto": "Sol adobada",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "28/4/2025, 1:09:45 p.m.",
+        "ganancia": 6.5
+      },
+      {
+        "producto": "Sol",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "28/4/2025, 1:09:45 p.m.",
+        "ganancia": 6.5
       }
     ],
     "Carlos": [
@@ -3161,6 +3189,55 @@
         "costoTotal": 64,
         "fecha": "25/4/2025, 1:41:11 p.m.",
         "ganancia": 21.250000000000004
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24,
+        "fecha": "28/4/2025, 8:32:48 a.m.",
+        "ganancia": 8
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 4,
+        "costoTotal": 21.08,
+        "fecha": "28/4/2025, 9:04:49 a.m.",
+        "ganancia": 7.099999999999998
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.96,
+        "fecha": "28/4/2025, 11:28:34 a.m.",
+        "ganancia": 3.3208333333333337
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 2,
+        "costoTotal": 10.54,
+        "fecha": "28/4/2025, 11:28:34 a.m.",
+        "ganancia": 3.529999999999999
+      },
+      {
+        "producto": "Shots",
+        "piezas": 1,
+        "costoTotal": 2.56,
+        "fecha": "28/4/2025, 3:34:42 p.m.",
+        "ganancia": 0.8500000000000001
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.96,
+        "fecha": "28/4/2025, 3:34:42 p.m.",
+        "ganancia": 3.3208333333333337
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 64,
+        "fecha": "28/4/2025, 6:10:52 p.m.",
+        "ganancia": 21.250000000000004
       }
     ],
     "Edgar": [
@@ -4038,6 +4115,20 @@
         "costoTotal": 8.52,
         "fecha": "23/4/2025, 11:35:41 a.m.",
         "ganancia": 2.84
+      },
+      {
+        "producto": "Gatorade Naranja",
+        "piezas": 1,
+        "costoTotal": 25.63,
+        "fecha": "28/4/2025, 8:33:08 a.m.",
+        "ganancia": 8.546666666666667
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.96,
+        "fecha": "28/4/2025, 11:17:33 a.m.",
+        "ganancia": 3.3208333333333337
       }
     ],
     "Francisco": [
@@ -7180,6 +7271,48 @@
         "costoTotal": 5.27,
         "fecha": "25/4/2025, 11:03:13 a.m.",
         "ganancia": 1.7749999999999995
+      },
+      {
+        "producto": "Emperador",
+        "piezas": 1,
+        "costoTotal": 17.82,
+        "fecha": "28/4/2025, 8:24:37 a.m.",
+        "ganancia": 5.938000000000001
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.27,
+        "fecha": "28/4/2025, 8:24:37 a.m.",
+        "ganancia": 1.7749999999999995
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.96,
+        "fecha": "28/4/2025, 11:17:38 a.m.",
+        "ganancia": 3.3208333333333337
+      },
+      {
+        "producto": "Coca-Cola de 3 litros",
+        "piezas": 1,
+        "costoTotal": 51.25,
+        "fecha": "28/4/2025, 1:43:14 p.m.",
+        "ganancia": 17.083333333333336
+      },
+      {
+        "producto": "Arizona mango",
+        "piezas": 1,
+        "costoTotal": 24,
+        "fecha": "28/4/2025, 2:42:09 p.m.",
+        "ganancia": 8
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.27,
+        "fecha": "28/4/2025, 3:34:31 p.m.",
+        "ganancia": 1.7549999999999994
       }
     ],
     "Isrrael": [
@@ -8043,6 +8176,20 @@
         "costoTotal": 19.69,
         "fecha": "25/4/2025, 10:17:37 a.m.",
         "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "28/4/2025, 5:35:34 p.m.",
+        "ganancia": 5.416666666666666
+      },
+      {
+        "producto": "Tin larin",
+        "piezas": 1,
+        "costoTotal": 10.65,
+        "fecha": "28/4/2025, 5:38:23 p.m.",
+        "ganancia": 3.5500000000000007
       }
     ],
     "Karen": [
@@ -13152,6 +13299,69 @@
         "costoTotal": 9.96,
         "fecha": "25/4/2025, 1:22:44 p.m.",
         "ganancia": 3.3208333333333337
+      },
+      {
+        "producto": "Mamut",
+        "piezas": 1,
+        "costoTotal": 3.01,
+        "fecha": "28/4/2025, 8:30:22 a.m.",
+        "ganancia": 1.0064285714285712
+      },
+      {
+        "producto": "Mamut",
+        "piezas": 1,
+        "costoTotal": 3.01,
+        "fecha": "28/4/2025, 8:31:43 a.m.",
+        "ganancia": 1.0064285714285712
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.96,
+        "fecha": "28/4/2025, 10:46:22 a.m.",
+        "ganancia": 3.3208333333333337
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.96,
+        "fecha": "28/4/2025, 11:20:51 a.m.",
+        "ganancia": 3.3208333333333337
+      },
+      {
+        "producto": "Winis",
+        "piezas": 1,
+        "costoTotal": 0.71,
+        "fecha": "28/4/2025, 11:28:46 a.m.",
+        "ganancia": 0.235
+      },
+      {
+        "producto": "Sol habanero",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "28/4/2025, 12:28:17 p.m.",
+        "ganancia": 6.6
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 24,
+        "fecha": "28/4/2025, 12:36:54 p.m.",
+        "ganancia": 8
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.27,
+        "fecha": "28/4/2025, 3:34:27 p.m.",
+        "ganancia": 1.7549999999999994
+      },
+      {
+        "producto": "Zumba goma mora Azul",
+        "piezas": 1,
+        "costoTotal": 4.88,
+        "fecha": "28/4/2025, 5:14:26 p.m.",
+        "ganancia": 1.63
       }
     ],
     "Rafael": [
@@ -14743,6 +14953,34 @@
         "costoTotal": 5.27,
         "fecha": "25/4/2025, 2:22:14 p.m.",
         "ganancia": 1.7749999999999995
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "28/4/2025, 8:26:29 a.m.",
+        "ganancia": 5.416666666666666
+      },
+      {
+        "producto": "Coca-Cola de 3 litros",
+        "piezas": 1,
+        "costoTotal": 51.25,
+        "fecha": "28/4/2025, 10:46:14 a.m.",
+        "ganancia": 17.083333333333336
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.96,
+        "fecha": "28/4/2025, 10:46:14 a.m.",
+        "ganancia": 3.3208333333333337
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24,
+        "fecha": "28/4/2025, 10:46:14 a.m.",
+        "ganancia": 8
       }
     ],
     "Vicente": [
@@ -15163,10 +15401,10 @@
       "descripcion": "Sol habanero",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 8,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 3,
           "costoUnitario": 12.9
         },
         {
@@ -15193,10 +15431,10 @@
       "descripcion": "Zumba goma mora Azul",
       "precioCompra": 3.25,
       "precioVenta": 4.88,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 3.25
         }
       ]
@@ -15336,10 +15574,10 @@
       "descripcion": "Winis",
       "precioCompra": 0.47,
       "precioVenta": 0.71,
-      "piezas": 78,
+      "piezas": 77,
       "stockParciales": [
         {
-          "cantidad": 78,
+          "cantidad": 77,
           "costoUnitario": 0.475
         }
       ]
@@ -15349,14 +15587,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.52,
       "precioVenta": 5.27,
-      "piezas": 106,
+      "piezas": 97,
       "stockParciales": [
         {
-          "cantidad": 6,
-          "costoUnitario": 3.495
-        },
-        {
-          "cantidad": 100,
+          "cantidad": 97,
           "costoUnitario": 3.515
         }
       ]
@@ -15366,10 +15600,10 @@
       "descripcion": "Coca-Cola de 3 litros",
       "precioCompra": 34.17,
       "precioVenta": 51.25,
-      "piezas": 4,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 2,
           "costoUnitario": 34.166666666666664
         }
       ]
@@ -15447,10 +15681,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 7,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 5,
           "costoUnitario": 10.833333333333334
         }
       ]
@@ -15460,10 +15694,10 @@
       "descripcion": "Tin larin",
       "precioCompra": 7.1,
       "precioVenta": 10.65,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 7.1
         }
       ]
@@ -15551,26 +15785,16 @@
       "descripcion": "Sol",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 13
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "77503020501661",
       "descripcion": "Sol adobada",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 13
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7503022458734",
@@ -15585,10 +15809,10 @@
       "descripcion": "Mamut",
       "precioCompra": 2,
       "precioVenta": 3.01,
-      "piezas": 16,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 14,
           "costoUnitario": 2.0035714285714286
         }
       ]
@@ -15611,13 +15835,8 @@
       "descripcion": "Emperador",
       "precioCompra": 11.88,
       "precioVenta": 17.82,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 11.882
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000635726",
@@ -15672,23 +15891,18 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16,
       "precioVenta": 24,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 16
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "613008772901",
       "descripcion": "Arizona kiwi",
       "precioCompra": 16,
       "precioVenta": 24,
-      "piezas": 3,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 1,
           "costoUnitario": 16
         }
       ]
@@ -15698,26 +15912,16 @@
       "descripcion": "Arizona mango",
       "precioCompra": 16,
       "precioVenta": 24,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 16
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "036731107015",
       "descripcion": "Gatorade Naranja",
       "precioCompra": 17.08,
       "precioVenta": 25.63,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 17.083333333333332
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "036731137913",
@@ -15732,10 +15936,10 @@
       "descripcion": "Bonice",
       "precioCompra": 6.64,
       "precioVenta": 9.96,
-      "piezas": 13,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 6,
           "costoUnitario": 6.639166666666667
         }
       ]
@@ -15745,10 +15949,10 @@
       "descripcion": "Malboro",
       "precioCompra": 3.71,
       "precioVenta": 5.56,
-      "piezas": 100,
+      "piezas": 80,
       "stockParciales": [
         {
-          "cantidad": 100,
+          "cantidad": 80,
           "costoUnitario": 3.7095
         }
       ]
@@ -15758,10 +15962,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 173,
+      "piezas": 147,
       "stockParciales": [
         {
-          "cantidad": 173,
+          "cantidad": 147,
           "costoUnitario": 1.71
         }
       ]
@@ -17356,6 +17560,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 29316.820000000003,
-  "inversionRecuperada": 26329.07081587295,
-  "gananciasTotales": 13173.86918412708
+  "inversionRecuperada": 26775.307458730098,
+  "gananciasTotales": 13397.252541269936
 }
