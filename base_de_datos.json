@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 751.0700000000003,
-      "ganancia": 1789.8520797619053,
+      "adeudo": 862.2700000000003,
+      "ganancia": 1826.8620797619053,
       "saldoFavor": 0
     },
     {
@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 598.5799999999999,
-      "ganancia": 687.8509940476196,
+      "adeudo": 608.3,
+      "ganancia": 691.0909940476196,
       "saldoFavor": 0
     },
     {
@@ -31,22 +31,22 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1091.2899999999997,
-      "ganancia": 748.2427599206349,
+      "adeudo": 1109.0899999999997,
+      "ganancia": 754.1760932539681,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1412.43,
-      "ganancia": 1440.2905757936503,
+      "adeudo": 1431.93,
+      "ganancia": 1446.8905757936502,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 688.14,
-      "ganancia": 1095.338462301588,
+      "adeudo": 707.64,
+      "ganancia": 1101.838462301588,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 673.9499999999997,
-      "ganancia": 2326.3455186507863,
+      "adeudo": 693.4499999999997,
+      "ganancia": 2332.8455186507863,
       "saldoFavor": 0
     },
     {
@@ -1080,6 +1080,13 @@
         "costoTotal": 19.5,
         "fecha": "28/4/2025, 1:09:45 p.m.",
         "ganancia": 6.5
+      },
+      {
+        "producto": "Malboro",
+        "piezas": 20,
+        "costoTotal": 111.19999999999999,
+        "fecha": "30/4/2025, 10:55:31 a.m.",
+        "ganancia": 37.01
       }
     ],
     "Carlos": [
@@ -4150,6 +4157,13 @@
         "costoTotal": 9.96,
         "fecha": "28/4/2025, 11:17:33 a.m.",
         "ganancia": 3.3208333333333337
+      },
+      {
+        "producto": "Zumba goma sandia",
+        "piezas": 2,
+        "costoTotal": 9.72,
+        "fecha": "30/4/2025, 10:32:31 a.m.",
+        "ganancia": 3.240000000000001
       }
     ],
     "Francisco": [
@@ -5442,6 +5456,13 @@
         "costoTotal": 6.02,
         "fecha": "29/4/2025, 8:58:51 a.m.",
         "ganancia": 2.0128571428571425
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 17.8,
+        "fecha": "30/4/2025, 11:41:13 a.m.",
+        "ganancia": 5.933333333333334
       }
     ],
     "Isac": [
@@ -7355,6 +7376,13 @@
         "costoTotal": 6.02,
         "fecha": "30/4/2025, 9:13:33 a.m.",
         "ganancia": 2.0128571428571425
+      },
+      {
+        "producto": "Sol habanero",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "30/4/2025, 11:44:07 a.m.",
+        "ganancia": 6.6
       }
     ],
     "Isrrael": [
@@ -8260,6 +8288,13 @@
         "costoTotal": 16.25,
         "fecha": "30/4/2025, 9:35:27 a.m.",
         "ganancia": 5.416666666666666
+      },
+      {
+        "producto": "Sol Jalapeño",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "30/4/2025, 12:41:42 p.m.",
+        "ganancia": 6.5
       }
     ],
     "Karen": [
@@ -13544,6 +13579,13 @@
         "costoTotal": 8.39,
         "fecha": "30/4/2025, 10:27:41 a.m.",
         "ganancia": 2.7955555555555556
+      },
+      {
+        "producto": "Sol Jalapeño",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "30/4/2025, 12:29:10 p.m.",
+        "ganancia": 6.5
       }
     ],
     "Rafael": [
@@ -15561,10 +15603,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.87,
       "precioVenta": 17.8,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 11.866666666666667
         }
       ]
@@ -15587,14 +15629,10 @@
       "descripcion": "Sol Jalapeño",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 4,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 1,
-          "costoUnitario": 13
-        },
-        {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 13
         }
       ]
@@ -15604,10 +15642,10 @@
       "descripcion": "Sol habanero",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 12.9
         },
         {
@@ -15840,10 +15878,10 @@
       "descripcion": "Zumba goma sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 9,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 7,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -16142,10 +16180,10 @@
       "descripcion": "Malboro",
       "precioCompra": 3.71,
       "precioVenta": 5.56,
-      "piezas": 80,
+      "piezas": 60,
       "stockParciales": [
         {
-          "cantidad": 80,
+          "cantidad": 60,
           "costoUnitario": 3.7095
         }
       ]
@@ -17753,6 +17791,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 29316.820000000003,
-  "inversionRecuperada": 26992.512033333267,
-  "gananciasTotales": 13505.917966666764
+  "inversionRecuperada": 27123.94869999993,
+  "gananciasTotales": 13571.701300000097
 }
