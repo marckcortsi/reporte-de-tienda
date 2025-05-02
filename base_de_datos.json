@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 862.2700000000003,
-      "ganancia": 1826.8620797619053,
+      "adeudo": 873.9400000000003,
+      "ganancia": 1830.758270238096,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1034,
-      "ganancia": 2322.743370238094,
+      "adeudo": 1098,
+      "ganancia": 2343.993370238094,
       "saldoFavor": 0
     },
     {
@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 88.69,
-      "ganancia": 402.76285357142837,
+      "adeudo": 104.94,
+      "ganancia": 408.17952023809505,
       "saldoFavor": 0
     },
     {
@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 707.64,
-      "ganancia": 1101.838462301588,
+      "adeudo": 718.29,
+      "ganancia": 1105.3884623015879,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 693.4499999999997,
-      "ganancia": 2332.8455186507863,
+      "adeudo": 700.7399999999997,
+      "ganancia": 2335.2805186507862,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1042.4899999999998,
-      "ganancia": 1104.9804773809547,
+      "adeudo": 1087.7599999999998,
+      "ganancia": 1120.166310714288,
       "saldoFavor": 0
     },
     {
@@ -1087,6 +1087,20 @@
         "costoTotal": 111.19999999999999,
         "fecha": "30/4/2025, 10:55:31 a.m.",
         "ganancia": 37.01
+      },
+      {
+        "producto": "Mamut",
+        "piezas": 2,
+        "costoTotal": 6.02,
+        "fecha": "30/4/2025, 2:54:55 p.m.",
+        "ganancia": 2.0128571428571425
+      },
+      {
+        "producto": "Pelón pelo neta",
+        "piezas": 1,
+        "costoTotal": 5.65,
+        "fecha": "30/4/2025, 5:43:38 p.m.",
+        "ganancia": 1.8833333333333337
       }
     ],
     "Carlos": [
@@ -3266,6 +3280,13 @@
         "costoTotal": 9.96,
         "fecha": "29/4/2025, 12:24:58 p.m.",
         "ganancia": 3.3208333333333337
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 64,
+        "fecha": "30/4/2025, 5:43:58 p.m.",
+        "ganancia": 21.250000000000004
       }
     ],
     "Edgar": [
@@ -4600,6 +4621,13 @@
         "costoTotal": 6.02,
         "fecha": "25/4/2025, 5:33:46 p.m.",
         "ganancia": 2.0128571428571425
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "30/4/2025, 5:18:03 p.m.",
+        "ganancia": 5.416666666666666
       }
     ],
     "Irvin": [
@@ -8295,6 +8323,13 @@
         "costoTotal": 19.5,
         "fecha": "30/4/2025, 12:41:42 p.m.",
         "ganancia": 6.5
+      },
+      {
+        "producto": "Tin larin",
+        "piezas": 1,
+        "costoTotal": 10.65,
+        "fecha": "30/4/2025, 5:09:28 p.m.",
+        "ganancia": 3.5500000000000007
       }
     ],
     "Karen": [
@@ -13586,6 +13621,20 @@
         "costoTotal": 19.5,
         "fecha": "30/4/2025, 12:29:10 p.m.",
         "ganancia": 6.5
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.27,
+        "fecha": "30/4/2025, 2:55:16 p.m.",
+        "ganancia": 1.7549999999999994
+      },
+      {
+        "producto": "Chicles canels",
+        "piezas": 2,
+        "costoTotal": 2.02,
+        "fecha": "30/4/2025, 2:55:16 p.m.",
+        "ganancia": 0.6799999999999999
       }
     ],
     "Rafael": [
@@ -15226,6 +15275,27 @@
         "costoTotal": 9.96,
         "fecha": "29/4/2025, 12:25:06 p.m.",
         "ganancia": 3.3208333333333337
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 9.96,
+        "fecha": "30/4/2025, 12:56:43 p.m.",
+        "ganancia": 3.3208333333333337
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 3,
+        "costoTotal": 15.809999999999999,
+        "fecha": "30/4/2025, 3:26:44 p.m.",
+        "ganancia": 5.264999999999999
+      },
+      {
+        "producto": "Sol habanero",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "2/5/2025, 11:38:40 a.m.",
+        "ganancia": 6.6
       }
     ],
     "Vicente": [
@@ -15525,10 +15595,10 @@
       "descripcion": "Chicles canels",
       "precioCompra": 0.67,
       "precioVenta": 1.01,
-      "piezas": 27,
+      "piezas": 25,
       "stockParciales": [
         {
-          "cantidad": 27,
+          "cantidad": 25,
           "costoUnitario": 0.67
         }
       ]
@@ -15642,10 +15712,10 @@
       "descripcion": "Sol habanero",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.9
         },
         {
@@ -15823,10 +15893,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.52,
       "precioVenta": 5.27,
-      "piezas": 95,
+      "piezas": 91,
       "stockParciales": [
         {
-          "cantidad": 95,
+          "cantidad": 91,
           "costoUnitario": 3.515
         }
       ]
@@ -15891,10 +15961,10 @@
       "descripcion": "Pelón pelo neta",
       "precioCompra": 3.77,
       "precioVenta": 5.65,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 3.7666666666666666
         }
       ]
@@ -15917,10 +15987,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 10.833333333333334
         }
       ]
@@ -15930,10 +16000,10 @@
       "descripcion": "Tin larin",
       "precioCompra": 7.1,
       "precioVenta": 10.65,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 16,
           "costoUnitario": 7.1
         }
       ]
@@ -16045,10 +16115,10 @@
       "descripcion": "Mamut",
       "precioCompra": 2,
       "precioVenta": 3.01,
-      "piezas": 3,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 1,
           "costoUnitario": 2.0035714285714286
         }
       ]
@@ -16167,10 +16237,10 @@
       "descripcion": "Bonice",
       "precioCompra": 6.64,
       "precioVenta": 9.96,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 6.639166666666667
         }
       ]
@@ -16193,10 +16263,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 146,
+      "piezas": 121,
       "stockParciales": [
         {
-          "cantidad": 146,
+          "cantidad": 121,
           "costoUnitario": 1.71
         }
       ]
@@ -17791,6 +17861,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 29316.820000000003,
-  "inversionRecuperada": 27123.94869999993,
-  "gananciasTotales": 13571.701300000097
+  "inversionRecuperada": 27227.34500952374,
+  "gananciasTotales": 13623.434990476286
 }
