@@ -10,15 +10,15 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1212.55,
-      "ganancia": 2382.905979365078,
+      "adeudo": 1228.36,
+      "ganancia": 2388.170979365078,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 618.02,
-      "ganancia": 695.1521746031751,
+      "adeudo": 639.9,
+      "ganancia": 702.4488412698418,
       "saldoFavor": 0
     },
     {
@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1128.5899999999997,
-      "ganancia": 761.5972738095237,
+      "adeudo": 1150.4699999999998,
+      "ganancia": 768.8939404761903,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1496.22,
-      "ganancia": 1469.1384230158728,
+      "adeudo": 1518.1000000000001,
+      "ganancia": 1476.4350896825395,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 751.5799999999996,
-      "ganancia": 2353.0596992063415,
+      "adeudo": 793.0899999999996,
+      "ganancia": 2366.9030325396748,
       "saldoFavor": 0
     },
     {
@@ -3336,6 +3336,13 @@
         "costoTotal": 3.01,
         "fecha": "5/5/2025, 8:56:38 a.m.",
         "ganancia": 1.0064285714285712
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 3,
+        "costoTotal": 15.809999999999999,
+        "fecha": "5/5/2025, 2:07:18 p.m.",
+        "ganancia": 5.264999999999999
       }
     ],
     "Edgar": [
@@ -4241,6 +4248,13 @@
         "costoTotal": 9.72,
         "fecha": "2/5/2025, 11:46:29 a.m.",
         "ganancia": 3.240000000000001
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "5/5/2025, 2:55:38 p.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Francisco": [
@@ -5554,6 +5568,13 @@
         "costoTotal": 19.5,
         "fecha": "2/5/2025, 11:59:40 a.m.",
         "ganancia": 6.6
+      },
+      {
+        "producto": "Maruchan habanero",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "5/5/2025, 2:54:10 p.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Isac": [
@@ -7495,6 +7516,13 @@
         "costoTotal": 53.75,
         "fecha": "5/5/2025, 1:34:32 p.m.",
         "ganancia": 17.916666666666664
+      },
+      {
+        "producto": "Maruchan habanero",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "5/5/2025, 2:55:20 p.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Isrrael": [
@@ -13775,6 +13803,20 @@
         "costoTotal": 17.74,
         "fecha": "5/5/2025, 1:38:13 p.m.",
         "ganancia": 5.914999999999999
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "5/5/2025, 2:55:50 p.m.",
+        "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.63,
+        "fecha": "5/5/2025, 2:55:50 p.m.",
+        "ganancia": 6.546666666666665
       }
     ],
     "Rafael": [
@@ -16034,10 +16076,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.52,
       "precioVenta": 5.27,
-      "piezas": 80,
+      "piezas": 77,
       "stockParciales": [
         {
-          "cantidad": 80,
+          "cantidad": 77,
           "costoUnitario": 3.515
         }
       ]
@@ -16385,10 +16427,10 @@
       "descripcion": "Maruchan camaron",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 12,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 10,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -16398,10 +16440,10 @@
       "descripcion": "Maruchan habanero",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 12,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 10,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -16424,10 +16466,10 @@
       "descripcion": "Doritos",
       "precioCompra": 13.08,
       "precioVenta": 19.63,
-      "piezas": 28,
+      "piezas": 27,
       "stockParciales": [
         {
-          "cantidad": 28,
+          "cantidad": 27,
           "costoUnitario": 13.083333333333334
         }
       ]
@@ -18414,6 +18456,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 33992.70000000001,
-  "inversionRecuperada": 27583.83974761897,
-  "gananciasTotales": 13801.640252381041
+  "inversionRecuperada": 27665.80141428563,
+  "gananciasTotales": 13842.638585714376
 }
