@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 985.1400000000003,
+      "adeudo": 0,
       "ganancia": 1867.768270238096,
-      "saldoFavor": 0
+      "saldoFavor": 14.86
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1198.8899999999999,
-      "ganancia": 2377.5283702380943,
+      "adeudo": 1212.55,
+      "ganancia": 2382.084798809523,
       "saldoFavor": 0
     },
     {
@@ -45,7 +45,7 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 718.29,
+      "adeudo": 218.28999999999996,
       "ganancia": 1105.3884623015879,
       "saldoFavor": 0
     },
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1093.0299999999997,
-      "ganancia": 1121.9213107142882,
+      "adeudo": 1109.2799999999997,
+      "ganancia": 1127.337977380955,
       "saldoFavor": 0
     },
     {
@@ -3322,6 +3322,20 @@
         "costoTotal": 64,
         "fecha": "2/5/2025, 5:53:43 p.m.",
         "ganancia": 21.250000000000004
+      },
+      {
+        "producto": "Tin larin",
+        "piezas": 1,
+        "costoTotal": 10.65,
+        "fecha": "5/5/2025, 8:56:38 a.m.",
+        "ganancia": 3.5500000000000007
+      },
+      {
+        "producto": "Mamut",
+        "piezas": 1,
+        "costoTotal": 3.01,
+        "fecha": "5/5/2025, 8:56:38 a.m.",
+        "ganancia": 1.0064285714285712
       }
     ],
     "Edgar": [
@@ -15387,6 +15401,13 @@
         "costoTotal": 5.27,
         "fecha": "2/5/2025, 12:35:11 p.m.",
         "ganancia": 1.7549999999999994
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.25,
+        "fecha": "5/5/2025, 8:56:53 a.m.",
+        "ganancia": 5.416666666666666
       }
     ],
     "Vicente": [
@@ -16074,23 +16095,18 @@
       "descripcion": "Kinder delice",
       "precioCompra": 10.83,
       "precioVenta": 16.25,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 10.833333333333334
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501059242913",
       "descripcion": "Tin larin",
       "precioCompra": 7.1,
       "precioVenta": 10.65,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 7.1
         }
       ]
@@ -16202,13 +16218,8 @@
       "descripcion": "Mamut",
       "precioCompra": 2,
       "precioVenta": 3.01,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 2.0035714285714286
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7622210833662",
@@ -17948,6 +17959,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 29316.820000000003,
-  "inversionRecuperada": 27406.920009523736,
-  "gananciasTotales": 13713.149990476282
+  "inversionRecuperada": 27426.85691428564,
+  "gananciasTotales": 13723.123085714376
 }
