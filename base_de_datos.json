@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1228.36,
-      "ganancia": 2388.170979365078,
+      "adeudo": 1316.11,
+      "ganancia": 2417.340979365078,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 407.28000000000003,
-      "ganancia": 1214.570507936508,
+      "adeudo": 471.28000000000003,
+      "ganancia": 1235.820507936508,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 793.0899999999996,
-      "ganancia": 2366.9030325396748,
+      "adeudo": 842.0899999999996,
+      "ganancia": 2383.220532539675,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1144.1599999999999,
-      "ganancia": 1139.7891579365107,
+      "adeudo": 1155.7199999999998,
+      "ganancia": 1143.6359579365107,
       "saldoFavor": 0
     },
     {
@@ -3343,6 +3343,20 @@
         "costoTotal": 15.809999999999999,
         "fecha": "5/5/2025, 2:07:18 p.m.",
         "ganancia": 5.264999999999999
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 64,
+        "fecha": "5/5/2025, 5:49:48 p.m.",
+        "ganancia": 21.250000000000004
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 23.75,
+        "fecha": "5/5/2025, 5:50:38 p.m.",
+        "ganancia": 7.92
       }
     ],
     "Edgar": [
@@ -10019,6 +10033,13 @@
         "costoTotal": 19.63,
         "fecha": "5/5/2025, 1:34:11 p.m.",
         "ganancia": 6.546666666666665
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 64,
+        "fecha": "5/5/2025, 4:32:47 p.m.",
+        "ganancia": 21.250000000000004
       }
     ],
     "Laura": [
@@ -13817,6 +13838,34 @@
         "costoTotal": 19.63,
         "fecha": "5/5/2025, 2:55:50 p.m.",
         "ganancia": 6.546666666666665
+      },
+      {
+        "producto": "Llave citas de chile",
+        "piezas": 5,
+        "costoTotal": 11.7,
+        "fecha": "5/5/2025, 4:03:50 p.m.",
+        "ganancia": 3.899999999999999
+      },
+      {
+        "producto": "Godu pop chile",
+        "piezas": 2,
+        "costoTotal": 5.84,
+        "fecha": "5/5/2025, 4:03:50 p.m.",
+        "ganancia": 1.94
+      },
+      {
+        "producto": "Gatorade Azul",
+        "piezas": 1,
+        "costoTotal": 25.62,
+        "fecha": "5/5/2025, 5:50:27 p.m.",
+        "ganancia": 8.537500000000001
+      },
+      {
+        "producto": "Godu pop chile",
+        "piezas": 2,
+        "costoTotal": 5.84,
+        "fecha": "5/5/2025, 5:50:27 p.m.",
+        "ganancia": 1.94
       }
     ],
     "Rafael": [
@@ -15499,6 +15548,20 @@
         "costoTotal": 34.88,
         "fecha": "5/5/2025, 1:34:49 p.m.",
         "ganancia": 11.630000000000003
+      },
+      {
+        "producto": "Shots",
+        "piezas": 2,
+        "costoTotal": 5.12,
+        "fecha": "5/5/2025, 5:53:05 p.m.",
+        "ganancia": 1.7000000000000002
+      },
+      {
+        "producto": "Encendedor",
+        "piezas": 1,
+        "costoTotal": 6.44,
+        "fecha": "5/5/2025, 5:53:05 p.m.",
+        "ganancia": 2.1468000000000007
       }
     ],
     "Vicente": [
@@ -15864,10 +15927,10 @@
       "descripcion": "Encendedor",
       "precioCompra": 4.29,
       "precioVenta": 6.44,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 4.2932
         }
       ]
@@ -16219,10 +16282,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 96,
+      "piezas": 44,
       "stockParciales": [
         {
-          "cantidad": 96,
+          "cantidad": 44,
           "costoUnitario": 1.71
         }
       ]
@@ -16310,10 +16373,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 15.83,
       "precioVenta": 23.75,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 15.83
         }
       ]
@@ -16323,10 +16386,10 @@
       "descripcion": "Gatorade Azul",
       "precioCompra": 17.08,
       "precioVenta": 25.62,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 17.0825
         }
       ]
@@ -16544,10 +16607,10 @@
       "descripcion": "Llave citas de chile",
       "precioCompra": 1.56,
       "precioVenta": 2.34,
-      "piezas": 50,
+      "piezas": 45,
       "stockParciales": [
         {
-          "cantidad": 50,
+          "cantidad": 45,
           "costoUnitario": 1.56
         }
       ]
@@ -16570,10 +16633,10 @@
       "descripcion": "Godu pop chile",
       "precioCompra": 1.95,
       "precioVenta": 2.92,
-      "piezas": 40,
+      "piezas": 36,
       "stockParciales": [
         {
-          "cantidad": 40,
+          "cantidad": 36,
           "costoUnitario": 1.95
         }
       ]
@@ -18456,6 +18519,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 33992.70000000001,
-  "inversionRecuperada": 27665.80141428563,
-  "gananciasTotales": 13842.638585714376
+  "inversionRecuperada": 27807.527114285633,
+  "gananciasTotales": 13913.222885714378
 }
