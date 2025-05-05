@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1437.2,
-      "ganancia": 1448.6455757936503,
+      "adeudo": 1442.47,
+      "ganancia": 1450.4005757936504,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 707.6399999999996,
-      "ganancia": 2337.590518650786,
+      "adeudo": 712.9099999999996,
+      "ganancia": 2339.3455186507863,
       "saldoFavor": 0
     },
     {
@@ -80,7 +80,7 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 19.69,
+      "adeudo": 0,
       "ganancia": 189.5430059523809,
       "saldoFavor": 0
     },
@@ -7467,6 +7467,13 @@
         "costoTotal": 5.27,
         "fecha": "2/5/2025, 12:35:17 p.m.",
         "ganancia": 1.7549999999999994
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.27,
+        "fecha": "5/5/2025, 8:46:13 a.m.",
+        "ganancia": 1.7549999999999994
       }
     ],
     "Isrrael": [
@@ -13705,6 +13712,13 @@
         "costoTotal": 2.02,
         "fecha": "2/5/2025, 12:02:20 p.m.",
         "ganancia": 0.6799999999999999
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.27,
+        "fecha": "5/5/2025, 8:46:24 a.m.",
+        "ganancia": 1.7549999999999994
       }
     ],
     "Rafael": [
@@ -15966,10 +15980,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.52,
       "precioVenta": 5.27,
-      "piezas": 82,
+      "piezas": 80,
       "stockParciales": [
         {
-          "cantidad": 82,
+          "cantidad": 80,
           "costoUnitario": 3.515
         }
       ]
@@ -17934,6 +17948,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 29316.820000000003,
-  "inversionRecuperada": 27399.890009523737,
-  "gananciasTotales": 13709.639990476284
+  "inversionRecuperada": 27406.920009523736,
+  "gananciasTotales": 13713.149990476282
 }
