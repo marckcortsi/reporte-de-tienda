@@ -3,22 +3,22 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 278.03,
-      "ganancia": 1966.1111174603182,
+      "adeudo": 310.15999999999997,
+      "ganancia": 1976.8227841269847,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1422.77,
-      "ganancia": 2526.161931746031,
+      "adeudo": 1443.02,
+      "ganancia": 2532.9181222222214,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 815.3599999999999,
-      "ganancia": 760.9450912698417,
+      "adeudo": 861.4099999999999,
+      "ganancia": 776.2963412698416,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 574.4100000000001,
-      "ganancia": 1270.1673079365078,
+      "adeudo": 590.9100000000001,
+      "ganancia": 1275.6673079365078,
       "saldoFavor": 0
     },
     {
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1221.8799999999999,
-      "ganancia": 1165.684291269844,
+      "adeudo": 1240.6299999999999,
+      "ganancia": 1171.934291269844,
       "saldoFavor": 0
     },
     {
@@ -1150,6 +1150,20 @@
         "costoTotal": 111.19999999999999,
         "fecha": "7/5/2025, 6:05:38 p.m.",
         "ganancia": 37.01
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 17.9,
+        "fecha": "8/5/2025, 8:21:15 a.m.",
+        "ganancia": 5.968333333333332
+      },
+      {
+        "producto": "Nito",
+        "piezas": 1,
+        "costoTotal": 14.23,
+        "fecha": "8/5/2025, 8:21:15 a.m.",
+        "ganancia": 4.743333333333332
       }
     ],
     "Carlos": [
@@ -3490,6 +3504,20 @@
         "costoTotal": 23.75,
         "fecha": "7/5/2025, 6:03:44 p.m.",
         "ganancia": 7.92
+      },
+      {
+        "producto": "Mini mamut",
+        "piezas": 2,
+        "costoTotal": 6.02,
+        "fecha": "8/5/2025, 8:22:12 a.m.",
+        "ganancia": 2.0128571428571425
+      },
+      {
+        "producto": "Nito",
+        "piezas": 1,
+        "costoTotal": 14.23,
+        "fecha": "8/5/2025, 8:22:12 a.m.",
+        "ganancia": 4.743333333333332
       }
     ],
     "Edgar": [
@@ -4451,6 +4479,20 @@
         "costoTotal": 19.63,
         "fecha": "7/5/2025, 12:40:04 p.m.",
         "ganancia": 6.546666666666665
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 22.3,
+        "fecha": "8/5/2025, 8:22:24 a.m.",
+        "ganancia": 7.43125
+      },
+      {
+        "producto": "Arizona de mango",
+        "piezas": 1,
+        "costoTotal": 23.75,
+        "fecha": "8/5/2025, 8:22:24 a.m.",
+        "ganancia": 7.92
       }
     ],
     "Francisco": [
@@ -10369,6 +10411,13 @@
         "costoTotal": 14.6,
         "fecha": "7/5/2025, 5:51:28 p.m.",
         "ganancia": 4.85
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "8/5/2025, 8:21:27 a.m.",
+        "ganancia": 5.5
       }
     ],
     "Laura": [
@@ -16073,6 +16122,13 @@
         "costoTotal": 3.55,
         "fecha": "7/5/2025, 5:52:44 p.m.",
         "ganancia": 1.1749999999999998
+      },
+      {
+        "producto": "Yogurt galleta",
+        "piezas": 1,
+        "costoTotal": 18.75,
+        "fecha": "8/5/2025, 8:17:07 a.m.",
+        "ganancia": 6.25
       }
     ],
     "Vicente": [
@@ -16862,10 +16918,10 @@
       "descripcion": "Arizona de mango",
       "precioCompra": 15.83,
       "precioVenta": 23.75,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 15.83
         }
       ]
@@ -16940,10 +16996,10 @@
       "descripcion": "Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 11
         }
       ]
@@ -16953,10 +17009,10 @@
       "descripcion": "Emperador senzo",
       "precioCompra": 14.87,
       "precioVenta": 22.3,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 14.86875
         }
       ]
@@ -16966,10 +17022,10 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 11.93,
       "precioVenta": 17.9,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 11.931666666666667
         }
       ]
@@ -16979,10 +17035,10 @@
       "descripcion": "Mini mamut",
       "precioCompra": 2,
       "precioVenta": 3.01,
-      "piezas": 25,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 25,
+          "cantidad": 23,
           "costoUnitario": 2.0035714285714286
         }
       ]
@@ -16992,10 +17048,10 @@
       "descripcion": "Nito",
       "precioCompra": 9.49,
       "precioVenta": 14.23,
-      "piezas": 8,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 6,
           "costoUnitario": 9.486666666666668
         }
       ]
@@ -17078,13 +17134,8 @@
       "descripcion": "Yogurt galleta",
       "precioCompra": 12.5,
       "precioVenta": 18.75,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.5
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "757501032398583",
@@ -19024,6 +19075,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 33992.70000000001,
-  "inversionRecuperada": 28867.45043333327,
-  "gananciasTotales": 14442.869566666768
+  "inversionRecuperada": 28956.56132619042,
+  "gananciasTotales": 14487.438673809627
 }
