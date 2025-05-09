@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 310.15999999999997,
-      "ganancia": 1976.8227841269847,
+      "adeudo": 361.40999999999997,
+      "ganancia": 1993.906117460318,
       "saldoFavor": 0
     },
     {
@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 861.4099999999999,
-      "ganancia": 776.2963412698416,
+      "adeudo": 866.0899999999998,
+      "ganancia": 777.8563412698416,
       "saldoFavor": 0
     },
     {
@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1179.2199999999998,
-      "ganancia": 778.4772738095237,
+      "adeudo": 881.3399999999997,
+      "ganancia": 779.1822738095237,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1623.68,
-      "ganancia": 1511.612173015873,
+      "adeudo": 1632.5,
+      "ganancia": 1514.542173015873,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 600.9100000000001,
-      "ganancia": 1279.000641269841,
+      "adeudo": 635.7900000000001,
+      "ganancia": 1290.6306412698411,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 1102.6399999999996,
-      "ganancia": 2470.056127777771,
+      "adeudo": 851.5299999999995,
+      "ganancia": 2486.3544611111042,
       "saldoFavor": 0
     },
     {
@@ -1164,6 +1164,13 @@
         "costoTotal": 14.23,
         "fecha": "8/5/2025, 8:21:15 a.m.",
         "ganancia": 4.743333333333332
+      },
+      {
+        "producto": "Coca 3L",
+        "piezas": 1,
+        "costoTotal": 51.25,
+        "fecha": "9/5/2025, 8:27:07 a.m.",
+        "ganancia": 17.083333333333336
       }
     ],
     "Carlos": [
@@ -4500,6 +4507,13 @@
         "costoTotal": 23.75,
         "fecha": "8/5/2025, 8:22:24 a.m.",
         "ganancia": 7.92
+      },
+      {
+        "producto": "Llave citas de chile",
+        "piezas": 2,
+        "costoTotal": 4.68,
+        "fecha": "8/5/2025, 2:32:34 p.m.",
+        "ganancia": 1.5599999999999996
       }
     ],
     "Francisco": [
@@ -5862,6 +5876,13 @@
         "costoTotal": 10,
         "fecha": "8/5/2025, 10:52:50 a.m.",
         "ganancia": 3.333333333333333
+      },
+      {
+        "producto": "Sandibrocha",
+        "piezas": 1,
+        "costoTotal": 2.12,
+        "fecha": "8/5/2025, 4:32:40 p.m.",
+        "ganancia": 0.7050000000000001
       }
     ],
     "Isac": [
@@ -7866,6 +7887,20 @@
         "costoTotal": 2.56,
         "fecha": "8/5/2025, 12:45:18 p.m.",
         "ganancia": 0.8500000000000001
+      },
+      {
+        "producto": "Winis",
+        "piezas": 5,
+        "costoTotal": 3.55,
+        "fecha": "8/5/2025, 2:33:11 p.m.",
+        "ganancia": 1.1749999999999998
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 1,
+        "costoTotal": 5.27,
+        "fecha": "8/5/2025, 2:33:11 p.m.",
+        "ganancia": 1.7549999999999994
       }
     ],
     "Isrrael": [
@@ -10488,6 +10523,13 @@
         "costoTotal": 10,
         "fecha": "8/5/2025, 10:53:04 a.m.",
         "ganancia": 3.333333333333333
+      },
+      {
+        "producto": "Peñafiel Naranja",
+        "piezas": 1,
+        "costoTotal": 34.88,
+        "fecha": "9/5/2025, 8:27:20 a.m.",
+        "ganancia": 11.630000000000003
       }
     ],
     "Laura": [
@@ -14475,6 +14517,41 @@
         "costoTotal": 25.62,
         "fecha": "8/5/2025, 10:08:03 a.m.",
         "ganancia": 8.537500000000001
+      },
+      {
+        "producto": "Maruchan habanero",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "8/5/2025, 2:35:36 p.m.",
+        "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.63,
+        "fecha": "8/5/2025, 2:35:36 p.m.",
+        "ganancia": 6.546666666666665
+      },
+      {
+        "producto": "Godu pop chile",
+        "piezas": 1,
+        "costoTotal": 2.92,
+        "fecha": "8/5/2025, 4:33:02 p.m.",
+        "ganancia": 0.97
+      },
+      {
+        "producto": "Llave citas de chile",
+        "piezas": 1,
+        "costoTotal": 2.34,
+        "fecha": "8/5/2025, 4:33:02 p.m.",
+        "ganancia": 0.7799999999999998
+      },
+      {
+        "producto": "Sandibrocha",
+        "piezas": 1,
+        "costoTotal": 2.12,
+        "fecha": "8/5/2025, 4:35:51 p.m.",
+        "ganancia": 0.7050000000000001
       }
     ],
     "Rafael": [
@@ -16787,10 +16864,10 @@
       "descripcion": "Sandibrocha",
       "precioCompra": 1.42,
       "precioVenta": 2.12,
-      "piezas": 16,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 14,
           "costoUnitario": 1.415
         }
       ]
@@ -16800,10 +16877,10 @@
       "descripcion": "Winis",
       "precioCompra": 0.47,
       "precioVenta": 0.71,
-      "piezas": 72,
+      "piezas": 67,
       "stockParciales": [
         {
-          "cantidad": 72,
+          "cantidad": 67,
           "costoUnitario": 0.475
         }
       ]
@@ -16813,10 +16890,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.52,
       "precioVenta": 5.27,
-      "piezas": 67,
+      "piezas": 66,
       "stockParciales": [
         {
-          "cantidad": 67,
+          "cantidad": 66,
           "costoUnitario": 3.515
         }
       ]
@@ -16964,10 +17041,10 @@
       "descripcion": "Peñafiel Naranja",
       "precioCompra": 23.25,
       "precioVenta": 34.88,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 23.25
         }
       ]
@@ -17003,10 +17080,10 @@
       "descripcion": "Coca 3L",
       "precioCompra": 34.17,
       "precioVenta": 51.25,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 34.166666666666664
         }
       ]
@@ -17167,10 +17244,10 @@
       "descripcion": "Maruchan habanero",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -17193,10 +17270,10 @@
       "descripcion": "Doritos",
       "precioCompra": 13.08,
       "precioVenta": 19.63,
-      "piezas": 23,
+      "piezas": 22,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 22,
           "costoUnitario": 13.083333333333334
         }
       ]
@@ -17256,10 +17333,10 @@
       "descripcion": "Llave citas de chile",
       "precioCompra": 1.56,
       "precioVenta": 2.34,
-      "piezas": 45,
+      "piezas": 42,
       "stockParciales": [
         {
-          "cantidad": 45,
+          "cantidad": 42,
           "costoUnitario": 1.56
         }
       ]
@@ -17282,10 +17359,10 @@
       "descripcion": "Godu pop chile",
       "precioCompra": 1.95,
       "precioVenta": 2.92,
-      "piezas": 28,
+      "piezas": 27,
       "stockParciales": [
         {
-          "cantidad": 28,
+          "cantidad": 27,
           "costoUnitario": 1.95
         }
       ]
@@ -19168,6 +19245,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 33992.70000000001,
-  "inversionRecuperada": 29085.51674285709,
-  "gananciasTotales": 14551.893257142961
+  "inversionRecuperada": 29185.950076190424,
+  "gananciasTotales": 14602.099923809626
 }
