@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1220.08,
-      "ganancia": 2625.266931746031,
+      "adeudo": 1230.08,
+      "ganancia": 2628.6002650793644,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1275.2600000000002,
-      "ganancia": 1545.462173015873,
+      "adeudo": 1348.3900000000003,
+      "ganancia": 1569.842173015873,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 423.75000000000006,
-      "ganancia": 1319.9498079365078,
+      "adeudo": 433.01000000000005,
+      "ganancia": 1323.0358079365078,
       "saldoFavor": 0
     },
     {
@@ -73,15 +73,15 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 924.0099999999998,
-      "ganancia": 1216.400124603177,
+      "adeudo": 958.8899999999998,
+      "ganancia": 1228.030124603177,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 110.72,
-      "ganancia": 227.2775198412698,
+      "adeudo": 130.41,
+      "ganancia": 233.8425198412698,
       "saldoFavor": 0
     },
     {
@@ -3657,6 +3657,13 @@
         "piezas": 1,
         "costoTotal": 10,
         "fecha": "12/5/2025, 8:48:19 a.m.",
+        "ganancia": 3.333333333333333
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 10,
+        "fecha": "12/5/2025, 2:07:42 p.m.",
         "ganancia": 3.333333333333333
       }
     ],
@@ -8111,6 +8118,20 @@
         "costoTotal": 5.27,
         "fecha": "12/5/2025, 11:49:42 a.m.",
         "ganancia": 1.7549999999999994
+      },
+      {
+        "producto": "Coca 3L",
+        "piezas": 1,
+        "costoTotal": 51.25,
+        "fecha": "12/5/2025, 1:36:54 p.m.",
+        "ganancia": 17.083333333333336
+      },
+      {
+        "producto": "Maruchan habanero",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "12/5/2025, 2:10:20 p.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Isrrael": [
@@ -10810,6 +10831,13 @@
         "costoTotal": 5.27,
         "fecha": "9/5/2025, 4:53:43 p.m.",
         "ganancia": 1.7549999999999994
+      },
+      {
+        "producto": "Top-tops",
+        "piezas": 1,
+        "costoTotal": 9.26,
+        "fecha": "12/5/2025, 12:37:36 p.m.",
+        "ganancia": 3.0859999999999994
       }
     ],
     "Laura": [
@@ -16717,6 +16745,13 @@
         "costoTotal": 10,
         "fecha": "12/5/2025, 11:02:29 a.m.",
         "ganancia": 3.333333333333333
+      },
+      {
+        "producto": "Peñafiel Naranja",
+        "piezas": 1,
+        "costoTotal": 34.88,
+        "fecha": "12/5/2025, 1:36:40 p.m.",
+        "ganancia": 11.630000000000003
       }
     ],
     "Vicente": [
@@ -16977,6 +17012,13 @@
         "piezas": 1,
         "costoTotal": 19.69,
         "fecha": "9/5/2025, 3:51:14 p.m.",
+        "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Coca de vidrio",
+        "piezas": 1,
+        "costoTotal": 19.69,
+        "fecha": "12/5/2025, 2:12:05 p.m.",
         "ganancia": 6.565000000000001
       }
     ],
@@ -17472,10 +17514,10 @@
       "descripcion": "Peñafiel Naranja",
       "precioCompra": 23.25,
       "precioVenta": 34.88,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 23.25
         }
       ]
@@ -17498,10 +17540,10 @@
       "descripcion": "Coca de vidrio",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 21,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 20,
           "costoUnitario": 13.125
         }
       ]
@@ -17511,10 +17553,10 @@
       "descripcion": "Coca 3L",
       "precioCompra": 34.17,
       "precioVenta": 51.25,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 34.166666666666664
         }
       ]
@@ -17665,10 +17707,10 @@
       "descripcion": "Maruchan habanero",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -17678,10 +17720,10 @@
       "descripcion": "Top-tops",
       "precioCompra": 6.17,
       "precioVenta": 9.26,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 6.174
         }
       ]
@@ -17704,10 +17746,10 @@
       "descripcion": "Bonice",
       "precioCompra": 6.67,
       "precioVenta": 10,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 6.666666666666667
         }
       ]
@@ -19678,6 +19720,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 34292.70000000001,
-  "inversionRecuperada": 29877.340992857105,
-  "gananciasTotales": 14947.809007142969
+  "inversionRecuperada": 29975.306659523772,
+  "gananciasTotales": 14996.803340476303
 }
