@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 565.54,
-      "ganancia": 2070.195284126985,
+      "adeudo": 567.66,
+      "ganancia": 2070.900284126985,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1494.5300000000002,
-      "ganancia": 1620.8192563492064,
+      "adeudo": 1504.2200000000003,
+      "ganancia": 1624.050923015873,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 479.37000000000006,
-      "ganancia": 1340.7699746031744,
+      "adeudo": 481.93000000000006,
+      "ganancia": 1341.6199746031743,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 1050.0199999999995,
-      "ganancia": 2554.5912944444376,
+      "adeudo": 1071.8999999999996,
+      "ganancia": 2561.8879611111042,
       "saldoFavor": 0
     },
     {
@@ -80,8 +80,8 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 174.04,
-      "ganancia": 250.66668650793642,
+      "adeudo": 193.73,
+      "ganancia": 257.23168650793644,
       "saldoFavor": 0
     },
     {
@@ -1220,6 +1220,13 @@
         "costoTotal": 112.8,
         "fecha": "13/5/2025, 5:09:06 p.m.",
         "ganancia": 37.599999999999994
+      },
+      {
+        "producto": "Sandibrocha",
+        "piezas": 1,
+        "costoTotal": 2.12,
+        "fecha": "14/5/2025, 2:28:34 p.m.",
+        "ganancia": 0.7050000000000001
       }
     ],
     "Carlos": [
@@ -8349,6 +8356,13 @@
         "costoTotal": 10.54,
         "fecha": "14/5/2025, 10:50:20 a.m.",
         "ganancia": 3.509999999999999
+      },
+      {
+        "producto": "Chocolate kinder",
+        "piezas": 1,
+        "costoTotal": 9.69,
+        "fecha": "14/5/2025, 2:10:07 p.m.",
+        "ganancia": 3.2316666666666665
       }
     ],
     "Isrrael": [
@@ -11104,6 +11118,13 @@
         "costoTotal": 19.38,
         "fecha": "14/5/2025, 8:19:11 a.m.",
         "ganancia": 6.463333333333333
+      },
+      {
+        "producto": "Shot",
+        "piezas": 1,
+        "costoTotal": 2.56,
+        "fecha": "14/5/2025, 1:57:21 p.m.",
+        "ganancia": 0.8500000000000001
       }
     ],
     "Laura": [
@@ -15308,6 +15329,13 @@
         "costoTotal": 2.92,
         "fecha": "14/5/2025, 10:26:38 a.m.",
         "ganancia": 0.97
+      },
+      {
+        "producto": "Maruchan habanero",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "14/5/2025, 2:46:07 p.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Rafael": [
@@ -17447,6 +17475,13 @@
         "costoTotal": 4.25,
         "fecha": "14/5/2025, 12:46:24 p.m.",
         "ganancia": 1.4166666666666665
+      },
+      {
+        "producto": "Coca de vidrio",
+        "piezas": 1,
+        "costoTotal": 19.69,
+        "fecha": "14/5/2025, 3:09:43 p.m.",
+        "ganancia": 6.565000000000001
       }
     ],
     "Externo": [
@@ -17763,10 +17798,10 @@
       "descripcion": "Sandibrocha",
       "precioCompra": 1.42,
       "precioVenta": 2.12,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 1.415
         }
       ]
@@ -17919,10 +17954,10 @@
       "descripcion": "Coca de vidrio",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 13.125
         }
       ]
@@ -18023,10 +18058,10 @@
       "descripcion": "Maruchan habanero",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -18062,10 +18097,10 @@
       "descripcion": "Chocolate kinder",
       "precioCompra": 6.46,
       "precioVenta": 9.69,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 6.458333333333333
         }
       ]
@@ -18192,10 +18227,10 @@
       "descripcion": "Shot",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 173,
+      "piezas": 172,
       "stockParciales": [
         {
-          "cantidad": 173,
+          "cantidad": 172,
           "costoUnitario": 1.71
         }
       ]
@@ -20037,6 +20072,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 35010.70000000001,
-  "inversionRecuperada": 30812.7991785714,
-  "gananciasTotales": 15415.130821428687
+  "inversionRecuperada": 30850.090845238065,
+  "gananciasTotales": 15433.779154762022
 }
