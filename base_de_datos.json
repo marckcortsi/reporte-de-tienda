@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 567.66,
-      "ganancia": 2070.900284126985,
+      "adeudo": 602.54,
+      "ganancia": 2082.530284126985,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1555.3,
-      "ganancia": 2739.2099674603164,
+      "adeudo": 1593.31,
+      "ganancia": 2751.8857412698403,
       "saldoFavor": 0
     },
     {
@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 977.2199999999996,
-      "ganancia": 813.4130357142855,
+      "adeudo": 1001.6399999999995,
+      "ganancia": 821.5492857142855,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1504.2200000000003,
-      "ganancia": 1624.050923015873,
+      "adeudo": 1537.0600000000002,
+      "ganancia": 1634.992173015873,
       "saldoFavor": 0
     },
     {
@@ -52,22 +52,22 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 481.93000000000006,
-      "ganancia": 1341.6199746031743,
+      "adeudo": 552.8700000000001,
+      "ganancia": 1365.2683079365077,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 207.82,
+      "adeudo": 0,
       "ganancia": 244.0167460317461,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 1071.8999999999996,
-      "ganancia": 2561.8879611111042,
+      "adeudo": 1096.7899999999997,
+      "ganancia": 2570.184627777771,
       "saldoFavor": 0
     },
     {
@@ -1227,6 +1227,13 @@
         "costoTotal": 2.12,
         "fecha": "14/5/2025, 2:28:34 p.m.",
         "ganancia": 0.7050000000000001
+      },
+      {
+        "producto": "Peñafiel Naranja",
+        "piezas": 1,
+        "costoTotal": 34.88,
+        "fecha": "15/5/2025, 10:07:41 a.m.",
+        "ganancia": 11.630000000000003
       }
     ],
     "Carlos": [
@@ -3784,6 +3791,27 @@
         "costoTotal": 17.14,
         "fecha": "14/5/2025, 8:52:17 a.m.",
         "ganancia": 5.711428571428572
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 22.3,
+        "fecha": "15/5/2025, 10:06:48 a.m.",
+        "ganancia": 7.43125
+      },
+      {
+        "producto": "Mini mamut",
+        "piezas": 2,
+        "costoTotal": 6.02,
+        "fecha": "15/5/2025, 10:06:48 a.m.",
+        "ganancia": 2.0128571428571425
+      },
+      {
+        "producto": "Chocolate kinder",
+        "piezas": 1,
+        "costoTotal": 9.69,
+        "fecha": "15/5/2025, 10:06:48 a.m.",
+        "ganancia": 3.2316666666666665
       }
     ],
     "Edgar": [
@@ -6247,6 +6275,20 @@
         "costoTotal": 22.3,
         "fecha": "14/5/2025, 8:52:29 a.m.",
         "ganancia": 7.43125
+      },
+      {
+        "producto": "Sandibrocha",
+        "piezas": 1,
+        "costoTotal": 2.12,
+        "fecha": "15/5/2025, 9:36:05 a.m.",
+        "ganancia": 0.7050000000000001
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 22.3,
+        "fecha": "15/5/2025, 9:36:52 a.m.",
+        "ganancia": 7.43125
       }
     ],
     "Isac": [
@@ -8363,6 +8405,20 @@
         "costoTotal": 9.69,
         "fecha": "14/5/2025, 2:10:07 p.m.",
         "ganancia": 3.2316666666666665
+      },
+      {
+        "producto": "Pall Mall",
+        "piezas": 2,
+        "costoTotal": 10.54,
+        "fecha": "15/5/2025, 9:36:32 a.m.",
+        "ganancia": 3.509999999999999
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 22.3,
+        "fecha": "15/5/2025, 9:48:47 a.m.",
+        "ganancia": 7.43125
       }
     ],
     "Isrrael": [
@@ -11125,6 +11181,20 @@
         "costoTotal": 2.56,
         "fecha": "14/5/2025, 1:57:21 p.m.",
         "ganancia": 0.8500000000000001
+      },
+      {
+        "producto": "Coca de vidrio",
+        "piezas": 1,
+        "costoTotal": 19.69,
+        "fecha": "15/5/2025, 10:07:03 a.m.",
+        "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Coca 3L",
+        "piezas": 1,
+        "costoTotal": 51.25,
+        "fecha": "15/5/2025, 10:07:30 a.m.",
+        "ganancia": 17.083333333333336
       }
     ],
     "Laura": [
@@ -15336,6 +15406,27 @@
         "costoTotal": 21.88,
         "fecha": "14/5/2025, 2:46:07 p.m.",
         "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Llave citas de chile",
+        "piezas": 1,
+        "costoTotal": 2.34,
+        "fecha": "14/5/2025, 4:27:34 p.m.",
+        "ganancia": 0.7799999999999998
+      },
+      {
+        "producto": "Godu pop chile",
+        "piezas": 1,
+        "costoTotal": 2.92,
+        "fecha": "14/5/2025, 4:27:34 p.m.",
+        "ganancia": 0.97
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.63,
+        "fecha": "15/5/2025, 10:08:13 a.m.",
+        "ganancia": 6.546666666666665
       }
     ],
     "Rafael": [
@@ -17798,10 +17889,10 @@
       "descripcion": "Sandibrocha",
       "precioCompra": 1.42,
       "precioVenta": 2.12,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 1.415
         }
       ]
@@ -17824,10 +17915,10 @@
       "descripcion": "Pall Mall",
       "precioCompra": 3.52,
       "precioVenta": 5.27,
-      "piezas": 32,
+      "piezas": 30,
       "stockParciales": [
         {
-          "cantidad": 32,
+          "cantidad": 30,
           "costoUnitario": 3.515
         }
       ]
@@ -17928,10 +18019,10 @@
       "descripcion": "Peñafiel Naranja",
       "precioCompra": 23.25,
       "precioVenta": 34.88,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 23.25
         }
       ]
@@ -17954,10 +18045,10 @@
       "descripcion": "Coca de vidrio",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 13.125
         }
       ]
@@ -17967,10 +18058,10 @@
       "descripcion": "Coca 3L",
       "precioCompra": 34.17,
       "precioVenta": 51.25,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 34.166666666666664
         }
       ]
@@ -18006,10 +18097,10 @@
       "descripcion": "Emperador senzo",
       "precioCompra": 14.87,
       "precioVenta": 22.3,
-      "piezas": 7,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 4,
           "costoUnitario": 14.86875
         }
       ]
@@ -18032,10 +18123,10 @@
       "descripcion": "Mini mamut",
       "precioCompra": 2,
       "precioVenta": 3.01,
-      "piezas": 15,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 13,
           "costoUnitario": 2.0035714285714286
         }
       ]
@@ -18084,10 +18175,10 @@
       "descripcion": "Doritos",
       "precioCompra": 13.08,
       "precioVenta": 19.63,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 16,
           "costoUnitario": 13.083333333333334
         }
       ]
@@ -18097,10 +18188,10 @@
       "descripcion": "Chocolate kinder",
       "precioCompra": 6.46,
       "precioVenta": 9.69,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 6.458333333333333
         }
       ]
@@ -18110,10 +18201,10 @@
       "descripcion": "Llave citas de chile",
       "precioCompra": 1.56,
       "precioVenta": 2.34,
-      "piezas": 31,
+      "piezas": 30,
       "stockParciales": [
         {
-          "cantidad": 31,
+          "cantidad": 30,
           "costoUnitario": 1.56
         }
       ]
@@ -18136,10 +18227,10 @@
       "descripcion": "Godu pop chile",
       "precioCompra": 1.95,
       "precioVenta": 2.92,
-      "piezas": 20,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 1.95
         }
       ]
@@ -20072,6 +20163,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 35010.70000000001,
-  "inversionRecuperada": 30850.090845238065,
-  "gananciasTotales": 15433.779154762022
+  "inversionRecuperada": 31000.742571428545,
+  "gananciasTotales": 15509.107428571546
 }
