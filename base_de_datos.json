@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 602.54,
-      "ganancia": 2082.530284126985,
+      "adeudo": 715.3399999999999,
+      "ganancia": 2120.130284126985,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1193.31,
-      "ganancia": 2751.8857412698403,
+      "adeudo": 1257.31,
+      "ganancia": 2773.1357412698403,
       "saldoFavor": 0
     },
     {
@@ -1234,6 +1234,13 @@
         "costoTotal": 34.88,
         "fecha": "15/5/2025, 10:07:41 a.m.",
         "ganancia": 11.630000000000003
+      },
+      {
+        "producto": "Marlboro",
+        "piezas": 20,
+        "costoTotal": 112.8,
+        "fecha": "15/5/2025, 3:26:11 p.m.",
+        "ganancia": 37.599999999999994
       }
     ],
     "Carlos": [
@@ -3812,6 +3819,13 @@
         "costoTotal": 9.69,
         "fecha": "15/5/2025, 10:06:48 a.m.",
         "ganancia": 3.2316666666666665
+      },
+      {
+        "producto": "Shot",
+        "piezas": 25,
+        "costoTotal": 64,
+        "fecha": "15/5/2025, 4:09:15 p.m.",
+        "ganancia": 21.250000000000004
       }
     ],
     "Edgar": [
@@ -18374,10 +18388,10 @@
       "descripcion": "Shot",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 169,
+      "piezas": 144,
       "stockParciales": [
         {
-          "cantidad": 169,
+          "cantidad": 144,
           "costoUnitario": 1.71
         }
       ]
@@ -18387,10 +18401,10 @@
       "descripcion": "Marlboro",
       "precioCompra": 3.76,
       "precioVenta": 5.64,
-      "piezas": 80,
+      "piezas": 60,
       "stockParciales": [
         {
-          "cantidad": 80,
+          "cantidad": 60,
           "costoUnitario": 3.76
         }
       ]
@@ -20219,6 +20233,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 35010.70000000001,
-  "inversionRecuperada": 31076.437238095208,
-  "gananciasTotales": 15546.952761904879
+  "inversionRecuperada": 31194.38723809521,
+  "gananciasTotales": 15605.802761904879
 }
