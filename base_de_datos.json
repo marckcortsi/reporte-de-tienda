@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 733.2399999999999,
-      "ganancia": 2126.098617460318,
+      "adeudo": 741.7199999999999,
+      "ganancia": 2128.9186174603183,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1289.8799999999999,
-      "ganancia": 2783.996515079364,
+      "adeudo": 1369.51,
+      "ganancia": 2810.4550865079354,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 575.0600000000001,
-      "ganancia": 1372.6649746031742,
+      "adeudo": 594.2600000000001,
+      "ganancia": 1379.0649746031743,
       "saldoFavor": 0
     },
     {
@@ -1248,6 +1248,13 @@
         "costoTotal": 17.9,
         "fecha": "16/5/2025, 12:44:10 p.m.",
         "ganancia": 5.968333333333332
+      },
+      {
+        "producto": "Sandibrocha",
+        "piezas": 4,
+        "costoTotal": 8.48,
+        "fecha": "16/5/2025, 3:22:15 p.m.",
+        "ganancia": 2.8200000000000003
       }
     ],
     "Carlos": [
@@ -3854,6 +3861,20 @@
         "costoTotal": 4.25,
         "fecha": "16/5/2025, 9:15:38 a.m.",
         "ganancia": 1.4166666666666665
+      },
+      {
+        "producto": "Shot",
+        "piezas": 25,
+        "costoTotal": 64,
+        "fecha": "16/5/2025, 3:18:46 p.m.",
+        "ganancia": 21.250000000000004
+      },
+      {
+        "producto": "Palomitas de Maiz",
+        "piezas": 1,
+        "costoTotal": 15.63,
+        "fecha": "16/5/2025, 3:22:24 p.m.",
+        "ganancia": 5.208571428571428
       }
     ],
     "Edgar": [
@@ -11307,6 +11328,13 @@
         "costoTotal": 2.56,
         "fecha": "15/5/2025, 4:20:04 p.m.",
         "ganancia": 0.8500000000000001
+      },
+      {
+        "producto": "Sol",
+        "piezas": 1,
+        "costoTotal": 19.2,
+        "fecha": "16/5/2025, 3:12:40 p.m.",
+        "ganancia": 6.4
       }
     ],
     "Laura": [
@@ -17909,10 +17937,10 @@
       "descripcion": "Palomitas de Maiz",
       "precioCompra": 10.42,
       "precioVenta": 15.63,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 10.421428571428573
         }
       ]
@@ -18078,10 +18106,10 @@
       "descripcion": "Sandibrocha",
       "precioCompra": 1.42,
       "precioVenta": 2.12,
-      "piezas": 10,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 6,
           "costoUnitario": 1.415
         }
       ]
@@ -18429,13 +18457,8 @@
       "descripcion": "Sol",
       "precioCompra": 12.8,
       "precioVenta": 19.2,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.799999999999999
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7503022458505",
@@ -18507,10 +18530,10 @@
       "descripcion": "Shot",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 143,
+      "piezas": 118,
       "stockParciales": [
         {
-          "cantidad": 143,
+          "cantidad": 118,
           "costoUnitario": 1.71
         }
       ]
@@ -20352,6 +20375,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 35010.70000000001,
-  "inversionRecuperada": 31360.94670238092,
-  "gananciasTotales": 15689.103297619167
+  "inversionRecuperada": 31432.578130952348,
+  "gananciasTotales": 15724.781869047738
 }
