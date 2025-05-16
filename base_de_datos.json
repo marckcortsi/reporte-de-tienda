@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1034.8999999999996,
-      "ganancia": 832.6369523809522,
+      "adeudo": 1054.5299999999997,
+      "ganancia": 839.1836190476188,
       "saldoFavor": 0
     },
     {
@@ -59,8 +59,8 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 16.5,
-      "ganancia": 249.5167460317461,
+      "adeudo": 39.95,
+      "ganancia": 257.33341269841276,
       "saldoFavor": 0
     },
     {
@@ -6366,6 +6366,13 @@
         "costoTotal": 21.88,
         "fecha": "16/5/2025, 2:20:08 p.m.",
         "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.63,
+        "fecha": "16/5/2025, 2:59:15 p.m.",
+        "ganancia": 6.546666666666665
       }
     ],
     "Isac": [
@@ -11610,6 +11617,20 @@
         "costoTotal": 16.5,
         "fecha": "16/5/2025, 10:35:21 a.m.",
         "ganancia": 5.5
+      },
+      {
+        "producto": "Sol",
+        "piezas": 1,
+        "costoTotal": 19.2,
+        "fecha": "16/5/2025, 3:11:22 p.m.",
+        "ganancia": 6.4
+      },
+      {
+        "producto": "Mazapan",
+        "piezas": 1,
+        "costoTotal": 4.25,
+        "fecha": "16/5/2025, 3:11:22 p.m.",
+        "ganancia": 1.4166666666666665
       }
     ],
     "Marcos": [
@@ -18031,10 +18052,10 @@
       "descripcion": "Mazapan",
       "precioCompra": 2.83,
       "precioVenta": 4.25,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 2.8333333333333335
         }
       ]
@@ -18343,10 +18364,10 @@
       "descripcion": "Doritos",
       "precioCompra": 13.08,
       "precioVenta": 19.63,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 13.083333333333334
         }
       ]
@@ -18408,10 +18429,10 @@
       "descripcion": "Sol",
       "precioCompra": 12.8,
       "precioVenta": 19.2,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.799999999999999
         }
       ]
@@ -20331,6 +20352,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 35010.70000000001,
-  "inversionRecuperada": 31332.230035714256,
-  "gananciasTotales": 15674.739964285835
+  "inversionRecuperada": 31360.94670238092,
+  "gananciasTotales": 15689.103297619167
 }
