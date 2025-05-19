@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 594.2600000000001,
-      "ganancia": 1379.0649746031743,
+      "adeudo": 619.1200000000001,
+      "ganancia": 1387.3462246031743,
       "saldoFavor": 0
     },
     {
@@ -11335,6 +11335,20 @@
         "costoTotal": 19.2,
         "fecha": "16/5/2025, 3:12:40 p.m.",
         "ganancia": 6.4
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 22.3,
+        "fecha": "19/5/2025, 8:09:44 a.m.",
+        "ganancia": 7.43125
+      },
+      {
+        "producto": "Shot",
+        "piezas": 1,
+        "costoTotal": 2.56,
+        "fecha": "19/5/2025, 8:09:44 a.m.",
+        "ganancia": 0.8500000000000001
       }
     ],
     "Laura": [
@@ -18314,10 +18328,10 @@
       "descripcion": "Emperador senzo",
       "precioCompra": 14.87,
       "precioVenta": 22.3,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 14.86875
         }
       ]
@@ -18530,10 +18544,10 @@
       "descripcion": "Shot",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 118,
+      "piezas": 117,
       "stockParciales": [
         {
-          "cantidad": 118,
+          "cantidad": 117,
           "costoUnitario": 1.71
         }
       ]
@@ -20375,6 +20389,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 35010.70000000001,
-  "inversionRecuperada": 31432.578130952348,
-  "gananciasTotales": 15724.781869047738
+  "inversionRecuperada": 31449.15688095235,
+  "gananciasTotales": 15733.063119047738
 }
