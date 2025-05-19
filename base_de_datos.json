@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1369.51,
-      "ganancia": 2810.4550865079354,
+      "adeudo": 1396.44,
+      "ganancia": 2819.4427055555543,
       "saldoFavor": 0
     },
     {
@@ -24,22 +24,22 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 274.93,
+      "adeudo": 0.9300000000000068,
       "ganancia": 467.9544174603173,
       "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1054.5299999999997,
-      "ganancia": 839.1836190476188,
+      "adeudo": 1071.0299999999997,
+      "ganancia": 844.6836190476188,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1546.3200000000002,
-      "ganancia": 1638.078173015873,
+      "adeudo": 1568.6200000000001,
+      "ganancia": 1645.5094230158732,
       "saldoFavor": 0
     },
     {
@@ -73,14 +73,14 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1112.25,
-      "ganancia": 1281.4310912698436,
+      "adeudo": 1130.15,
+      "ganancia": 1287.3994246031768,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 233.10999999999999,
+      "adeudo": 0,
       "ganancia": 270.36168650793644,
       "saldoFavor": 0
     },
@@ -3875,6 +3875,20 @@
         "costoTotal": 15.63,
         "fecha": "16/5/2025, 3:22:24 p.m.",
         "ganancia": 5.208571428571428
+      },
+      {
+        "producto": "Mini mamut",
+        "piezas": 3,
+        "costoTotal": 9.03,
+        "fecha": "19/5/2025, 8:35:33 a.m.",
+        "ganancia": 3.0192857142857137
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 17.9,
+        "fecha": "19/5/2025, 8:35:33 a.m.",
+        "ganancia": 5.968333333333332
       }
     ],
     "Edgar": [
@@ -6394,6 +6408,13 @@
         "costoTotal": 19.63,
         "fecha": "16/5/2025, 2:59:15 p.m.",
         "ganancia": 6.546666666666665
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "19/5/2025, 8:35:13 a.m.",
+        "ganancia": 5.5
       }
     ],
     "Isac": [
@@ -8531,6 +8552,13 @@
         "costoTotal": 9.26,
         "fecha": "15/5/2025, 11:46:29 a.m.",
         "ganancia": 3.0859999999999994
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 22.3,
+        "fecha": "19/5/2025, 8:35:05 a.m.",
+        "ganancia": 7.43125
       }
     ],
     "Isrrael": [
@@ -17494,6 +17522,13 @@
         "costoTotal": 19.69,
         "fecha": "16/5/2025, 9:15:05 a.m.",
         "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 17.9,
+        "fecha": "19/5/2025, 8:35:42 a.m.",
+        "ganancia": 5.968333333333332
       }
     ],
     "Vicente": [
@@ -18315,10 +18350,10 @@
       "descripcion": "Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 11
         }
       ]
@@ -18328,10 +18363,10 @@
       "descripcion": "Emperador senzo",
       "precioCompra": 14.87,
       "precioVenta": 22.3,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 14.86875
         }
       ]
@@ -18341,10 +18376,10 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 11.93,
       "precioVenta": 17.9,
-      "piezas": 5,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 3,
           "costoUnitario": 11.931666666666667
         }
       ]
@@ -18354,10 +18389,10 @@
       "descripcion": "Mini mamut",
       "precioCompra": 2,
       "precioVenta": 3.01,
-      "piezas": 11,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 8,
           "costoUnitario": 2.0035714285714286
         }
       ]
@@ -20389,6 +20424,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 35010.70000000001,
-  "inversionRecuperada": 31449.15688095235,
-  "gananciasTotales": 15733.063119047738
+  "inversionRecuperada": 31504.8996785714,
+  "gananciasTotales": 15760.950321428692
 }
