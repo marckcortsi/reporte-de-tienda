@@ -4,21 +4,21 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 2183.5550460317468,
-      "saldoFavor": 110.43999999999997
+      "ganancia": 2199.8767126984135,
+      "saldoFavor": 61.45999999999997
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1655.8800000000003,
-      "ganancia": 2911.1219912698402,
+      "adeudo": 1677.7600000000004,
+      "ganancia": 2918.418657936507,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 1073.87,
-      "ganancia": 854.7534246031747,
+      "adeudo": 1125.12,
+      "ganancia": 871.8367579365081,
       "saldoFavor": 0
     },
     {
@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1107.37,
-      "ganancia": 862.151714285714,
+      "adeudo": 1129.25,
+      "ganancia": 869.4483809523806,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1687.7100000000003,
-      "ganancia": 1690.5541849206352,
+      "adeudo": 1719.9800000000002,
+      "ganancia": 1701.304184920635,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 706.1000000000001,
-      "ganancia": 1421.6043198412697,
+      "adeudo": 708.4400000000002,
+      "ganancia": 1422.3843198412696,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 1243.84,
-      "ganancia": 2624.552484920628,
+      "adeudo": 1299.9499999999998,
+      "ganancia": 2643.2558182539615,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1170.7500000000002,
-      "ganancia": 1306.2877579365102,
+      "adeudo": 1214.8800000000003,
+      "ganancia": 1320.9994246031767,
       "saldoFavor": 0
     },
     {
@@ -1276,6 +1276,27 @@
         "costoTotal": 17.14,
         "fecha": "21/5/2025, 10:30:18 a.m.",
         "ganancia": 5.711428571428572
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "21/5/2025, 1:40:05 p.m.",
+        "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Sandibrocha",
+        "piezas": 5,
+        "costoTotal": 10.600000000000001,
+        "fecha": "21/5/2025, 6:29:24 p.m.",
+        "ganancia": 3.5250000000000004
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "21/5/2025, 6:29:24 p.m.",
+        "ganancia": 5.5
       }
     ],
     "Carlos": [
@@ -3966,6 +3987,13 @@
         "costoTotal": 17.14,
         "fecha": "21/5/2025, 8:18:11 a.m.",
         "ganancia": 5.711428571428572
+      },
+      {
+        "producto": "Maruchan habanero",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "21/5/2025, 1:15:23 p.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Edgar": [
@@ -5018,6 +5046,13 @@
         "costoTotal": 16.5,
         "fecha": "21/5/2025, 8:39:47 a.m.",
         "ganancia": 5.5
+      },
+      {
+        "producto": "Coca 3L",
+        "piezas": 1,
+        "costoTotal": 51.25,
+        "fecha": "21/5/2025, 1:10:31 p.m.",
+        "ganancia": 17.083333333333336
       }
     ],
     "Francisco": [
@@ -6520,6 +6555,13 @@
         "costoTotal": 19.2,
         "fecha": "21/5/2025, 11:09:53 a.m.",
         "ganancia": 6.399999999999999
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "22/5/2025, 10:57:33 a.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Isac": [
@@ -8713,6 +8755,34 @@
         "costoTotal": 19.2,
         "fecha": "21/5/2025, 11:24:36 a.m.",
         "ganancia": 6.4
+      },
+      {
+        "producto": "Shot",
+        "piezas": 1,
+        "costoTotal": 2.56,
+        "fecha": "21/5/2025, 12:34:23 p.m.",
+        "ganancia": 0.8500000000000001
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "22/5/2025, 8:59:50 a.m.",
+        "ganancia": 5.5
+      },
+      {
+        "producto": "Shot",
+        "piezas": 1,
+        "costoTotal": 2.56,
+        "fecha": "22/5/2025, 8:59:50 a.m.",
+        "ganancia": 0.8500000000000001
+      },
+      {
+        "producto": "Tin larin",
+        "piezas": 1,
+        "costoTotal": 10.65,
+        "fecha": "22/5/2025, 8:59:50 a.m.",
+        "ganancia": 3.5500000000000007
       }
     ],
     "Isrrael": [
@@ -11559,6 +11629,13 @@
         "costoTotal": 17.14,
         "fecha": "21/5/2025, 8:16:21 a.m.",
         "ganancia": 5.711428571428572
+      },
+      {
+        "producto": "Llave citas de chile",
+        "piezas": 1,
+        "costoTotal": 2.34,
+        "fecha": "21/5/2025, 12:34:03 p.m.",
+        "ganancia": 0.7799999999999998
       }
     ],
     "Laura": [
@@ -15903,6 +15980,20 @@
         "costoTotal": 1.46,
         "fecha": "21/5/2025, 10:42:51 a.m.",
         "ganancia": 0.485
+      },
+      {
+        "producto": "Zumba goma sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "21/5/2025, 12:37:12 p.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Coca 3L",
+        "piezas": 1,
+        "costoTotal": 51.25,
+        "fecha": "21/5/2025, 1:06:20 p.m.",
+        "ganancia": 17.083333333333336
       }
     ],
     "Rafael": [
@@ -17809,6 +17900,27 @@
         "costoTotal": 19.63,
         "fecha": "21/5/2025, 11:11:11 a.m.",
         "ganancia": 6.546666666666665
+      },
+      {
+        "producto": "Shot",
+        "piezas": 1,
+        "costoTotal": 2.56,
+        "fecha": "21/5/2025, 12:34:18 p.m.",
+        "ganancia": 0.8500000000000001
+      },
+      {
+        "producto": "Coca de vidrio",
+        "piezas": 1,
+        "costoTotal": 19.69,
+        "fecha": "22/5/2025, 10:36:42 a.m.",
+        "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "22/5/2025, 10:50:02 a.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Vicente": [
@@ -18449,10 +18561,10 @@
       "descripcion": "Sandibrocha",
       "precioCompra": 1.42,
       "precioVenta": 2.12,
-      "piezas": 6,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 1,
           "costoUnitario": 1.415
         }
       ]
@@ -18488,10 +18600,10 @@
       "descripcion": "Zumba goma sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -18501,10 +18613,10 @@
       "descripcion": "Tin larin",
       "precioCompra": 7.1,
       "precioVenta": 10.65,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 7.1
         }
       ]
@@ -18582,10 +18694,10 @@
       "descripcion": "Coca de vidrio",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 13.125
         }
       ]
@@ -18595,10 +18707,10 @@
       "descripcion": "Coca 3L",
       "precioCompra": 34.17,
       "precioVenta": 51.25,
-      "piezas": 3,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 1,
           "costoUnitario": 34.166666666666664
         }
       ]
@@ -18621,10 +18733,10 @@
       "descripcion": "Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 6,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 4,
           "costoUnitario": 11
         }
       ]
@@ -18660,10 +18772,10 @@
       "descripcion": "Maruchan camaron",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 8,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 5,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -18673,10 +18785,10 @@
       "descripcion": "Maruchan habanero",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -18725,10 +18837,10 @@
       "descripcion": "Llave citas de chile",
       "precioCompra": 1.56,
       "precioVenta": 2.34,
-      "piezas": 24,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 23,
           "costoUnitario": 1.56
         }
       ]
@@ -18829,10 +18941,10 @@
       "descripcion": "Shot",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 39,
+      "piezas": 36,
       "stockParciales": [
         {
-          "cantidad": 39,
+          "cantidad": 36,
           "costoUnitario": 1.71
         }
       ]
@@ -20674,6 +20786,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 35010.70000000001,
-  "inversionRecuperada": 32194.70866666664,
-  "gananciasTotales": 16105.381333333456
+  "inversionRecuperada": 32380.605333333304,
+  "gananciasTotales": 16198.324666666795
 }
