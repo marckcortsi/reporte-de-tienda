@@ -3,22 +3,22 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 2199.8767126984135,
-      "saldoFavor": 61.45999999999997
+      "adeudo": 70.84000000000003,
+      "ganancia": 2243.9767126984134,
+      "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1677.7600000000004,
-      "ganancia": 2918.418657936507,
+      "adeudo": 1693.1200000000003,
+      "ganancia": 2923.5186579365068,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 1125.12,
-      "ganancia": 871.8367579365081,
+      "adeudo": 1151.83,
+      "ganancia": 880.7417579365082,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1719.9800000000002,
-      "ganancia": 1701.304184920635,
+      "adeudo": 1741.8600000000004,
+      "ganancia": 1708.6008515873016,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 708.4400000000002,
-      "ganancia": 1422.3843198412696,
+      "adeudo": 730.3200000000002,
+      "ganancia": 1429.6809865079363,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 1299.9499999999998,
-      "ganancia": 2643.2558182539615,
+      "adeudo": 1321.83,
+      "ganancia": 2650.552484920628,
       "saldoFavor": 0
     },
     {
@@ -1297,6 +1297,20 @@
         "costoTotal": 16.5,
         "fecha": "21/5/2025, 6:29:24 p.m.",
         "ganancia": 5.5
+      },
+      {
+        "producto": "Sol Jalapeño",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "22/5/2025, 11:28:15 a.m.",
+        "ganancia": 6.5
+      },
+      {
+        "producto": "Marlboro",
+        "piezas": 20,
+        "costoTotal": 112.8,
+        "fecha": "22/5/2025, 12:46:41 p.m.",
+        "ganancia": 37.599999999999994
       }
     ],
     "Carlos": [
@@ -3994,6 +4008,13 @@
         "costoTotal": 21.88,
         "fecha": "21/5/2025, 1:15:23 p.m.",
         "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Shot",
+        "piezas": 6,
+        "costoTotal": 15.36,
+        "fecha": "22/5/2025, 12:46:25 p.m.",
+        "ganancia": 5.1000000000000005
       }
     ],
     "Edgar": [
@@ -5053,6 +5074,20 @@
         "costoTotal": 51.25,
         "fecha": "21/5/2025, 1:10:31 p.m.",
         "ganancia": 17.083333333333336
+      },
+      {
+        "producto": "Llave citas de chile",
+        "piezas": 3,
+        "costoTotal": 7.02,
+        "fecha": "22/5/2025, 12:33:05 p.m.",
+        "ganancia": 2.3399999999999994
+      },
+      {
+        "producto": "Coca de vidrio",
+        "piezas": 1,
+        "costoTotal": 19.69,
+        "fecha": "22/5/2025, 1:41:29 p.m.",
+        "ganancia": 6.565000000000001
       }
     ],
     "Francisco": [
@@ -8783,6 +8818,13 @@
         "costoTotal": 10.65,
         "fecha": "22/5/2025, 8:59:50 a.m.",
         "ganancia": 3.5500000000000007
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "22/5/2025, 11:28:05 a.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Isrrael": [
@@ -11636,6 +11678,13 @@
         "costoTotal": 2.34,
         "fecha": "21/5/2025, 12:34:03 p.m.",
         "ganancia": 0.7799999999999998
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "22/5/2025, 11:30:44 a.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Laura": [
@@ -15994,6 +16043,13 @@
         "costoTotal": 51.25,
         "fecha": "21/5/2025, 1:06:20 p.m.",
         "ganancia": 17.083333333333336
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "22/5/2025, 11:11:28 a.m.",
+        "ganancia": 7.296666666666665
       }
     ],
     "Rafael": [
@@ -18444,10 +18500,10 @@
       "descripcion": "Sol Jalapeño",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 13
         }
       ]
@@ -18694,10 +18750,10 @@
       "descripcion": "Coca de vidrio",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 13.125
         }
       ]
@@ -18772,10 +18828,10 @@
       "descripcion": "Maruchan camaron",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 5,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 2,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -18837,10 +18893,10 @@
       "descripcion": "Llave citas de chile",
       "precioCompra": 1.56,
       "precioVenta": 2.34,
-      "piezas": 23,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 20,
           "costoUnitario": 1.56
         }
       ]
@@ -18941,10 +18997,10 @@
       "descripcion": "Shot",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 36,
+      "piezas": 30,
       "stockParciales": [
         {
-          "cantidad": 36,
+          "cantidad": 30,
           "costoUnitario": 1.71
         }
       ]
@@ -18954,10 +19010,10 @@
       "descripcion": "Marlboro",
       "precioCompra": 3.76,
       "precioVenta": 5.64,
-      "piezas": 40,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 40,
+          "cantidad": 20,
           "costoUnitario": 3.76
         }
       ]
@@ -20786,6 +20842,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 35010.70000000001,
-  "inversionRecuperada": 32380.605333333304,
-  "gananciasTotales": 16198.324666666795
+  "inversionRecuperada": 32540.6203333333,
+  "gananciasTotales": 16278.319666666797
 }
