@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 70.84000000000003,
-      "ganancia": 2243.9767126984134,
+      "adeudo": 79.87000000000003,
+      "ganancia": 2246.995998412699,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1693.1200000000003,
-      "ganancia": 2923.5186579365068,
+      "adeudo": 1799.3000000000002,
+      "ganancia": 2958.8303246031733,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 1321.83,
+      "adeudo": 821.8299999999999,
       "ganancia": 2650.552484920628,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1214.8800000000003,
-      "ganancia": 1320.9994246031767,
+      "adeudo": 1222.0800000000004,
+      "ganancia": 1323.3994246031766,
       "saldoFavor": 0
     },
     {
@@ -1311,6 +1311,13 @@
         "costoTotal": 112.8,
         "fecha": "22/5/2025, 12:46:41 p.m.",
         "ganancia": 37.599999999999994
+      },
+      {
+        "producto": "Mini mamut",
+        "piezas": 3,
+        "costoTotal": 9.03,
+        "fecha": "22/5/2025, 5:32:49 p.m.",
+        "ganancia": 3.0192857142857137
       }
     ],
     "Carlos": [
@@ -4015,6 +4022,34 @@
         "costoTotal": 15.36,
         "fecha": "22/5/2025, 12:46:25 p.m.",
         "ganancia": 5.1000000000000005
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 21.88,
+        "fecha": "22/5/2025, 1:58:06 p.m.",
+        "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Kinder delice coco",
+        "piezas": 1,
+        "costoTotal": 17.74,
+        "fecha": "22/5/2025, 1:58:06 p.m.",
+        "ganancia": 5.914999999999999
+      },
+      {
+        "producto": "Shot",
+        "piezas": 1,
+        "costoTotal": 2.56,
+        "fecha": "22/5/2025, 3:27:48 p.m.",
+        "ganancia": 0.8500000000000001
+      },
+      {
+        "producto": "Shot",
+        "piezas": 25,
+        "costoTotal": 64,
+        "fecha": "22/5/2025, 5:32:38 p.m.",
+        "ganancia": 21.250000000000004
       }
     ],
     "Edgar": [
@@ -17977,6 +18012,20 @@
         "costoTotal": 21.88,
         "fecha": "22/5/2025, 10:50:02 a.m.",
         "ganancia": 7.296666666666665
+      },
+      {
+        "producto": "Llave citas de chile",
+        "piezas": 1,
+        "costoTotal": 2.34,
+        "fecha": "22/5/2025, 5:32:27 p.m.",
+        "ganancia": 0.7799999999999998
+      },
+      {
+        "producto": "Zumba goma sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "22/5/2025, 5:32:27 p.m.",
+        "ganancia": 1.6200000000000006
       }
     ],
     "Vicente": [
@@ -18656,10 +18705,10 @@
       "descripcion": "Zumba goma sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -18815,10 +18864,10 @@
       "descripcion": "Mini mamut",
       "precioCompra": 2,
       "precioVenta": 3.01,
-      "piezas": 6,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 3,
           "costoUnitario": 2.0035714285714286
         }
       ]
@@ -18828,10 +18877,10 @@
       "descripcion": "Maruchan camaron",
       "precioCompra": 14.58,
       "precioVenta": 21.88,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 14.583333333333334
         }
       ]
@@ -18893,10 +18942,10 @@
       "descripcion": "Llave citas de chile",
       "precioCompra": 1.56,
       "precioVenta": 2.34,
-      "piezas": 20,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 19,
           "costoUnitario": 1.56
         }
       ]
@@ -18984,10 +19033,10 @@
       "descripcion": "Kinder delice coco",
       "precioCompra": 11.82,
       "precioVenta": 17.74,
-      "piezas": 21,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 20,
           "costoUnitario": 11.825
         }
       ]
@@ -18997,10 +19046,10 @@
       "descripcion": "Shot",
       "precioCompra": 1.71,
       "precioVenta": 2.56,
-      "piezas": 30,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 30,
+          "cantidad": 4,
           "costoUnitario": 1.71
         }
       ]
@@ -20842,6 +20891,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 35010.70000000001,
-  "inversionRecuperada": 32540.6203333333,
-  "gananciasTotales": 16278.319666666797
+  "inversionRecuperada": 32622.29938095235,
+  "gananciasTotales": 16319.050619047754
 }
