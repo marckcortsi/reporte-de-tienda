@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1316.4400000000003,
-      "ganancia": 2964.541753174602,
+      "adeudo": 1449.3900000000003,
+      "ganancia": 3008.859610317459,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1764.1200000000003,
-      "ganancia": 1716.0122801587302,
+      "adeudo": 981.2600000000004,
+      "ganancia": 1721.7237087301587,
       "saldoFavor": 0
     },
     {
@@ -52,7 +52,7 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 739.5800000000002,
+      "adeudo": 39.580000000000155,
       "ganancia": 1432.7669865079363,
       "saldoFavor": 0
     },
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 846.6399999999999,
-      "ganancia": 2658.817484920628,
+      "adeudo": 0,
+      "ganancia": 2668.587484920628,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1239.2200000000005,
-      "ganancia": 1329.1108531746052,
+      "adeudo": 456.3600000000006,
+      "ganancia": 1334.8222817460337,
       "saldoFavor": 0
     },
     {
@@ -4064,6 +4064,27 @@
         "costoTotal": 17.14,
         "fecha": "23/5/2025, 9:02:22 a.m.",
         "ganancia": 5.711428571428572
+      },
+      {
+        "producto": "Marlboro",
+        "piezas": 20,
+        "costoTotal": 112.8,
+        "fecha": "23/5/2025, 3:33:21 p.m.",
+        "ganancia": 37.599999999999994
+      },
+      {
+        "producto": "Galleta oreo",
+        "piezas": 1,
+        "costoTotal": 17.14,
+        "fecha": "26/5/2025, 9:04:15 a.m.",
+        "ganancia": 5.711428571428572
+      },
+      {
+        "producto": "Mini mamut",
+        "piezas": 1,
+        "costoTotal": 3.01,
+        "fecha": "26/5/2025, 9:04:15 a.m.",
+        "ganancia": 1.0064285714285712
       }
     ],
     "Edgar": [
@@ -8901,6 +8922,13 @@
         "piezas": 1,
         "costoTotal": 17.14,
         "fecha": "23/5/2025, 10:19:02 a.m.",
+        "ganancia": 5.711428571428572
+      },
+      {
+        "producto": "Galleta oreo",
+        "piezas": 1,
+        "costoTotal": 17.14,
+        "fecha": "26/5/2025, 9:01:44 a.m.",
         "ganancia": 5.711428571428572
       }
     ],
@@ -16155,6 +16183,34 @@
         "costoTotal": 19.69,
         "fecha": "23/5/2025, 11:25:23 a.m.",
         "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Llave citas de chile",
+        "piezas": 1,
+        "costoTotal": 2.34,
+        "fecha": "26/5/2025, 9:12:21 a.m.",
+        "ganancia": 0.7799999999999998
+      },
+      {
+        "producto": "Godu pop chile",
+        "piezas": 1,
+        "costoTotal": 2.92,
+        "fecha": "26/5/2025, 9:12:21 a.m.",
+        "ganancia": 0.97
+      },
+      {
+        "producto": "Zumba goma sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "26/5/2025, 9:25:39 a.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Sol chipotle",
+        "piezas": 1,
+        "costoTotal": 19.2,
+        "fecha": "26/5/2025, 11:44:10 a.m.",
+        "ganancia": 6.399999999999999
       }
     ],
     "Rafael": [
@@ -18103,6 +18159,13 @@
         "costoTotal": 17.14,
         "fecha": "23/5/2025, 10:31:59 a.m.",
         "ganancia": 5.711428571428572
+      },
+      {
+        "producto": "Galleta oreo",
+        "piezas": 1,
+        "costoTotal": 17.14,
+        "fecha": "26/5/2025, 9:09:32 a.m.",
+        "ganancia": 5.711428571428572
       }
     ],
     "Vicente": [
@@ -18789,10 +18852,10 @@
       "descripcion": "Zumba goma sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -18909,10 +18972,10 @@
       "descripcion": "Galleta oreo",
       "precioCompra": 11.43,
       "precioVenta": 17.14,
-      "piezas": 4,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 1,
           "costoUnitario": 11.428571428571429
         }
       ]
@@ -18948,10 +19011,10 @@
       "descripcion": "Mini mamut",
       "precioCompra": 2,
       "precioVenta": 3.01,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 2.0035714285714286
         }
       ]
@@ -19021,10 +19084,10 @@
       "descripcion": "Llave citas de chile",
       "precioCompra": 1.56,
       "precioVenta": 2.34,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 1.56
         }
       ]
@@ -19047,10 +19110,10 @@
       "descripcion": "Godu pop chile",
       "precioCompra": 1.95,
       "precioVenta": 2.92,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 1.95
         }
       ]
@@ -19060,10 +19123,10 @@
       "descripcion": "Sol chipotle",
       "precioCompra": 12.8,
       "precioVenta": 19.2,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.8
         }
       ]
@@ -19133,13 +19196,8 @@
       "descripcion": "Marlboro",
       "precioCompra": 3.76,
       "precioVenta": 5.64,
-      "piezas": 20,
-      "stockParciales": [
-        {
-          "cantidad": 20,
-          "costoUnitario": 3.76
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     }
   ],
   "historialEntradas": [
@@ -20965,6 +21023,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 35010.70000000001,
-  "inversionRecuperada": 32746.41457142854,
-  "gananciasTotales": 16381.085428571565
+  "inversionRecuperada": 32877.45385714282,
+  "gananciasTotales": 16446.596142857274
 }
