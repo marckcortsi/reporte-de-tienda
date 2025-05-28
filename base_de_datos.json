@@ -17,9 +17,9 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 1151.83,
+      "adeudo": 0,
       "ganancia": 881.8155079365082,
-      "saldoFavor": 0
+      "saldoFavor": 0.3
     },
     {
       "nombre": "Francisco",
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 507.53000000000054,
-      "ganancia": 1352.947831746034,
+      "adeudo": 518.5500000000005,
+      "ganancia": 1356.607831746034,
       "saldoFavor": 0
     },
     {
@@ -18488,6 +18488,34 @@
         "costoTotal": 6.44,
         "fecha": "27/5/2025, 10:30:13 a.m.",
         "ganancia": 2.1468000000000007
+      },
+      {
+        "producto": "Llave citas de chile",
+        "piezas": 1,
+        "costoTotal": 2.34,
+        "fecha": "28/5/2025, 11:33:55 a.m.",
+        "ganancia": 0.7799999999999998
+      },
+      {
+        "producto": "Winis",
+        "piezas": 4,
+        "costoTotal": 2.84,
+        "fecha": "28/5/2025, 11:33:55 a.m.",
+        "ganancia": 0.94
+      },
+      {
+        "producto": "Godu pop chile",
+        "piezas": 1,
+        "costoTotal": 2.92,
+        "fecha": "28/5/2025, 11:33:55 a.m.",
+        "ganancia": 0.97
+      },
+      {
+        "producto": "Paleta acidota",
+        "piezas": 2,
+        "costoTotal": 2.92,
+        "fecha": "28/5/2025, 11:33:55 a.m.",
+        "ganancia": 0.97
       }
     ],
     "Vicente": [
@@ -19104,10 +19132,10 @@
       "descripcion": "Winis",
       "precioCompra": 0.47,
       "precioVenta": 0.71,
-      "piezas": 64,
+      "piezas": 60,
       "stockParciales": [
         {
-          "cantidad": 64,
+          "cantidad": 60,
           "costoUnitario": 0.475
         }
       ]
@@ -19247,10 +19275,10 @@
       "descripcion": "Llave citas de chile",
       "precioCompra": 1.56,
       "precioVenta": 2.34,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 17,
           "costoUnitario": 1.56
         }
       ]
@@ -19260,10 +19288,10 @@
       "descripcion": "Paleta acidota",
       "precioCompra": 0.97,
       "precioVenta": 1.46,
-      "piezas": 20,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 18,
           "costoUnitario": 0.975
         }
       ]
@@ -19273,10 +19301,10 @@
       "descripcion": "Godu pop chile",
       "precioCompra": 1.95,
       "precioVenta": 2.92,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 1.95
         }
       ]
@@ -21157,6 +21185,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 35010.70000000001,
-  "inversionRecuperada": 33405.58770476184,
-  "gananciasTotales": 16710.742295238222
+  "inversionRecuperada": 33412.947704761835,
+  "gananciasTotales": 16714.402295238222
 }
