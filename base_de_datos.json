@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 167.77000000000004,
-      "ganancia": 2277.37093888889,
+      "adeudo": 172.67000000000004,
+      "ganancia": 2279.01093888889,
       "saldoFavor": 0
     },
     {
@@ -17,9 +17,9 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 881.8155079365082,
-      "saldoFavor": 0.3
+      "adeudo": 6.72,
+      "ganancia": 884.1555079365082,
+      "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1228.9100000000003,
-      "ganancia": 903.7426547619043,
+      "adeudo": 1239.2600000000002,
+      "ganancia": 907.1926547619044,
       "saldoFavor": 0
     },
     {
@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 625.4999999999999,
-      "ganancia": 1250.6579761904768,
+      "adeudo": 646.7999999999998,
+      "ganancia": 1257.7579761904767,
       "saldoFavor": 0
     },
     {
@@ -59,8 +59,8 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 91.92999999999999,
-      "ganancia": 281.09382936507944,
+      "adeudo": 109.66999999999999,
+      "ganancia": 287.00882936507946,
       "saldoFavor": 0
     },
     {
@@ -73,15 +73,15 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 518.5500000000005,
-      "ganancia": 1356.607831746034,
+      "adeudo": 536.2900000000005,
+      "ganancia": 1362.522831746034,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 39.38,
-      "ganancia": 289.9221031746031,
+      "adeudo": 59.07000000000001,
+      "ganancia": 296.4871031746031,
       "saldoFavor": 0
     },
     {
@@ -1346,6 +1346,13 @@
         "costoTotal": 16.5,
         "fecha": "27/5/2025, 11:37:50 a.m.",
         "ganancia": 5.5
+      },
+      {
+        "producto": "Paletas de Tarrito",
+        "piezas": 2,
+        "costoTotal": 4.9,
+        "fecha": "28/5/2025, 12:13:15 p.m.",
+        "ganancia": 1.6400000000000001
       }
     ],
     "Carlos": [
@@ -5207,6 +5214,13 @@
         "costoTotal": 19.69,
         "fecha": "22/5/2025, 1:41:29 p.m.",
         "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Llave citas de chile",
+        "piezas": 3,
+        "costoTotal": 7.02,
+        "fecha": "28/5/2025, 4:23:08 p.m.",
+        "ganancia": 2.3399999999999994
       }
     ],
     "Francisco": [
@@ -6765,6 +6779,13 @@
         "costoTotal": 16.5,
         "fecha": "28/5/2025, 8:46:54 a.m.",
         "ganancia": 5.5
+      },
+      {
+        "producto": "Lucas muecas",
+        "piezas": 1,
+        "costoTotal": 10.35,
+        "fecha": "28/5/2025, 1:03:34 p.m.",
+        "ganancia": 3.4499999999999993
       }
     ],
     "Isac": [
@@ -10094,6 +10115,13 @@
         "costoTotal": 10.65,
         "fecha": "28/5/2025, 10:04:57 a.m.",
         "ganancia": 3.5500000000000007
+      },
+      {
+        "producto": "Tin larin",
+        "piezas": 2,
+        "costoTotal": 21.3,
+        "fecha": "28/5/2025, 4:23:46 p.m.",
+        "ganancia": 7.100000000000001
       }
     ],
     "Karen": [
@@ -12288,6 +12316,13 @@
         "piezas": 1,
         "costoTotal": 17.74,
         "fecha": "27/5/2025, 5:38:33 p.m.",
+        "ganancia": 5.914999999999999
+      },
+      {
+        "producto": "Kinder delice coco",
+        "piezas": 1,
+        "costoTotal": 17.74,
+        "fecha": "28/5/2025, 1:39:24 p.m.",
         "ganancia": 5.914999999999999
       }
     ],
@@ -18516,6 +18551,13 @@
         "costoTotal": 2.92,
         "fecha": "28/5/2025, 11:33:55 a.m.",
         "ganancia": 0.97
+      },
+      {
+        "producto": "Kinder delice coco",
+        "piezas": 1,
+        "costoTotal": 17.74,
+        "fecha": "28/5/2025, 4:22:50 p.m.",
+        "ganancia": 5.914999999999999
       }
     ],
     "Vicente": [
@@ -18833,6 +18875,13 @@
         "costoTotal": 39.38,
         "fecha": "23/5/2025, 1:10:25 p.m.",
         "ganancia": 13.130000000000003
+      },
+      {
+        "producto": "Coca de vidrio",
+        "piezas": 1,
+        "costoTotal": 19.69,
+        "fecha": "28/5/2025, 12:14:06 p.m.",
+        "ganancia": 6.565000000000001
       }
     ],
     "Externo": [
@@ -18963,13 +19012,8 @@
       "descripcion": "Paletas de Tarrito",
       "precioCompra": 1.63,
       "precioVenta": 2.45,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 1.6300000000000001
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "018804002106",
@@ -19171,10 +19215,10 @@
       "descripcion": "Tin larin",
       "precioCompra": 7.1,
       "precioVenta": 10.65,
-      "piezas": 6,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 4,
           "costoUnitario": 7.1
         }
       ]
@@ -19197,10 +19241,10 @@
       "descripcion": "Lucas muecas",
       "precioCompra": 6.9,
       "precioVenta": 10.35,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 6.9
         }
       ]
@@ -19236,13 +19280,8 @@
       "descripcion": "Coca de vidrio",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 13.125
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500366001824",
@@ -19275,10 +19314,10 @@
       "descripcion": "Llave citas de chile",
       "precioCompra": 1.56,
       "precioVenta": 2.34,
-      "piezas": 17,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 14,
           "costoUnitario": 1.56
         }
       ]
@@ -19353,10 +19392,10 @@
       "descripcion": "Kinder delice coco",
       "precioCompra": 11.82,
       "precioVenta": 17.74,
-      "piezas": 16,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 14,
           "costoUnitario": 11.825
         }
       ]
@@ -21185,6 +21224,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 35010.70000000001,
-  "inversionRecuperada": 33412.947704761835,
-  "gananciasTotales": 16714.402295238222
+  "inversionRecuperada": 33478.76270476183,
+  "gananciasTotales": 16747.32729523822
 }
