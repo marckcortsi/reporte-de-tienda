@@ -4,84 +4,84 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 167.77000000000004,
-      "ganancia": 2277.2528833333345,
+      "ganancia": 2277.37093888889,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
       "adeudo": 717.6600000000004,
-      "ganancia": 3032.5779714285704,
+      "ganancia": 3032.696026984126,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
       "adeudo": 1151.83,
-      "ganancia": 881.6974523809527,
+      "ganancia": 881.8155079365082,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
       "adeudo": 40.190000000000005,
-      "ganancia": 487.36011190476177,
+      "ganancia": 487.4781674603173,
       "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
       "adeudo": 1228.9100000000003,
-      "ganancia": 903.6245992063488,
+      "ganancia": 903.7426547619043,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
       "adeudo": 990.5200000000004,
-      "ganancia": 1725.765403174603,
+      "ganancia": 1725.8834587301587,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 593.55,
-      "ganancia": 1239.8899206349213,
+      "adeudo": 625.4999999999999,
+      "ganancia": 1250.6579761904768,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
       "adeudo": 74.33000000000015,
-      "ganancia": 1445.3107761904757,
+      "ganancia": 1445.4288317460314,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
       "adeudo": 91.92999999999999,
-      "ganancia": 280.9757738095239,
+      "ganancia": 281.09382936507944,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 215.58,
-      "ganancia": 2741.4231793650733,
+      "adeudo": 336.02000000000004,
+      "ganancia": 2781.7049682539623,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
       "adeudo": 507.53000000000054,
-      "ganancia": 1352.8297761904782,
+      "ganancia": 1352.947831746034,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
       "adeudo": 39.38,
-      "ganancia": 289.80404761904754,
+      "ganancia": 289.9221031746031,
       "saldoFavor": 0
     },
     {
@@ -10073,6 +10073,27 @@
         "costoTotal": 19.2,
         "fecha": "27/5/2025, 10:30:54 a.m.",
         "ganancia": 6.4
+      },
+      {
+        "producto": "Tin larin",
+        "piezas": 1,
+        "costoTotal": 10.65,
+        "fecha": "28/5/2025, 8:53:47 a.m.",
+        "ganancia": 3.5500000000000007
+      },
+      {
+        "producto": "Tin larin",
+        "piezas": 1,
+        "costoTotal": 10.65,
+        "fecha": "28/5/2025, 8:56:18 a.m.",
+        "ganancia": 3.5500000000000007
+      },
+      {
+        "producto": "Tin larin",
+        "piezas": 1,
+        "costoTotal": 10.65,
+        "fecha": "28/5/2025, 10:04:57 a.m.",
+        "ganancia": 3.5500000000000007
       }
     ],
     "Karen": [
@@ -16435,6 +16456,48 @@
         "costoTotal": 20.4,
         "fecha": "28/5/2025, 8:49:59 a.m.",
         "ganancia": 6.799999999999999
+      },
+      {
+        "producto": "Chocolate kinder",
+        "piezas": 2,
+        "costoTotal": 19.38,
+        "fecha": "28/5/2025, 10:04:01 a.m.",
+        "ganancia": 6.463333333333333
+      },
+      {
+        "producto": "Encendedor",
+        "piezas": 3,
+        "costoTotal": 19.32,
+        "fecha": "28/5/2025, 10:05:45 a.m.",
+        "ganancia": 6.440400000000002
+      },
+      {
+        "producto": "Sol limon",
+        "piezas": 1,
+        "costoTotal": 19.2,
+        "fecha": "28/5/2025, 10:08:25 a.m.",
+        "ganancia": 6.4
+      },
+      {
+        "producto": "Sol Jalapeño",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "28/5/2025, 10:08:25 a.m.",
+        "ganancia": 6.5
+      },
+      {
+        "producto": "Sol habanero",
+        "piezas": 2,
+        "costoTotal": 39,
+        "fecha": "28/5/2025, 10:08:25 a.m.",
+        "ganancia": 13
+      },
+      {
+        "producto": "Chicles canels",
+        "piezas": 4,
+        "costoTotal": 4.04,
+        "fecha": "28/5/2025, 10:09:40 a.m.",
+        "ganancia": 1.3599999999999999
       }
     ],
     "Rafael": [
@@ -18856,6 +18919,13 @@
         "costoTotal": 16.5,
         "fecha": "27/5/2025, 10:33:27 a.m.",
         "ganancia": 5.5
+      },
+      {
+        "producto": "Mazapan",
+        "piezas": 1,
+        "costoTotal": 4.25,
+        "fecha": "28/5/2025, 10:06:12 a.m.",
+        "ganancia": 1.4166666666666665
       }
     ]
   },
@@ -18878,10 +18948,10 @@
       "descripcion": "Chicles canels",
       "precioCompra": 0.67,
       "precioVenta": 1.01,
-      "piezas": 23,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 19,
           "costoUnitario": 0.67
         }
       ]
@@ -18917,10 +18987,10 @@
       "descripcion": "Encendedor",
       "precioCompra": 4.29,
       "precioVenta": 6.44,
-      "piezas": 11,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 8,
           "costoUnitario": 4.2932
         }
       ]
@@ -18935,45 +19005,6 @@
         {
           "cantidad": 7,
           "costoUnitario": 11.866666666666667
-        }
-      ]
-    },
-    {
-      "codigo": "7503022458512",
-      "descripcion": "Sol limon",
-      "precioCompra": 12.8,
-      "precioVenta": 19.2,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.799999999999999
-        }
-      ]
-    },
-    {
-      "codigo": "7503022458741",
-      "descripcion": "Sol Jalapeño",
-      "precioCompra": 13,
-      "precioVenta": 19.5,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 13
-        }
-      ]
-    },
-    {
-      "codigo": "7503022458758",
-      "descripcion": "Sol habanero",
-      "precioCompra": 13,
-      "precioVenta": 19.5,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 13
         }
       ]
     },
@@ -19034,10 +19065,10 @@
       "descripcion": "Mazapan",
       "precioCompra": 2.83,
       "precioVenta": 4.25,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 2.8333333333333335
         }
       ]
@@ -19112,10 +19143,10 @@
       "descripcion": "Tin larin",
       "precioCompra": 7.1,
       "precioVenta": 10.65,
-      "piezas": 9,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 6,
           "costoUnitario": 7.1
         }
       ]
@@ -19208,19 +19239,6 @@
         {
           "cantidad": 5,
           "costoUnitario": 13.083333333333334
-        }
-      ]
-    },
-    {
-      "codigo": "80050315",
-      "descripcion": "Chocolate kinder",
-      "precioCompra": 6.46,
-      "precioVenta": 9.69,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 6.458333333333333
         }
       ]
     },
@@ -21139,6 +21157,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 35010.70000000001,
-  "inversionRecuperada": 33301.17810476184,
-  "gananciasTotales": 16658.51189523822
+  "inversionRecuperada": 33405.58770476184,
+  "gananciasTotales": 16710.742295238222
 }
