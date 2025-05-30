@@ -4,84 +4,84 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 172.67000000000004,
-      "ganancia": 2279.01093888889,
+      "ganancia": 2279.2872388888904,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
       "adeudo": 717.6600000000004,
-      "ganancia": 3032.696026984126,
+      "ganancia": 3032.9723269841265,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
       "adeudo": 6.72,
-      "ganancia": 884.1555079365082,
+      "ganancia": 884.4318079365082,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
       "adeudo": 40.190000000000005,
-      "ganancia": 487.4781674603173,
+      "ganancia": 487.7544674603173,
       "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
       "adeudo": 1257.0000000000002,
-      "ganancia": 913.1076547619043,
+      "ganancia": 913.3839547619043,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 994.0700000000004,
-      "ganancia": 1727.0584587301587,
+      "adeudo": 1008.6700000000004,
+      "ganancia": 1732.2014253968255,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
       "adeudo": 657.4499999999998,
-      "ganancia": 1261.3079761904767,
+      "ganancia": 1261.5842761904767,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
       "adeudo": 76.35000000000015,
-      "ganancia": 1446.1088317460315,
+      "ganancia": 1446.3851317460314,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 109.66999999999999,
-      "ganancia": 287.00882936507946,
+      "adeudo": 127.40999999999998,
+      "ganancia": 293.2001293650795,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
       "adeudo": 402.92,
-      "ganancia": 2804.009968253962,
+      "ganancia": 2804.2862682539626,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 556.0500000000005,
-      "ganancia": 1369.117831746034,
+      "adeudo": 561.8900000000006,
+      "ganancia": 1371.334131746034,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
       "adeudo": 59.07000000000001,
-      "ganancia": 296.4871031746031,
+      "ganancia": 296.76340317460307,
       "saldoFavor": 0
     },
     {
@@ -9056,6 +9056,20 @@
         "costoTotal": 3.55,
         "fecha": "28/5/2025, 5:08:48 p.m.",
         "ganancia": 1.1749999999999998
+      },
+      {
+        "producto": "Lucas muecas",
+        "piezas": 1,
+        "costoTotal": 10.35,
+        "fecha": "29/5/2025, 5:26:15 p.m.",
+        "ganancia": 3.4499999999999993
+      },
+      {
+        "producto": "Mazapan",
+        "piezas": 1,
+        "costoTotal": 4.25,
+        "fecha": "29/5/2025, 5:26:15 p.m.",
+        "ganancia": 1.4166666666666665
       }
     ],
     "Isrrael": [
@@ -12351,6 +12365,13 @@
         "piezas": 1,
         "costoTotal": 17.74,
         "fecha": "28/5/2025, 1:39:24 p.m.",
+        "ganancia": 5.914999999999999
+      },
+      {
+        "producto": "Kinder delice coco",
+        "piezas": 1,
+        "costoTotal": 17.74,
+        "fecha": "30/5/2025, 4:33:47 p.m.",
         "ganancia": 5.914999999999999
       }
     ],
@@ -18663,6 +18684,13 @@
         "costoTotal": 17.74,
         "fecha": "29/5/2025, 11:06:58 a.m.",
         "ganancia": 5.914999999999999
+      },
+      {
+        "producto": "Godu pop chile",
+        "piezas": 2,
+        "costoTotal": 5.84,
+        "fecha": "29/5/2025, 5:26:26 p.m.",
+        "ganancia": 1.94
       }
     ],
     "Vicente": [
@@ -19108,6 +19136,27 @@
         "costoTotal": 4.25,
         "fecha": "28/5/2025, 10:06:12 a.m.",
         "ganancia": 1.4166666666666665
+      },
+      {
+        "producto": "Zumba goma sandia",
+        "piezas": 1,
+        "costoTotal": 4.86,
+        "fecha": "30/5/2025, 3:56:56 p.m.",
+        "ganancia": 1.6200000000000006
+      },
+      {
+        "producto": "Paleta acidota",
+        "piezas": 3,
+        "costoTotal": 4.38,
+        "fecha": "30/5/2025, 3:56:56 p.m.",
+        "ganancia": 1.455
+      },
+      {
+        "producto": "Dragoncitos",
+        "piezas": 2,
+        "costoTotal": 0.72,
+        "fecha": "30/5/2025, 3:57:13 p.m.",
+        "ganancia": 0.24059999999999998
       }
     ]
   },
@@ -19242,10 +19291,10 @@
       "descripcion": "Mazapan",
       "precioCompra": 2.83,
       "precioVenta": 4.25,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 2.8333333333333335
         }
       ]
@@ -19255,10 +19304,10 @@
       "descripcion": "Dragoncitos",
       "precioCompra": 0.24,
       "precioVenta": 0.36,
-      "piezas": 8,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 6,
           "costoUnitario": 0.2397
         }
       ]
@@ -19307,10 +19356,10 @@
       "descripcion": "Zumba goma sandia",
       "precioCompra": 3.24,
       "precioVenta": 4.86,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 3.2399999999999998
         }
       ]
@@ -19346,13 +19395,8 @@
       "descripcion": "Lucas muecas",
       "precioCompra": 6.9,
       "precioVenta": 10.35,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 6.9
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7506174513894",
@@ -19432,10 +19476,10 @@
       "descripcion": "Paleta acidota",
       "precioCompra": 0.97,
       "precioVenta": 1.46,
-      "piezas": 18,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 15,
           "costoUnitario": 0.975
         }
       ]
@@ -19445,10 +19489,10 @@
       "descripcion": "Godu pop chile",
       "precioCompra": 1.95,
       "precioVenta": 2.92,
-      "piezas": 7,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 5,
           "costoUnitario": 1.95
         }
       ]
@@ -19492,10 +19536,10 @@
       "descripcion": "Kinder delice coco",
       "precioCompra": 11.82,
       "precioVenta": 17.74,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 11.825
         }
       ]
@@ -21324,6 +21368,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 35010.70000000001,
-  "inversionRecuperada": 33559.1627047618,
-  "gananciasTotales": 16787.547295238226
+  "inversionRecuperada": 33591.265438095135,
+  "gananciasTotales": 16803.584561904896
 }
