@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 183.32000000000005,
-      "ganancia": 2283.330155555557,
+      "adeudo": 201.04000000000005,
+      "ganancia": 2289.237655555557,
       "saldoFavor": 0
     },
     {
@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 76.22999999999999,
-      "ganancia": 908.0998171957674,
+      "adeudo": 80.91,
+      "ganancia": 909.6598171957673,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1041.0400000000004,
-      "ganancia": 1743.4856383597883,
+      "adeudo": 1073.4100000000003,
+      "ganancia": 1754.2769346560844,
       "saldoFavor": 0
     },
     {
@@ -52,22 +52,22 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 145.05000000000015,
-      "ganancia": 1469.709848412698,
+      "adeudo": 177.42000000000016,
+      "ganancia": 1480.5011447089942,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 145.14999999999998,
+      "adeudo": 0,
       "ganancia": 299.60804603174614,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 528.54,
-      "ganancia": 2846.656170105814,
+      "adeudo": 548.68,
+      "ganancia": 2853.3695034391476,
       "saldoFavor": 0
     },
     {
@@ -1360,6 +1360,13 @@
         "costoTotal": 10.65,
         "fecha": "30/5/2025, 5:21:32 p.m.",
         "ganancia": 3.5500000000000007
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 17.72,
+        "fecha": "3/6/2025, 12:17:49 p.m.",
+        "ganancia": 5.907499999999999
       }
     ],
     "Carlos": [
@@ -5298,6 +5305,13 @@
         "costoTotal": 17.72,
         "fecha": "3/6/2025, 8:17:38 a.m.",
         "ganancia": 5.907499999999999
+      },
+      {
+        "producto": "Llave citas de chile",
+        "piezas": 2,
+        "costoTotal": 4.68,
+        "fecha": "3/6/2025, 12:16:36 p.m.",
+        "ganancia": 1.5599999999999996
       }
     ],
     "Francisco": [
@@ -9168,6 +9182,20 @@
         "costoTotal": 22.31,
         "fecha": "2/6/2025, 10:55:33 a.m.",
         "ganancia": 7.434999999999999
+      },
+      {
+        "producto": "Emperador zenso",
+        "piezas": 1,
+        "costoTotal": 22.31,
+        "fecha": "3/6/2025, 9:11:42 a.m.",
+        "ganancia": 7.434999999999999
+      },
+      {
+        "producto": "Leche de chocolate",
+        "piezas": 1,
+        "costoTotal": 10.06,
+        "fecha": "3/6/2025, 9:11:42 a.m.",
+        "ganancia": 3.356296296296297
       }
     ],
     "Isrrael": [
@@ -12140,6 +12168,20 @@
         "costoTotal": 1.46,
         "fecha": "2/6/2025, 12:35:11 p.m.",
         "ganancia": 0.485
+      },
+      {
+        "producto": "Leche de chocolate",
+        "piezas": 1,
+        "costoTotal": 10.06,
+        "fecha": "3/6/2025, 12:17:21 p.m.",
+        "ganancia": 3.356296296296297
+      },
+      {
+        "producto": "Emperador zenso",
+        "piezas": 1,
+        "costoTotal": 22.31,
+        "fecha": "3/6/2025, 12:17:21 p.m.",
+        "ganancia": 7.434999999999999
       }
     ],
     "Laura": [
@@ -16855,6 +16897,20 @@
         "costoTotal": 10.06,
         "fecha": "3/6/2025, 8:18:32 a.m.",
         "ganancia": 3.356296296296297
+      },
+      {
+        "producto": "Llave citas de chile",
+        "piezas": 1,
+        "costoTotal": 2.34,
+        "fecha": "3/6/2025, 11:35:47 a.m.",
+        "ganancia": 0.7799999999999998
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 17.8,
+        "fecha": "3/6/2025, 3:25:50 p.m.",
+        "ganancia": 5.933333333333334
       }
     ],
     "Rafael": [
@@ -19464,10 +19520,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.87,
       "precioVenta": 17.8,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 11.866666666666667
         }
       ]
@@ -19686,10 +19742,10 @@
       "descripcion": "Llave citas de chile",
       "precioCompra": 1.56,
       "precioVenta": 2.34,
-      "piezas": 6,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 3,
           "costoUnitario": 1.56
         }
       ]
@@ -19762,10 +19818,10 @@
       "descripcion": "Leche de chocolate",
       "precioCompra": 6.7,
       "precioVenta": 10.06,
-      "piezas": 18,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 16,
           "costoUnitario": 6.703703703703703
         }
       ]
@@ -19788,10 +19844,10 @@
       "descripcion": "Emperador zenso",
       "precioCompra": 14.88,
       "precioVenta": 22.31,
-      "piezas": 11,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 9,
           "costoUnitario": 14.875
         }
       ]
@@ -19801,10 +19857,10 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 11.81,
       "precioVenta": 17.72,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 11.8125
         }
       ]
@@ -21714,6 +21770,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 36808.10000000001,
-  "inversionRecuperada": 33954.83100476176,
-  "gananciasTotales": 16985.16899523825
+  "inversionRecuperada": 34026.347578835834,
+  "gananciasTotales": 17020.932421164183
 }
