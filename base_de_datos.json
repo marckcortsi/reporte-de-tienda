@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1073.4100000000003,
-      "ganancia": 1754.2769346560844,
+      "adeudo": 1105.7800000000002,
+      "ganancia": 1765.0682309523806,
       "saldoFavor": 0
     },
     {
@@ -9301,6 +9301,20 @@
         "costoTotal": 10.06,
         "fecha": "3/6/2025, 9:11:42 a.m.",
         "ganancia": 3.356296296296297
+      },
+      {
+        "producto": "Leche de chocolate",
+        "piezas": 1,
+        "costoTotal": 10.06,
+        "fecha": "6/6/2025, 8:53:57 a.m.",
+        "ganancia": 3.356296296296297
+      },
+      {
+        "producto": "Emperador zenso",
+        "piezas": 1,
+        "costoTotal": 22.31,
+        "fecha": "6/6/2025, 8:53:57 a.m.",
+        "ganancia": 7.434999999999999
       }
     ],
     "Isrrael": [
@@ -20021,10 +20035,10 @@
       "descripcion": "Leche de chocolate",
       "precioCompra": 6.7,
       "precioVenta": 10.06,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 6.703703703703703
         }
       ]
@@ -20042,10 +20056,10 @@
       "descripcion": "Emperador zenso",
       "precioCompra": 14.88,
       "precioVenta": 22.31,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 14.875
         }
       ]
@@ -21968,6 +21982,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 36808.10000000001,
-  "inversionRecuperada": 34447.4612825395,
-  "gananciasTotales": 17231.248717460505
+  "inversionRecuperada": 34469.0399862432,
+  "gananciasTotales": 17242.040013756803
 }
