@@ -10,7 +10,7 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 992.2800000000002,
+      "adeudo": 692.2800000000002,
       "ganancia": 3131.528391798941,
       "saldoFavor": 0
     },
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1105.7800000000002,
-      "ganancia": 1765.0682309523806,
+      "adeudo": 1122.2800000000002,
+      "ganancia": 1770.5582309523807,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 287.4200000000002,
-      "ganancia": 1517.101144708994,
+      "adeudo": 305.2200000000002,
+      "ganancia": 1523.0344780423275,
       "saldoFavor": 0
     },
     {
@@ -9315,6 +9315,13 @@
         "costoTotal": 22.31,
         "fecha": "6/6/2025, 8:53:57 a.m.",
         "ganancia": 7.434999999999999
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 3,
+        "costoTotal": 16.5,
+        "fecha": "6/6/2025, 12:35:45 p.m.",
+        "ganancia": 5.49
       }
     ],
     "Isrrael": [
@@ -12315,6 +12322,13 @@
         "costoTotal": 93.5,
         "fecha": "6/6/2025, 7:27:44 a.m.",
         "ganancia": 31.11
+      },
+      {
+        "producto": "Takis",
+        "piezas": 1,
+        "costoTotal": 17.8,
+        "fecha": "6/6/2025, 12:35:12 p.m.",
+        "ganancia": 5.933333333333334
       }
     ],
     "Laura": [
@@ -19737,10 +19751,10 @@
       "descripcion": "Takis",
       "precioCompra": 11.87,
       "precioVenta": 17.8,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 11.866666666666667
         }
       ]
@@ -20082,10 +20096,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 3.67,
       "precioVenta": 5.5,
-      "piezas": 76,
+      "piezas": 73,
       "stockParciales": [
         {
-          "cantidad": 76,
+          "cantidad": 73,
           "costoUnitario": 3.67
         }
       ]
@@ -21982,6 +21996,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 36808.10000000001,
-  "inversionRecuperada": 34469.0399862432,
-  "gananciasTotales": 17242.040013756803
+  "inversionRecuperada": 34491.91665290987,
+  "gananciasTotales": 17253.46334709014
 }
