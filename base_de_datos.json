@@ -3,22 +3,22 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 218.76000000000005,
-      "ganancia": 2295.145155555557,
+      "adeudo": 236.48000000000005,
+      "ganancia": 2301.0526555555566,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 964.4800000000002,
-      "ganancia": 3115.544502910052,
+      "adeudo": 992.2800000000002,
+      "ganancia": 3131.528391798941,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 113.28,
-      "ganancia": 920.4511134920635,
+      "adeudo": 145.65,
+      "ganancia": 931.2424097883597,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 301.5699999999998,
-      "ganancia": 2871.0129293650734,
+      "adeudo": 311.6299999999998,
+      "ganancia": 2874.36922566137,
       "saldoFavor": 0
     },
     {
@@ -80,8 +80,8 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 59.07000000000001,
-      "ganancia": 297.2563198412697,
+      "adeudo": 76.79,
+      "ganancia": 303.16381984126974,
       "saldoFavor": 0
     },
     {
@@ -1373,6 +1373,13 @@
         "piezas": 1,
         "costoTotal": 17.72,
         "fecha": "4/6/2025, 8:52:43 a.m.",
+        "ganancia": 5.907499999999999
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 17.72,
+        "fecha": "6/6/2025, 8:37:47 a.m.",
         "ganancia": 5.907499999999999
       }
     ],
@@ -4218,6 +4225,27 @@
         "costoTotal": 60.8,
         "fecha": "5/6/2025, 6:10:17 p.m.",
         "ganancia": 20.200000000000003
+      },
+      {
+        "producto": "Leche de chocolate",
+        "piezas": 2,
+        "costoTotal": 20.12,
+        "fecha": "6/6/2025, 8:18:57 a.m.",
+        "ganancia": 6.712592592592594
+      },
+      {
+        "producto": "Kinder delice coco",
+        "piezas": 1,
+        "costoTotal": 17.74,
+        "fecha": "6/6/2025, 8:19:29 a.m.",
+        "ganancia": 5.914999999999999
+      },
+      {
+        "producto": "Leche de chocolate",
+        "piezas": 1,
+        "costoTotal": 10.06,
+        "fecha": "6/6/2025, 8:19:29 a.m.",
+        "ganancia": 3.356296296296297
       }
     ],
     "Edgar": [
@@ -5354,6 +5382,20 @@
         "costoTotal": 22.31,
         "fecha": "4/6/2025, 8:21:40 a.m.",
         "ganancia": 7.434999999999999
+      },
+      {
+        "producto": "Emperador zenso",
+        "piezas": 1,
+        "costoTotal": 22.31,
+        "fecha": "6/6/2025, 8:37:23 a.m.",
+        "ganancia": 7.434999999999999
+      },
+      {
+        "producto": "Leche de chocolate",
+        "piezas": 1,
+        "costoTotal": 10.06,
+        "fecha": "6/6/2025, 8:37:23 a.m.",
+        "ganancia": 3.356296296296297
       }
     ],
     "Francisco": [
@@ -17044,6 +17086,13 @@
         "costoTotal": 10.06,
         "fecha": "5/6/2025, 6:09:41 p.m.",
         "ganancia": 3.356296296296297
+      },
+      {
+        "producto": "Leche de chocolate",
+        "piezas": 1,
+        "costoTotal": 10.06,
+        "fecha": "6/6/2025, 8:21:04 a.m.",
+        "ganancia": 3.356296296296297
       }
     ],
     "Rafael": [
@@ -19449,6 +19498,13 @@
         "costoTotal": 19.69,
         "fecha": "28/5/2025, 12:14:06 p.m.",
         "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 17.72,
+        "fecha": "6/6/2025, 8:38:13 a.m.",
+        "ganancia": 5.907499999999999
       }
     ],
     "Externo": [
@@ -19952,10 +20008,10 @@
       "descripcion": "Kinder delice coco",
       "precioCompra": 11.82,
       "precioVenta": 17.74,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 11.825
         }
       ]
@@ -19965,10 +20021,10 @@
       "descripcion": "Leche de chocolate",
       "precioCompra": 6.7,
       "precioVenta": 10.06,
-      "piezas": 11,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 6,
           "costoUnitario": 6.703703703703703
         }
       ]
@@ -19986,10 +20042,10 @@
       "descripcion": "Emperador zenso",
       "precioCompra": 14.88,
       "precioVenta": 22.31,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 14.875
         }
       ]
@@ -19999,10 +20055,10 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 11.81,
       "precioVenta": 17.72,
-      "piezas": 10,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 8,
           "costoUnitario": 11.8125
         }
       ]
@@ -21912,6 +21968,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 36808.10000000001,
-  "inversionRecuperada": 34363.61776402099,
-  "gananciasTotales": 17189.302235979016
+  "inversionRecuperada": 34447.4612825395,
+  "gananciasTotales": 17231.248717460505
 }
