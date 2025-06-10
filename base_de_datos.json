@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 75.67,
-      "ganancia": 503.0572057319222,
+      "adeudo": 95.3,
+      "ganancia": 509.60387239858886,
       "saldoFavor": 0
     },
     {
@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 92.99999999999977,
-      "ganancia": 1276.9070144620816,
+      "adeudo": 104.24999999999977,
+      "ganancia": 1280.6570144620816,
       "saldoFavor": 0
     },
     {
@@ -80,8 +80,8 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 96.48,
-      "ganancia": 312.70864144620793,
+      "adeudo": 135.86,
+      "ganancia": 325.83864144620793,
       "saldoFavor": 0
     },
     {
@@ -6056,6 +6056,13 @@
         "costoTotal": 17.74,
         "fecha": "5/6/2025, 7:05:12 a.m.",
         "ganancia": 5.914999999999999
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.63,
+        "fecha": "10/6/2025, 12:43:24 p.m.",
+        "ganancia": 6.546666666666665
       }
     ],
     "Irvin": [
@@ -10654,6 +10661,13 @@
         "costoTotal": 14.25,
         "fecha": "9/6/2025, 5:26:40 p.m.",
         "ganancia": 4.75
+      },
+      {
+        "producto": "Churritos salados",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "10/6/2025, 12:46:42 p.m.",
+        "ganancia": 3.75
       }
     ],
     "Karen": [
@@ -19911,6 +19925,13 @@
         "costoTotal": 19.69,
         "fecha": "9/6/2025, 2:53:29 p.m.",
         "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Coca 500 ml",
+        "piezas": 2,
+        "costoTotal": 39.38,
+        "fecha": "10/6/2025, 12:36:25 p.m.",
+        "ganancia": 13.130000000000003
       }
     ],
     "Externo": [
@@ -20146,7 +20167,7 @@
       ]
     },
     {
-      "codigo": "3",
+      "codigo": "7501086106899",
       "descripcion": "Encendedor",
       "precioCompra": 4.29,
       "precioVenta": 6.44,
@@ -20159,7 +20180,7 @@
       ]
     },
     {
-      "codigo": "7501000318599",
+      "codigo": "7501030424536",
       "descripcion": "Takis",
       "precioCompra": 11.87,
       "precioVenta": 17.8,
@@ -20305,14 +20326,14 @@
       ]
     },
     {
-      "codigo": "7501011115729",
+      "codigo": "7501011130272",
       "descripcion": "Doritos",
       "precioCompra": 13.08,
       "precioVenta": 19.63,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 13.083333333333334
         }
       ]
@@ -20460,10 +20481,10 @@
       "descripcion": "Coca 500 ml",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 23,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 21,
           "costoUnitario": 13.125
         }
       ]
@@ -20850,10 +20871,10 @@
       "descripcion": "Churritos salados",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 7.5
         }
       ]
@@ -22965,6 +22986,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 42598.10000000001,
-  "inversionRecuperada": 35315.53048095217,
-  "gananciasTotales": 17664.79951904785
+  "inversionRecuperada": 35362.363814285505,
+  "gananciasTotales": 17688.226185714517
 }
