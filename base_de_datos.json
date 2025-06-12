@@ -10,22 +10,22 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1361.2600000000004,
-      "ganancia": 3357.1903298059956,
+      "adeudo": 1371.2600000000004,
+      "ganancia": 3360.523663139329,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 370.93,
-      "ganancia": 1018.5934086419752,
+      "adeudo": 434.31,
+      "ganancia": 1039.7234086419753,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 95.3,
-      "ganancia": 509.60387239858886,
+      "adeudo": 114.92999999999999,
+      "ganancia": 516.1505390652555,
       "saldoFavor": 0
     },
     {
@@ -38,15 +38,15 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1416.4200000000003,
-      "ganancia": 1871.5540192239862,
+      "adeudo": 1433.1700000000003,
+      "ganancia": 1877.1340192239861,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 179.18999999999977,
-      "ganancia": 1305.635347795415,
+      "adeudo": 203.56999999999977,
+      "ganancia": 1313.7653477954152,
       "saldoFavor": 0
     },
     {
@@ -59,22 +59,22 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 134.47,
-      "ganancia": 347.4162009700177,
+      "adeudo": 145.72,
+      "ganancia": 351.1662009700177,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 572.2199999999998,
-      "ganancia": 2964.2518250440858,
+      "adeudo": 618.5199999999998,
+      "ganancia": 2979.6907139329746,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 823.6800000000004,
-      "ganancia": 1462.0645070546768,
+      "adeudo": 844.9300000000004,
+      "ganancia": 1469.14784038801,
       "saldoFavor": 0
     },
     {
@@ -4435,6 +4435,13 @@
         "costoTotal": 28.5,
         "fecha": "12/6/2025, 8:38:37 a.m.",
         "ganancia": 9.5
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 10,
+        "fecha": "12/6/2025, 12:33:58 p.m.",
+        "ganancia": 3.333333333333333
       }
     ],
     "Edgar": [
@@ -5683,6 +5690,27 @@
         "costoTotal": 14.25,
         "fecha": "12/6/2025, 8:38:54 a.m.",
         "ganancia": 4.75
+      },
+      {
+        "producto": "Sol",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "12/6/2025, 11:58:16 a.m.",
+        "ganancia": 6.5
+      },
+      {
+        "producto": "Sol limon",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "12/6/2025, 11:58:16 a.m.",
+        "ganancia": 6.5
+      },
+      {
+        "producto": "Arizona mango",
+        "piezas": 1,
+        "costoTotal": 24.38,
+        "fecha": "12/6/2025, 11:58:16 a.m.",
+        "ganancia": 8.129999999999999
       }
     ],
     "Francisco": [
@@ -6209,6 +6237,13 @@
         "piezas": 1,
         "costoTotal": 19.63,
         "fecha": "10/6/2025, 12:43:24 p.m.",
+        "ganancia": 6.546666666666665
+      },
+      {
+        "producto": "Doritos",
+        "piezas": 1,
+        "costoTotal": 19.63,
+        "fecha": "12/6/2025, 11:04:52 a.m.",
         "ganancia": 6.546666666666665
       }
     ],
@@ -9798,6 +9833,20 @@
         "costoTotal": 5.5,
         "fecha": "12/6/2025, 8:31:56 a.m.",
         "ganancia": 1.83
+      },
+      {
+        "producto": "Churritos chile",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "12/6/2025, 10:18:02 a.m.",
+        "ganancia": 3.75
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 1,
+        "costoTotal": 5.5,
+        "fecha": "12/6/2025, 12:34:18 p.m.",
+        "ganancia": 1.83
       }
     ],
     "Isrrael": [
@@ -10941,6 +10990,13 @@
         "costoTotal": 14,
         "fecha": "11/6/2025, 9:35:12 a.m.",
         "ganancia": 4.666666666666666
+      },
+      {
+        "producto": "Arizona mango",
+        "piezas": 1,
+        "costoTotal": 24.38,
+        "fecha": "12/6/2025, 12:07:24 p.m.",
+        "ganancia": 8.129999999999999
       }
     ],
     "Karen": [
@@ -13325,6 +13381,13 @@
         "costoTotal": 16.9,
         "fecha": "10/6/2025, 3:25:11 p.m.",
         "ganancia": 5.633333333333331
+      },
+      {
+        "producto": "Churritos chile",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "12/6/2025, 8:48:11 a.m.",
+        "ganancia": 3.75
       }
     ],
     "Marcos": [
@@ -17856,6 +17919,27 @@
         "costoTotal": 34.88,
         "fecha": "12/6/2025, 8:38:08 a.m.",
         "ganancia": 11.630000000000003
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "12/6/2025, 8:48:21 a.m.",
+        "ganancia": 3.558888888888889
+      },
+      {
+        "producto": "Churritos salados",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "12/6/2025, 10:18:36 a.m.",
+        "ganancia": 3.75
+      },
+      {
+        "producto": "Arizona ponche",
+        "piezas": 1,
+        "costoTotal": 24.38,
+        "fecha": "12/6/2025, 10:18:36 a.m.",
+        "ganancia": 8.129999999999999
       }
     ],
     "Rafael": [
@@ -20021,6 +20105,20 @@
         "costoTotal": 14.25,
         "fecha": "12/6/2025, 8:33:49 a.m.",
         "ganancia": 4.75
+      },
+      {
+        "producto": "Churritos chile",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "12/6/2025, 10:18:13 a.m.",
+        "ganancia": 3.75
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 10,
+        "fecha": "12/6/2025, 12:34:05 p.m.",
+        "ganancia": 3.333333333333333
       }
     ],
     "Vicente": [
@@ -20754,10 +20852,10 @@
       "descripcion": "Doritos",
       "precioCompra": 13.08,
       "precioVenta": 19.63,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 13.083333333333334
         }
       ]
@@ -20814,10 +20912,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 3.67,
       "precioVenta": 5.5,
-      "piezas": 30,
+      "piezas": 29,
       "stockParciales": [
         {
-          "cantidad": 30,
+          "cantidad": 29,
           "costoUnitario": 3.67
         }
       ]
@@ -21061,10 +21159,10 @@
       "descripcion": "Leche de vainilla",
       "precioCompra": 7.11,
       "precioVenta": 10.67,
-      "piezas": 24,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 23,
           "costoUnitario": 7.111111111111111
         }
       ]
@@ -21150,10 +21248,10 @@
       "descripcion": "Arizona ponche",
       "precioCompra": 16.25,
       "precioVenta": 24.38,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 16.25
         }
       ]
@@ -21163,10 +21261,10 @@
       "descripcion": "Arizona mango",
       "precioCompra": 16.25,
       "precioVenta": 24.38,
-      "piezas": 7,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 5,
           "costoUnitario": 16.25
         }
       ]
@@ -21176,10 +21274,10 @@
       "descripcion": "Bonice",
       "precioCompra": 6.67,
       "precioVenta": 10,
-      "piezas": 20,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 18,
           "costoUnitario": 6.666666666666667
         }
       ]
@@ -21189,10 +21287,10 @@
       "descripcion": "Sol",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 13
         }
       ]
@@ -21228,10 +21326,10 @@
       "descripcion": "Sol limon",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 13
         }
       ]
@@ -21280,10 +21378,10 @@
       "descripcion": "Churritos salados",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 7.5
         }
       ]
@@ -21293,10 +21391,10 @@
       "descripcion": "Churritos chile",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 9,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 6,
           "costoUnitario": 7.5
         }
       ]
@@ -23395,6 +23493,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 42598.10000000001,
-  "inversionRecuperada": 36202.486822222,
-  "gananciasTotales": 18108.143177778038
+  "inversionRecuperada": 36344.434599999775,
+  "gananciasTotales": 18179.13540000026
 }
