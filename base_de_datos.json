@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1119.1400000000006,
-      "ganancia": 3443.020329805996,
+      "adeudo": 1233.3400000000006,
+      "ganancia": 3481.020329805996,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 624.8700000000001,
-      "ganancia": 1632.5070774250444,
+      "adeudo": 648.7100000000002,
+      "ganancia": 1640.4470774250444,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 77.59,
-      "ganancia": 3039.456547266307,
+      "adeudo": 83.09,
+      "ganancia": 3041.286547266307,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 869.3100000000004,
-      "ganancia": 1477.2778403880102,
+      "adeudo": 889.3100000000004,
+      "ganancia": 1483.9445070546767,
       "saldoFavor": 0
     },
     {
@@ -4512,6 +4512,13 @@
         "costoTotal": 10,
         "fecha": "16/6/2025, 8:15:20 a.m.",
         "ganancia": 3.333333333333333
+      },
+      {
+        "producto": "Malboro",
+        "piezas": 20,
+        "costoTotal": 114.2,
+        "fecha": "17/6/2025, 6:36:44 a.m.",
+        "ganancia": 38
       }
     ],
     "Edgar": [
@@ -13260,6 +13267,27 @@
         "costoTotal": 5.71,
         "fecha": "16/6/2025, 10:15:12 a.m.",
         "ganancia": 1.9
+      },
+      {
+        "producto": "Sol",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "16/6/2025, 11:45:32 a.m.",
+        "ganancia": 6.5
+      },
+      {
+        "producto": "Paleta acidota",
+        "piezas": 2,
+        "costoTotal": 2.92,
+        "fecha": "16/6/2025, 3:12:11 p.m.",
+        "ganancia": 0.97
+      },
+      {
+        "producto": "Winis",
+        "piezas": 2,
+        "costoTotal": 1.42,
+        "fecha": "16/6/2025, 3:12:11 p.m.",
+        "ganancia": 0.47
       }
     ],
     "Laura": [
@@ -18318,6 +18346,13 @@
         "costoTotal": 21.5,
         "fecha": "16/6/2025, 8:17:24 a.m.",
         "ganancia": 7.166666666666666
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 1,
+        "costoTotal": 5.5,
+        "fecha": "17/6/2025, 6:37:04 a.m.",
+        "ganancia": 1.83
       }
     ],
     "Rafael": [
@@ -20504,6 +20539,20 @@
         "costoTotal": 24.38,
         "fecha": "13/6/2025, 12:12:26 p.m.",
         "ganancia": 8.129999999999999
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 10,
+        "fecha": "16/6/2025, 11:21:27 a.m.",
+        "ganancia": 3.333333333333333
+      },
+      {
+        "producto": "Bonice",
+        "piezas": 1,
+        "costoTotal": 10,
+        "fecha": "16/6/2025, 2:50:58 p.m.",
+        "ganancia": 3.333333333333333
       }
     ],
     "Vicente": [
@@ -21176,10 +21225,10 @@
       "descripcion": "Winis",
       "precioCompra": 0.47,
       "precioVenta": 0.71,
-      "piezas": 55,
+      "piezas": 53,
       "stockParciales": [
         {
-          "cantidad": 55,
+          "cantidad": 53,
           "costoUnitario": 0.475
         }
       ]
@@ -21257,10 +21306,10 @@
       "descripcion": "Paleta acidota",
       "precioCompra": 0.97,
       "precioVenta": 1.46,
-      "piezas": 12,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 10,
           "costoUnitario": 0.975
         }
       ]
@@ -21304,10 +21353,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 3.67,
       "precioVenta": 5.5,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 3.67
         }
       ]
@@ -21317,10 +21366,10 @@
       "descripcion": "Malboro",
       "precioCompra": 3.81,
       "precioVenta": 5.71,
-      "piezas": 39,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 39,
+          "cantidad": 19,
           "costoUnitario": 3.81
         }
       ]
@@ -21661,10 +21710,10 @@
       "descripcion": "Bonice",
       "precioCompra": 6.67,
       "precioVenta": 10,
-      "piezas": 14,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 12,
           "costoUnitario": 6.666666666666667
         }
       ]
@@ -21674,10 +21723,10 @@
       "descripcion": "Sol",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 13
         }
       ]
@@ -23880,6 +23929,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 42598.10000000001,
-  "inversionRecuperada": 37240.85940158706,
-  "gananciasTotales": 18627.92059841297
+  "inversionRecuperada": 37349.96273492038,
+  "gananciasTotales": 18682.357265079638
 }
