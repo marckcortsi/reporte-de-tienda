@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 617.57,
-      "ganancia": 1100.8147578483247,
+      "adeudo": 644.74,
+      "ganancia": 1109.8736467372137,
       "saldoFavor": 0
     },
     {
@@ -5956,6 +5956,20 @@
         "costoTotal": 10,
         "fecha": "19/6/2025, 12:32:03 p.m.",
         "ganancia": 3.333333333333333
+      },
+      {
+        "producto": "Leche de chocolate",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "20/6/2025, 9:09:46 a.m.",
+        "ganancia": 3.558888888888889
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "20/6/2025, 9:09:46 a.m.",
+        "ganancia": 5.5
       }
     ],
     "Francisco": [
@@ -21968,10 +21982,10 @@
       "descripcion": "Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 11
         }
       ]
@@ -22002,10 +22016,10 @@
       "descripcion": "Leche de chocolate",
       "precioCompra": 7.11,
       "precioVenta": 10.67,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 7.111111111111111
         }
       ]
@@ -24362,6 +24376,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 42598.10000000001,
-  "inversionRecuperada": 38198.22789365052,
-  "gananciasTotales": 19107.19210634948
+  "inversionRecuperada": 38216.33900476163,
+  "gananciasTotales": 19116.25099523837
 }
