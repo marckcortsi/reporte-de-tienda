@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1455.1800000000007,
-      "ganancia": 3554.971440917107,
+      "adeudo": 1480.1000000000008,
+      "ganancia": 3563.2803298059957,
       "saldoFavor": 0
     },
     {
@@ -59,15 +59,15 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 215.15,
-      "ganancia": 374.31048668430344,
+      "adeudo": 304.34000000000003,
+      "ganancia": 404.3546533509701,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 281.34999999999997,
-      "ganancia": 3107.389444091704,
+      "adeudo": 312.95,
+      "ganancia": 3117.9259520282117,
       "saldoFavor": 0
     },
     {
@@ -80,8 +80,8 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 155.55,
-      "ganancia": 332.4036414462079,
+      "adeudo": 175.24,
+      "ganancia": 338.9686414462079,
       "saldoFavor": 0
     },
     {
@@ -4589,6 +4589,20 @@
         "costoTotal": 28.5,
         "fecha": "19/6/2025, 8:31:28 a.m.",
         "ganancia": 9.5
+      },
+      {
+        "producto": "Nito",
+        "piezas": 1,
+        "costoTotal": 14.25,
+        "fecha": "20/6/2025, 9:04:05 a.m.",
+        "ganancia": 4.75
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "20/6/2025, 9:04:13 a.m.",
+        "ganancia": 3.558888888888889
       }
     ],
     "Edgar": [
@@ -13990,6 +14004,20 @@
         "costoTotal": 11.25,
         "fecha": "17/6/2025, 5:38:22 p.m.",
         "ganancia": 3.75
+      },
+      {
+        "producto": "Marías",
+        "piezas": 4,
+        "costoTotal": 71,
+        "fecha": "20/6/2025, 9:07:57 a.m.",
+        "ganancia": 23.666666666666664
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 18.19,
+        "fecha": "20/6/2025, 9:07:57 a.m.",
+        "ganancia": 6.377500000000001
       }
     ],
     "Marcos": [
@@ -18710,6 +18738,20 @@
         "costoTotal": 10.67,
         "fecha": "19/6/2025, 8:41:21 a.m.",
         "ganancia": 3.558888888888889
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "20/6/2025, 9:08:12 a.m.",
+        "ganancia": 3.558888888888889
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 1,
+        "costoTotal": 20.93,
+        "fecha": "20/6/2025, 9:08:12 a.m.",
+        "ganancia": 6.977619047619047
       }
     ],
     "Rafael": [
@@ -21318,6 +21360,13 @@
         "costoTotal": 19.69,
         "fecha": "13/6/2025, 11:47:47 a.m.",
         "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Coca 500 ml",
+        "piezas": 1,
+        "costoTotal": 19.69,
+        "fecha": "19/6/2025, 5:13:47 p.m.",
+        "ganancia": 6.565000000000001
       }
     ],
     "Externo": [
@@ -21740,10 +21789,10 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 12.13,
       "precioVenta": 18.19,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 11.8125
         },
         {
@@ -21833,10 +21882,10 @@
       "descripcion": "Coca 500 ml",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 13.125
         }
       ]
@@ -21872,13 +21921,8 @@
       "descripcion": "Marías",
       "precioCompra": 11.83,
       "precioVenta": 17.75,
-      "piezas": 4,
-      "stockParciales": [
-        {
-          "cantidad": 4,
-          "costoUnitario": 11.833333333333334
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "038629002068",
@@ -21898,10 +21942,10 @@
       "descripcion": "Oreo",
       "precioCompra": 13.95,
       "precioVenta": 20.93,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 16,
           "costoUnitario": 13.952380952380953
         }
       ]
@@ -21950,13 +21994,8 @@
       "descripcion": "Nito",
       "precioCompra": 9.5,
       "precioVenta": 14.25,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 9.5
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501020570854",
@@ -21989,10 +22028,10 @@
       "descripcion": "Leche de vainilla",
       "precioCompra": 7.11,
       "precioVenta": 10.67,
-      "piezas": 18,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 16,
           "costoUnitario": 7.111111111111111
         }
       ]
@@ -24323,6 +24362,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 42598.10000000001,
-  "inversionRecuperada": 38088.28245714258,
-  "gananciasTotales": 19051.73754285742
+  "inversionRecuperada": 38198.22789365052,
+  "gananciasTotales": 19107.19210634948
 }
