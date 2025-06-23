@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1571.0800000000008,
-      "ganancia": 3593.605567901234,
+      "adeudo": 1602.6800000000007,
+      "ganancia": 3604.1420758377417,
       "saldoFavor": 0
     },
     {
@@ -24,9 +24,9 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 270.92,
-      "ganancia": 568.148872398589,
-      "saldoFavor": 0
+      "adeudo": 0,
+      "ganancia": 585.2322057319224,
+      "saldoFavor": 2.83
     },
     {
       "nombre": "Irvin",
@@ -38,21 +38,21 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1891.9700000000007,
-      "ganancia": 2029.9810033509705,
+      "adeudo": 1950.9900000000007,
+      "ganancia": 2049.6526700176373,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 333.75999999999976,
-      "ganancia": 1357.1636811287485,
+      "adeudo": 345.00999999999976,
+      "ganancia": 1360.9136811287485,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 730.6800000000001,
+      "adeudo": 380.68000000000006,
       "ganancia": 1667.7726329806003,
       "saldoFavor": 0
     },
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 340.14,
-      "ganancia": 3126.9898409171005,
+      "adeudo": 0,
+      "ganancia": 3143.3748409171008,
       "saldoFavor": 0
     },
     {
@@ -4624,6 +4624,20 @@
         "costoTotal": 12.85,
         "fecha": "23/6/2025, 9:12:18 a.m.",
         "ganancia": 4.2785714285714285
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "23/6/2025, 9:30:40 a.m.",
+        "ganancia": 3.558888888888889
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 1,
+        "costoTotal": 20.93,
+        "fecha": "23/6/2025, 9:30:40 a.m.",
+        "ganancia": 6.977619047619047
       }
     ],
     "Edgar": [
@@ -6552,6 +6566,13 @@
         "piezas": 1,
         "costoTotal": 51.25,
         "fecha": "19/6/2025, 12:30:35 p.m.",
+        "ganancia": 17.083333333333336
+      },
+      {
+        "producto": "Coca 3 litros",
+        "piezas": 1,
+        "costoTotal": 51.25,
+        "fecha": "23/6/2025, 5:00:16 p.m.",
         "ganancia": 17.083333333333336
       }
     ],
@@ -10372,6 +10393,20 @@
         "costoTotal": 5.14,
         "fecha": "23/6/2025, 9:09:19 a.m.",
         "ganancia": 1.7114285714285713
+      },
+      {
+        "producto": "Sangría",
+        "piezas": 1,
+        "costoTotal": 53.75,
+        "fecha": "23/6/2025, 4:04:05 p.m.",
+        "ganancia": 17.916666666666664
+      },
+      {
+        "producto": "Palo mall",
+        "piezas": 1,
+        "costoTotal": 5.27,
+        "fecha": "23/6/2025, 4:04:05 p.m.",
+        "ganancia": 1.7549999999999994
       }
     ],
     "Isrrael": [
@@ -11571,6 +11606,13 @@
         "costoTotal": 53.75,
         "fecha": "20/6/2025, 2:53:44 p.m.",
         "ganancia": 17.916666666666664
+      },
+      {
+        "producto": "Churritos salados",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "23/6/2025, 1:01:01 p.m.",
+        "ganancia": 3.75
       }
     ],
     "Karen": [
@@ -18843,6 +18885,27 @@
         "costoTotal": 5.27,
         "fecha": "23/6/2025, 9:05:55 a.m.",
         "ganancia": 1.7549999999999994
+      },
+      {
+        "producto": "Sol jalapeño",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "23/6/2025, 11:08:06 a.m.",
+        "ganancia": 6.5
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24.38,
+        "fecha": "23/6/2025, 11:08:06 a.m.",
+        "ganancia": 8.129999999999999
+      },
+      {
+        "producto": "Palo mall",
+        "piezas": 1,
+        "costoTotal": 5.27,
+        "fecha": "23/6/2025, 4:04:11 p.m.",
+        "ganancia": 1.7549999999999994
       }
     ],
     "Rafael": [
@@ -21857,13 +21920,8 @@
       "descripcion": "Sangría",
       "precioCompra": 35.83,
       "precioVenta": 53.75,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 35.833333333333336
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501071120077",
@@ -21896,10 +21954,10 @@
       "descripcion": "Coca 3 litros",
       "precioCompra": 34.17,
       "precioVenta": 51.25,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 34.166666666666664
         }
       ]
@@ -21961,10 +22019,10 @@
       "descripcion": "Oreo",
       "precioCompra": 13.95,
       "precioVenta": 20.93,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 13.952380952380953
         }
       ]
@@ -22026,10 +22084,10 @@
       "descripcion": "Leche de fresa",
       "precioCompra": 7.11,
       "precioVenta": 10.67,
-      "piezas": 17,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 16,
           "costoUnitario": 7.111111111111111
         }
       ]
@@ -22091,10 +22149,10 @@
       "descripcion": "Arizona kiwi",
       "precioCompra": 16.25,
       "precioVenta": 24.38,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 16.25
         }
       ]
@@ -22156,10 +22214,10 @@
       "descripcion": "Sol jalapeño",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 13
         }
       ]
@@ -22234,10 +22292,10 @@
       "descripcion": "Churritos salados",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 7.5
         }
       ]
@@ -22286,10 +22344,10 @@
       "descripcion": "Palo mall",
       "precioCompra": 3.52,
       "precioVenta": 5.27,
-      "piezas": 98,
+      "piezas": 96,
       "stockParciales": [
         {
-          "cantidad": 98,
+          "cantidad": 96,
           "costoUnitario": 3.515
         }
       ]
@@ -24406,6 +24464,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 43626.60000000001,
-  "inversionRecuperada": 38358.882893650516,
-  "gananciasTotales": 19187.517106349485
+  "inversionRecuperada": 38493.726385714006,
+  "gananciasTotales": 19254.943614285996
 }
