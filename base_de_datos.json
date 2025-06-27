@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 39.92999999999999,
-      "ganancia": 599.4803009700175,
+      "adeudo": 73.72999999999999,
+      "ganancia": 610.7469676366842,
       "saldoFavor": 0
     },
     {
@@ -6679,6 +6679,13 @@
         "costoTotal": 23.13,
         "fecha": "25/6/2025, 9:25:50 a.m.",
         "ganancia": 7.701428571428571
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 2,
+        "costoTotal": 33.8,
+        "fecha": "27/6/2025, 12:41:23 p.m.",
+        "ganancia": 11.266666666666662
       }
     ],
     "Irvin": [
@@ -22453,10 +22460,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 11.27,
       "precioVenta": 16.9,
-      "piezas": 22,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 22,
+          "cantidad": 20,
           "costoUnitario": 11.266666666666667
         }
       ]
@@ -24909,6 +24916,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 43626.60000000001,
-  "inversionRecuperada": 39354.674599999715,
-  "gananciasTotales": 19685.975400000287
+  "inversionRecuperada": 39377.20793333305,
+  "gananciasTotales": 19697.242066666953
 }
