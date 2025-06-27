@@ -4,8 +4,8 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 2537.943310493827,
-      "saldoFavor": 63.3
+      "ganancia": 2545.1099771604936,
+      "saldoFavor": 41.8
     },
     {
       "nombre": "Carlos",
@@ -80,8 +80,8 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 214.62,
-      "ganancia": 352.0986414462079,
+      "adeudo": 289.44,
+      "ganancia": 377.0436414462079,
       "saldoFavor": 0
     },
     {
@@ -1507,6 +1507,13 @@
         "costoTotal": 11.25,
         "fecha": "26/6/2025, 1:25:38 p.m.",
         "ganancia": 3.75
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 21.5,
+        "fecha": "27/6/2025, 2:57:05 p.m.",
+        "ganancia": 7.166666666666666
       }
     ],
     "Carlos": [
@@ -21997,6 +22004,20 @@
         "costoTotal": 19.69,
         "fecha": "26/6/2025, 2:33:15 p.m.",
         "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Coca 500 ml",
+        "piezas": 3,
+        "costoTotal": 59.07000000000001,
+        "fecha": "27/6/2025, 4:30:56 p.m.",
+        "ganancia": 19.695000000000004
+      },
+      {
+        "producto": "Maríanitas coco",
+        "piezas": 1,
+        "costoTotal": 15.75,
+        "fecha": "27/6/2025, 4:30:56 p.m.",
+        "ganancia": 5.25
       }
     ],
     "Externo": [
@@ -22434,10 +22455,10 @@
       "descripcion": "Coca 500 ml",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 12,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 9,
           "costoUnitario": 13.125
         }
       ]
@@ -22473,10 +22494,10 @@
       "descripcion": "Maríanitas coco",
       "precioCompra": 10.5,
       "precioVenta": 15.75,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 10.5
         }
       ]
@@ -22603,10 +22624,10 @@
       "descripcion": "Maruchan camaron",
       "precioCompra": 14.33,
       "precioVenta": 21.5,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 14.333333333333334
         }
       ]
@@ -24916,6 +24937,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 43626.60000000001,
-  "inversionRecuperada": 39377.20793333305,
-  "gananciasTotales": 19697.242066666953
+  "inversionRecuperada": 39441.41626666638,
+  "gananciasTotales": 19729.35373333362
 }
