@@ -4,8 +4,8 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 2534.193310493827,
-      "saldoFavor": 74.55
+      "ganancia": 2537.943310493827,
+      "saldoFavor": 63.3
     },
     {
       "nombre": "Carlos",
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1970.0500000000006,
-      "ganancia": 2056.0026700176377,
+      "adeudo": 1475.3200000000006,
+      "ganancia": 2057.757670017638,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 451.8800000000001,
-      "ganancia": 1691.5076329806006,
+      "adeudo": 505.97000000000014,
+      "ganancia": 1709.530966313934,
       "saldoFavor": 0
     },
     {
@@ -66,22 +66,22 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 344.34000000000003,
-      "ganancia": 3258.1574599647206,
+      "adeudo": 408.86,
+      "ganancia": 3279.6624599647207,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1097.6200000000003,
-      "ganancia": 1553.5741895943597,
+      "adeudo": 1138.1800000000003,
+      "ganancia": 1567.0830784832488,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 194.93,
-      "ganancia": 345.5336414462079,
+      "adeudo": 214.62,
+      "ganancia": 352.0986414462079,
       "saldoFavor": 0
     },
     {
@@ -1500,6 +1500,13 @@
         "costoTotal": 18.19,
         "fecha": "25/6/2025, 1:26:49 p.m.",
         "ganancia": 6.065000000000001
+      },
+      {
+        "producto": "Churritos chile",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "26/6/2025, 1:25:38 p.m.",
+        "ganancia": 3.75
       }
     ],
     "Carlos": [
@@ -10526,6 +10533,13 @@
         "costoTotal": 8.52,
         "fecha": "25/6/2025, 1:36:01 p.m.",
         "ganancia": 2.84
+      },
+      {
+        "producto": "Palo mall",
+        "piezas": 1,
+        "costoTotal": 5.27,
+        "fecha": "27/6/2025, 8:47:23 a.m.",
+        "ganancia": 1.7549999999999994
       }
     ],
     "Isrrael": [
@@ -13834,6 +13848,20 @@
         "costoTotal": 5.27,
         "fecha": "25/6/2025, 5:42:07 p.m.",
         "ganancia": 1.7549999999999994
+      },
+      {
+        "producto": "Winis",
+        "piezas": 4,
+        "costoTotal": 2.84,
+        "fecha": "26/6/2025, 2:28:48 p.m.",
+        "ganancia": 0.94
+      },
+      {
+        "producto": "Coca 3 litros",
+        "piezas": 1,
+        "costoTotal": 51.25,
+        "fecha": "26/6/2025, 2:28:48 p.m.",
+        "ganancia": 17.083333333333336
       }
     ],
     "Laura": [
@@ -19200,6 +19228,41 @@
         "costoTotal": 10.54,
         "fecha": "26/6/2025, 8:19:08 a.m.",
         "ganancia": 3.509999999999999
+      },
+      {
+        "producto": "Arizona kiwi",
+        "piezas": 1,
+        "costoTotal": 24.38,
+        "fecha": "26/6/2025, 2:29:58 p.m.",
+        "ganancia": 8.129999999999999
+      },
+      {
+        "producto": "Paleta acidota",
+        "piezas": 4,
+        "costoTotal": 5.84,
+        "fecha": "26/6/2025, 2:29:58 p.m.",
+        "ganancia": 1.94
+      },
+      {
+        "producto": "Pelón pelo rico",
+        "piezas": 1,
+        "costoTotal": 7.53,
+        "fecha": "26/6/2025, 2:29:58 p.m.",
+        "ganancia": 2.5133333333333336
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 21.5,
+        "fecha": "26/6/2025, 2:33:24 p.m.",
+        "ganancia": 7.166666666666666
+      },
+      {
+        "producto": "Palo mall",
+        "piezas": 1,
+        "costoTotal": 5.27,
+        "fecha": "27/6/2025, 8:47:29 a.m.",
+        "ganancia": 1.7549999999999994
       }
     ],
     "Rafael": [
@@ -21491,6 +21554,41 @@
         "costoTotal": 20.93,
         "fecha": "26/6/2025, 8:18:12 a.m.",
         "ganancia": 6.977619047619047
+      },
+      {
+        "producto": "Winis",
+        "piezas": 7,
+        "costoTotal": 4.97,
+        "fecha": "26/6/2025, 1:02:58 p.m.",
+        "ganancia": 1.645
+      },
+      {
+        "producto": "Paleta acidota",
+        "piezas": 1,
+        "costoTotal": 1.46,
+        "fecha": "26/6/2025, 1:02:58 p.m.",
+        "ganancia": 0.485
+      },
+      {
+        "producto": "Palo mall",
+        "piezas": 1,
+        "costoTotal": 5.27,
+        "fecha": "27/6/2025, 8:47:36 a.m.",
+        "ganancia": 1.7549999999999994
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 18.19,
+        "fecha": "27/6/2025, 8:51:33 a.m.",
+        "ganancia": 6.065000000000001
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "27/6/2025, 8:51:33 a.m.",
+        "ganancia": 3.558888888888889
       }
     ],
     "Vicente": [
@@ -21857,6 +21955,13 @@
         "costoTotal": 19.69,
         "fecha": "24/6/2025, 11:10:02 a.m.",
         "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Coca 500 ml",
+        "piezas": 1,
+        "costoTotal": 19.69,
+        "fecha": "26/6/2025, 2:33:15 p.m.",
+        "ganancia": 6.565000000000001
       }
     ],
     "Externo": [
@@ -22148,10 +22253,10 @@
       "descripcion": "Winis",
       "precioCompra": 0.47,
       "precioVenta": 0.71,
-      "piezas": 40,
+      "piezas": 29,
       "stockParciales": [
         {
-          "cantidad": 40,
+          "cantidad": 29,
           "costoUnitario": 0.475
         }
       ]
@@ -22161,13 +22266,8 @@
       "descripcion": "Pelón pelo rico",
       "precioCompra": 5.02,
       "precioVenta": 7.53,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 5.016666666666667
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7502226815114",
@@ -22213,10 +22313,10 @@
       "descripcion": "Paleta acidota",
       "precioCompra": 0.97,
       "precioVenta": 1.46,
-      "piezas": 9,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 4,
           "costoUnitario": 0.975
         }
       ]
@@ -22239,10 +22339,10 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 12.13,
       "precioVenta": 18.19,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 12.125
         }
       ]
@@ -22286,10 +22386,10 @@
       "descripcion": "Coca 3 litros",
       "precioCompra": 34.17,
       "precioVenta": 51.25,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 34.166666666666664
         }
       ]
@@ -22299,10 +22399,10 @@
       "descripcion": "Coca 500 ml",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 13.125
         }
       ]
@@ -22416,10 +22516,10 @@
       "descripcion": "Leche de fresa",
       "precioCompra": 7.11,
       "precioVenta": 10.67,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 7.111111111111111
         }
       ]
@@ -22468,10 +22568,10 @@
       "descripcion": "Maruchan camaron",
       "precioCompra": 14.33,
       "precioVenta": 21.5,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 14.333333333333334
         }
       ]
@@ -22481,13 +22581,8 @@
       "descripcion": "Arizona kiwi",
       "precioCompra": 16.25,
       "precioVenta": 24.38,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 16.25
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "613008772871",
@@ -22627,10 +22722,10 @@
       "descripcion": "Churritos chile",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 7.5
         }
       ]
@@ -22666,10 +22761,10 @@
       "descripcion": "Palo mall",
       "precioCompra": 3.52,
       "precioVenta": 5.27,
-      "piezas": 79,
+      "piezas": 76,
       "stockParciales": [
         {
-          "cantidad": 79,
+          "cantidad": 76,
           "costoUnitario": 3.515
         }
       ]
@@ -24786,6 +24881,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 43626.60000000001,
-  "inversionRecuperada": 39185.79071111083,
-  "gananciasTotales": 19601.559288889177
+  "inversionRecuperada": 39316.063488888605,
+  "gananciasTotales": 19666.666511111398
 }
