@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1475.3200000000006,
-      "ganancia": 2057.757670017638,
+      "adeudo": 1502.4900000000007,
+      "ganancia": 2066.8165589065266,
       "saldoFavor": 0
     },
     {
@@ -59,15 +59,15 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 304.34000000000003,
-      "ganancia": 404.3546533509701,
+      "adeudo": 315.59000000000003,
+      "ganancia": 408.1046533509701,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 408.86,
-      "ganancia": 3279.6624599647207,
+      "adeudo": 428.36,
+      "ganancia": 3286.1624599647207,
       "saldoFavor": 0
     },
     {
@@ -10540,6 +10540,20 @@
         "costoTotal": 5.27,
         "fecha": "27/6/2025, 8:47:23 a.m.",
         "ganancia": 1.7549999999999994
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "27/6/2025, 9:27:31 a.m.",
+        "ganancia": 3.558888888888889
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "27/6/2025, 9:27:31 a.m.",
+        "ganancia": 5.5
       }
     ],
     "Isrrael": [
@@ -14319,6 +14333,13 @@
         "costoTotal": 18.19,
         "fecha": "20/6/2025, 9:07:57 a.m.",
         "ganancia": 6.377500000000001
+      },
+      {
+        "producto": "Churritos chile",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "27/6/2025, 11:21:43 a.m.",
+        "ganancia": 3.75
       }
     ],
     "Marcos": [
@@ -19263,6 +19284,13 @@
         "costoTotal": 5.27,
         "fecha": "27/6/2025, 8:47:29 a.m.",
         "ganancia": 1.7549999999999994
+      },
+      {
+        "producto": "Sol chipotle",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "27/6/2025, 11:20:29 a.m.",
+        "ganancia": 6.5
       }
     ],
     "Rafael": [
@@ -22477,10 +22505,10 @@
       "descripcion": "Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 11
         }
       ]
@@ -22529,10 +22557,10 @@
       "descripcion": "Leche de vainilla",
       "precioCompra": 7.11,
       "precioVenta": 10.67,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 7.111111111111111
         }
       ]
@@ -22670,10 +22698,10 @@
       "descripcion": "Sol chipotle",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 13
         }
       ]
@@ -22722,10 +22750,10 @@
       "descripcion": "Churritos chile",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 7.5
         }
       ]
@@ -24881,6 +24909,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 43626.60000000001,
-  "inversionRecuperada": 39316.063488888605,
-  "gananciasTotales": 19666.666511111398
+  "inversionRecuperada": 39354.674599999715,
+  "gananciasTotales": 19685.975400000287
 }
