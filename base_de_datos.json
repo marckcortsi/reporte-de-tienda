@@ -4,8 +4,8 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 0,
-      "ganancia": 2545.1099771604936,
-      "saldoFavor": 41.8
+      "ganancia": 2548.8599771604936,
+      "saldoFavor": 30.549999999999997
     },
     {
       "nombre": "Carlos",
@@ -80,8 +80,8 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 289.44,
-      "ganancia": 377.0436414462079,
+      "adeudo": 309.13,
+      "ganancia": 383.6086414462079,
       "saldoFavor": 0
     },
     {
@@ -1514,6 +1514,13 @@
         "costoTotal": 21.5,
         "fecha": "27/6/2025, 2:57:05 p.m.",
         "ganancia": 7.166666666666666
+      },
+      {
+        "producto": "Churritos chile",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "30/6/2025, 2:10:28 p.m.",
+        "ganancia": 3.75
       }
     ],
     "Carlos": [
@@ -22123,6 +22130,13 @@
         "costoTotal": 15.75,
         "fecha": "27/6/2025, 4:30:56 p.m.",
         "ganancia": 5.25
+      },
+      {
+        "producto": "Coca 500 ml",
+        "piezas": 1,
+        "costoTotal": 19.69,
+        "fecha": "30/6/2025, 2:10:14 p.m.",
+        "ganancia": 6.565000000000001
       }
     ],
     "Externo": [
@@ -22560,10 +22574,10 @@
       "descripcion": "Coca 500 ml",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 13.125
         }
       ]
@@ -22883,10 +22897,10 @@
       "descripcion": "Churritos chile",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 7.5
         }
       ]
@@ -25042,6 +25056,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 43626.60000000001,
-  "inversionRecuperada": 39591.78654444415,
-  "gananciasTotales": 19804.543455555846
+  "inversionRecuperada": 39612.41154444415,
+  "gananciasTotales": 19814.858455555845
 }
