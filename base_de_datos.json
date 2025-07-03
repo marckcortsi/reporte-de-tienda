@@ -3,29 +3,29 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 2548.8599771604936,
-      "saldoFavor": 30.549999999999997
+      "adeudo": 199.45,
+      "ganancia": 2625.659977160494,
+      "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1417.010000000001,
-      "ganancia": 3675.585052028218,
+      "adeudo": 1654.100000000001,
+      "ganancia": 3754.611559964725,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 719.57,
-      "ganancia": 1134.818726102293,
+      "adeudo": 853.83,
+      "ganancia": 1179.542614991182,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 73.72999999999999,
-      "ganancia": 610.7469676366842,
+      "adeudo": 82.24999999999999,
+      "ganancia": 613.5869676366842,
       "saldoFavor": 0
     },
     {
@@ -38,50 +38,50 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1553.3100000000009,
-      "ganancia": 2083.7604477954155,
+      "adeudo": 1616.4100000000008,
+      "ganancia": 2104.7843366843044,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 361.90999999999974,
-      "ganancia": 1366.547014462082,
+      "adeudo": 373.15999999999974,
+      "ganancia": 1370.297014462082,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 10.67,
-      "ganancia": 1713.089855202823,
+      "adeudo": 61.92,
+      "ganancia": 1730.1731885361564,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 326.84000000000003,
-      "ganancia": 411.8546533509701,
+      "adeudo": 360.34000000000003,
+      "ganancia": 423.0213200176368,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 455.13,
-      "ganancia": 3295.0841266313873,
+      "adeudo": 512.47,
+      "ganancia": 3314.201904409165,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1210.1000000000004,
-      "ganancia": 1591.0586340388043,
+      "adeudo": 1273.8700000000003,
+      "ganancia": 1612.320697530868,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 383.6086414462079,
+      "adeudo": 19.69,
+      "ganancia": 390.1736414462079,
       "saldoFavor": 0
     },
     {
@@ -1521,6 +1521,20 @@
         "costoTotal": 11.25,
         "fecha": "30/6/2025, 2:10:28 p.m.",
         "ganancia": 3.75
+      },
+      {
+        "producto": "Malboro",
+        "piezas": 20,
+        "costoTotal": 115,
+        "fecha": "2/7/2025, 7:15:34 a.m.",
+        "ganancia": 38.4
+      },
+      {
+        "producto": "Malboro",
+        "piezas": 20,
+        "costoTotal": 115,
+        "fecha": "2/7/2025, 7:16:16 a.m.",
+        "ganancia": 38.4
       }
     ],
     "Carlos": [
@@ -4743,6 +4757,62 @@
         "costoTotal": 7.709999999999999,
         "fecha": "30/6/2025, 8:55:05 a.m.",
         "ganancia": 2.5671428571428567
+      },
+      {
+        "producto": "Montana",
+        "piezas": 25,
+        "costoTotal": 110.25,
+        "fecha": "30/6/2025, 6:03:23 p.m.",
+        "ganancia": 36.75000000000001
+      },
+      {
+        "producto": "Min mamut",
+        "piezas": 3,
+        "costoTotal": 7.709999999999999,
+        "fecha": "1/7/2025, 9:01:08 a.m.",
+        "ganancia": 2.5671428571428567
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "1/7/2025, 9:01:08 a.m.",
+        "ganancia": 3.558888888888889
+      },
+      {
+        "producto": "Rits",
+        "piezas": 1,
+        "costoTotal": 14,
+        "fecha": "1/7/2025, 9:01:08 a.m.",
+        "ganancia": 4.666666666666666
+      },
+      {
+        "producto": "Coca 3 litros",
+        "piezas": 1,
+        "costoTotal": 51.25,
+        "fecha": "1/7/2025, 2:03:01 p.m.",
+        "ganancia": 17.083333333333336
+      },
+      {
+        "producto": "Min mamut",
+        "piezas": 3,
+        "costoTotal": 7.709999999999999,
+        "fecha": "2/7/2025, 8:24:47 a.m.",
+        "ganancia": 2.5671428571428567
+      },
+      {
+        "producto": "Rits",
+        "piezas": 1,
+        "costoTotal": 14,
+        "fecha": "2/7/2025, 8:24:47 a.m.",
+        "ganancia": 4.666666666666666
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 21.5,
+        "fecha": "2/7/2025, 8:24:47 a.m.",
+        "ganancia": 7.166666666666666
       }
     ],
     "Edgar": [
@@ -6145,6 +6215,27 @@
         "costoTotal": 10,
         "fecha": "30/6/2025, 11:57:07 a.m.",
         "ganancia": 3.333333333333333
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 18.19,
+        "fecha": "2/7/2025, 8:25:36 a.m.",
+        "ganancia": 6.065000000000001
+      },
+      {
+        "producto": "Leche de chocolate",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "2/7/2025, 8:25:36 a.m.",
+        "ganancia": 3.558888888888889
+      },
+      {
+        "producto": "Palo mall",
+        "piezas": 20,
+        "costoTotal": 105.39999999999999,
+        "fecha": "2/7/2025, 5:43:59 p.m.",
+        "ganancia": 35.09999999999999
       }
     ],
     "Francisco": [
@@ -6735,6 +6826,13 @@
         "costoTotal": 33.8,
         "fecha": "27/6/2025, 12:41:23 p.m.",
         "ganancia": 11.266666666666662
+      },
+      {
+        "producto": "Top-top hot chili",
+        "piezas": 1,
+        "costoTotal": 8.52,
+        "fecha": "2/7/2025, 11:52:14 a.m.",
+        "ganancia": 2.84
       }
     ],
     "Irvin": [
@@ -10631,6 +10729,34 @@
         "costoTotal": 34.88,
         "fecha": "30/6/2025, 10:14:42 a.m.",
         "ganancia": 11.630000000000003
+      },
+      {
+        "producto": "Palo mall",
+        "piezas": 5,
+        "costoTotal": 26.349999999999998,
+        "fecha": "1/7/2025, 7:54:40 a.m.",
+        "ganancia": 8.774999999999997
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "2/7/2025, 8:47:05 a.m.",
+        "ganancia": 3.558888888888889
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 20.81,
+        "fecha": "2/7/2025, 8:47:05 a.m.",
+        "ganancia": 6.934999999999999
+      },
+      {
+        "producto": "Palo mall",
+        "piezas": 1,
+        "costoTotal": 5.27,
+        "fecha": "2/7/2025, 8:47:05 a.m.",
+        "ganancia": 1.7549999999999994
       }
     ],
     "Isrrael": [
@@ -11844,6 +11970,13 @@
         "costoTotal": 16.9,
         "fecha": "26/6/2025, 8:59:32 a.m.",
         "ganancia": 5.633333333333331
+      },
+      {
+        "producto": "Churritos salados",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "2/7/2025, 5:24:17 p.m.",
+        "ganancia": 3.75
       }
     ],
     "Karen": [
@@ -13960,6 +14093,27 @@
         "costoTotal": 10.67,
         "fecha": "30/6/2025, 12:56:20 p.m.",
         "ganancia": 3.558888888888889
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 21.5,
+        "fecha": "1/7/2025, 4:42:28 p.m.",
+        "ganancia": 7.166666666666666
+      },
+      {
+        "producto": "Maríanitas coco",
+        "piezas": 1,
+        "costoTotal": 15.75,
+        "fecha": "1/7/2025, 4:42:28 p.m.",
+        "ganancia": 5.25
+      },
+      {
+        "producto": "Rits",
+        "piezas": 1,
+        "costoTotal": 14,
+        "fecha": "2/7/2025, 8:24:58 a.m.",
+        "ganancia": 4.666666666666666
       }
     ],
     "Laura": [
@@ -14431,6 +14585,20 @@
         "costoTotal": 11.25,
         "fecha": "30/6/2025, 1:28:25 p.m.",
         "ganancia": 3.75
+      },
+      {
+        "producto": "Sol adobadas",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "1/7/2025, 11:18:59 a.m.",
+        "ganancia": 6.5
+      },
+      {
+        "producto": "Rits",
+        "piezas": 1,
+        "costoTotal": 14,
+        "fecha": "1/7/2025, 11:18:59 a.m.",
+        "ganancia": 4.666666666666666
       }
     ],
     "Marcos": [
@@ -19396,6 +19564,34 @@
         "costoTotal": 21.5,
         "fecha": "30/6/2025, 8:54:27 a.m.",
         "ganancia": 7.166666666666666
+      },
+      {
+        "producto": "Sol limon",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "1/7/2025, 7:56:58 a.m.",
+        "ganancia": 6.5
+      },
+      {
+        "producto": "Leche de chocolate",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "1/7/2025, 7:56:58 a.m.",
+        "ganancia": 3.558888888888889
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "1/7/2025, 7:56:58 a.m.",
+        "ganancia": 5.5
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "2/7/2025, 5:51:40 p.m.",
+        "ganancia": 3.558888888888889
       }
     ],
     "Rafael": [
@@ -21743,6 +21939,34 @@
         "costoTotal": 10,
         "fecha": "30/6/2025, 11:55:58 a.m.",
         "ganancia": 3.333333333333333
+      },
+      {
+        "producto": "Leche de chocolate",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "2/7/2025, 8:23:40 a.m.",
+        "ganancia": 3.558888888888889
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 1,
+        "costoTotal": 20.93,
+        "fecha": "2/7/2025, 8:23:40 a.m.",
+        "ganancia": 6.977619047619047
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 21.5,
+        "fecha": "2/7/2025, 12:23:36 p.m.",
+        "ganancia": 7.166666666666666
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "3/7/2025, 8:37:32 a.m.",
+        "ganancia": 3.558888888888889
       }
     ],
     "Vicente": [
@@ -22137,6 +22361,13 @@
         "costoTotal": 19.69,
         "fecha": "30/6/2025, 2:10:14 p.m.",
         "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Coca 500 ml",
+        "piezas": 1,
+        "costoTotal": 19.69,
+        "fecha": "1/7/2025, 3:43:29 p.m.",
+        "ganancia": 6.565000000000001
       }
     ],
     "Externo": [
@@ -22376,10 +22607,10 @@
       "descripcion": "Top-top hot chili",
       "precioCompra": 5.68,
       "precioVenta": 8.52,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 5.68
         }
       ]
@@ -22514,10 +22745,10 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 12.13,
       "precioVenta": 18.19,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 12.125
         }
       ]
@@ -22561,10 +22792,10 @@
       "descripcion": "Coca 3 litros",
       "precioCompra": 34.17,
       "precioVenta": 51.25,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 34.166666666666664
         }
       ]
@@ -22574,10 +22805,10 @@
       "descripcion": "Coca 500 ml",
       "precioCompra": 13.13,
       "precioVenta": 19.69,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 13.125
         }
       ]
@@ -22587,10 +22818,10 @@
       "descripcion": "Min mamut",
       "precioCompra": 1.71,
       "precioVenta": 2.57,
-      "piezas": 42,
+      "piezas": 36,
       "stockParciales": [
         {
-          "cantidad": 42,
+          "cantidad": 36,
           "costoUnitario": 1.7142857142857142
         }
       ]
@@ -22613,10 +22844,10 @@
       "descripcion": "Maríanitas coco",
       "precioCompra": 10.5,
       "precioVenta": 15.75,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 10.5
         }
       ]
@@ -22626,10 +22857,10 @@
       "descripcion": "Oreo",
       "precioCompra": 13.95,
       "precioVenta": 20.93,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 13.952380952380953
         }
       ]
@@ -22639,10 +22870,10 @@
       "descripcion": "Emperador senzo",
       "precioCompra": 13.88,
       "precioVenta": 20.81,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 13.875
         }
       ]
@@ -22652,10 +22883,10 @@
       "descripcion": "Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 11
         }
       ]
@@ -22678,10 +22909,10 @@
       "descripcion": "Leche de chocolate",
       "precioCompra": 7.11,
       "precioVenta": 10.67,
-      "piezas": 5,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 2,
           "costoUnitario": 7.111111111111111
         }
       ]
@@ -22691,10 +22922,10 @@
       "descripcion": "Leche de fresa",
       "precioCompra": 7.11,
       "precioVenta": 10.67,
-      "piezas": 14,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 11,
           "costoUnitario": 7.111111111111111
         }
       ]
@@ -22704,10 +22935,10 @@
       "descripcion": "Leche de vainilla",
       "precioCompra": 7.11,
       "precioVenta": 10.67,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 7.111111111111111
         }
       ]
@@ -22717,10 +22948,10 @@
       "descripcion": "Rits",
       "precioCompra": 9.33,
       "precioVenta": 14,
-      "piezas": 11,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 7,
           "costoUnitario": 9.333333333333334
         }
       ]
@@ -22743,10 +22974,10 @@
       "descripcion": "Maruchan camaron",
       "precioCompra": 14.33,
       "precioVenta": 21.5,
-      "piezas": 5,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 2,
           "costoUnitario": 14.333333333333334
         }
       ]
@@ -22832,10 +23063,10 @@
       "descripcion": "Sol limon",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 13
         }
       ]
@@ -22871,10 +23102,10 @@
       "descripcion": "Sol adobadas",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 13
         }
       ]
@@ -22884,10 +23115,10 @@
       "descripcion": "Churritos salados",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 7.5
         }
       ]
@@ -22910,10 +23141,10 @@
       "descripcion": "Malboro",
       "precioCompra": 3.83,
       "precioVenta": 5.75,
-      "piezas": 79,
+      "piezas": 39,
       "stockParciales": [
         {
-          "cantidad": 79,
+          "cantidad": 39,
           "costoUnitario": 3.83
         }
       ]
@@ -22923,10 +23154,10 @@
       "descripcion": "Montana",
       "precioCompra": 2.94,
       "precioVenta": 4.41,
-      "piezas": 69,
+      "piezas": 44,
       "stockParciales": [
         {
-          "cantidad": 69,
+          "cantidad": 44,
           "costoUnitario": 2.94
         }
       ]
@@ -22936,10 +23167,10 @@
       "descripcion": "Palo mall",
       "precioCompra": 3.52,
       "precioVenta": 5.27,
-      "piezas": 74,
+      "piezas": 48,
       "stockParciales": [
         {
-          "cantidad": 74,
+          "cantidad": 48,
           "costoUnitario": 3.515
         }
       ]
@@ -25056,6 +25287,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 43626.60000000001,
-  "inversionRecuperada": 39612.41154444415,
-  "gananciasTotales": 19814.858455555845
+  "inversionRecuperada": 40218.82241746002,
+  "gananciasTotales": 20118.217582539983
 }
