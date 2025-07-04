@@ -30,8 +30,8 @@
     },
     {
       "nombre": "Irvin",
-      "bloqueado": true,
-      "adeudo": 1505.9700000000003,
+      "bloqueado": false,
+      "adeudo": 1335.9700000000003,
       "ganancia": 999.8443597001758,
       "saldoFavor": 0
     },
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 551.6600000000001,
-      "ganancia": 3327.266904409165,
+      "adeudo": 562.33,
+      "ganancia": 3330.8257932980537,
       "saldoFavor": 0
     },
     {
@@ -19746,6 +19746,13 @@
         "costoTotal": 19.69,
         "fecha": "3/7/2025, 11:41:01 a.m.",
         "ganancia": 6.565000000000001
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "4/7/2025, 8:36:50 a.m.",
+        "ganancia": 3.558888888888889
       }
     ],
     "Rafael": [
@@ -23117,10 +23124,10 @@
       "descripcion": "Leche de vainilla",
       "precioCompra": 7.11,
       "precioVenta": 10.67,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 7.111111111111111
         }
       ]
@@ -25464,6 +25471,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 43626.60000000001,
-  "inversionRecuperada": 40555.55797301557,
-  "gananciasTotales": 20286.55202698442
+  "inversionRecuperada": 40562.66908412668,
+  "gananciasTotales": 20290.11091587331
 }
