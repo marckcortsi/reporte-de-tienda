@@ -4,84 +4,84 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 424.93,
-      "ganancia": 2700.8899771604933,
+      "ganancia": 2702.3524771604934,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1886.6900000000012,
-      "ganancia": 3832.1014805996456,
+      "adeudo": 1902.5000000000011,
+      "ganancia": 3849.3228694885343,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
       "adeudo": 853.83,
-      "ganancia": 1179.542614991182,
+      "ganancia": 1181.0051149911822,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 118.97999999999998,
-      "ganancia": 625.8319676366843,
+      "adeudo": 152.77999999999997,
+      "ganancia": 638.561134303351,
       "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
       "adeudo": 1386.8800000000003,
-      "ganancia": 1016.8168597001759,
+      "ganancia": 1018.2793597001759,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1779.4100000000008,
-      "ganancia": 2159.1197335097017,
+      "adeudo": 1810.8900000000008,
+      "ganancia": 2171.0761223985905,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
       "adeudo": 485.47999999999973,
-      "ganancia": 1407.7420144620821,
+      "ganancia": 1409.2045144620822,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 109.39999999999999,
-      "ganancia": 1745.9981885361567,
+      "adeudo": 125.89999999999999,
+      "ganancia": 1752.9606885361568,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
       "adeudo": 420.09000000000003,
-      "ganancia": 442.9379866843035,
+      "ganancia": 444.4004866843035,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 748.1099999999999,
-      "ganancia": 3492.812571075832,
+      "adeudo": 778.2799999999999,
+      "ganancia": 3504.3339599647206,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1408.0900000000006,
-      "ganancia": 1657.0684753086462,
+      "adeudo": 1428.9000000000005,
+      "ganancia": 1665.4659753086462,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
       "adeudo": 57.57000000000001,
-      "ganancia": 402.8036414462079,
+      "ganancia": 404.2661414462079,
       "saldoFavor": 0
     },
     {
@@ -4932,6 +4932,27 @@
         "costoTotal": 5.27,
         "fecha": "7/7/2025, 4:57:18 p.m.",
         "ganancia": 1.7549999999999994
+      },
+      {
+        "producto": "Palo mall",
+        "piezas": 3,
+        "costoTotal": 15.809999999999999,
+        "fecha": "7/7/2025, 5:41:02 p.m.",
+        "ganancia": 5.264999999999999
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "8/7/2025, 8:23:03 a.m.",
+        "ganancia": 3.558888888888889
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 20.81,
+        "fecha": "8/7/2025, 8:23:03 a.m.",
+        "ganancia": 6.934999999999999
       }
     ],
     "Edgar": [
@@ -6973,6 +6994,13 @@
         "costoTotal": 8.52,
         "fecha": "7/7/2025, 12:21:38 p.m.",
         "ganancia": 2.84
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 2,
+        "costoTotal": 33.8,
+        "fecha": "8/7/2025, 12:17:40 p.m.",
+        "ganancia": 11.266666666666662
       }
     ],
     "Irvin": [
@@ -10988,6 +11016,20 @@
         "costoTotal": 8.52,
         "fecha": "7/7/2025, 12:34:07 p.m.",
         "ganancia": 2.84
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 20.81,
+        "fecha": "8/7/2025, 8:57:12 a.m.",
+        "ganancia": 6.934999999999999
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "8/7/2025, 8:57:12 a.m.",
+        "ganancia": 3.558888888888889
       }
     ],
     "Isrrael": [
@@ -14408,6 +14450,13 @@
         "costoTotal": 5.27,
         "fecha": "7/7/2025, 5:21:12 p.m.",
         "ganancia": 1.7549999999999994
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "8/7/2025, 8:27:25 a.m.",
+        "ganancia": 5.5
       }
     ],
     "Laura": [
@@ -20026,6 +20075,20 @@
         "costoTotal": 5.27,
         "fecha": "7/7/2025, 5:21:07 p.m.",
         "ganancia": 1.7549999999999994
+      },
+      {
+        "producto": "Sol chipotle",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "8/7/2025, 9:57:27 a.m.",
+        "ganancia": 6.5
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 1,
+        "costoTotal": 10.67,
+        "fecha": "8/7/2025, 9:57:27 a.m.",
+        "ganancia": 3.558888888888889
       }
     ],
     "Rafael": [
@@ -22457,6 +22520,13 @@
         "costoTotal": 8.52,
         "fecha": "7/7/2025, 12:44:24 p.m.",
         "ganancia": 2.84
+      },
+      {
+        "producto": "Emperador senzo",
+        "piezas": 1,
+        "costoTotal": 20.81,
+        "fecha": "8/7/2025, 8:28:23 a.m.",
+        "ganancia": 6.934999999999999
       }
     ],
     "Vicente": [
@@ -23063,6 +23133,13 @@
         "costoTotal": 12.88,
         "fecha": "9/6/2025, 8:30:58 a.m.",
         "ganancia": 4.293600000000001
+      },
+      {
+        "producto": "Palo mall",
+        "piezas": 10,
+        "costoTotal": 52.699999999999996,
+        "fecha": "7/7/2025, 5:41:17 p.m.",
+        "ganancia": 17.549999999999994
       }
     ]
   },
@@ -23105,14 +23182,6 @@
           "costoUnitario": 4.2932
         }
       ]
-    },
-    {
-      "codigo": "75003660007971",
-      "descripcion": "Top-top hot chili",
-      "precioCompra": 5.68,
-      "precioVenta": 8.52,
-      "piezas": 0,
-      "stockParciales": []
     },
     {
       "codigo": "75010065590191",
@@ -23236,10 +23305,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 11.27,
       "precioVenta": 16.9,
-      "piezas": 20,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 18,
           "costoUnitario": 11.266666666666667
         }
       ]
@@ -23275,10 +23344,10 @@
       "descripcion": "Emperador senzo",
       "precioCompra": 13.88,
       "precioVenta": 20.81,
-      "piezas": 9,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 6,
           "costoUnitario": 13.875
         }
       ]
@@ -23288,10 +23357,10 @@
       "descripcion": "Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 11
         }
       ]
@@ -23314,10 +23383,10 @@
       "descripcion": "Leche de fresa",
       "precioCompra": 7.11,
       "precioVenta": 10.67,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 7.111111111111111
         }
       ]
@@ -23327,10 +23396,10 @@
       "descripcion": "Leche de vainilla",
       "precioCompra": 7.11,
       "precioVenta": 10.67,
-      "piezas": 4,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 2,
           "costoUnitario": 7.111111111111111
         }
       ]
@@ -23431,10 +23500,10 @@
       "descripcion": "Sol chipotle",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 13
         }
       ]
@@ -23462,27 +23531,6 @@
         {
           "cantidad": 4,
           "costoUnitario": 13
-        }
-      ]
-    },
-    {
-      "codigo": "7503020760020",
-      "descripcion": "Churritos salados",
-      "precioCompra": 7.5,
-      "precioVenta": 11.25,
-      "piezas": 0,
-      "stockParciales": []
-    },
-    {
-      "codigo": "3",
-      "descripcion": "Palo mall",
-      "precioCompra": 3.52,
-      "precioVenta": 5.27,
-      "piezas": 13,
-      "stockParciales": [
-        {
-          "cantidad": 13,
-          "costoUnitario": 3.515
         }
       ]
     }
@@ -25598,6 +25646,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 43626.60000000001,
-  "inversionRecuperada": 41309.37448888857,
-  "gananciasTotales": 20663.66551111142
+  "inversionRecuperada": 41464.56115555523,
+  "gananciasTotales": 20741.228844444755
 }
