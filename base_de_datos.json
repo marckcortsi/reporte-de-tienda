@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1891.2800000000009,
-      "ganancia": 2197.8689001763682,
+      "adeudo": 1909.470000000001,
+      "ganancia": 2203.9339001763683,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 144.09,
-      "ganancia": 1759.0256885361568,
+      "adeudo": 160.99,
+      "ganancia": 1764.6590218694903,
       "saldoFavor": 0
     },
     {
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1508.4800000000007,
-      "ganancia": 1691.9963721340432,
+      "adeudo": 1527.9800000000007,
+      "ganancia": 1698.4963721340432,
       "saldoFavor": 0
     },
     {
@@ -11198,6 +11198,13 @@
         "costoTotal": 19.5,
         "fecha": "11/7/2025, 12:42:03 p.m.",
         "ganancia": 6.5
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 18.19,
+        "fecha": "14/7/2025, 10:57:35 a.m.",
+        "ganancia": 6.065000000000001
       }
     ],
     "Isrrael": [
@@ -14639,6 +14646,13 @@
         "costoTotal": 18.19,
         "fecha": "10/7/2025, 8:40:42 a.m.",
         "ganancia": 6.065000000000001
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.9,
+        "fecha": "14/7/2025, 12:55:02 p.m.",
+        "ganancia": 5.633333333333331
       }
     ],
     "Laura": [
@@ -22800,6 +22814,13 @@
         "costoTotal": 20.93,
         "fecha": "11/7/2025, 12:41:46 p.m.",
         "ganancia": 6.977619047619047
+      },
+      {
+        "producto": "Sol adobadas",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "14/7/2025, 12:59:30 p.m.",
+        "ganancia": 6.5
       }
     ],
     "Vicente": [
@@ -23549,10 +23570,10 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 12.13,
       "precioVenta": 18.19,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 12.125
         }
       ]
@@ -23575,10 +23596,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 11.27,
       "precioVenta": 16.9,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 11.266666666666667
         }
       ]
@@ -23791,10 +23812,10 @@
       "descripcion": "Sol adobadas",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 13
         }
       ]
@@ -25911,6 +25932,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 43626.60000000001,
-  "inversionRecuperada": 41889.917306348885,
-  "gananciasTotales": 20953.922693651115
+  "inversionRecuperada": 41926.308973015555,
+  "gananciasTotales": 20972.12102698445
 }
