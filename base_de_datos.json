@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1987.1700000000012,
-      "ganancia": 3877.544456790121,
+      "adeudo": 2008.1000000000013,
+      "ganancia": 3884.52207583774,
       "saldoFavor": 0
     },
     {
@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1438.6300000000003,
-      "ganancia": 1035.5293597001757,
+      "adeudo": 1459.5600000000004,
+      "ganancia": 1042.5069787477948,
       "saldoFavor": 0
     },
     {
@@ -59,29 +59,29 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 456.49,
-      "ganancia": 456.5338200176368,
+      "adeudo": 477.42,
+      "ganancia": 463.51143906525584,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 873.4499999999998,
-      "ganancia": 3536.0626901234505,
+      "adeudo": 892.9499999999998,
+      "ganancia": 3542.5626901234505,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1527.9800000000007,
-      "ganancia": 1698.4963721340432,
+      "adeudo": 1548.9100000000008,
+      "ganancia": 1705.4739911816623,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 93.95000000000002,
-      "ganancia": 416.3961414462079,
+      "adeudo": 112.14000000000001,
+      "ganancia": 422.4611414462079,
       "saldoFavor": 0
     },
     {
@@ -5016,6 +5016,13 @@
         "costoTotal": 14,
         "fecha": "14/7/2025, 9:54:28 a.m.",
         "ganancia": 4.666666666666666
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 1,
+        "costoTotal": 20.93,
+        "fecha": "15/7/2025, 8:42:07 a.m.",
+        "ganancia": 6.977619047619047
       }
     ],
     "Edgar": [
@@ -8298,6 +8305,13 @@
         "costoTotal": 20.81,
         "fecha": "14/7/2025, 9:54:44 a.m.",
         "ganancia": 6.934999999999999
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 1,
+        "costoTotal": 20.93,
+        "fecha": "15/7/2025, 9:00:09 a.m.",
+        "ganancia": 6.977619047619047
       }
     ],
     "Isac": [
@@ -15180,6 +15194,13 @@
         "costoTotal": 16.9,
         "fecha": "8/7/2025, 12:30:21 p.m.",
         "ganancia": 5.633333333333331
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 1,
+        "costoTotal": 20.93,
+        "fecha": "15/7/2025, 9:22:56 a.m.",
+        "ganancia": 6.977619047619047
       }
     ],
     "Marcos": [
@@ -20341,6 +20362,13 @@
         "costoTotal": 20.93,
         "fecha": "11/7/2025, 8:43:52 a.m.",
         "ganancia": 6.977619047619047
+      },
+      {
+        "producto": "Sol jalapeño",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "14/7/2025, 3:22:41 p.m.",
+        "ganancia": 6.5
       }
     ],
     "Rafael": [
@@ -22821,6 +22849,13 @@
         "costoTotal": 19.5,
         "fecha": "14/7/2025, 12:59:30 p.m.",
         "ganancia": 6.5
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 1,
+        "costoTotal": 20.93,
+        "fecha": "15/7/2025, 9:04:27 a.m.",
+        "ganancia": 6.977619047619047
       }
     ],
     "Vicente": [
@@ -23243,6 +23278,13 @@
         "costoTotal": 36.38,
         "fecha": "10/7/2025, 8:13:31 a.m.",
         "ganancia": 12.130000000000003
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 18.19,
+        "fecha": "14/7/2025, 5:28:29 p.m.",
+        "ganancia": 6.065000000000001
       }
     ],
     "Externo": [
@@ -23570,10 +23612,10 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 12.13,
       "precioVenta": 18.19,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 12.125
         }
       ]
@@ -23622,10 +23664,10 @@
       "descripcion": "Oreo",
       "precioCompra": 13.95,
       "precioVenta": 20.93,
-      "piezas": 7,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 3,
           "costoUnitario": 13.952380952380953
         }
       ]
@@ -23752,10 +23794,10 @@
       "descripcion": "Sol jalapeño",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 13
         }
       ]
@@ -25932,6 +25974,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 43626.60000000001,
-  "inversionRecuperada": 41926.308973015555,
-  "gananciasTotales": 20972.12102698445
+  "inversionRecuperada": 42007.24349682508,
+  "gananciasTotales": 21012.596503174922
 }
