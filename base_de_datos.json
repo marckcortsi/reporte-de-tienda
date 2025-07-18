@@ -3,9 +3,9 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 551.9000000000001,
+      "adeudo": 0,
       "ganancia": 2744.6825962081125,
-      "saldoFavor": 0
+      "saldoFavor": 49
     },
     {
       "nombre": "Carlos",
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1909.470000000001,
-      "ganancia": 2203.9339001763683,
+      "adeudo": 1425.970000000001,
+      "ganancia": 2209.4339001763683,
       "saldoFavor": 0
     },
     {
@@ -11296,6 +11296,13 @@
         "costoTotal": 18.19,
         "fecha": "14/7/2025, 10:57:35 a.m.",
         "ganancia": 6.065000000000001
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "18/7/2025, 9:30:26 a.m.",
+        "ganancia": 5.5
       }
     ],
     "Isrrael": [
@@ -23802,10 +23809,10 @@
       "descripcion": "Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 11
         }
       ]
@@ -26000,6 +26007,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 43626.60000000001,
-  "inversionRecuperada": 42246.360795237786,
-  "gananciasTotales": 21132.169204762213
+  "inversionRecuperada": 42257.360795237786,
+  "gananciasTotales": 21137.669204762213
 }
