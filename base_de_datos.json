@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1000.3500000000008,
-      "ganancia": 1707.6207911816623,
+      "adeudo": 1016.8500000000008,
+      "ganancia": 1713.1207911816623,
       "saldoFavor": 0
     },
     {
@@ -23003,6 +23003,13 @@
         "costoTotal": 6.44,
         "fecha": "17/7/2025, 8:33:54 a.m.",
         "ganancia": 2.1468000000000007
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 16.5,
+        "fecha": "18/7/2025, 9:09:21 a.m.",
+        "ganancia": 5.5
       }
     ],
     "Vicente": [
@@ -23795,10 +23802,10 @@
       "descripcion": "Chokis",
       "precioCompra": 11,
       "precioVenta": 16.5,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 11
         }
       ]
@@ -25993,6 +26000,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 43626.60000000001,
-  "inversionRecuperada": 42235.360795237786,
-  "gananciasTotales": 21126.669204762213
+  "inversionRecuperada": 42246.360795237786,
+  "gananciasTotales": 21132.169204762213
 }
