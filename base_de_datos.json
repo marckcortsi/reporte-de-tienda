@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 517.21,
-      "ganancia": 2733.1175962081124,
+      "adeudo": 535.4000000000001,
+      "ganancia": 2739.1825962081125,
       "saldoFavor": 0
     },
     {
@@ -24,7 +24,7 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 250.99999999999997,
+      "adeudo": 0,
       "ganancia": 671.301372398589,
       "saldoFavor": 0
     },
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 935.9499999999998,
-      "ganancia": 3564.013801234561,
+      "adeudo": 535.9499999999998,
+      "ganancia": 3570.513801234561,
       "saldoFavor": 0
     },
     {
@@ -1605,6 +1605,13 @@
         "costoTotal": 19.5,
         "fecha": "17/7/2025, 8:31:08 a.m.",
         "ganancia": 6.5
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 18.19,
+        "fecha": "17/7/2025, 3:17:17 p.m.",
+        "ganancia": 6.065000000000001
       }
     ],
     "Carlos": [
@@ -20488,6 +20495,13 @@
         "costoTotal": 10.67,
         "fecha": "17/7/2025, 8:35:47 a.m.",
         "ganancia": 3.558888888888889
+      },
+      {
+        "producto": "Sol chipotle",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "17/7/2025, 3:17:01 p.m.",
+        "ganancia": 6.5
       }
     ],
     "Rafael": [
@@ -23709,10 +23723,10 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 12.13,
       "precioVenta": 18.19,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.125
         }
       ]
@@ -23839,10 +23853,10 @@
       "descripcion": "Sol chipotle",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 13
         }
       ]
@@ -25972,6 +25986,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 43626.60000000001,
-  "inversionRecuperada": 42199.235795237786,
-  "gananciasTotales": 21108.604204762214
+  "inversionRecuperada": 42224.360795237786,
+  "gananciasTotales": 21121.169204762213
 }
