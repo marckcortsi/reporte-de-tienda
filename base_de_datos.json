@@ -45,15 +45,15 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 537.5099999999998,
+      "adeudo": 0,
       "ganancia": 1426.5416573192251,
-      "saldoFavor": 0
+      "saldoFavor": 1.49
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 1764.6590218694903,
+      "adeudo": 16.9,
+      "ganancia": 1770.2923552028237,
       "saldoFavor": 0
     },
     {
@@ -14765,6 +14765,13 @@
         "costoTotal": 16.9,
         "fecha": "14/7/2025, 12:55:02 p.m.",
         "ganancia": 5.633333333333331
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.9,
+        "fecha": "18/7/2025, 10:13:24 a.m.",
+        "ganancia": 5.633333333333331
       }
     ],
     "Laura": [
@@ -23770,10 +23777,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 11.27,
       "precioVenta": 16.9,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 11.266666666666667
         }
       ]
@@ -26007,6 +26014,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 43626.60000000001,
-  "inversionRecuperada": 42257.360795237786,
-  "gananciasTotales": 21137.669204762213
+  "inversionRecuperada": 42268.627461904456,
+  "gananciasTotales": 21143.302538095548
 }
