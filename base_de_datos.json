@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 25.570000000000004,
-      "ganancia": 2769.528985097001,
+      "adeudo": 143.98000000000002,
+      "ganancia": 2809.001485097001,
       "saldoFavor": 0
     },
     {
@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 1093.26,
-      "ganancia": 1260.8185673721343,
+      "adeudo": 1126.26,
+      "ganancia": 1271.8185673721343,
       "saldoFavor": 0
     },
     {
@@ -38,15 +38,15 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1736.6500000000008,
-      "ganancia": 2315.9947335097017,
+      "adeudo": 1811.4600000000007,
+      "ganancia": 2340.929233509702,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 211.83,
-      "ganancia": 1497.6449906525584,
+      "adeudo": 267.93,
+      "ganancia": 1516.3449906525584,
       "saldoFavor": 0
     },
     {
@@ -59,22 +59,22 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 534.6100000000001,
-      "ganancia": 482.56810573192246,
+      "adeudo": 554.1100000000001,
+      "ganancia": 489.06810573192246,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 410.1899999999998,
-      "ganancia": 3709.1358567901166,
+      "adeudo": 468.4399999999998,
+      "ganancia": 3728.552523456783,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1312.5200000000007,
-      "ganancia": 1811.675902292773,
+      "adeudo": 1345.5200000000007,
+      "ganancia": 1822.675902292773,
       "saldoFavor": 0
     },
     {
@@ -1647,6 +1647,27 @@
         "costoTotal": 17.16,
         "fecha": "23/7/2025, 8:37:35 a.m.",
         "ganancia": 5.7155555555555555
+      },
+      {
+        "producto": "Sol extrema",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "24/7/2025, 11:20:41 a.m.",
+        "ganancia": 6.5
+      },
+      {
+        "producto": "Coca 3 litros",
+        "piezas": 1,
+        "costoTotal": 62.61,
+        "fecha": "24/7/2025, 11:21:21 a.m.",
+        "ganancia": 20.872500000000002
+      },
+      {
+        "producto": "Peñafiel naranja",
+        "piezas": 1,
+        "costoTotal": 36.3,
+        "fecha": "24/7/2025, 11:21:21 a.m.",
+        "ganancia": 12.099999999999998
       }
     ],
     "Carlos": [
@@ -6775,6 +6796,13 @@
         "costoTotal": 18,
         "fecha": "24/7/2025, 8:49:29 a.m.",
         "ganancia": 6
+      },
+      {
+        "producto": "Gatorade naranja",
+        "piezas": 1,
+        "costoTotal": 33,
+        "fecha": "24/7/2025, 11:07:25 a.m.",
+        "ganancia": 11
       }
     ],
     "Francisco": [
@@ -11814,6 +11842,34 @@
         "costoTotal": 5.53,
         "fecha": "23/7/2025, 4:49:14 p.m.",
         "ganancia": 1.842
+      },
+      {
+        "producto": "Yogurth piña",
+        "piezas": 1,
+        "costoTotal": 18,
+        "fecha": "24/7/2025, 9:11:55 a.m.",
+        "ganancia": 6
+      },
+      {
+        "producto": "Emperador zenso",
+        "piezas": 1,
+        "costoTotal": 18.28,
+        "fecha": "24/7/2025, 9:11:55 a.m.",
+        "ganancia": 6.092500000000001
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 1,
+        "costoTotal": 5.53,
+        "fecha": "24/7/2025, 9:21:33 a.m.",
+        "ganancia": 1.842
+      },
+      {
+        "producto": "Gatorade naranja",
+        "piezas": 1,
+        "costoTotal": 33,
+        "fecha": "24/7/2025, 11:05:59 a.m.",
+        "ganancia": 11
       }
     ],
     "Isrrael": [
@@ -13167,6 +13223,27 @@
         "costoTotal": 34.31,
         "fecha": "24/7/2025, 8:48:51 a.m.",
         "ganancia": 11.435000000000002
+      },
+      {
+        "producto": "Gatorade amarillo",
+        "piezas": 1,
+        "costoTotal": 33,
+        "fecha": "24/7/2025, 12:03:06 p.m.",
+        "ganancia": 11
+      },
+      {
+        "producto": "Bocadin",
+        "piezas": 2,
+        "costoTotal": 3.6,
+        "fecha": "24/7/2025, 12:03:06 p.m.",
+        "ganancia": 1.2000000000000002
+      },
+      {
+        "producto": "Sol jalapeño",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "24/7/2025, 12:03:06 p.m.",
+        "ganancia": 6.5
       }
     ],
     "Karen": [
@@ -16034,6 +16111,13 @@
         "costoTotal": 2.52,
         "fecha": "23/7/2025, 3:39:18 p.m.",
         "ganancia": 0.8366666666666667
+      },
+      {
+        "producto": "Sol jalapeño",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "24/7/2025, 12:48:12 p.m.",
+        "ganancia": 6.5
       }
     ],
     "Marcos": [
@@ -21377,6 +21461,34 @@
         "costoTotal": 5.67,
         "fecha": "23/7/2025, 4:49:26 p.m.",
         "ganancia": 1.8922222222222222
+      },
+      {
+        "producto": "Yakul",
+        "piezas": 1,
+        "costoTotal": 10.3,
+        "fecha": "24/7/2025, 8:57:54 a.m.",
+        "ganancia": 3.4333333333333345
+      },
+      {
+        "producto": "Gatorade amarillo",
+        "piezas": 1,
+        "costoTotal": 33,
+        "fecha": "24/7/2025, 11:05:50 a.m.",
+        "ganancia": 11
+      },
+      {
+        "producto": "Muibon",
+        "piezas": 1,
+        "costoTotal": 5.2,
+        "fecha": "24/7/2025, 12:44:48 p.m.",
+        "ganancia": 1.7333333333333334
+      },
+      {
+        "producto": "Top-tops naranja",
+        "piezas": 1,
+        "costoTotal": 9.75,
+        "fecha": "24/7/2025, 12:49:41 p.m.",
+        "ganancia": 3.25
       }
     ],
     "Rafael": [
@@ -23969,6 +24081,13 @@
         "costoTotal": 18,
         "fecha": "24/7/2025, 8:49:09 a.m.",
         "ganancia": 6
+      },
+      {
+        "producto": "Gatorade amarillo",
+        "piezas": 1,
+        "costoTotal": 33,
+        "fecha": "24/7/2025, 11:20:24 a.m.",
+        "ganancia": 11
       }
     ],
     "Vicente": [
@@ -24683,13 +24802,8 @@
       "descripcion": "Sol extrema",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 13
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478022496",
@@ -24808,10 +24922,10 @@
       "descripcion": "Sol jalapeño",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 3,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 1,
           "costoUnitario": 13
         }
       ]
@@ -24847,10 +24961,10 @@
       "descripcion": "Emperador zenso",
       "precioCompra": 12.19,
       "precioVenta": 18.28,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 12.1875
         }
       ]
@@ -24947,7 +25061,7 @@
       ]
     },
     {
-      "codigo": "2548011145566",
+      "codigo": "7501011145566",
       "descripcion": "Roka leta",
       "precioCompra": 5.72,
       "precioVenta": 8.58,
@@ -24990,10 +25104,10 @@
       "descripcion": "Yogurth piña",
       "precioCompra": 12,
       "precioVenta": 18,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12
         }
       ]
@@ -25037,10 +25151,10 @@
       "descripcion": "Yakul",
       "precioCompra": 6.87,
       "precioVenta": 10.3,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 6.866666666666666
         }
       ]
@@ -25066,10 +25180,10 @@
       "descripcion": "Gatorade amarillo",
       "precioCompra": 22,
       "precioVenta": 33,
-      "piezas": 4,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 1,
           "costoUnitario": 22
         }
       ]
@@ -25079,13 +25193,8 @@
       "descripcion": "Gatorade naranja",
       "precioCompra": 22,
       "precioVenta": 33,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 22
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478024810",
@@ -25131,10 +25240,10 @@
       "descripcion": "Top-tops naranja",
       "precioCompra": 6.5,
       "precioVenta": 9.75,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 6.5
         }
       ]
@@ -25209,10 +25318,10 @@
       "descripcion": "Bocadin",
       "precioCompra": 1.2,
       "precioVenta": 1.8,
-      "piezas": 37,
+      "piezas": 35,
       "stockParciales": [
         {
-          "cantidad": 37,
+          "cantidad": 35,
           "costoUnitario": 1.2
         }
       ]
@@ -25248,10 +25357,10 @@
       "descripcion": "Muibon",
       "precioCompra": 3.47,
       "precioVenta": 5.2,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 3.466666666666667
         }
       ]
@@ -25352,10 +25461,10 @@
       "descripcion": "Peñafiel naranja",
       "precioCompra": 24.2,
       "precioVenta": 36.3,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 24.2
         }
       ]
@@ -25365,10 +25474,10 @@
       "descripcion": "Coca 3 litros",
       "precioCompra": 41.74,
       "precioVenta": 62.61,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 41.7375
         }
       ]
@@ -25417,10 +25526,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 3.69,
       "precioVenta": 5.53,
-      "piezas": 191,
+      "piezas": 190,
       "stockParciales": [
         {
-          "cantidad": 191,
+          "cantidad": 190,
           "costoUnitario": 3.688
         }
       ]
@@ -27888,6 +27997,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 52212.85000000001,
-  "inversionRecuperada": 44085.82339047596,
-  "gananciasTotales": 22057.166609524138
+  "inversionRecuperada": 44347.8697238093,
+  "gananciasTotales": 22188.190276190806
 }
