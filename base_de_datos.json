@@ -3,22 +3,22 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 480.46,
-      "ganancia": 2921.163429541445,
+      "adeudo": 497.71,
+      "ganancia": 2926.913429541445,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1974.8900000000017,
-      "ganancia": 4206.826842504407,
+      "adeudo": 2011.1900000000016,
+      "ganancia": 4218.926842504407,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 1187.7600000000002,
-      "ganancia": 1292.322734038801,
+      "adeudo": 820.7600000000002,
+      "ganancia": 1303.322734038801,
       "saldoFavor": 0
     },
     {
@@ -38,15 +38,15 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 1958.3300000000006,
-      "ganancia": 2389.8909001763686,
+      "adeudo": 1987.5200000000007,
+      "ganancia": 2399.622566843035,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 310.53,
-      "ganancia": 1530.5449906525585,
+      "adeudo": 344.84,
+      "ganancia": 1541.9799906525584,
       "saldoFavor": 0
     },
     {
@@ -1724,6 +1724,13 @@
         "costoTotal": 11.34,
         "fecha": "29/7/2025, 8:16:02 a.m.",
         "ganancia": 3.7844444444444445
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 17.25,
+        "fecha": "29/7/2025, 8:53:11 a.m.",
+        "ganancia": 5.75
       }
     ],
     "Carlos": [
@@ -5401,6 +5408,13 @@
         "costoTotal": 22.25,
         "fecha": "29/7/2025, 8:15:01 a.m.",
         "ganancia": 7.416666666666666
+      },
+      {
+        "producto": "Peñafiel naranja",
+        "piezas": 1,
+        "costoTotal": 36.3,
+        "fecha": "29/7/2025, 8:26:34 a.m.",
+        "ganancia": 12.099999999999998
       }
     ],
     "Edgar": [
@@ -6950,6 +6964,13 @@
         "costoTotal": 11.4,
         "fecha": "29/7/2025, 8:14:44 a.m.",
         "ganancia": 3.8000000000000007
+      },
+      {
+        "producto": "Gatorade amarillo",
+        "piezas": 1,
+        "costoTotal": 33,
+        "fecha": "29/7/2025, 8:22:40 a.m.",
+        "ganancia": 11
       }
     ],
     "Francisco": [
@@ -12150,6 +12171,20 @@
         "costoTotal": 5.63,
         "fecha": "29/7/2025, 7:24:42 a.m.",
         "ganancia": 1.88
+      },
+      {
+        "producto": "Leche fresa",
+        "piezas": 1,
+        "costoTotal": 11.94,
+        "fecha": "29/7/2025, 8:56:12 a.m.",
+        "ganancia": 3.9816666666666665
+      },
+      {
+        "producto": "Chokis",
+        "piezas": 1,
+        "costoTotal": 17.25,
+        "fecha": "29/7/2025, 8:56:12 a.m.",
+        "ganancia": 5.75
       }
     ],
     "Isrrael": [
@@ -13538,6 +13573,13 @@
         "costoTotal": 11.7,
         "fecha": "29/7/2025, 7:18:17 a.m.",
         "ganancia": 3.8999999999999995
+      },
+      {
+        "producto": "Cremax chocolate",
+        "piezas": 1,
+        "costoTotal": 34.31,
+        "fecha": "29/7/2025, 8:26:04 a.m.",
+        "ganancia": 11.435000000000002
       }
     ],
     "Karen": [
@@ -25380,10 +25422,10 @@
       "descripcion": "Chokis",
       "precioCompra": 11.5,
       "precioVenta": 17.25,
-      "piezas": 16,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 14,
           "costoUnitario": 11.5
         }
       ]
@@ -25484,10 +25526,10 @@
       "descripcion": "Cremax chocolate",
       "precioCompra": 22.88,
       "precioVenta": 34.31,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 22.875
         }
       ]
@@ -25685,13 +25727,8 @@
       "descripcion": "Gatorade amarillo",
       "precioCompra": 22,
       "precioVenta": 33,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 22
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "036731321008",
@@ -25927,10 +25964,10 @@
       "descripcion": "Leche fresa",
       "precioCompra": 7.96,
       "precioVenta": 11.94,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 7.958333333333333
         }
       ]
@@ -25966,10 +26003,10 @@
       "descripcion": "Peñafiel naranja",
       "precioCompra": 24.2,
       "precioVenta": 36.3,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 24.2
         }
       ]
@@ -28502,6 +28539,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 52212.85000000001,
-  "inversionRecuperada": 45327.57977936492,
-  "gananciasTotales": 22680.480220635276
+  "inversionRecuperada": 45427.61311269825,
+  "gananciasTotales": 22730.496887301942
 }
