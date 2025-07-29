@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 543.5399999999997,
-      "ganancia": 3753.5886901234494,
+      "adeudo": 553.2899999999997,
+      "ganancia": 3756.8386901234494,
       "saldoFavor": 0
     },
     {
@@ -21979,6 +21979,13 @@
         "costoTotal": 5.53,
         "fecha": "24/7/2025, 5:31:25 p.m.",
         "ganancia": 1.842
+      },
+      {
+        "producto": "Top-tops naranja",
+        "piezas": 1,
+        "costoTotal": 9.75,
+        "fecha": "29/7/2025, 10:29:17 a.m.",
+        "ganancia": 3.25
       }
     ],
     "Rafael": [
@@ -25803,10 +25810,10 @@
       "descripcion": "Top-tops naranja",
       "precioCompra": 6.5,
       "precioVenta": 9.75,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 6.5
         }
       ]
@@ -28560,6 +28567,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 52212.85000000001,
-  "inversionRecuperada": 45462.96033492048,
-  "gananciasTotales": 22748.16966507972
+  "inversionRecuperada": 45469.46033492048,
+  "gananciasTotales": 22751.41966507972
 }
