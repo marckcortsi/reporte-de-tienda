@@ -17,15 +17,15 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 820.7600000000002,
-      "ganancia": 1303.322734038801,
+      "adeudo": 864.0300000000003,
+      "ganancia": 1317.7455118165785,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 163.35999999999999,
-      "ganancia": 725.7155390652557,
+      "adeudo": 173.10999999999999,
+      "ganancia": 728.9655390652557,
       "saldoFavor": 0
     },
     {
@@ -6971,6 +6971,20 @@
         "costoTotal": 33,
         "fecha": "29/7/2025, 8:22:40 a.m.",
         "ganancia": 11
+      },
+      {
+        "producto": "Leche chocolate",
+        "piezas": 1,
+        "costoTotal": 11.94,
+        "fecha": "29/7/2025, 10:04:19 a.m.",
+        "ganancia": 3.9816666666666665
+      },
+      {
+        "producto": "Principe",
+        "piezas": 1,
+        "costoTotal": 31.33,
+        "fecha": "29/7/2025, 10:05:50 a.m.",
+        "ganancia": 10.441111111111109
       }
     ],
     "Francisco": [
@@ -7708,6 +7722,13 @@
         "costoTotal": 12.6,
         "fecha": "29/7/2025, 7:25:04 a.m.",
         "ganancia": 4.183333333333334
+      },
+      {
+        "producto": "Top-tops morados",
+        "piezas": 1,
+        "costoTotal": 9.75,
+        "fecha": "29/7/2025, 10:22:37 a.m.",
+        "ganancia": 3.25
       }
     ],
     "Irvin": [
@@ -25552,10 +25573,10 @@
       "descripcion": "Principe",
       "precioCompra": 20.89,
       "precioVenta": 31.33,
-      "piezas": 24,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 23,
           "costoUnitario": 20.88888888888889
         }
       ]
@@ -25769,10 +25790,10 @@
       "descripcion": "Top-tops morados",
       "precioCompra": 6.5,
       "precioVenta": 9.75,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 6.5
         }
       ]
@@ -25977,10 +25998,10 @@
       "descripcion": "Leche chocolate",
       "precioCompra": 7.96,
       "precioVenta": 11.94,
-      "piezas": 37,
+      "piezas": 36,
       "stockParciales": [
         {
-          "cantidad": 37,
+          "cantidad": 36,
           "costoUnitario": 7.958333333333333
         }
       ]
@@ -28539,6 +28560,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 52212.85000000001,
-  "inversionRecuperada": 45427.61311269825,
-  "gananciasTotales": 22730.496887301942
+  "inversionRecuperada": 45462.96033492048,
+  "gananciasTotales": 22748.16966507972
 }
