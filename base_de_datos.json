@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2480.4500000000016,
-      "ganancia": 4441.993620282185,
+      "adeudo": 2204.3300000000017,
+      "ganancia": 4449.956953615518,
       "saldoFavor": 0
     },
     {
@@ -45,15 +45,15 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 449.97999999999996,
-      "ganancia": 1577.0366573192255,
+      "adeudo": 484.28999999999996,
+      "ganancia": 1588.4716573192254,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 632.47,
-      "ganancia": 1975.9971329806015,
+      "adeudo": 655.1600000000001,
+      "ganancia": 1983.5596329806015,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 725.43,
-      "ganancia": 3980.869579012338,
+      "adeudo": 754.47,
+      "ganancia": 3990.5512456790048,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1843.6700000000003,
-      "ganancia": 1988.7407356261065,
+      "adeudo": 1875.4900000000005,
+      "ganancia": 1999.3524022927731,
       "saldoFavor": 0
     },
     {
@@ -5667,6 +5667,13 @@
         "costoTotal": 22.25,
         "fecha": "7/8/2025, 2:33:26 p.m.",
         "ganancia": 7.416666666666666
+      },
+      {
+        "producto": "Leche chocolate",
+        "piezas": 2,
+        "costoTotal": 23.88,
+        "fecha": "8/8/2025, 11:09:21 a.m.",
+        "ganancia": 7.963333333333333
       }
     ],
     "Edgar": [
@@ -14224,6 +14231,13 @@
         "costoTotal": 10.4,
         "fecha": "6/8/2025, 5:29:30 p.m.",
         "ganancia": 3.466666666666667
+      },
+      {
+        "producto": "Cremax chocolate",
+        "piezas": 1,
+        "costoTotal": 34.31,
+        "fecha": "8/8/2025, 8:33:32 a.m.",
+        "ganancia": 11.435000000000002
       }
     ],
     "Karen": [
@@ -16655,6 +16669,34 @@
         "costoTotal": 62.61,
         "fecha": "7/8/2025, 1:43:48 p.m.",
         "ganancia": 20.872500000000002
+      },
+      {
+        "producto": "Peloneta",
+        "piezas": 1,
+        "costoTotal": 5.67,
+        "fecha": "8/8/2025, 11:13:54 a.m.",
+        "ganancia": 1.8922222222222222
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 1,
+        "costoTotal": 5.53,
+        "fecha": "8/8/2025, 11:13:54 a.m.",
+        "ganancia": 1.842
+      },
+      {
+        "producto": "Roka leta",
+        "piezas": 1,
+        "costoTotal": 8.58,
+        "fecha": "8/8/2025, 11:14:05 a.m.",
+        "ganancia": 2.8577777777777778
+      },
+      {
+        "producto": "Shots",
+        "piezas": 1,
+        "costoTotal": 2.91,
+        "fecha": "8/8/2025, 11:14:05 a.m.",
+        "ganancia": 0.9705000000000004
       }
     ],
     "Laura": [
@@ -22966,6 +23008,34 @@
         "costoTotal": 110.60000000000001,
         "fecha": "7/8/2025, 5:57:46 p.m.",
         "ganancia": 36.84
+      },
+      {
+        "producto": "Zumba goma sandía",
+        "piezas": 1,
+        "costoTotal": 5.7,
+        "fecha": "8/8/2025, 9:07:00 a.m.",
+        "ganancia": 1.9000000000000004
+      },
+      {
+        "producto": "Zumba goma mango",
+        "piezas": 1,
+        "costoTotal": 5.7,
+        "fecha": "8/8/2025, 9:07:00 a.m.",
+        "ganancia": 1.9000000000000004
+      },
+      {
+        "producto": "Leche chocolate",
+        "piezas": 1,
+        "costoTotal": 11.94,
+        "fecha": "8/8/2025, 9:23:49 a.m.",
+        "ganancia": 3.9816666666666665
+      },
+      {
+        "producto": "Zumba goma sandía",
+        "piezas": 1,
+        "costoTotal": 5.7,
+        "fecha": "8/8/2025, 11:13:24 a.m.",
+        "ganancia": 1.9000000000000004
       }
     ],
     "Rafael": [
@@ -25768,6 +25838,20 @@
         "costoTotal": 11.7,
         "fecha": "7/8/2025, 10:24:14 a.m.",
         "ganancia": 3.8999999999999995
+      },
+      {
+        "producto": "Leche chocolate",
+        "piezas": 1,
+        "costoTotal": 11.94,
+        "fecha": "8/8/2025, 9:23:42 a.m.",
+        "ganancia": 3.9816666666666665
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 19.88,
+        "fecha": "8/8/2025, 9:24:01 a.m.",
+        "ganancia": 6.629999999999999
       }
     ],
     "Vicente": [
@@ -26518,10 +26602,10 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 13.25,
       "precioVenta": 19.88,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 13.25
         }
       ]
@@ -26669,13 +26753,8 @@
       "descripcion": "Cremax chocolate",
       "precioCompra": 22.88,
       "precioVenta": 34.31,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 22.875
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000612147",
@@ -26708,10 +26787,10 @@
       "descripcion": "Peloneta",
       "precioCompra": 3.78,
       "precioVenta": 5.67,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 3.7777777777777777
         }
       ]
@@ -26721,10 +26800,10 @@
       "descripcion": "Zumba goma sandía",
       "precioCompra": 3.8,
       "precioVenta": 5.7,
-      "piezas": 11,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 9,
           "costoUnitario": 3.8
         }
       ]
@@ -26734,10 +26813,10 @@
       "descripcion": "Zumba goma mango",
       "precioCompra": 3.8,
       "precioVenta": 5.7,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 3.8
         }
       ]
@@ -26760,10 +26839,10 @@
       "descripcion": "Roka leta",
       "precioCompra": 5.72,
       "precioVenta": 8.58,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 5.722222222222222
         }
       ]
@@ -27110,10 +27189,10 @@
       "descripcion": "Leche chocolate",
       "precioCompra": 7.96,
       "precioVenta": 11.94,
-      "piezas": 19,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 15,
           "costoUnitario": 7.958333333333333
         }
       ]
@@ -27205,10 +27284,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 3.69,
       "precioVenta": 5.53,
-      "piezas": 73,
+      "piezas": 72,
       "stockParciales": [
         {
-          "cantidad": 73,
+          "cantidad": 72,
           "costoUnitario": 3.688
         }
       ]
@@ -27218,10 +27297,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.94,
       "precioVenta": 2.91,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 1.9394999999999998
         }
       ]
@@ -29682,6 +29761,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 52300.60000000001,
-  "inversionRecuperada": 47906.687446031756,
-  "gananciasTotales": 23969.982553968664
+  "inversionRecuperada": 48001.1732793651,
+  "gananciasTotales": 24017.236720635337
 }
