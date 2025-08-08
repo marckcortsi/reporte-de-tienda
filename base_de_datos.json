@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 1128.43,
-      "ganancia": 3137.173762874778,
+      "adeudo": 1244.23,
+      "ganancia": 3175.7737628747777,
       "saldoFavor": 0
     },
     {
@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 253.14999999999998,
-      "ganancia": 755.6222057319223,
+      "adeudo": 262.9,
+      "ganancia": 758.8722057319223,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 2387.52,
-      "ganancia": 2538.686844620813,
+      "adeudo": 2397.27,
+      "ganancia": 2541.936844620813,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 655.1600000000001,
-      "ganancia": 1983.5596329806015,
+      "adeudo": 374.9100000000001,
+      "ganancia": 1986.8096329806015,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 754.47,
-      "ganancia": 3990.5512456790048,
+      "adeudo": 833.7,
+      "ganancia": 4016.9679123456713,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1875.4900000000005,
-      "ganancia": 1999.3524022927731,
+      "adeudo": 1887.1900000000005,
+      "ganancia": 2003.2524022927732,
       "saldoFavor": 0
     },
     {
@@ -1836,6 +1836,13 @@
         "costoTotal": 11.7,
         "fecha": "7/8/2025, 12:21:57 p.m.",
         "ganancia": 3.8999999999999995
+      },
+      {
+        "producto": "Malboro",
+        "piezas": 20,
+        "costoTotal": 115.8,
+        "fecha": "8/8/2025, 12:18:09 p.m.",
+        "ganancia": 38.6
       }
     ],
     "Carlos": [
@@ -8086,6 +8093,13 @@
         "costoTotal": 17.64,
         "fecha": "7/8/2025, 10:50:17 a.m.",
         "ganancia": 5.8566666666666665
+      },
+      {
+        "producto": "Top-tops morados",
+        "piezas": 1,
+        "costoTotal": 9.75,
+        "fecha": "8/8/2025, 12:03:12 p.m.",
+        "ganancia": 3.25
       }
     ],
     "Irvin": [
@@ -12787,6 +12801,13 @@
         "costoTotal": 16.59,
         "fecha": "7/8/2025, 3:09:18 p.m.",
         "ganancia": 5.526
+      },
+      {
+        "producto": "Top-tops cafe",
+        "piezas": 1,
+        "costoTotal": 9.75,
+        "fecha": "8/8/2025, 12:07:01 p.m.",
+        "ganancia": 3.25
       }
     ],
     "Isrrael": [
@@ -16697,6 +16718,13 @@
         "costoTotal": 2.91,
         "fecha": "8/8/2025, 11:14:05 a.m.",
         "ganancia": 0.9705000000000004
+      },
+      {
+        "producto": "Top-tops cafe",
+        "piezas": 1,
+        "costoTotal": 9.75,
+        "fecha": "8/8/2025, 1:13:13 p.m.",
+        "ganancia": 3.25
       }
     ],
     "Laura": [
@@ -23036,6 +23064,27 @@
         "costoTotal": 5.7,
         "fecha": "8/8/2025, 11:13:24 a.m.",
         "ganancia": 1.9000000000000004
+      },
+      {
+        "producto": "Takis brava",
+        "piezas": 1,
+        "costoTotal": 13.1,
+        "fecha": "8/8/2025, 11:41:07 a.m.",
+        "ganancia": 4.369999999999999
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 22.25,
+        "fecha": "8/8/2025, 12:07:47 p.m.",
+        "ganancia": 7.416666666666666
+      },
+      {
+        "producto": "Squirt",
+        "piezas": 1,
+        "costoTotal": 43.88,
+        "fecha": "8/8/2025, 12:08:11 p.m.",
+        "ganancia": 14.630000000000003
       }
     ],
     "Rafael": [
@@ -25852,6 +25901,13 @@
         "costoTotal": 19.88,
         "fecha": "8/8/2025, 9:24:01 a.m.",
         "ganancia": 6.629999999999999
+      },
+      {
+        "producto": "Chetos",
+        "piezas": 1,
+        "costoTotal": 11.7,
+        "fecha": "8/8/2025, 12:07:10 p.m.",
+        "ganancia": 3.8999999999999995
       }
     ],
     "Vicente": [
@@ -26973,10 +27029,10 @@
       "descripcion": "Chetos",
       "precioCompra": 7.8,
       "precioVenta": 11.7,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 7.8
         }
       ]
@@ -26986,10 +27042,10 @@
       "descripcion": "Top-tops morados",
       "precioCompra": 6.5,
       "precioVenta": 9.75,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 6.5
         }
       ]
@@ -27012,10 +27068,10 @@
       "descripcion": "Top-tops cafe",
       "precioCompra": 6.5,
       "precioVenta": 9.75,
-      "piezas": 8,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 6,
           "costoUnitario": 6.5
         }
       ]
@@ -27051,10 +27107,10 @@
       "descripcion": "Maruchan camaron",
       "precioCompra": 14.83,
       "precioVenta": 22.25,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 14.833333333333334
         }
       ]
@@ -27129,10 +27185,10 @@
       "descripcion": "Takis brava",
       "precioCompra": 8.73,
       "precioVenta": 13.1,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 8.73
         }
       ]
@@ -27241,10 +27297,10 @@
       "descripcion": "Squirt",
       "precioCompra": 29.25,
       "precioVenta": 43.88,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 29.25
         },
         {
@@ -27271,10 +27327,10 @@
       "descripcion": "Malboro",
       "precioCompra": 3.86,
       "precioVenta": 5.79,
-      "piezas": 100,
+      "piezas": 80,
       "stockParciales": [
         {
-          "cantidad": 100,
+          "cantidad": 80,
           "costoUnitario": 3.86
         }
       ]
@@ -29761,6 +29817,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 52300.60000000001,
-  "inversionRecuperada": 48001.1732793651,
-  "gananciasTotales": 24017.236720635337
+  "inversionRecuperada": 48158.48661269844,
+  "gananciasTotales": 24095.903387302005
 }
