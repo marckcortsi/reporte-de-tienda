@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2204.3300000000017,
-      "ganancia": 4449.956953615518,
+      "adeudo": 2216.270000000002,
+      "ganancia": 4453.938620282184,
       "saldoFavor": 0
     },
     {
@@ -73,8 +73,8 @@
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1887.1900000000005,
-      "ganancia": 2003.2524022927732,
+      "adeudo": 1919.0100000000004,
+      "ganancia": 2013.86406895944,
       "saldoFavor": 0
     },
     {
@@ -5688,6 +5688,13 @@
         "costoTotal": 23.88,
         "fecha": "8/8/2025, 11:09:21 a.m.",
         "ganancia": 7.963333333333333
+      },
+      {
+        "producto": "Leche chocolate",
+        "piezas": 1,
+        "costoTotal": 11.94,
+        "fecha": "12/8/2025, 9:05:35 a.m.",
+        "ganancia": 3.9816666666666665
       }
     ],
     "Edgar": [
@@ -26034,6 +26041,20 @@
         "costoTotal": 11.7,
         "fecha": "8/8/2025, 12:07:10 p.m.",
         "ganancia": 3.8999999999999995
+      },
+      {
+        "producto": "Leche chocolate",
+        "piezas": 1,
+        "costoTotal": 11.94,
+        "fecha": "12/8/2025, 9:06:20 a.m.",
+        "ganancia": 3.9816666666666665
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 19.88,
+        "fecha": "12/8/2025, 9:06:20 a.m.",
+        "ganancia": 6.629999999999999
       }
     ],
     "Vicente": [
@@ -26791,10 +26812,10 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 13.25,
       "precioVenta": 19.88,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 13.25
         }
       ]
@@ -27378,10 +27399,10 @@
       "descripcion": "Leche chocolate",
       "precioCompra": 7.96,
       "precioVenta": 11.94,
-      "piezas": 15,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 13,
           "costoUnitario": 7.958333333333333
         }
       ]
@@ -29950,6 +29971,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 52300.60000000001,
-  "inversionRecuperada": 48396.038112698465,
-  "gananciasTotales": 24214.681887302013
+  "inversionRecuperada": 48425.204779365136,
+  "gananciasTotales": 24229.275220635347
 }
