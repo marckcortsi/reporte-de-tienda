@@ -4,84 +4,84 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 537.8400000000001,
-      "ganancia": 3273.6504295414443,
+      "ganancia": 3285.5698243827137,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
       "adeudo": 2566.420000000002,
-      "ganancia": 4570.671286948852,
+      "ganancia": 4582.5906817901205,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
       "adeudo": 1097.8300000000006,
-      "ganancia": 1395.681226102292,
+      "ganancia": 1407.6006209435623,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
       "adeudo": 67.75999999999999,
-      "ganancia": 784.823872398589,
+      "ganancia": 796.7432672398588,
       "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
       "adeudo": 1651.8500000000004,
-      "ganancia": 1192.1164231922396,
+      "ganancia": 1204.03581803351,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
       "adeudo": 2621.920000000001,
-      "ganancia": 2616.8225112874798,
+      "ganancia": 2628.741906128749,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
       "adeudo": 620.1300000000001,
-      "ganancia": 1633.753879541448,
+      "ganancia": 1645.6732743827183,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
       "adeudo": 472.1000000000001,
-      "ganancia": 2019.2101329806017,
+      "ganancia": 2031.129527821872,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
       "adeudo": 889.1400000000002,
-      "ganancia": 600.7175501763668,
+      "ganancia": 612.6369450176367,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 4088.7453012345604,
+      "adeudo": 342.86,
+      "ganancia": 4214.868696075829,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
       "adeudo": 1973.9700000000007,
-      "ganancia": 2032.1890689594397,
+      "ganancia": 2044.10846380071,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
       "adeudo": 244.88,
-      "ganancia": 467.8469747795412,
+      "ganancia": 479.7663696208111,
       "saldoFavor": 0
     },
     {
@@ -23708,6 +23708,13 @@
         "costoTotal": 43.650000000000006,
         "fecha": "14/8/2025, 6:51:12 p.m.",
         "ganancia": 14.557500000000005
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 62,
+        "costoTotal": 342.86,
+        "fecha": "15/8/2025, 1:53:06 p.m.",
+        "ganancia": 114.20400000000001
       }
     ],
     "Rafael": [
@@ -27249,6 +27256,76 @@
         "costoTotal": 52.699999999999996,
         "fecha": "7/7/2025, 5:41:17 p.m.",
         "ganancia": 17.549999999999994
+      },
+      {
+        "producto": "Magi",
+        "piezas": 1,
+        "costoTotal": 60,
+        "fecha": "15/8/2025, 1:53:35 p.m.",
+        "ganancia": 20
+      },
+      {
+        "producto": "Pikin",
+        "piezas": 1,
+        "costoTotal": 42,
+        "fecha": "15/8/2025, 1:53:35 p.m.",
+        "ganancia": 14
+      },
+      {
+        "producto": "Oreo",
+        "piezas": 2,
+        "costoTotal": 41.86,
+        "fecha": "15/8/2025, 1:54:52 p.m.",
+        "ganancia": 13.955238095238094
+      },
+      {
+        "producto": "Emperador vainilla",
+        "piezas": 2,
+        "costoTotal": 39.94,
+        "fecha": "15/8/2025, 1:56:31 p.m.",
+        "ganancia": 13.314999999999998
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 2,
+        "costoTotal": 39.76,
+        "fecha": "15/8/2025, 1:56:31 p.m.",
+        "ganancia": 13.259999999999998
+      },
+      {
+        "producto": "Rits",
+        "piezas": 1,
+        "costoTotal": 14,
+        "fecha": "15/8/2025, 1:56:31 p.m.",
+        "ganancia": 4.666666666666666
+      },
+      {
+        "producto": "Sol chipotle",
+        "piezas": 2,
+        "costoTotal": 39,
+        "fecha": "15/8/2025, 1:59:50 p.m.",
+        "ganancia": 13
+      },
+      {
+        "producto": "Sangria",
+        "piezas": 1,
+        "costoTotal": 53.58,
+        "fecha": "15/8/2025, 2:05:52 p.m.",
+        "ganancia": 17.86333333333333
+      },
+      {
+        "producto": "Peñafiel naranja",
+        "piezas": 1,
+        "costoTotal": 36.3,
+        "fecha": "15/8/2025, 2:05:52 p.m.",
+        "ganancia": 12.099999999999998
+      },
+      {
+        "producto": "Coca 3 litros",
+        "piezas": 1,
+        "costoTotal": 62.61,
+        "fecha": "15/8/2025, 2:05:52 p.m.",
+        "ganancia": 20.872500000000002
       }
     ]
   },
@@ -27344,13 +27421,8 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 13.25,
       "precioVenta": 19.88,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 13.25
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000630363",
@@ -27383,13 +27455,8 @@
       "descripcion": "Oreo",
       "precioCompra": 13.95,
       "precioVenta": 20.93,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 13.952380952380953
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478008926",
@@ -27409,26 +27476,16 @@
       "descripcion": "Emperador vainilla",
       "precioCompra": 13.31,
       "precioVenta": 19.97,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 13.3125
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7622210833709",
       "descripcion": "Rits",
       "precioCompra": 9.33,
       "precioVenta": 14,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 9.333333333333334
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7506192510844",
@@ -27456,13 +27513,8 @@
       "descripcion": "Sol chipotle",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 13
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7503022458758",
@@ -27934,39 +27986,24 @@
       "descripcion": "Sangria",
       "precioCompra": 35.72,
       "precioVenta": 53.58,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 35.71666666666667
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501073839861",
       "descripcion": "Peñafiel naranja",
       "precioCompra": 24.2,
       "precioVenta": 36.3,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 24.2
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501055304745",
       "descripcion": "Coca 3 litros",
       "precioCompra": 41.74,
       "precioVenta": 62.61,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 41.7375
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501071120305",
@@ -28012,13 +28049,8 @@
       "descripcion": "Pall mall",
       "precioCompra": 3.69,
       "precioVenta": 5.53,
-      "piezas": 62,
-      "stockParciales": [
-        {
-          "cantidad": 62,
-          "costoUnitario": 3.688
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "75078843",
@@ -28033,26 +28065,16 @@
       "descripcion": "Magi",
       "precioCompra": 40,
       "precioVenta": 60,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 40
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "633148100624",
       "descripcion": "Pikin",
       "precioCompra": 28,
       "precioVenta": 42,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 28
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     }
   ],
   "historialEntradas": [
@@ -30484,6 +30506,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 52300.60000000001,
-  "inversionRecuperada": 49318.94134285729,
-  "gananciasTotales": 24676.228657143307
+  "inversionRecuperada": 49833.61460476206,
+  "gananciasTotales": 24933.465395238545
 }
