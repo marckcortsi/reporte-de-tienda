@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 1537.8400000000001,
+      "adeudo": 537.8400000000001,
       "ganancia": 3273.6504295414443,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2517.970000000002,
-      "ganancia": 4554.517953615519,
+      "adeudo": 2525.170000000002,
+      "ganancia": 4556.917953615519,
       "saldoFavor": 0
     },
     {
@@ -31,15 +31,15 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1631.0000000000005,
-      "ganancia": 1185.1664231922396,
+      "adeudo": 1634.6000000000004,
+      "ganancia": 1186.3664231922396,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 2599.670000000001,
-      "ganancia": 2609.4058446208132,
+      "adeudo": 2621.920000000001,
+      "ganancia": 2616.8225112874798,
       "saldoFavor": 0
     },
     {
@@ -59,15 +59,15 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 848.8400000000001,
-      "ganancia": 587.2842168430335,
+      "adeudo": 877.4400000000002,
+      "ganancia": 596.8175501763668,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 993.4000000000001,
-      "ganancia": 4070.206134567894,
+      "adeudo": 548.9900000000001,
+      "ganancia": 4088.7453012345604,
       "saldoFavor": 0
     },
     {
@@ -5807,6 +5807,13 @@
         "costoTotal": 5.63,
         "fecha": "14/8/2025, 10:39:57 a.m.",
         "ganancia": 1.88
+      },
+      {
+        "producto": "Bocadin",
+        "piezas": 4,
+        "costoTotal": 7.2,
+        "fecha": "14/8/2025, 3:38:31 p.m.",
+        "ganancia": 2.4000000000000004
       }
     ],
     "Edgar": [
@@ -9635,6 +9642,13 @@
         "costoTotal": 5.63,
         "fecha": "14/8/2025, 11:56:23 a.m.",
         "ganancia": 1.88
+      },
+      {
+        "producto": "Bocadin",
+        "piezas": 2,
+        "costoTotal": 3.6,
+        "fecha": "14/8/2025, 4:24:56 p.m.",
+        "ganancia": 1.2000000000000002
       }
     ],
     "Isac": [
@@ -13102,6 +13116,13 @@
         "costoTotal": 5.53,
         "fecha": "14/8/2025, 12:08:23 p.m.",
         "ganancia": 1.842
+      },
+      {
+        "producto": "Maruchan camarón y limon",
+        "piezas": 1,
+        "costoTotal": 22.25,
+        "fecha": "14/8/2025, 1:05:24 p.m.",
+        "ganancia": 7.416666666666666
       }
     ],
     "Isrrael": [
@@ -17833,6 +17854,20 @@
         "costoTotal": 11.7,
         "fecha": "13/8/2025, 12:05:15 p.m.",
         "ganancia": 3.8999999999999995
+      },
+      {
+        "producto": "Chetos",
+        "piezas": 1,
+        "costoTotal": 11.7,
+        "fecha": "14/8/2025, 12:21:36 p.m.",
+        "ganancia": 3.8999999999999995
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.9,
+        "fecha": "14/8/2025, 5:43:09 p.m.",
+        "ganancia": 5.633333333333331
       }
     ],
     "Marcos": [
@@ -23561,6 +23596,20 @@
         "costoTotal": 22.25,
         "fecha": "14/8/2025, 12:03:22 p.m.",
         "ganancia": 7.416666666666666
+      },
+      {
+        "producto": "Leche fresa",
+        "piezas": 1,
+        "costoTotal": 11.94,
+        "fecha": "14/8/2025, 5:26:06 p.m.",
+        "ganancia": 3.9816666666666665
+      },
+      {
+        "producto": "Shots",
+        "piezas": 15,
+        "costoTotal": 43.650000000000006,
+        "fecha": "14/8/2025, 6:51:12 p.m.",
+        "ganancia": 14.557500000000005
       }
     ],
     "Rafael": [
@@ -27216,10 +27265,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 11.27,
       "precioVenta": 16.9,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 11.266666666666667
         }
       ]
@@ -27556,10 +27605,10 @@
       "descripcion": "Chetos",
       "precioCompra": 7.8,
       "precioVenta": 11.7,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 7.8
         }
       ]
@@ -27608,10 +27657,10 @@
       "descripcion": "Maruchan camarón y limon",
       "precioCompra": 14.83,
       "precioVenta": 22.25,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 14.833333333333334
         }
       ]
@@ -27660,10 +27709,10 @@
       "descripcion": "Bocadin",
       "precioCompra": 1.2,
       "precioVenta": 1.8,
-      "piezas": 22,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 22,
+          "cantidad": 16,
           "costoUnitario": 1.2
         }
       ]
@@ -27759,10 +27808,10 @@
       "descripcion": "Leche fresa",
       "precioCompra": 7.96,
       "precioVenta": 11.94,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 7.958333333333333
         }
       ]
@@ -27876,13 +27925,8 @@
       "descripcion": "Shots",
       "precioCompra": 1.94,
       "precioVenta": 2.91,
-      "piezas": 15,
-      "stockParciales": [
-        {
-          "cantidad": 15,
-          "costoUnitario": 1.9394999999999998
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501001604103",
@@ -30340,6 +30384,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 52300.60000000001,
-  "inversionRecuperada": 49117.6328904763,
-  "gananciasTotales": 24575.55710952425
+  "inversionRecuperada": 49195.78372380965,
+  "gananciasTotales": 24614.64627619092
 }
