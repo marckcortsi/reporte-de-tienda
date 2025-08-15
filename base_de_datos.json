@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 537.8400000000001,
-      "ganancia": 3290.0509123456764,
+      "adeudo": 636.2700000000002,
+      "ganancia": 3322.8609123456763,
       "saldoFavor": 0
     },
     {
@@ -1878,6 +1878,13 @@
         "costoTotal": 19.88,
         "fecha": "14/8/2025, 10:54:19 a.m.",
         "ganancia": 6.629999999999999
+      },
+      {
+        "producto": "Malboro",
+        "piezas": 17,
+        "costoTotal": 98.43,
+        "fecha": "15/8/2025, 2:17:25 p.m.",
+        "ganancia": 32.81
       }
     ],
     "Carlos": [
@@ -28093,13 +28100,8 @@
       "descripcion": "Malboro",
       "precioCompra": 3.86,
       "precioVenta": 5.79,
-      "piezas": 17,
-      "stockParciales": [
-        {
-          "cantidad": 17,
-          "costoUnitario": 3.86
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "75071295",
@@ -30563,6 +30565,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 52300.60000000001,
-  "inversionRecuperada": 49941.17154920651,
-  "gananciasTotales": 24987.238450794102
+  "inversionRecuperada": 50006.791549206515,
+  "gananciasTotales": 25020.048450794104
 }
