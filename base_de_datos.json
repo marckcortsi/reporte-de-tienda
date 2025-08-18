@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 636.2700000000002,
-      "ganancia": 3325.69424567901,
+      "adeudo": 680.3400000000003,
+      "ganancia": 3340.3920234567877,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1966.420000000002,
-      "ganancia": 4589.905103086418,
+      "adeudo": 1973.860000000002,
+      "ganancia": 4592.385103086418,
       "saldoFavor": 0
     },
     {
@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 67.75999999999999,
-      "ganancia": 804.0576885361551,
+      "adeudo": 87.91999999999999,
+      "ganancia": 810.7510218694885,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 4222.183117372127,
+      "adeudo": 9.75,
+      "ganancia": 4225.433117372127,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1973.9700000000007,
-      "ganancia": 2051.4228850970067,
+      "adeudo": 2053.2000000000007,
+      "ganancia": 2077.839551763673,
       "saldoFavor": 0
     },
     {
@@ -1885,6 +1885,27 @@
         "costoTotal": 98.43,
         "fecha": "15/8/2025, 2:17:25 p.m.",
         "ganancia": 32.81
+      },
+      {
+        "producto": "Peloneta",
+        "piezas": 2,
+        "costoTotal": 11.34,
+        "fecha": "15/8/2025, 3:20:23 p.m.",
+        "ganancia": 3.7844444444444445
+      },
+      {
+        "producto": "Sandi brocha",
+        "piezas": 3,
+        "costoTotal": 6.99,
+        "fecha": "15/8/2025, 3:20:23 p.m.",
+        "ganancia": 2.34
+      },
+      {
+        "producto": "Roka leta",
+        "piezas": 3,
+        "costoTotal": 25.740000000000002,
+        "fecha": "15/8/2025, 3:20:23 p.m.",
+        "ganancia": 8.573333333333334
       }
     ],
     "Carlos": [
@@ -5842,6 +5863,13 @@
         "costoTotal": 17.37,
         "fecha": "15/8/2025, 9:13:19 a.m.",
         "ganancia": 5.790000000000001
+      },
+      {
+        "producto": "Encendedor",
+        "piezas": 1,
+        "costoTotal": 7.44,
+        "fecha": "15/8/2025, 3:20:42 p.m.",
+        "ganancia": 2.4800000000000004
       }
     ],
     "Edgar": [
@@ -8317,6 +8345,13 @@
         "costoTotal": 34.31,
         "fecha": "15/8/2025, 11:48:52 a.m.",
         "ganancia": 11.435000000000002
+      },
+      {
+        "producto": "Palanqueta",
+        "piezas": 8,
+        "costoTotal": 20.16,
+        "fecha": "18/8/2025, 11:27:02 a.m.",
+        "ganancia": 6.693333333333333
       }
     ],
     "Irvin": [
@@ -23722,6 +23757,13 @@
         "costoTotal": 342.86,
         "fecha": "15/8/2025, 1:53:06 p.m.",
         "ganancia": 114.20400000000001
+      },
+      {
+        "producto": "Top-tops naranja",
+        "piezas": 1,
+        "costoTotal": 9.75,
+        "fecha": "18/8/2025, 10:31:28 a.m.",
+        "ganancia": 3.25
       }
     ],
     "Rafael": [
@@ -26594,6 +26636,27 @@
         "costoTotal": 11.94,
         "fecha": "15/8/2025, 9:13:30 a.m.",
         "ganancia": 3.9816666666666665
+      },
+      {
+        "producto": "Squirt",
+        "piezas": 1,
+        "costoTotal": 43.88,
+        "fecha": "18/8/2025, 10:10:13 a.m.",
+        "ganancia": 14.630000000000003
+      },
+      {
+        "producto": "Maruchan camarón y limon",
+        "piezas": 1,
+        "costoTotal": 22.25,
+        "fecha": "18/8/2025, 10:10:13 a.m.",
+        "ganancia": 7.416666666666666
+      },
+      {
+        "producto": "Takis huacamole",
+        "piezas": 1,
+        "costoTotal": 13.1,
+        "fecha": "18/8/2025, 10:10:13 a.m.",
+        "ganancia": 4.369999999999999
       }
     ],
     "Vicente": [
@@ -27602,10 +27665,10 @@
       "descripcion": "Peloneta",
       "precioCompra": 3.78,
       "precioVenta": 5.67,
-      "piezas": 6,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 4,
           "costoUnitario": 3.7777777777777777
         }
       ]
@@ -27641,10 +27704,10 @@
       "descripcion": "Sandi brocha",
       "precioCompra": 1.55,
       "precioVenta": 2.33,
-      "piezas": 36,
+      "piezas": 33,
       "stockParciales": [
         {
-          "cantidad": 36,
+          "cantidad": 33,
           "costoUnitario": 1.55
         }
       ]
@@ -27654,13 +27717,8 @@
       "descripcion": "Roka leta",
       "precioCompra": 5.72,
       "precioVenta": 8.58,
-      "piezas": 3,
-      "stockParciales": [
-        {
-          "cantidad": 3,
-          "costoUnitario": 5.722222222222222
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7503001453194",
@@ -27693,10 +27751,10 @@
       "descripcion": "Top-tops naranja",
       "precioCompra": 6.5,
       "precioVenta": 9.75,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 6.5
         }
       ]
@@ -27719,10 +27777,10 @@
       "descripcion": "Maruchan camarón y limon",
       "precioCompra": 14.83,
       "precioVenta": 22.25,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 14.833333333333334
         }
       ]
@@ -27797,10 +27855,10 @@
       "descripcion": "Palanqueta",
       "precioCompra": 1.68,
       "precioVenta": 2.52,
-      "piezas": 24,
+      "piezas": 16,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 16,
           "costoUnitario": 1.6833333333333333
         }
       ]
@@ -27849,23 +27907,18 @@
       "descripcion": "Takis huacamole",
       "precioCompra": 8.73,
       "precioVenta": 13.1,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 8.73
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501071120305",
       "descripcion": "Squirt",
       "precioCompra": 29.25,
       "precioVenta": 43.88,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 29.25
         }
       ]
@@ -27875,10 +27928,10 @@
       "descripcion": "Encendedor",
       "precioCompra": 4.96,
       "precioVenta": 7.44,
-      "piezas": 18,
+      "piezas": 17,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 17,
           "costoUnitario": 4.96
         }
       ]
@@ -30313,6 +30366,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 52300.60000000001,
-  "inversionRecuperada": 50074.791549206515,
-  "gananciasTotales": 25054.048450794104
+  "inversionRecuperada": 50181.90377142874,
+  "gananciasTotales": 25107.586228571883
 }
