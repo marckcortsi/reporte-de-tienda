@@ -10,29 +10,29 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 1973.860000000002,
-      "ganancia": 4592.385103086418,
+      "adeudo": 2018.360000000002,
+      "ganancia": 4607.218436419752,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 1097.8300000000006,
-      "ganancia": 1414.9150422398586,
+      "adeudo": 1125.2200000000007,
+      "ganancia": 1424.043137477954,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 87.91999999999999,
-      "ganancia": 810.7510218694885,
+      "adeudo": 92.57999999999998,
+      "ganancia": 812.3110218694884,
       "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1651.8500000000004,
-      "ganancia": 1211.3502393298063,
+      "adeudo": 1674.1000000000004,
+      "ganancia": 1218.766905996473,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 2038.4439491181683,
+      "adeudo": 9.75,
+      "ganancia": 2041.6939491181683,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 9.75,
-      "ganancia": 4225.433117372127,
+      "adeudo": 71.2,
+      "ganancia": 4245.91645070546,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 2053.2000000000007,
-      "ganancia": 2077.839551763673,
+      "adeudo": 2064.600000000001,
+      "ganancia": 2081.6395517636734,
       "saldoFavor": 0
     },
     {
@@ -5870,6 +5870,20 @@
         "costoTotal": 7.44,
         "fecha": "15/8/2025, 3:20:42 p.m.",
         "ganancia": 2.4800000000000004
+      },
+      {
+        "producto": "Maruchan camarón y limon",
+        "piezas": 1,
+        "costoTotal": 22.25,
+        "fecha": "18/8/2025, 12:39:34 p.m.",
+        "ganancia": 7.416666666666666
+      },
+      {
+        "producto": "Maruchan camarón y limon",
+        "piezas": 1,
+        "costoTotal": 22.25,
+        "fecha": "18/8/2025, 3:13:57 p.m.",
+        "ganancia": 7.416666666666666
       }
     ],
     "Edgar": [
@@ -7545,6 +7559,20 @@
         "costoTotal": 5.7,
         "fecha": "15/8/2025, 12:51:13 p.m.",
         "ganancia": 1.9000000000000004
+      },
+      {
+        "producto": "Min mamut",
+        "piezas": 2,
+        "costoTotal": 5.14,
+        "fecha": "18/8/2025, 12:49:34 p.m.",
+        "ganancia": 1.7114285714285713
+      },
+      {
+        "producto": "Maruchan limon",
+        "piezas": 1,
+        "costoTotal": 22.25,
+        "fecha": "18/8/2025, 3:14:07 p.m.",
+        "ganancia": 7.416666666666666
       }
     ],
     "Francisco": [
@@ -8352,6 +8380,13 @@
         "costoTotal": 20.16,
         "fecha": "18/8/2025, 11:27:02 a.m.",
         "ganancia": 6.693333333333333
+      },
+      {
+        "producto": "Sandi brocha",
+        "piezas": 2,
+        "costoTotal": 4.66,
+        "fecha": "18/8/2025, 5:40:49 p.m.",
+        "ganancia": 1.56
       }
     ],
     "Irvin": [
@@ -9740,6 +9775,13 @@
         "costoTotal": 17.25,
         "fecha": "15/8/2025, 9:26:43 a.m.",
         "ganancia": 5.75
+      },
+      {
+        "producto": "Maruchan camarón y limon",
+        "piezas": 1,
+        "costoTotal": 22.25,
+        "fecha": "18/8/2025, 3:18:39 p.m.",
+        "ganancia": 7.416666666666666
       }
     ],
     "Isac": [
@@ -17250,6 +17292,13 @@
         "costoTotal": 9.75,
         "fecha": "15/8/2025, 1:18:46 p.m.",
         "ganancia": 3.25
+      },
+      {
+        "producto": "Top-tops cafe",
+        "piezas": 1,
+        "costoTotal": 9.75,
+        "fecha": "18/8/2025, 11:59:22 a.m.",
+        "ganancia": 3.25
       }
     ],
     "Laura": [
@@ -23764,6 +23813,41 @@
         "costoTotal": 9.75,
         "fecha": "18/8/2025, 10:31:28 a.m.",
         "ganancia": 3.25
+      },
+      {
+        "producto": "Kinder delice",
+        "piezas": 1,
+        "costoTotal": 16.9,
+        "fecha": "18/8/2025, 12:42:54 p.m.",
+        "ganancia": 5.633333333333331
+      },
+      {
+        "producto": "Muibon",
+        "piezas": 1,
+        "costoTotal": 5.2,
+        "fecha": "18/8/2025, 12:47:27 p.m.",
+        "ganancia": 1.7333333333333334
+      },
+      {
+        "producto": "Zumba goma sandía",
+        "piezas": 1,
+        "costoTotal": 5.7,
+        "fecha": "18/8/2025, 12:50:06 p.m.",
+        "ganancia": 1.9000000000000004
+      },
+      {
+        "producto": "Maruchan limon",
+        "piezas": 1,
+        "costoTotal": 22.25,
+        "fecha": "18/8/2025, 3:31:42 p.m.",
+        "ganancia": 7.416666666666666
+      },
+      {
+        "producto": "Zumba goma sandía",
+        "piezas": 2,
+        "costoTotal": 11.4,
+        "fecha": "18/8/2025, 4:27:44 p.m.",
+        "ganancia": 3.8000000000000007
       }
     ],
     "Rafael": [
@@ -26657,6 +26741,20 @@
         "costoTotal": 13.1,
         "fecha": "18/8/2025, 10:10:13 a.m.",
         "ganancia": 4.369999999999999
+      },
+      {
+        "producto": "Zumba goma mango",
+        "piezas": 1,
+        "costoTotal": 5.7,
+        "fecha": "18/8/2025, 12:49:12 p.m.",
+        "ganancia": 1.9000000000000004
+      },
+      {
+        "producto": "Zumba goma sandía",
+        "piezas": 1,
+        "costoTotal": 5.7,
+        "fecha": "18/8/2025, 12:49:12 p.m.",
+        "ganancia": 1.9000000000000004
       }
     ],
     "Vicente": [
@@ -27574,10 +27672,10 @@
       "descripcion": "Min mamut",
       "precioCompra": 1.71,
       "precioVenta": 2.57,
-      "piezas": 25,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 25,
+          "cantidad": 23,
           "costoUnitario": 1.7142857142857142
         }
       ]
@@ -27587,10 +27685,10 @@
       "descripcion": "Kinder delice",
       "precioCompra": 11.27,
       "precioVenta": 16.9,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 11.266666666666667
         }
       ]
@@ -27678,10 +27776,10 @@
       "descripcion": "Zumba goma sandía",
       "precioCompra": 3.8,
       "precioVenta": 5.7,
-      "piezas": 6,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 2,
           "costoUnitario": 3.8
         }
       ]
@@ -27691,10 +27789,10 @@
       "descripcion": "Zumba goma mango",
       "precioCompra": 3.8,
       "precioVenta": 5.7,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 3.8
         }
       ]
@@ -27704,10 +27802,10 @@
       "descripcion": "Sandi brocha",
       "precioCompra": 1.55,
       "precioVenta": 2.33,
-      "piezas": 33,
+      "piezas": 31,
       "stockParciales": [
         {
-          "cantidad": 33,
+          "cantidad": 31,
           "costoUnitario": 1.55
         }
       ]
@@ -27764,10 +27862,10 @@
       "descripcion": "Top-tops cafe",
       "precioCompra": 6.5,
       "precioVenta": 9.75,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 6.5
         }
       ]
@@ -27777,10 +27875,10 @@
       "descripcion": "Maruchan camarón y limon",
       "precioCompra": 14.83,
       "precioVenta": 22.25,
-      "piezas": 5,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 2,
           "costoUnitario": 14.833333333333334
         }
       ]
@@ -27790,10 +27888,10 @@
       "descripcion": "Maruchan limon",
       "precioCompra": 14.83,
       "precioVenta": 22.25,
-      "piezas": 6,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 4,
           "costoUnitario": 14.833333333333334
         }
       ]
@@ -27868,13 +27966,8 @@
       "descripcion": "Muibon",
       "precioCompra": 3.47,
       "precioVenta": 5.2,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 3.466666666666667
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000166923",
@@ -30366,6 +30459,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 52300.60000000001,
-  "inversionRecuperada": 50181.90377142874,
-  "gananciasTotales": 25107.586228571883
+  "inversionRecuperada": 50302.832342857335,
+  "gananciasTotales": 25168.057657143323
 }
