@@ -45,9 +45,9 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 620.1300000000001,
+      "adeudo": 0,
       "ganancia": 1652.9876956790147,
-      "saldoFavor": 0
+      "saldoFavor": 0.87
     },
     {
       "nombre": "Karen",
