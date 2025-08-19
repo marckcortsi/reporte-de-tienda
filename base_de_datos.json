@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 697.5900000000003,
-      "ganancia": 3346.1420234567877,
+      "adeudo": 718.4000000000002,
+      "ganancia": 3353.0770234567876,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2018.360000000002,
-      "ganancia": 4607.218436419752,
+      "adeudo": 2047.190000000002,
+      "ganancia": 4616.851769753085,
       "saldoFavor": 0
     },
     {
@@ -31,29 +31,29 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1691.3500000000004,
-      "ganancia": 1224.516905996473,
+      "adeudo": 1709.3500000000004,
+      "ganancia": 1230.516905996473,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 2332.760000000001,
-      "ganancia": 2639.676327425045,
+      "adeudo": 2378.8900000000012,
+      "ganancia": 2655.064327425045,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 21.38,
-      "ganancia": 1660.4043623456814,
+      "adeudo": 113.07,
+      "ganancia": 1690.9693623456815,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 9.75,
-      "ganancia": 2041.6939491181683,
+      "adeudo": 54.75,
+      "ganancia": 2056.707282451501,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 89.2,
-      "ganancia": 4251.91645070546,
+      "adeudo": 125.08999999999999,
+      "ganancia": 4263.8824507054605,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 2081.850000000001,
-      "ganancia": 2087.3895517636734,
+      "adeudo": 1617.1400000000008,
+      "ganancia": 2099.1575517636734,
       "saldoFavor": 0
     },
     {
@@ -1913,6 +1913,13 @@
         "costoTotal": 17.25,
         "fecha": "19/8/2025, 8:48:01 a.m.",
         "ganancia": 5.75
+      },
+      {
+        "producto": "Arcoiris",
+        "piezas": 1,
+        "costoTotal": 20.81,
+        "fecha": "19/8/2025, 1:20:23 p.m.",
+        "ganancia": 6.934999999999999
       }
     ],
     "Carlos": [
@@ -5891,6 +5898,27 @@
         "costoTotal": 22.25,
         "fecha": "18/8/2025, 3:13:57 p.m.",
         "ganancia": 7.416666666666666
+      },
+      {
+        "producto": "Chocolate coconugs",
+        "piezas": 1,
+        "costoTotal": 6.25,
+        "fecha": "19/8/2025, 1:21:12 p.m.",
+        "ganancia": 2.083333333333333
+      },
+      {
+        "producto": "Surtido montes",
+        "piezas": 6,
+        "costoTotal": 5.699999999999999,
+        "fecha": "19/8/2025, 1:21:12 p.m.",
+        "ganancia": 1.9199999999999997
+      },
+      {
+        "producto": "Cup birria",
+        "piezas": 1,
+        "costoTotal": 16.88,
+        "fecha": "19/8/2025, 1:22:59 p.m.",
+        "ganancia": 5.629999999999999
       }
     ],
     "Edgar": [
@@ -9796,6 +9824,13 @@
         "costoTotal": 17.25,
         "fecha": "19/8/2025, 8:48:11 a.m.",
         "ganancia": 5.75
+      },
+      {
+        "producto": "Runers",
+        "piezas": 1,
+        "costoTotal": 18,
+        "fecha": "19/8/2025, 1:23:31 p.m.",
+        "ganancia": 6
       }
     ],
     "Isac": [
@@ -13277,6 +13312,34 @@
         "costoTotal": 10.84,
         "fecha": "19/8/2025, 12:28:59 p.m.",
         "ganancia": 3.62
+      },
+      {
+        "producto": "Cup birria",
+        "piezas": 1,
+        "costoTotal": 16.88,
+        "fecha": "19/8/2025, 1:34:59 p.m.",
+        "ganancia": 5.629999999999999
+      },
+      {
+        "producto": "Runers",
+        "piezas": 1,
+        "costoTotal": 18,
+        "fecha": "19/8/2025, 1:34:59 p.m.",
+        "ganancia": 6
+      },
+      {
+        "producto": "Tenedor",
+        "piezas": 1,
+        "costoTotal": 0.41,
+        "fecha": "19/8/2025, 1:34:59 p.m.",
+        "ganancia": 0.13799999999999996
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 2,
+        "costoTotal": 10.84,
+        "fecha": "19/8/2025, 3:44:51 p.m.",
+        "ganancia": 3.62
       }
     ],
     "Isrrael": [
@@ -14812,6 +14875,20 @@
         "costoTotal": 22.25,
         "fecha": "19/8/2025, 11:30:42 a.m.",
         "ganancia": 7.416666666666666
+      },
+      {
+        "producto": "Squirt",
+        "piezas": 1,
+        "costoTotal": 43.88,
+        "fecha": "19/8/2025, 1:26:33 p.m.",
+        "ganancia": 14.630000000000003
+      },
+      {
+        "producto": "Del valle frut",
+        "piezas": 1,
+        "costoTotal": 47.81,
+        "fecha": "19/8/2025, 1:26:33 p.m.",
+        "ganancia": 15.935000000000002
       }
     ],
     "Karen": [
@@ -17327,6 +17404,27 @@
         "costoTotal": 9.75,
         "fecha": "18/8/2025, 11:59:22 a.m.",
         "ganancia": 3.25
+      },
+      {
+        "producto": "Surtido montes",
+        "piezas": 4,
+        "costoTotal": 3.8,
+        "fecha": "19/8/2025, 1:20:46 p.m.",
+        "ganancia": 1.2799999999999998
+      },
+      {
+        "producto": "Chips",
+        "piezas": 1,
+        "costoTotal": 18,
+        "fecha": "19/8/2025, 1:23:21 p.m.",
+        "ganancia": 6
+      },
+      {
+        "producto": "Bonafina",
+        "piezas": 1,
+        "costoTotal": 23.2,
+        "fecha": "19/8/2025, 1:31:41 p.m.",
+        "ganancia": 7.7333333333333325
       }
     ],
     "Laura": [
@@ -23883,6 +23981,34 @@
         "costoTotal": 18,
         "fecha": "19/8/2025, 12:29:09 p.m.",
         "ganancia": 6
+      },
+      {
+        "producto": "Cup birria",
+        "piezas": 1,
+        "costoTotal": 16.88,
+        "fecha": "19/8/2025, 1:21:52 p.m.",
+        "ganancia": 5.629999999999999
+      },
+      {
+        "producto": "Chips jalapeño",
+        "piezas": 1,
+        "costoTotal": 18,
+        "fecha": "19/8/2025, 1:27:57 p.m.",
+        "ganancia": 6
+      },
+      {
+        "producto": "Tenedor",
+        "piezas": 1,
+        "costoTotal": 0.41,
+        "fecha": "19/8/2025, 1:27:57 p.m.",
+        "ganancia": 0.13799999999999996
+      },
+      {
+        "producto": "Vaso",
+        "piezas": 1,
+        "costoTotal": 0.6,
+        "fecha": "19/8/2025, 2:33:41 p.m.",
+        "ganancia": 0.19799999999999995
       }
     ],
     "Rafael": [
@@ -26797,6 +26923,27 @@
         "costoTotal": 17.25,
         "fecha": "19/8/2025, 8:51:50 a.m.",
         "ganancia": 5.75
+      },
+      {
+        "producto": "Chips jalapeño",
+        "piezas": 1,
+        "costoTotal": 18,
+        "fecha": "19/8/2025, 1:22:03 p.m.",
+        "ganancia": 6
+      },
+      {
+        "producto": "Cup birria",
+        "piezas": 1,
+        "costoTotal": 16.88,
+        "fecha": "19/8/2025, 1:22:03 p.m.",
+        "ganancia": 5.629999999999999
+      },
+      {
+        "producto": "Tenedor",
+        "piezas": 1,
+        "costoTotal": 0.41,
+        "fecha": "19/8/2025, 1:28:10 p.m.",
+        "ganancia": 0.13799999999999996
       }
     ],
     "Vicente": [
@@ -28058,13 +28205,8 @@
       "descripcion": "Squirt",
       "precioCompra": 29.25,
       "precioVenta": 43.88,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 29.25
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501086106899",
@@ -28214,10 +28356,10 @@
       "descripcion": "Cup birria",
       "precioCompra": 11.25,
       "precioVenta": 16.88,
-      "piezas": 12,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 8,
           "costoUnitario": 11.25
         }
       ]
@@ -28253,10 +28395,10 @@
       "descripcion": "Del valle frut",
       "precioCompra": 31.88,
       "precioVenta": 47.81,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 31.875
         }
       ]
@@ -28266,10 +28408,10 @@
       "descripcion": "Chocolate coconugs",
       "precioCompra": 4.17,
       "precioVenta": 6.25,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 4.166666666666667
         }
       ]
@@ -28279,10 +28421,10 @@
       "descripcion": "Surtido montes",
       "precioCompra": 0.63,
       "precioVenta": 0.95,
-      "piezas": 100,
+      "piezas": 90,
       "stockParciales": [
         {
-          "cantidad": 100,
+          "cantidad": 90,
           "costoUnitario": 0.63
         }
       ]
@@ -28331,10 +28473,10 @@
       "descripcion": "Chips",
       "precioCompra": 12,
       "precioVenta": 18,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12
         }
       ]
@@ -28344,13 +28486,8 @@
       "descripcion": "Chips jalapeño",
       "precioCompra": 12,
       "precioVenta": 18,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 12
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "750103042453622",
@@ -28370,10 +28507,10 @@
       "descripcion": "Runers",
       "precioCompra": 12,
       "precioVenta": 18,
-      "piezas": 6,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 4,
           "costoUnitario": 12
         }
       ]
@@ -28435,10 +28572,10 @@
       "descripcion": "Arcoiris",
       "precioCompra": 13.88,
       "precioVenta": 20.81,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 13.875
         }
       ]
@@ -28565,10 +28702,10 @@
       "descripcion": "Bonafina",
       "precioCompra": 15.47,
       "precioVenta": 23.2,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 15.466666666666667
         }
       ]
@@ -28604,10 +28741,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 3.61,
       "precioVenta": 5.42,
-      "piezas": 98,
+      "piezas": 96,
       "stockParciales": [
         {
-          "cantidad": 98,
+          "cantidad": 96,
           "costoUnitario": 3.61
         }
       ]
@@ -28656,10 +28793,10 @@
       "descripcion": "Tenedor",
       "precioCompra": 0.27,
       "precioVenta": 0.41,
-      "piezas": 50,
+      "piezas": 47,
       "stockParciales": [
         {
-          "cantidad": 50,
+          "cantidad": 47,
           "costoUnitario": 0.272
         }
       ]
@@ -28682,10 +28819,10 @@
       "descripcion": "Vaso",
       "precioCompra": 0.4,
       "precioVenta": 0.6,
-      "piezas": 50,
+      "piezas": 49,
       "stockParciales": [
         {
-          "cantidad": 50,
+          "cantidad": 49,
           "costoUnitario": 0.402
         }
       ]
@@ -31414,6 +31551,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 59051.60000000001,
-  "inversionRecuperada": 50371.38567619067,
-  "gananciasTotales": 25202.34432380999
+  "inversionRecuperada": 50585.75700952399,
+  "gananciasTotales": 25309.612990476657
 }
