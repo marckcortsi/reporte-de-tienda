@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 914.6900000000002,
-      "ganancia": 3418.442023456788,
+      "adeudo": 1031.2900000000002,
+      "ganancia": 3457.242023456788,
       "saldoFavor": 0
     },
     {
@@ -17,8 +17,8 @@
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 1154.6500000000008,
-      "ganancia": 1433.8564708112872,
+      "adeudo": 1187.6500000000008,
+      "ganancia": 1444.8564708112872,
       "saldoFavor": 0
     },
     {
@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1458.6000000000004,
-      "ganancia": 1240.266905996473,
+      "adeudo": 1470.3000000000004,
+      "ganancia": 1244.1669059964731,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 161.88,
-      "ganancia": 2092.420615784835,
+      "adeudo": 206.32,
+      "ganancia": 2107.235615784835,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 405.26,
-      "ganancia": 4357.290450705464,
+      "adeudo": 416.96,
+      "ganancia": 4361.190450705463,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 1801.3100000000009,
-      "ganancia": 2160.5775517636735,
+      "adeudo": 1830.5600000000009,
+      "ganancia": 2170.3275517636735,
       "saldoFavor": 0
     },
     {
@@ -1948,6 +1948,13 @@
         "costoTotal": 36,
         "fecha": "21/8/2025, 10:30:38 a.m.",
         "ganancia": 12
+      },
+      {
+        "producto": "Malboro",
+        "piezas": 20,
+        "costoTotal": 116.6,
+        "fecha": "22/8/2025, 11:31:44 a.m.",
+        "ganancia": 38.8
       }
     ],
     "Carlos": [
@@ -7741,6 +7748,13 @@
         "costoTotal": 4.63,
         "fecha": "21/8/2025, 9:42:38 a.m.",
         "ganancia": 1.5466666666666664
+      },
+      {
+        "producto": "Gatorade Azul",
+        "piezas": 1,
+        "costoTotal": 33,
+        "fecha": "22/8/2025, 11:20:21 a.m.",
+        "ganancia": 11
       }
     ],
     "Francisco": [
@@ -9999,6 +10013,13 @@
         "costoTotal": 29.25,
         "fecha": "20/8/2025, 12:29:11 p.m.",
         "ganancia": 9.75
+      },
+      {
+        "producto": "Yakul",
+        "piezas": 1,
+        "costoTotal": 11.7,
+        "fecha": "22/8/2025, 11:20:26 a.m.",
+        "ganancia": 3.8999999999999995
       }
     ],
     "Isac": [
@@ -17754,6 +17775,20 @@
         "costoTotal": 30.38,
         "fecha": "21/8/2025, 10:30:30 a.m.",
         "ganancia": 10.129999999999999
+      },
+      {
+        "producto": "Arcoiris",
+        "piezas": 1,
+        "costoTotal": 20.81,
+        "fecha": "22/8/2025, 10:32:14 a.m.",
+        "ganancia": 6.934999999999999
+      },
+      {
+        "producto": "Licuado Danone",
+        "piezas": 1,
+        "costoTotal": 23.63,
+        "fecha": "22/8/2025, 10:32:14 a.m.",
+        "ganancia": 7.879999999999999
       }
     ],
     "Laura": [
@@ -24457,6 +24492,13 @@
         "costoTotal": 23.63,
         "fecha": "22/8/2025, 8:23:24 a.m.",
         "ganancia": 7.879999999999999
+      },
+      {
+        "producto": "Yakul",
+        "piezas": 1,
+        "costoTotal": 11.7,
+        "fecha": "22/8/2025, 10:36:45 a.m.",
+        "ganancia": 3.8999999999999995
       }
     ],
     "Rafael": [
@@ -27455,6 +27497,13 @@
         "costoTotal": 23.63,
         "fecha": "22/8/2025, 8:23:39 a.m.",
         "ganancia": 7.879999999999999
+      },
+      {
+        "producto": "Maruchan Bowi",
+        "piezas": 1,
+        "costoTotal": 29.25,
+        "fecha": "22/8/2025, 12:05:32 p.m.",
+        "ganancia": 9.75
       }
     ],
     "Vicente": [
@@ -28729,10 +28778,10 @@
       "descripcion": "Maruchan Bowi",
       "precioCompra": 19.5,
       "precioVenta": 29.25,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 19.5
         }
       ]
@@ -28742,10 +28791,10 @@
       "descripcion": "Licuado Danone",
       "precioCompra": 15.75,
       "precioVenta": 23.63,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 15.75
         }
       ]
@@ -28807,10 +28856,10 @@
       "descripcion": "Gatorade Azul",
       "precioCompra": 22,
       "precioVenta": 33,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 22
         }
       ]
@@ -28846,10 +28895,10 @@
       "descripcion": "Yakul",
       "precioCompra": 7.8,
       "precioVenta": 11.7,
-      "piezas": 15,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 13,
           "costoUnitario": 7.8
         }
       ]
@@ -29065,10 +29114,10 @@
       "descripcion": "Arcoiris",
       "precioCompra": 13.88,
       "precioVenta": 20.81,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 13.875
         }
       ]
@@ -29221,10 +29270,10 @@
       "descripcion": "Malboro",
       "precioCompra": 3.89,
       "precioVenta": 5.83,
-      "piezas": 80,
+      "piezas": 60,
       "stockParciales": [
         {
-          "cantidad": 80,
+          "cantidad": 60,
           "costoUnitario": 3.89
         }
       ]
@@ -32044,6 +32093,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 59051.60000000001,
-  "inversionRecuperada": 51577.099009524,
-  "gananciasTotales": 25805.420990476672
+  "inversionRecuperada": 51741.62400952401,
+  "gananciasTotales": 25887.585990476677
 }
