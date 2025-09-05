@@ -3,85 +3,85 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 1773.9800000000005,
-      "ganancia": 3704.9575790123445,
+      "adeudo": 1875.4800000000007,
+      "ganancia": 3739.2600790123447,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2424.440000000002,
-      "ganancia": 4943.233436419756,
+      "adeudo": 2165.3300000000017,
+      "ganancia": 4990.73426975309,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 1447.6400000000008,
-      "ganancia": 1551.9925819223988,
+      "adeudo": 1472.6400000000008,
+      "ganancia": 1560.7784152557324,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 156.29000000000002,
-      "ganancia": 867.250069488536,
+      "adeudo": 217.79000000000002,
+      "ganancia": 888.202569488536,
       "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1665.2600000000007,
-      "ganancia": 1309.12857266314,
+      "adeudo": 1679.1500000000008,
+      "ganancia": 1314.22107266314,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 2840.830000000002,
-      "ganancia": 2909.507660758378,
+      "adeudo": 2955.6300000000024,
+      "ganancia": 2948.233494091711,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
       "adeudo": 452.63,
-      "ganancia": 1804.464362345682,
+      "ganancia": 1804.9168623456821,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 276.38,
-      "ganancia": 2199.4272824515015,
+      "adeudo": 362.81,
+      "ganancia": 2230.501449118168,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
       "adeudo": 921.0300000000002,
-      "ganancia": 630.8930329805994,
+      "ganancia": 631.3455329805994,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 861.8700000000001,
-      "ganancia": 4609.918784038799,
+      "adeudo": 588.5800000000002,
+      "ganancia": 4648.2462840388,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 2311.050000000002,
-      "ganancia": 2330.8408850970063,
+      "adeudo": 2383.370000000002,
+      "ganancia": 2355.405051763673,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
       "adeudo": 301.08,
-      "ganancia": 506.11579091710735,
+      "ganancia": 506.56829091710733,
       "saldoFavor": 0
     },
     {
@@ -2109,6 +2109,41 @@
         "costoTotal": 116.6,
         "fecha": "2/9/2025, 6:00:46 p.m.",
         "ganancia": 38.8
+      },
+      {
+        "producto": "Sandi brocha",
+        "piezas": 3,
+        "costoTotal": 6.99,
+        "fecha": "3/9/2025, 6:09:18 p.m.",
+        "ganancia": 2.34
+      },
+      {
+        "producto": "Arcoiris",
+        "piezas": 1,
+        "costoTotal": 20.81,
+        "fecha": "3/9/2025, 6:09:18 p.m.",
+        "ganancia": 6.934999999999999
+      },
+      {
+        "producto": "Emperador vainilla",
+        "piezas": 1,
+        "costoTotal": 22.88,
+        "fecha": "4/9/2025, 8:49:56 a.m.",
+        "ganancia": 7.629999999999999
+      },
+      {
+        "producto": "Jarritos mandarina",
+        "piezas": 1,
+        "costoTotal": 30.38,
+        "fecha": "4/9/2025, 12:06:34 p.m.",
+        "ganancia": 10.129999999999999
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 20.44,
+        "fecha": "5/9/2025, 8:37:04 a.m.",
+        "ganancia": 6.815000000000001
       }
     ],
     "Carlos": [
@@ -6353,6 +6388,55 @@
         "costoTotal": 43.5,
         "fecha": "3/9/2025, 1:45:35 p.m.",
         "ganancia": 14.5
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 74,
+        "fecha": "3/9/2025, 6:22:13 p.m.",
+        "ganancia": 24.75
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "5/9/2025, 8:31:24 a.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "5/9/2025, 8:31:51 a.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Sandi brocha",
+        "piezas": 1,
+        "costoTotal": 2.33,
+        "fecha": "5/9/2025, 8:34:54 a.m.",
+        "ganancia": 0.78
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "5/9/2025, 8:50:06 a.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Arcoiris",
+        "piezas": 1,
+        "costoTotal": 20.81,
+        "fecha": "5/9/2025, 8:50:06 a.m.",
+        "ganancia": 6.934999999999999
+      },
+      {
+        "producto": "Chocolate coconugs",
+        "piezas": 1,
+        "costoTotal": 6.25,
+        "fecha": "5/9/2025, 8:50:06 a.m.",
+        "ganancia": 2.083333333333333
       }
     ],
     "Edgar": [
@@ -8182,6 +8266,20 @@
         "costoTotal": 21.75,
         "fecha": "3/9/2025, 2:05:12 p.m.",
         "ganancia": 7.25
+      },
+      {
+        "producto": "Leche de chocolate",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "4/9/2025, 9:00:32 a.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Leche de chocolate",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "5/9/2025, 8:34:20 a.m.",
+        "ganancia": 4.166666666666666
       }
     ],
     "Francisco": [
@@ -9087,6 +9185,13 @@
         "costoTotal": 9.5,
         "fecha": "3/9/2025, 10:21:56 a.m.",
         "ganancia": 3.1999999999999993
+      },
+      {
+        "producto": "Coca cola de 3 litros",
+        "piezas": 1,
+        "costoTotal": 61.5,
+        "fecha": "5/9/2025, 8:33:53 a.m.",
+        "ganancia": 20.5
       }
     ],
     "Irvin": [
@@ -10587,6 +10692,20 @@
         "costoTotal": 21.75,
         "fecha": "3/9/2025, 2:05:00 p.m.",
         "ganancia": 6.916666666666666
+      },
+      {
+        "producto": "Canelita",
+        "piezas": 2,
+        "costoTotal": 9.26,
+        "fecha": "5/9/2025, 8:52:05 a.m.",
+        "ganancia": 3.093333333333333
+      },
+      {
+        "producto": "Barrita  piña",
+        "piezas": 1,
+        "costoTotal": 4.63,
+        "fecha": "5/9/2025, 8:52:13 a.m.",
+        "ganancia": 1.5466666666666664
       }
     ],
     "Isac": [
@@ -14397,6 +14516,55 @@
         "costoTotal": 33,
         "fecha": "3/9/2025, 11:42:02 a.m.",
         "ganancia": 11
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "4/9/2025, 9:22:22 a.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Emperador vainilla",
+        "piezas": 1,
+        "costoTotal": 22.88,
+        "fecha": "4/9/2025, 9:22:22 a.m.",
+        "ganancia": 7.629999999999999
+      },
+      {
+        "producto": "Maruchan camarón y pikin",
+        "piezas": 1,
+        "costoTotal": 21.75,
+        "fecha": "4/9/2025, 12:31:22 p.m.",
+        "ganancia": 7.25
+      },
+      {
+        "producto": "Takis fuego3",
+        "piezas": 1,
+        "costoTotal": 18,
+        "fecha": "4/9/2025, 12:31:22 p.m.",
+        "ganancia": 6
+      },
+      {
+        "producto": "Maruchan camarón y limon",
+        "piezas": 1,
+        "costoTotal": 21.75,
+        "fecha": "4/9/2025, 2:24:42 p.m.",
+        "ganancia": 7.25
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 1,
+        "costoTotal": 5.42,
+        "fecha": "4/9/2025, 3:22:59 p.m.",
+        "ganancia": 1.81
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "5/9/2025, 8:54:18 a.m.",
+        "ganancia": 4.166666666666666
       }
     ],
     "Isrrael": [
@@ -18804,6 +18972,48 @@
         "costoTotal": 6.99,
         "fecha": "3/9/2025, 5:08:31 p.m.",
         "ganancia": 2.34
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 1,
+        "costoTotal": 5.42,
+        "fecha": "3/9/2025, 6:21:55 p.m.",
+        "ganancia": 1.81
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "4/9/2025, 8:13:21 a.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Yakul",
+        "piezas": 1,
+        "costoTotal": 11.7,
+        "fecha": "4/9/2025, 8:13:21 a.m.",
+        "ganancia": 3.8999999999999995
+      },
+      {
+        "producto": "Peñafiel Naranja",
+        "piezas": 1,
+        "costoTotal": 36,
+        "fecha": "4/9/2025, 12:06:26 p.m.",
+        "ganancia": 12
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 1,
+        "costoTotal": 5.42,
+        "fecha": "4/9/2025, 3:21:21 p.m.",
+        "ganancia": 1.81
+      },
+      {
+        "producto": "Arcoiris",
+        "piezas": 1,
+        "costoTotal": 20.81,
+        "fecha": "5/9/2025, 8:34:08 a.m.",
+        "ganancia": 6.934999999999999
       }
     ],
     "Laura": [
@@ -25836,6 +26046,83 @@
         "costoTotal": 6.25,
         "fecha": "3/9/2025, 2:05:55 p.m.",
         "ganancia": 2.083333333333333
+      },
+      {
+        "producto": "Canelita",
+        "piezas": 1,
+        "costoTotal": 4.63,
+        "fecha": "3/9/2025, 6:22:26 p.m.",
+        "ganancia": 1.5466666666666664
+      },
+      {
+        "producto": "Arcoiris",
+        "piezas": 1,
+        "costoTotal": 20.81,
+        "fecha": "3/9/2025, 6:22:42 p.m.",
+        "ganancia": 6.934999999999999
+      },
+      {
+        "producto": "Yakul",
+        "piezas": 1,
+        "costoTotal": 11.7,
+        "fecha": "4/9/2025, 8:07:18 a.m.",
+        "ganancia": 3.8999999999999995
+      },
+      {
+        "producto": "Takis brava",
+        "piezas": 1,
+        "costoTotal": 13.1,
+        "fecha": "4/9/2025, 9:24:04 a.m.",
+        "ganancia": 0
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "4/9/2025, 11:00:23 a.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Lucas",
+        "piezas": 1,
+        "costoTotal": 10.35,
+        "fecha": "4/9/2025, 3:21:00 p.m.",
+        "ganancia": 3.4499999999999993
+      },
+      {
+        "producto": "Chocolate coconugs",
+        "piezas": 1,
+        "costoTotal": 6.25,
+        "fecha": "4/9/2025, 3:21:00 p.m.",
+        "ganancia": 2.083333333333333
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 1,
+        "costoTotal": 5.42,
+        "fecha": "4/9/2025, 3:23:10 p.m.",
+        "ganancia": 1.81
+      },
+      {
+        "producto": "Chocolate coconugs",
+        "piezas": 1,
+        "costoTotal": 6.25,
+        "fecha": "4/9/2025, 3:23:10 p.m.",
+        "ganancia": 2.083333333333333
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "5/9/2025, 8:53:16 a.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Bonafina",
+        "piezas": 1,
+        "costoTotal": 23.2,
+        "fecha": "5/9/2025, 10:28:50 a.m.",
+        "ganancia": 7.7333333333333325
       }
     ],
     "Rafael": [
@@ -29009,6 +29296,41 @@
         "costoTotal": 20.44,
         "fecha": "3/9/2025, 8:41:27 a.m.",
         "ganancia": 6.815000000000001
+      },
+      {
+        "producto": "Triki trakets",
+        "piezas": 1,
+        "costoTotal": 4.63,
+        "fecha": "4/9/2025, 9:22:44 a.m.",
+        "ganancia": 1.5466666666666664
+      },
+      {
+        "producto": "Top-tops cafe",
+        "piezas": 1,
+        "costoTotal": 9.75,
+        "fecha": "4/9/2025, 9:22:44 a.m.",
+        "ganancia": 3.25
+      },
+      {
+        "producto": "Leche de chocolate",
+        "piezas": 2,
+        "costoTotal": 25,
+        "fecha": "4/9/2025, 9:22:44 a.m.",
+        "ganancia": 8.333333333333332
+      },
+      {
+        "producto": "Leche de chocolate",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "5/9/2025, 8:50:38 a.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 20.44,
+        "fecha": "5/9/2025, 8:50:38 a.m.",
+        "ganancia": 6.815000000000001
       }
     ],
     "Vicente": [
@@ -29860,6 +30182,13 @@
         "costoTotal": 10.84,
         "fecha": "2/9/2025, 5:30:34 p.m.",
         "ganancia": 3.62
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 3,
+        "costoTotal": 16.259999999999998,
+        "fecha": "3/9/2025, 6:18:33 p.m.",
+        "ganancia": 5.43
       }
     ]
   },
@@ -29916,10 +30245,10 @@
       "descripcion": "Lucas",
       "precioCompra": 6.9,
       "precioVenta": 10.35,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 6.9
         }
       ]
@@ -30031,10 +30360,10 @@
       "descripcion": "Sandi brocha",
       "precioCompra": 1.55,
       "precioVenta": 2.33,
-      "piezas": 23,
+      "piezas": 19,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 19,
           "costoUnitario": 1.55
         }
       ]
@@ -30070,23 +30399,18 @@
       "descripcion": "Top-tops cafe",
       "precioCompra": 6.5,
       "precioVenta": 9.75,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 6.5
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "041789001864",
       "descripcion": "Maruchan camarón y limon",
       "precioCompra": 14.5,
       "precioVenta": 21.75,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 14.5
         }
       ]
@@ -30117,10 +30441,10 @@
       "descripcion": "Maruchan camarón y pikin",
       "precioCompra": 14.5,
       "precioVenta": 21.75,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 14.5
         }
       ]
@@ -30169,7 +30493,7 @@
       "descripcion": "Takis brava",
       "precioCompra": 8.73,
       "precioVenta": 13.1,
-      "piezas": 1,
+      "piezas": 0,
       "stockParciales": []
     },
     {
@@ -30190,23 +30514,18 @@
       "descripcion": "Leche de chocolate",
       "precioCompra": 8.33,
       "precioVenta": 12.5,
-      "piezas": 5,
-      "stockParciales": [
-        {
-          "cantidad": 5,
-          "costoUnitario": 8.333333333333334
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501055915682",
       "descripcion": "Leche de fresa",
       "precioCompra": 8.33,
       "precioVenta": 12.5,
-      "piezas": 20,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 20,
+          "cantidad": 18,
           "costoUnitario": 8.333333333333334
         }
       ]
@@ -30216,10 +30535,10 @@
       "descripcion": "Leche de vainilla",
       "precioCompra": 8.33,
       "precioVenta": 12.5,
-      "piezas": 18,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 18,
+          "cantidad": 12,
           "costoUnitario": 8.333333333333334
         }
       ]
@@ -30255,10 +30574,10 @@
       "descripcion": "Coca cola de 3 litros",
       "precioCompra": 41,
       "precioVenta": 61.5,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 41
         }
       ]
@@ -30268,13 +30587,8 @@
       "descripcion": "Yakul",
       "precioCompra": 7.8,
       "precioVenta": 11.7,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 7.8
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7503020651823",
@@ -30294,10 +30608,10 @@
       "descripcion": "Peñafiel Naranja",
       "precioCompra": 24,
       "precioVenta": 36,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 24
         }
       ]
@@ -30307,10 +30621,10 @@
       "descripcion": "Jarritos mandarina",
       "precioCompra": 20.25,
       "precioVenta": 30.38,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 20.25
         }
       ]
@@ -30333,10 +30647,10 @@
       "descripcion": "Chocolate coconugs",
       "precioCompra": 4.17,
       "precioVenta": 6.25,
-      "piezas": 4,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 1,
           "costoUnitario": 4.166666666666667
         }
       ]
@@ -30380,10 +30694,10 @@
       "descripcion": "Takis fuego3",
       "precioCompra": 12,
       "precioVenta": 18,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12
         }
       ]
@@ -30393,10 +30707,10 @@
       "descripcion": "Triki trakets",
       "precioCompra": 3.08,
       "precioVenta": 4.63,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 3.0833333333333335
         }
       ]
@@ -30414,10 +30728,10 @@
       "descripcion": "Barrita  piña",
       "precioCompra": 3.08,
       "precioVenta": 4.63,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 3.0833333333333335
         }
       ]
@@ -30427,10 +30741,10 @@
       "descripcion": "Canelita",
       "precioCompra": 3.08,
       "precioVenta": 4.63,
-      "piezas": 6,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 3,
           "costoUnitario": 3.0833333333333335
         }
       ]
@@ -30440,10 +30754,10 @@
       "descripcion": "Arcoiris",
       "precioCompra": 13.88,
       "precioVenta": 20.81,
-      "piezas": 5,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 1,
           "costoUnitario": 13.875
         }
       ]
@@ -30492,10 +30806,10 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 13.63,
       "precioVenta": 20.44,
-      "piezas": 9,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 7,
           "costoUnitario": 13.625
         }
       ]
@@ -30505,10 +30819,10 @@
       "descripcion": "Emperador vainilla",
       "precioCompra": 15.25,
       "precioVenta": 22.88,
-      "piezas": 9,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 7,
           "costoUnitario": 15.25
         }
       ]
@@ -30557,10 +30871,10 @@
       "descripcion": "Bonafina",
       "precioCompra": 15.47,
       "precioVenta": 23.2,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 15.466666666666667
         }
       ]
@@ -30570,10 +30884,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.97,
       "precioVenta": 2.96,
-      "piezas": 75,
+      "piezas": 50,
       "stockParciales": [
         {
-          "cantidad": 75,
+          "cantidad": 50,
           "costoUnitario": 1.97
         }
       ]
@@ -30591,10 +30905,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 3.61,
       "precioVenta": 5.42,
-      "piezas": 40,
+      "piezas": 33,
       "stockParciales": [
         {
-          "cantidad": 40,
+          "cantidad": 33,
           "costoUnitario": 3.61
         }
       ]
@@ -33401,6 +33715,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 59051.60000000001,
-  "inversionRecuperada": 54703.079961905125,
-  "gananciasTotales": 27367.730038095768
+  "inversionRecuperada": 55204.01662857183,
+  "gananciasTotales": 27618.41337142912
 }
