@@ -4,84 +4,84 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 921.2400000000008,
-      "ganancia": 3754.648967901234,
+      "ganancia": 3755.5873012345673,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2343.610000000002,
-      "ganancia": 5050.381491975313,
+      "adeudo": 2383.270000000002,
+      "ganancia": 5064.546491975315,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
       "adeudo": 1483.9700000000007,
-      "ganancia": 1564.6873041446215,
+      "ganancia": 1565.6256374779548,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
       "adeudo": 217.79000000000002,
-      "ganancia": 888.331458377425,
+      "ganancia": 889.2697917107583,
       "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
       "adeudo": 1723.6500000000008,
-      "ganancia": 1329.183294885362,
+      "ganancia": 1330.1216282186954,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 2990.8800000000024,
-      "ganancia": 2960.1123829805997,
+      "adeudo": 3052.3800000000024,
+      "ganancia": 2981.550716313933,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
       "adeudo": 452.63,
-      "ganancia": 1805.045751234571,
+      "ganancia": 1805.9840845679043,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
       "adeudo": 385.56,
-      "ganancia": 2238.21367134039,
+      "ganancia": 2242.4020046737237,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
       "adeudo": 925.6600000000002,
-      "ganancia": 633.0210885361549,
+      "ganancia": 633.9594218694883,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 673.7200000000003,
-      "ganancia": 4676.760887213402,
+      "adeudo": 698.4400000000003,
+      "ganancia": 4685.949220546736,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 2383.370000000002,
-      "ganancia": 2355.533940652562,
+      "adeudo": 2398.830000000002,
+      "ganancia": 2361.6289406525616,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
       "adeudo": 301.08,
-      "ganancia": 506.6971798059962,
+      "ganancia": 507.63551313932953,
       "saldoFavor": 0
     },
     {
@@ -6500,6 +6500,41 @@
         "costoTotal": 12.5,
         "fecha": "8/9/2025, 9:46:21 a.m.",
         "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "9/9/2025, 9:01:05 a.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "9/9/2025, 10:03:57 a.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Triki trakets",
+        "piezas": 1,
+        "costoTotal": 4.63,
+        "fecha": "9/9/2025, 10:05:40 a.m.",
+        "ganancia": 1.5466666666666664
+      },
+      {
+        "producto": "Canelita",
+        "piezas": 1,
+        "costoTotal": 4.63,
+        "fecha": "9/9/2025, 10:05:40 a.m.",
+        "ganancia": 1.5466666666666664
+      },
+      {
+        "producto": "Bocadin",
+        "piezas": 3,
+        "costoTotal": 5.4,
+        "fecha": "9/9/2025, 10:05:40 a.m.",
+        "ganancia": 1.8000000000000003
       }
     ],
     "Edgar": [
@@ -14670,6 +14705,13 @@
         "costoTotal": 12.5,
         "fecha": "8/9/2025, 8:28:32 a.m.",
         "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Coca cola de 3 litros",
+        "piezas": 1,
+        "costoTotal": 61.5,
+        "fecha": "8/9/2025, 1:16:40 p.m.",
+        "ganancia": 20.5
       }
     ],
     "Isrrael": [
@@ -19126,6 +19168,13 @@
         "costoTotal": 22.75,
         "fecha": "8/9/2025, 8:28:51 a.m.",
         "ganancia": 7.583333333333334
+      },
+      {
+        "producto": "Top-tops morados",
+        "piezas": 1,
+        "costoTotal": 9.75,
+        "fecha": "8/9/2025, 12:52:37 p.m.",
+        "ganancia": 3.25
       }
     ],
     "Laura": [
@@ -26298,6 +26347,27 @@
         "costoTotal": 34.2,
         "fecha": "8/9/2025, 11:49:51 a.m.",
         "ganancia": 11.400000000000002
+      },
+      {
+        "producto": "Shots",
+        "piezas": 1,
+        "costoTotal": 2.96,
+        "fecha": "9/9/2025, 8:33:18 a.m.",
+        "ganancia": 0.99
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "9/9/2025, 10:04:05 a.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Triki trakets",
+        "piezas": 2,
+        "costoTotal": 9.26,
+        "fecha": "9/9/2025, 10:06:08 a.m.",
+        "ganancia": 3.093333333333333
       }
     ],
     "Rafael": [
@@ -29506,6 +29576,20 @@
         "costoTotal": 20.44,
         "fecha": "5/9/2025, 8:50:38 a.m.",
         "ganancia": 6.815000000000001
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "9/9/2025, 8:32:50 a.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Shots",
+        "piezas": 1,
+        "costoTotal": 2.96,
+        "fecha": "9/9/2025, 8:33:07 a.m.",
+        "ganancia": 0.99
       }
     ],
     "Vicente": [
@@ -30371,6 +30455,13 @@
         "costoTotal": 4.63,
         "fecha": "8/9/2025, 12:35:25 p.m.",
         "ganancia": 1.5466666666666664
+      },
+      {
+        "producto": "Cup birria",
+        "piezas": 2,
+        "costoTotal": 33.76,
+        "fecha": "9/9/2025, 10:06:58 a.m.",
+        "ganancia": 11.259999999999998
       }
     ]
   },
@@ -30563,13 +30654,8 @@
       "descripcion": "Top-tops morados",
       "precioCompra": 6.5,
       "precioVenta": 9.75,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 6.5
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500366001824",
@@ -30631,10 +30717,10 @@
       "descripcion": "Bocadin",
       "precioCompra": 1.2,
       "precioVenta": 1.8,
-      "piezas": 15,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 12,
           "costoUnitario": 1.2
         }
       ]
@@ -30712,10 +30798,10 @@
       "descripcion": "Leche de vainilla",
       "precioCompra": 8.33,
       "precioVenta": 12.5,
-      "piezas": 8,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 4,
           "costoUnitario": 8.333333333333334
         }
       ]
@@ -30751,10 +30837,10 @@
       "descripcion": "Coca cola de 3 litros",
       "precioCompra": 41,
       "precioVenta": 61.5,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 41
         }
       ]
@@ -30772,13 +30858,8 @@
       "descripcion": "Cup birria",
       "precioCompra": 11.25,
       "precioVenta": 16.88,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 11.25
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501073839861",
@@ -30879,10 +30960,10 @@
       "descripcion": "Triki trakets",
       "precioCompra": 3.08,
       "precioVenta": 4.63,
-      "piezas": 4,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 1,
           "costoUnitario": 3.0833333333333335
         }
       ]
@@ -30908,10 +30989,10 @@
       "descripcion": "Canelita",
       "precioCompra": 3.08,
       "precioVenta": 4.63,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 3.0833333333333335
         }
       ]
@@ -31051,10 +31132,10 @@
       "descripcion": "Shots",
       "precioCompra": 1.97,
       "precioVenta": 2.96,
-      "piezas": 24,
+      "piezas": 22,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 22,
           "costoUnitario": 1.97
         }
       ]
@@ -33882,6 +33963,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 59051.60000000001,
-  "inversionRecuperada": 55492.082580952796,
-  "gananciasTotales": 27762.61741904818
+  "inversionRecuperada": 55615.289247619476,
+  "gananciasTotales": 27824.260752381517
 }
