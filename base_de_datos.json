@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2606.740000000002,
-      "ganancia": 5144.307245943571,
+      "adeudo": 2619.240000000002,
+      "ganancia": 5148.473912610238,
       "saldoFavor": 0
     },
     {
@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 531.89,
-      "ganancia": 1837.6376956790155,
+      "adeudo": 566.2,
+      "ganancia": 1849.0726956790154,
       "saldoFavor": 0
     },
     {
@@ -59,7 +59,7 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 996.8000000000002,
+      "adeudo": 396.8000000000002,
       "ganancia": 662.9013663139326,
       "saldoFavor": 0
     },
@@ -6661,6 +6661,13 @@
         "costoTotal": 5.63,
         "fecha": "11/9/2025, 9:45:00 a.m.",
         "ganancia": 1.88
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "12/9/2025, 8:39:15 a.m.",
+        "ganancia": 4.166666666666666
       }
     ],
     "Edgar": [
@@ -16547,6 +16554,13 @@
         "piezas": 1,
         "costoTotal": 34.31,
         "fecha": "10/9/2025, 9:41:16 a.m.",
+        "ganancia": 11.435000000000002
+      },
+      {
+        "producto": "Cremax chocolate",
+        "piezas": 1,
+        "costoTotal": 34.31,
+        "fecha": "12/9/2025, 8:38:09 a.m.",
         "ganancia": 11.435000000000002
       }
     ],
@@ -31130,10 +31144,10 @@
       "descripcion": "Leche de fresa",
       "precioCompra": 8.33,
       "precioVenta": 12.5,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 8.333333333333334
         }
       ]
@@ -31351,10 +31365,10 @@
       "descripcion": "Cremax chocolate",
       "precioCompra": 22.88,
       "precioVenta": 34.31,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 22.875
         }
       ]
@@ -34253,6 +34267,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 59051.60000000001,
-  "inversionRecuperada": 56355.70377142902,
-  "gananciasTotales": 28194.90622857202
+  "inversionRecuperada": 56386.912104762356,
+  "gananciasTotales": 28210.50789523869
 }
