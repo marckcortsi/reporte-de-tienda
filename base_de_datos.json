@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 985.0000000000008,
-      "ganancia": 3782.0825790123454,
+      "adeudo": 1039.750000000001,
+      "ganancia": 3800.3325790123454,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2553.230000000002,
-      "ganancia": 5126.463912610237,
+      "adeudo": 2606.740000000002,
+      "ganancia": 5144.307245943571,
       "saldoFavor": 0
     },
     {
@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1748.8600000000008,
-      "ganancia": 1343.7669059964733,
+      "adeudo": 1771.740000000001,
+      "ganancia": 1351.3969059964734,
       "saldoFavor": 0
     },
     {
@@ -52,29 +52,29 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 385.56,
-      "ganancia": 2247.6372824515015,
+      "adeudo": 435.44,
+      "ganancia": 2257.7672824515016,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 962.4900000000002,
-      "ganancia": 651.4663663139327,
+      "adeudo": 996.8000000000002,
+      "ganancia": 662.9013663139326,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 836.2800000000003,
-      "ganancia": 4757.822831657848,
+      "adeudo": 867.2700000000003,
+      "ganancia": 4768.152831657848,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 2422.910000000002,
-      "ganancia": 2374.8942184303396,
+      "adeudo": 2435.410000000002,
+      "ganancia": 2379.060885097006,
       "saldoFavor": 0
     },
     {
@@ -2179,6 +2179,20 @@
         "costoTotal": 22.88,
         "fecha": "10/9/2025, 8:05:25 a.m.",
         "ganancia": 7.629999999999999
+      },
+      {
+        "producto": "Cremax fresa",
+        "piezas": 1,
+        "costoTotal": 34.31,
+        "fecha": "11/9/2025, 10:51:31 a.m.",
+        "ganancia": 11.435000000000002
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 20.44,
+        "fecha": "12/9/2025, 8:25:13 a.m.",
+        "ganancia": 6.815000000000001
       }
     ],
     "Carlos": [
@@ -6619,6 +6633,34 @@
         "costoTotal": 25,
         "fecha": "11/9/2025, 8:13:34 a.m.",
         "ganancia": 8.333333333333332
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "11/9/2025, 8:30:34 a.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "11/9/2025, 9:45:00 a.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Emperador vainilla",
+        "piezas": 1,
+        "costoTotal": 22.88,
+        "fecha": "11/9/2025, 9:45:00 a.m.",
+        "ganancia": 7.629999999999999
+      },
+      {
+        "producto": "Mazapan con chocolate",
+        "piezas": 1,
+        "costoTotal": 5.63,
+        "fecha": "11/9/2025, 9:45:00 a.m.",
+        "ganancia": 1.88
       }
     ],
     "Edgar": [
@@ -10936,6 +10978,13 @@
         "piezas": 1,
         "costoTotal": 22.88,
         "fecha": "10/9/2025, 8:14:02 a.m.",
+        "ganancia": 7.629999999999999
+      },
+      {
+        "producto": "Emperador vainilla",
+        "piezas": 1,
+        "costoTotal": 22.88,
+        "fecha": "11/9/2025, 8:17:24 a.m.",
         "ganancia": 7.629999999999999
       }
     ],
@@ -19315,6 +19364,20 @@
         "costoTotal": 9.75,
         "fecha": "8/9/2025, 12:52:37 p.m.",
         "ganancia": 3.25
+      },
+      {
+        "producto": "Sol habanero",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "11/9/2025, 12:28:12 p.m.",
+        "ganancia": 0
+      },
+      {
+        "producto": "Jarritos mandarina",
+        "piezas": 1,
+        "costoTotal": 30.38,
+        "fecha": "12/9/2025, 8:25:00 a.m.",
+        "ganancia": 10.129999999999999
       }
     ],
     "Laura": [
@@ -20122,6 +20185,13 @@
         "costoTotal": 2.52,
         "fecha": "11/9/2025, 8:14:51 a.m.",
         "ganancia": 0.8366666666666667
+      },
+      {
+        "producto": "Cremax chocolate",
+        "piezas": 1,
+        "costoTotal": 34.31,
+        "fecha": "12/9/2025, 8:30:30 a.m.",
+        "ganancia": 11.435000000000002
       }
     ],
     "Marcos": [
@@ -26585,6 +26655,20 @@
         "costoTotal": 23.2,
         "fecha": "10/9/2025, 1:03:25 p.m.",
         "ganancia": 7.7333333333333325
+      },
+      {
+        "producto": "Maruchan camarón y limon",
+        "piezas": 1,
+        "costoTotal": 21.75,
+        "fecha": "11/9/2025, 11:48:08 a.m.",
+        "ganancia": 7.25
+      },
+      {
+        "producto": "Bubulubu",
+        "piezas": 2,
+        "costoTotal": 9.24,
+        "fecha": "11/9/2025, 11:48:08 a.m.",
+        "ganancia": 3.08
       }
     ],
     "Rafael": [
@@ -29821,6 +29905,13 @@
         "costoTotal": 2.33,
         "fecha": "9/9/2025, 5:59:20 p.m.",
         "ganancia": 0.78
+      },
+      {
+        "producto": "Leche de vainilla",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "11/9/2025, 8:30:45 a.m.",
+        "ganancia": 4.166666666666666
       }
     ],
     "Vicente": [
@@ -30824,7 +30915,7 @@
       "descripcion": "Sol habanero",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 1,
+      "piezas": 0,
       "stockParciales": []
     },
     {
@@ -30832,10 +30923,10 @@
       "descripcion": "Cremax fresa",
       "precioCompra": 22.88,
       "precioVenta": 34.31,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 22.875
         }
       ]
@@ -30924,10 +31015,10 @@
       "descripcion": "Maruchan camarón y limon",
       "precioCompra": 14.5,
       "precioVenta": 21.75,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 14.5
         }
       ]
@@ -30984,10 +31075,10 @@
       "descripcion": "Mazapan con chocolate",
       "precioCompra": 3.75,
       "precioVenta": 5.63,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 3.75
         }
       ]
@@ -31039,10 +31130,10 @@
       "descripcion": "Leche de fresa",
       "precioCompra": 8.33,
       "precioVenta": 12.5,
-      "piezas": 17,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 15,
           "costoUnitario": 8.333333333333334
         }
       ]
@@ -31052,13 +31143,8 @@
       "descripcion": "Leche de vainilla",
       "precioCompra": 8.33,
       "precioVenta": 12.5,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 8.333333333333334
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "036731326003",
@@ -31123,10 +31209,10 @@
       "descripcion": "Jarritos mandarina",
       "precioCompra": 20.25,
       "precioVenta": 30.38,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 20.25
         }
       ]
@@ -31239,10 +31325,10 @@
       "descripcion": "Bubulubu",
       "precioCompra": 3.08,
       "precioVenta": 4.62,
-      "piezas": 17,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 15,
           "costoUnitario": 3.08
         }
       ]
@@ -31265,10 +31351,10 @@
       "descripcion": "Cremax chocolate",
       "precioCompra": 22.88,
       "precioVenta": 34.31,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 22.875
         }
       ]
@@ -31278,10 +31364,10 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 13.63,
       "precioVenta": 20.44,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 13.625
         }
       ]
@@ -31291,13 +31377,8 @@
       "descripcion": "Emperador vainilla",
       "precioCompra": 15.25,
       "precioVenta": 22.88,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 15.25
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478035915",
@@ -34172,6 +34253,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 59051.60000000001,
-  "inversionRecuperada": 56196.16877142901,
-  "gananciasTotales": 28115.12122857201
+  "inversionRecuperada": 56355.70377142902,
+  "gananciasTotales": 28194.90622857202
 }
