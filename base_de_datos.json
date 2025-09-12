@@ -10,7 +10,7 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2619.240000000002,
+      "adeudo": 2119.240000000002,
       "ganancia": 5148.473912610238,
       "saldoFavor": 0
     },
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 3087.7600000000025,
-      "ganancia": 2998.5826607583776,
+      "adeudo": 3095.1900000000023,
+      "ganancia": 3001.0626607583777,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 867.2700000000003,
-      "ganancia": 4768.152831657848,
+      "adeudo": 882.0200000000003,
+      "ganancia": 4773.072831657848,
       "saldoFavor": 0
     },
     {
@@ -14887,6 +14887,20 @@
         "costoTotal": 12.5,
         "fecha": "10/9/2025, 8:29:45 a.m.",
         "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Bocadin",
+        "piezas": 1,
+        "costoTotal": 1.8,
+        "fecha": "12/9/2025, 9:48:34 a.m.",
+        "ganancia": 0.6000000000000001
+      },
+      {
+        "producto": "Mazapan con chocolate",
+        "piezas": 1,
+        "costoTotal": 5.63,
+        "fecha": "12/9/2025, 9:48:34 a.m.",
+        "ganancia": 1.88
       }
     ],
     "Isrrael": [
@@ -26683,6 +26697,20 @@
         "costoTotal": 9.24,
         "fecha": "11/9/2025, 11:48:08 a.m.",
         "ganancia": 3.08
+      },
+      {
+        "producto": "Trident",
+        "piezas": 1,
+        "costoTotal": 10.13,
+        "fecha": "12/9/2025, 9:50:35 a.m.",
+        "ganancia": 3.380000000000001
+      },
+      {
+        "producto": "Bubulubu",
+        "piezas": 1,
+        "costoTotal": 4.62,
+        "fecha": "12/9/2025, 9:50:35 a.m.",
+        "ganancia": 1.54
       }
     ],
     "Rafael": [
@@ -31076,10 +31104,10 @@
       "descripcion": "Bocadin",
       "precioCompra": 1.2,
       "precioVenta": 1.8,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 1.2
         }
       ]
@@ -31089,10 +31117,10 @@
       "descripcion": "Mazapan con chocolate",
       "precioCompra": 3.75,
       "precioVenta": 5.63,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 3.75
         }
       ]
@@ -31339,10 +31367,10 @@
       "descripcion": "Bubulubu",
       "precioCompra": 3.08,
       "precioVenta": 4.62,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 3.08
         }
       ]
@@ -31352,10 +31380,10 @@
       "descripcion": "Trident",
       "precioCompra": 6.75,
       "precioVenta": 10.13,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 6.75
         }
       ]
@@ -34267,6 +34295,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 59051.60000000001,
-  "inversionRecuperada": 56386.912104762356,
-  "gananciasTotales": 28210.50789523869
+  "inversionRecuperada": 56401.692104762355,
+  "gananciasTotales": 28217.90789523869
 }
