@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2153.490000000002,
-      "ganancia": 5159.890579276905,
+      "adeudo": 2221.050000000002,
+      "ganancia": 5182.408912610238,
       "saldoFavor": 0
     },
     {
@@ -67,7 +67,7 @@
       "nombre": "Marcos",
       "bloqueado": false,
       "adeudo": 925.5200000000003,
-      "ganancia": 4787.572831657848,
+      "ganancia": 4891.674498324515,
       "saldoFavor": 0
     },
     {
@@ -6689,6 +6689,20 @@
         "costoTotal": 21.75,
         "fecha": "12/9/2025, 1:07:49 p.m.",
         "ganancia": 7.25
+      },
+      {
+        "producto": "Café ole",
+        "piezas": 1,
+        "costoTotal": 33.25,
+        "fecha": "15/9/2025, 9:10:06 a.m.",
+        "ganancia": 11.083333333333332
+      },
+      {
+        "producto": "Cremax fresa",
+        "piezas": 1,
+        "costoTotal": 34.31,
+        "fecha": "15/9/2025, 9:10:06 a.m.",
+        "ganancia": 11.435000000000002
       }
     ],
     "Edgar": [
@@ -26781,6 +26795,55 @@
         "costoTotal": 21.75,
         "fecha": "12/9/2025, 1:08:26 p.m.",
         "ganancia": 7.25
+      },
+      {
+        "producto": "Del valle frut",
+        "piezas": 1,
+        "costoTotal": 47.81,
+        "fecha": "15/9/2025, 9:15:03 a.m.",
+        "ganancia": 15.935000000000002
+      },
+      {
+        "producto": "Coca cola de 3 litros",
+        "piezas": 1,
+        "costoTotal": 61.5,
+        "fecha": "15/9/2025, 9:15:03 a.m.",
+        "ganancia": 20.5
+      },
+      {
+        "producto": "Maruchan camarón y limon",
+        "piezas": 2,
+        "costoTotal": 43.5,
+        "fecha": "15/9/2025, 9:15:50 a.m.",
+        "ganancia": 14.5
+      },
+      {
+        "producto": "Maruchan limon",
+        "piezas": 1,
+        "costoTotal": 22.25,
+        "fecha": "15/9/2025, 9:15:50 a.m.",
+        "ganancia": 7.416666666666666
+      },
+      {
+        "producto": "Maruchan camarón y pikin",
+        "piezas": 3,
+        "costoTotal": 65.25,
+        "fecha": "15/9/2025, 9:15:50 a.m.",
+        "ganancia": 21.75
+      },
+      {
+        "producto": "Takis salsa brava",
+        "piezas": 2,
+        "costoTotal": 36,
+        "fecha": "15/9/2025, 9:17:05 a.m.",
+        "ganancia": 12
+      },
+      {
+        "producto": "Peñafiel Naranja",
+        "piezas": 1,
+        "costoTotal": 36,
+        "fecha": "15/9/2025, 9:17:05 a.m.",
+        "ganancia": 12
       }
     ],
     "Rafael": [
@@ -31049,10 +31112,10 @@
       "descripcion": "Cremax fresa",
       "precioCompra": 22.88,
       "precioVenta": 34.31,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 22.875
         }
       ]
@@ -31112,13 +31175,8 @@
       "descripcion": "Café ole",
       "precioCompra": 22.17,
       "precioVenta": 33.25,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 22.166666666666668
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500366000797",
@@ -31141,26 +31199,16 @@
       "descripcion": "Maruchan camarón y limon",
       "precioCompra": 14.5,
       "precioVenta": 21.75,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 14.5
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "041789001857",
       "descripcion": "Maruchan limon",
       "precioCompra": 14.83,
       "precioVenta": 22.25,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 14.833333333333334
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "041789001956",
@@ -31175,13 +31223,8 @@
       "descripcion": "Maruchan camarón y pikin",
       "precioCompra": 14.5,
       "precioVenta": 21.75,
-      "piezas": 3,
-      "stockParciales": [
-        {
-          "cantidad": 3,
-          "costoUnitario": 14.5
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "025046150137",
@@ -31293,13 +31336,8 @@
       "descripcion": "Coca cola de 3 litros",
       "precioCompra": 41,
       "precioVenta": 61.5,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 41
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501025511036",
@@ -31322,10 +31360,10 @@
       "descripcion": "Peñafiel Naranja",
       "precioCompra": 24,
       "precioVenta": 36,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 24
         }
       ]
@@ -31348,13 +31386,8 @@
       "descripcion": "Del valle frut",
       "precioCompra": 31.88,
       "precioVenta": 47.81,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 31.875
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "724869077774",
@@ -31390,13 +31423,8 @@
       "descripcion": "Takis salsa brava",
       "precioCompra": 12,
       "precioVenta": 18,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 12
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "750103042453622",
@@ -34379,6 +34407,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 59051.60000000001,
-  "inversionRecuperada": 56583.73377142903,
-  "gananciasTotales": 28308.926228572032
+  "inversionRecuperada": 56836.98377142903,
+  "gananciasTotales": 28435.546228572035
 }
