@@ -3,22 +3,22 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 1039.750000000001,
-      "ganancia": 3800.3325790123454,
+      "adeudo": 61.50000000000091,
+      "ganancia": 3807.5825790123454,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2119.240000000002,
-      "ganancia": 5148.473912610238,
+      "adeudo": 2153.490000000002,
+      "ganancia": 5159.890579276905,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 1483.9700000000007,
-      "ganancia": 1570.8609152557326,
+      "adeudo": 1576.2800000000007,
+      "ganancia": 1601.629248589066,
       "saldoFavor": 0
     },
     {
@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1771.740000000001,
-      "ganancia": 1351.3969059964734,
+      "adeudo": 1793.490000000001,
+      "ganancia": 1358.6469059964734,
       "saldoFavor": 0
     },
     {
@@ -45,8 +45,8 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 566.2,
-      "ganancia": 1849.0726956790154,
+      "adeudo": 588.45,
+      "ganancia": 1856.4893623456821,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 882.0200000000003,
-      "ganancia": 4773.072831657848,
+      "adeudo": 925.5200000000003,
+      "ganancia": 4787.572831657848,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 2435.410000000002,
-      "ganancia": 2379.060885097006,
+      "adeudo": 2472.660000000002,
+      "ganancia": 2391.4775517636726,
       "saldoFavor": 0
     },
     {
@@ -2193,6 +2193,13 @@
         "costoTotal": 20.44,
         "fecha": "12/9/2025, 8:25:13 a.m.",
         "ganancia": 6.815000000000001
+      },
+      {
+        "producto": "Maruchan camarón y limon",
+        "piezas": 1,
+        "costoTotal": 21.75,
+        "fecha": "12/9/2025, 1:06:48 p.m.",
+        "ganancia": 7.25
       }
     ],
     "Carlos": [
@@ -6668,6 +6675,20 @@
         "costoTotal": 12.5,
         "fecha": "12/9/2025, 8:39:15 a.m.",
         "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "12/9/2025, 12:28:25 p.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Maruchan camarón y limon",
+        "piezas": 1,
+        "costoTotal": 21.75,
+        "fecha": "12/9/2025, 1:07:49 p.m.",
+        "ganancia": 7.25
       }
     ],
     "Edgar": [
@@ -8525,6 +8546,27 @@
         "costoTotal": 5.7,
         "fecha": "8/9/2025, 11:49:14 a.m.",
         "ganancia": 1.9000000000000004
+      },
+      {
+        "producto": "Maruchan limon",
+        "piezas": 1,
+        "costoTotal": 22.25,
+        "fecha": "12/9/2025, 1:06:33 p.m.",
+        "ganancia": 7.416666666666666
+      },
+      {
+        "producto": "Maruchan limon",
+        "piezas": 1,
+        "costoTotal": 22.25,
+        "fecha": "12/9/2025, 1:07:14 p.m.",
+        "ganancia": 7.416666666666666
+      },
+      {
+        "producto": "Del valle frut",
+        "piezas": 1,
+        "costoTotal": 47.81,
+        "fecha": "12/9/2025, 1:07:14 p.m.",
+        "ganancia": 15.935000000000002
       }
     ],
     "Francisco": [
@@ -10993,6 +11035,13 @@
         "costoTotal": 22.88,
         "fecha": "11/9/2025, 8:17:24 a.m.",
         "ganancia": 7.629999999999999
+      },
+      {
+        "producto": "Maruchan camarón y limon",
+        "piezas": 1,
+        "costoTotal": 21.75,
+        "fecha": "12/9/2025, 12:47:33 p.m.",
+        "ganancia": 7.25
       }
     ],
     "Isac": [
@@ -16576,6 +16625,13 @@
         "costoTotal": 34.31,
         "fecha": "12/9/2025, 8:38:09 a.m.",
         "ganancia": 11.435000000000002
+      },
+      {
+        "producto": "Maruchan limon",
+        "piezas": 1,
+        "costoTotal": 22.25,
+        "fecha": "12/9/2025, 1:24:54 p.m.",
+        "ganancia": 7.416666666666666
       }
     ],
     "Karen": [
@@ -26711,6 +26767,20 @@
         "costoTotal": 4.62,
         "fecha": "12/9/2025, 9:50:35 a.m.",
         "ganancia": 1.54
+      },
+      {
+        "producto": "Maruchan camarón y limon",
+        "piezas": 1,
+        "costoTotal": 21.75,
+        "fecha": "12/9/2025, 1:07:58 p.m.",
+        "ganancia": 7.25
+      },
+      {
+        "producto": "Maruchan camarón y limon",
+        "piezas": 1,
+        "costoTotal": 21.75,
+        "fecha": "12/9/2025, 1:08:26 p.m.",
+        "ganancia": 7.25
       }
     ],
     "Rafael": [
@@ -29954,6 +30024,20 @@
         "costoTotal": 12.5,
         "fecha": "11/9/2025, 8:30:45 a.m.",
         "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "12/9/2025, 1:03:12 p.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Oreo chocolate",
+        "piezas": 1,
+        "costoTotal": 24.75,
+        "fecha": "12/9/2025, 1:03:13 p.m.",
+        "ganancia": 8.25
       }
     ],
     "Vicente": [
@@ -31057,10 +31141,10 @@
       "descripcion": "Maruchan camarón y limon",
       "precioCompra": 14.5,
       "precioVenta": 21.75,
-      "piezas": 7,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 2,
           "costoUnitario": 14.5
         }
       ]
@@ -31070,10 +31154,10 @@
       "descripcion": "Maruchan limon",
       "precioCompra": 14.83,
       "precioVenta": 22.25,
-      "piezas": 4,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 1,
           "costoUnitario": 14.833333333333334
         }
       ]
@@ -31172,10 +31256,10 @@
       "descripcion": "Leche de fresa",
       "precioCompra": 8.33,
       "precioVenta": 12.5,
-      "piezas": 14,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 12,
           "costoUnitario": 8.333333333333334
         }
       ]
@@ -31264,10 +31348,10 @@
       "descripcion": "Del valle frut",
       "precioCompra": 31.88,
       "precioVenta": 47.81,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 31.875
         }
       ]
@@ -31453,10 +31537,10 @@
       "descripcion": "Oreo chocolate",
       "precioCompra": 16.5,
       "precioVenta": 24.75,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 16.5
         }
       ]
@@ -34295,6 +34379,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 59051.60000000001,
-  "inversionRecuperada": 56401.692104762355,
-  "gananciasTotales": 28217.90789523869
+  "inversionRecuperada": 56583.73377142903,
+  "gananciasTotales": 28308.926228572032
 }
