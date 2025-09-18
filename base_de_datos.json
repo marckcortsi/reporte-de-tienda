@@ -3,8 +3,8 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 61.50000000000091,
-      "ganancia": 3807.5825790123454,
+      "adeudo": 91.8800000000009,
+      "ganancia": 3817.7125790123455,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 55.879999999999995,
-      "ganancia": 2264.5822824515017,
+      "adeudo": 91.88,
+      "ganancia": 2276.5822824515017,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 444.8900000000003,
-      "ganancia": 4898.134498324515,
+      "adeudo": 480.8900000000003,
+      "ganancia": 4910.134498324515,
       "saldoFavor": 0
     },
     {
@@ -2200,6 +2200,13 @@
         "costoTotal": 21.75,
         "fecha": "12/9/2025, 1:06:48 p.m.",
         "ganancia": 7.25
+      },
+      {
+        "producto": "Jarritos mandarina",
+        "piezas": 1,
+        "costoTotal": 30.38,
+        "fecha": "18/9/2025, 8:27:06 a.m.",
+        "ganancia": 10.129999999999999
       }
     ],
     "Carlos": [
@@ -19504,6 +19511,13 @@
         "costoTotal": 20.44,
         "fecha": "17/9/2025, 8:49:01 a.m.",
         "ganancia": 6.815000000000001
+      },
+      {
+        "producto": "Peñafiel Naranja",
+        "piezas": 1,
+        "costoTotal": 36,
+        "fecha": "18/9/2025, 8:26:56 a.m.",
+        "ganancia": 12
       }
     ],
     "Laura": [
@@ -26886,6 +26900,13 @@
         "costoTotal": 10.13,
         "fecha": "17/9/2025, 10:35:43 a.m.",
         "ganancia": 3.380000000000001
+      },
+      {
+        "producto": "Peñafiel Naranja",
+        "piezas": 1,
+        "costoTotal": 36,
+        "fecha": "18/9/2025, 8:29:41 a.m.",
+        "ganancia": 12
       }
     ],
     "Rafael": [
@@ -31402,26 +31423,16 @@
       "descripcion": "Peñafiel Naranja",
       "precioCompra": 24,
       "precioVenta": 36,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 24
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "744886375059",
       "descripcion": "Jarritos mandarina",
       "precioCompra": 20.25,
       "precioVenta": 30.38,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 20.25
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501055330812",
@@ -34449,6 +34460,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 59051.60000000001,
-  "inversionRecuperada": 56930.15766031793,
-  "gananciasTotales": 28482.13233968315
+  "inversionRecuperada": 56998.40766031793,
+  "gananciasTotales": 28516.26233968315
 }
