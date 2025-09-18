@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2221.050000000002,
-      "ganancia": 5182.408912610238,
+      "adeudo": 2266.580000000002,
+      "ganancia": 5197.585103086429,
       "saldoFavor": 0
     },
     {
@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1793.490000000001,
-      "ganancia": 1358.6469059964734,
+      "adeudo": 1805.990000000001,
+      "ganancia": 1362.8135726631401,
       "saldoFavor": 0
     },
     {
@@ -6710,6 +6710,34 @@
         "costoTotal": 34.31,
         "fecha": "15/9/2025, 9:10:06 a.m.",
         "ganancia": 11.435000000000002
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 2,
+        "costoTotal": 25,
+        "fecha": "18/9/2025, 8:31:22 a.m.",
+        "ganancia": 8.333333333333332
+      },
+      {
+        "producto": "Min mamut",
+        "piezas": 4,
+        "costoTotal": 10.28,
+        "fecha": "18/9/2025, 8:32:06 a.m.",
+        "ganancia": 3.4228571428571426
+      },
+      {
+        "producto": "Mazapan con chocolate",
+        "piezas": 1,
+        "costoTotal": 5.63,
+        "fecha": "18/9/2025, 8:32:06 a.m.",
+        "ganancia": 1.88
+      },
+      {
+        "producto": "Bubulubu",
+        "piezas": 1,
+        "costoTotal": 4.62,
+        "fecha": "18/9/2025, 8:32:06 a.m.",
+        "ganancia": 1.54
       }
     ],
     "Edgar": [
@@ -11063,6 +11091,13 @@
         "costoTotal": 21.75,
         "fecha": "12/9/2025, 12:47:33 p.m.",
         "ganancia": 7.25
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "18/9/2025, 8:37:18 a.m.",
+        "ganancia": 4.166666666666666
       }
     ],
     "Isac": [
@@ -31141,10 +31176,10 @@
       "descripcion": "Min mamut",
       "precioCompra": 1.71,
       "precioVenta": 2.57,
-      "piezas": 11,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 7,
           "costoUnitario": 1.7142857142857142
         }
       ]
@@ -31307,13 +31342,8 @@
       "descripcion": "Mazapan con chocolate",
       "precioCompra": 3.75,
       "precioVenta": 5.63,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 3.75
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "23",
@@ -31362,10 +31392,10 @@
       "descripcion": "Leche de fresa",
       "precioCompra": 8.33,
       "precioVenta": 12.5,
-      "piezas": 12,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 9,
           "costoUnitario": 8.333333333333334
         }
       ]
@@ -31532,10 +31562,10 @@
       "descripcion": "Bubulubu",
       "precioCompra": 3.08,
       "precioVenta": 4.62,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 3.08
         }
       ]
@@ -34460,6 +34490,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 59051.60000000001,
-  "inversionRecuperada": 56998.40766031793,
-  "gananciasTotales": 28516.26233968315
+  "inversionRecuperada": 57037.094803175074,
+  "gananciasTotales": 28535.60519682601
 }
