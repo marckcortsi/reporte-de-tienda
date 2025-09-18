@@ -38,22 +38,22 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 3095.1900000000023,
-      "ganancia": 3001.0626607583777,
+      "adeudo": 3126.5200000000023,
+      "ganancia": 3011.503771869489,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 588.45,
-      "ganancia": 1856.4893623456821,
+      "adeudo": 657.0699999999999,
+      "ganancia": 1879.359362345682,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 35.44,
-      "ganancia": 2257.7672824515016,
+      "adeudo": 55.879999999999995,
+      "ganancia": 2264.5822824515017,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 925.5200000000003,
-      "ganancia": 4891.674498324515,
+      "adeudo": 444.8900000000003,
+      "ganancia": 4898.134498324515,
       "saldoFavor": 0
     },
     {
@@ -14964,6 +14964,13 @@
         "costoTotal": 5.63,
         "fecha": "12/9/2025, 9:48:34 a.m.",
         "ganancia": 1.88
+      },
+      {
+        "producto": "Principe",
+        "piezas": 1,
+        "costoTotal": 31.33,
+        "fecha": "17/9/2025, 9:03:38 a.m.",
+        "ganancia": 10.441111111111109
       }
     ],
     "Isrrael": [
@@ -16646,6 +16653,20 @@
         "costoTotal": 22.25,
         "fecha": "12/9/2025, 1:24:54 p.m.",
         "ganancia": 7.416666666666666
+      },
+      {
+        "producto": "Cremax chocolate",
+        "piezas": 1,
+        "costoTotal": 34.31,
+        "fecha": "15/9/2025, 10:40:39 a.m.",
+        "ganancia": 11.435000000000002
+      },
+      {
+        "producto": "Cremax chocolate",
+        "piezas": 1,
+        "costoTotal": 34.31,
+        "fecha": "18/9/2025, 8:23:37 a.m.",
+        "ganancia": 11.435000000000002
       }
     ],
     "Karen": [
@@ -19476,6 +19497,13 @@
         "costoTotal": 30.38,
         "fecha": "12/9/2025, 8:25:00 a.m.",
         "ganancia": 10.129999999999999
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 20.44,
+        "fecha": "17/9/2025, 8:49:01 a.m.",
+        "ganancia": 6.815000000000001
       }
     ],
     "Laura": [
@@ -26844,6 +26872,20 @@
         "costoTotal": 36,
         "fecha": "15/9/2025, 9:17:05 a.m.",
         "ganancia": 12
+      },
+      {
+        "producto": "Bubulubu",
+        "piezas": 2,
+        "costoTotal": 9.24,
+        "fecha": "15/9/2025, 10:47:17 a.m.",
+        "ganancia": 3.08
+      },
+      {
+        "producto": "Trident",
+        "piezas": 1,
+        "costoTotal": 10.13,
+        "fecha": "17/9/2025, 10:35:43 a.m.",
+        "ganancia": 3.380000000000001
       }
     ],
     "Rafael": [
@@ -31125,10 +31167,10 @@
       "descripcion": "Principe",
       "precioCompra": 20.89,
       "precioVenta": 31.33,
-      "piezas": 15,
+      "piezas": 14,
       "stockParciales": [
         {
-          "cantidad": 15,
+          "cantidad": 14,
           "costoUnitario": 20.88888888888889
         }
       ]
@@ -31479,10 +31521,10 @@
       "descripcion": "Bubulubu",
       "precioCompra": 3.08,
       "precioVenta": 4.62,
-      "piezas": 14,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 12,
           "costoUnitario": 3.08
         }
       ]
@@ -31492,10 +31534,10 @@
       "descripcion": "Trident",
       "precioCompra": 6.75,
       "precioVenta": 10.13,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 6.75
         }
       ]
@@ -31505,10 +31547,10 @@
       "descripcion": "Cremax chocolate",
       "precioCompra": 22.88,
       "precioVenta": 34.31,
-      "piezas": 4,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 2,
           "costoUnitario": 22.875
         }
       ]
@@ -31518,10 +31560,10 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 13.63,
       "precioVenta": 20.44,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 13.625
         }
       ]
@@ -34407,6 +34449,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 59051.60000000001,
-  "inversionRecuperada": 56836.98377142903,
-  "gananciasTotales": 28435.546228572035
+  "inversionRecuperada": 56930.15766031793,
+  "gananciasTotales": 28482.13233968315
 }
