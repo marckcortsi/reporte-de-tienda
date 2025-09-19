@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2266.580000000002,
-      "ganancia": 5197.585103086429,
+      "adeudo": 1788.070000000002,
+      "ganancia": 5204.74748403881,
       "saldoFavor": 0
     },
     {
@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 236.79000000000002,
-      "ganancia": 900.905069488536,
+      "adeudo": 280.28000000000003,
+      "ganancia": 915.4350694885361,
       "saldoFavor": 0
     },
     {
@@ -66,7 +66,7 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 480.8900000000003,
+      "adeudo": 280.8900000000003,
       "ganancia": 4910.134498324515,
       "saldoFavor": 0
     },
@@ -6738,6 +6738,34 @@
         "costoTotal": 4.62,
         "fecha": "18/9/2025, 8:32:06 a.m.",
         "ganancia": 1.54
+      },
+      {
+        "producto": "Leche de fresa",
+        "piezas": 1,
+        "costoTotal": 12.5,
+        "fecha": "19/9/2025, 8:21:06 a.m.",
+        "ganancia": 4.166666666666666
+      },
+      {
+        "producto": "Min mamut",
+        "piezas": 1,
+        "costoTotal": 2.57,
+        "fecha": "19/9/2025, 8:23:10 a.m.",
+        "ganancia": 0.8557142857142856
+      },
+      {
+        "producto": "Bubulubu",
+        "piezas": 1,
+        "costoTotal": 4.62,
+        "fecha": "19/9/2025, 8:23:10 a.m.",
+        "ganancia": 1.54
+      },
+      {
+        "producto": "Bocadin",
+        "piezas": 1,
+        "costoTotal": 1.8,
+        "fecha": "19/9/2025, 8:23:10 a.m.",
+        "ganancia": 0.6000000000000001
       }
     ],
     "Edgar": [
@@ -9535,6 +9563,27 @@
         "costoTotal": 19,
         "fecha": "9/9/2025, 4:24:31 p.m.",
         "ganancia": 6.399999999999999
+      },
+      {
+        "producto": "Surtido montes",
+        "piezas": 10,
+        "costoTotal": 9.5,
+        "fecha": "18/9/2025, 10:01:06 a.m.",
+        "ganancia": 3.1999999999999993
+      },
+      {
+        "producto": "Bubulubu",
+        "piezas": 2,
+        "costoTotal": 9.24,
+        "fecha": "18/9/2025, 4:46:21 p.m.",
+        "ganancia": 3.08
+      },
+      {
+        "producto": "Oreo chocolate",
+        "piezas": 1,
+        "costoTotal": 24.75,
+        "fecha": "18/9/2025, 4:46:21 p.m.",
+        "ganancia": 8.25
       }
     ],
     "Irvin": [
@@ -31176,10 +31225,10 @@
       "descripcion": "Min mamut",
       "precioCompra": 1.71,
       "precioVenta": 2.57,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 1.7142857142857142
         }
       ]
@@ -31329,10 +31378,10 @@
       "descripcion": "Bocadin",
       "precioCompra": 1.2,
       "precioVenta": 1.8,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 1.2
         }
       ]
@@ -31392,10 +31441,10 @@
       "descripcion": "Leche de fresa",
       "precioCompra": 8.33,
       "precioVenta": 12.5,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 8.333333333333334
         }
       ]
@@ -31485,10 +31534,10 @@
       "descripcion": "Surtido montes",
       "precioCompra": 0.63,
       "precioVenta": 0.95,
-      "piezas": 30,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 30,
+          "cantidad": 20,
           "costoUnitario": 0.63
         }
       ]
@@ -31562,10 +31611,10 @@
       "descripcion": "Bubulubu",
       "precioCompra": 3.08,
       "precioVenta": 4.62,
-      "piezas": 11,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 8,
           "costoUnitario": 3.08
         }
       ]
@@ -31648,10 +31697,10 @@
       "descripcion": "Oreo chocolate",
       "precioCompra": 16.5,
       "precioVenta": 24.75,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 16.5
         }
       ]
@@ -34490,6 +34539,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 59051.60000000001,
-  "inversionRecuperada": 57037.094803175074,
-  "gananciasTotales": 28535.60519682601
+  "inversionRecuperada": 57080.3824222227,
+  "gananciasTotales": 28557.297577778394
 }
