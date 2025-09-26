@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 410.6400000000009,
-      "ganancia": 3923.9100790123457,
+      "adeudo": 437.4600000000009,
+      "ganancia": 3932.863412345679,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2073.9800000000023,
-      "ganancia": 5283.356650705477,
+      "adeudo": 2191.9800000000023,
+      "ganancia": 5322.606650705477,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 3197.0300000000025,
-      "ganancia": 3034.9971052028227,
+      "adeudo": 3277.2300000000023,
+      "ganancia": 3061.6971052028225,
       "saldoFavor": 0
     },
     {
@@ -52,8 +52,8 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 194.08999999999997,
-      "ganancia": 2310.655377689597,
+      "adeudo": 255.14,
+      "ganancia": 2330.9982348324543,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 518.1400000000003,
-      "ganancia": 4989.221164991182,
+      "adeudo": 522.1500000000003,
+      "ganancia": 4990.556164991182,
       "saldoFavor": 0
     },
     {
@@ -2270,6 +2270,20 @@
         "costoTotal": 109.39999999999999,
         "fecha": "26/9/2025, 9:18:45 a.m.",
         "ganancia": 36.4
+      },
+      {
+        "producto": "Sandi brocha",
+        "piezas": 4,
+        "costoTotal": 9.32,
+        "fecha": "26/9/2025, 4:29:22 p.m.",
+        "ganancia": 3.12
+      },
+      {
+        "producto": "Platanos",
+        "piezas": 1,
+        "costoTotal": 17.5,
+        "fecha": "26/9/2025, 4:29:22 p.m.",
+        "ganancia": 5.833333333333334
       }
     ],
     "Carlos": [
@@ -6899,6 +6913,27 @@
         "costoTotal": 23.7,
         "fecha": "26/9/2025, 8:24:05 a.m.",
         "ganancia": 7.899999999999999
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 80.5,
+        "fecha": "26/9/2025, 4:26:39 p.m.",
+        "ganancia": 26.750000000000007
+      },
+      {
+        "producto": "Agua vida",
+        "piezas": 1,
+        "costoTotal": 18.75,
+        "fecha": "26/9/2025, 4:27:28 p.m.",
+        "ganancia": 6.25
+      },
+      {
+        "producto": "Coca de vidrio",
+        "piezas": 1,
+        "costoTotal": 18.75,
+        "fecha": "26/9/2025, 4:28:38 p.m.",
+        "ganancia": 6.25
       }
     ],
     "Edgar": [
@@ -15328,6 +15363,13 @@
         "costoTotal": 4.01,
         "fecha": "26/9/2025, 8:49:20 a.m.",
         "ganancia": 1.335
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 20,
+        "costoTotal": 80.19999999999999,
+        "fecha": "26/9/2025, 4:29:33 p.m.",
+        "ganancia": 26.7
       }
     ],
     "Isrrael": [
@@ -19938,6 +19980,27 @@
         "costoTotal": 17.14,
         "fecha": "26/9/2025, 11:40:38 a.m.",
         "ganancia": 5.711428571428572
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 2,
+        "costoTotal": 8.02,
+        "fecha": "26/9/2025, 4:26:23 p.m.",
+        "ganancia": 2.67
+      },
+      {
+        "producto": "Agua vida",
+        "piezas": 1,
+        "costoTotal": 18.75,
+        "fecha": "26/9/2025, 4:27:22 p.m.",
+        "ganancia": 6.25
+      },
+      {
+        "producto": "Barcel",
+        "piezas": 2,
+        "costoTotal": 34.28,
+        "fecha": "26/9/2025, 4:27:44 p.m.",
+        "ganancia": 11.422857142857143
       }
     ],
     "Laura": [
@@ -27425,6 +27488,13 @@
         "costoTotal": 33.75,
         "fecha": "26/9/2025, 11:51:54 a.m.",
         "ganancia": 11.25
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 1,
+        "costoTotal": 4.01,
+        "fecha": "26/9/2025, 4:26:59 p.m.",
+        "ganancia": 1.335
       }
     ],
     "Rafael": [
@@ -31748,10 +31818,10 @@
       "descripcion": "Sandi brocha",
       "precioCompra": 1.55,
       "precioVenta": 2.33,
-      "piezas": 17,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 17,
+          "cantidad": 13,
           "costoUnitario": 1.55
         }
       ]
@@ -31960,10 +32030,10 @@
       "descripcion": "Agua vida",
       "precioCompra": 12.5,
       "precioVenta": 18.75,
-      "piezas": 8,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 6,
           "costoUnitario": 12.5
         }
       ]
@@ -31986,10 +32056,10 @@
       "descripcion": "Coca de vidrio",
       "precioCompra": 12.5,
       "precioVenta": 18.75,
-      "piezas": 23,
+      "piezas": 22,
       "stockParciales": [
         {
-          "cantidad": 23,
+          "cantidad": 22,
           "costoUnitario": 12.5
         }
       ]
@@ -32051,10 +32121,10 @@
       "descripcion": "Platanos",
       "precioCompra": 11.67,
       "precioVenta": 17.5,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 11.666666666666666
         }
       ]
@@ -32311,10 +32381,10 @@
       "descripcion": "Barcel",
       "precioCompra": 11.43,
       "precioVenta": 17.14,
-      "piezas": 24,
+      "piezas": 22,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 22,
           "costoUnitario": 11.428571428571429
         }
       ]
@@ -32402,10 +32472,10 @@
       "descripcion": "Shots",
       "precioCompra": 2.15,
       "precioVenta": 3.22,
-      "piezas": 200,
+      "piezas": 175,
       "stockParciales": [
         {
-          "cantidad": 200,
+          "cantidad": 175,
           "costoUnitario": 2.15
         }
       ]
@@ -32415,10 +32485,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 2.67,
       "precioVenta": 4.01,
-      "piezas": 172,
+      "piezas": 149,
       "stockParciales": [
         {
-          "cantidad": 172,
+          "cantidad": 149,
           "costoUnitario": 2.675
         }
       ]
@@ -35394,6 +35464,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 65532.20000000002,
-  "inversionRecuperada": 58012.80263650843,
-  "gananciasTotales": 29023.43736349268
+  "inversionRecuperada": 58206.30144603224,
+  "gananciasTotales": 29120.01855396887
 }
