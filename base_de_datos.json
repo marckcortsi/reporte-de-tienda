@@ -59,15 +59,15 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 396.8000000000002,
-      "ganancia": 662.9013663139326,
+      "adeudo": 430.32000000000016,
+      "ganancia": 674.0761282186945,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 445.01000000000033,
-      "ganancia": 4964.841164991182,
+      "adeudo": 484.3900000000003,
+      "ganancia": 4977.971164991182,
       "saldoFavor": 0
     },
     {
@@ -20703,6 +20703,20 @@
         "costoTotal": 34.31,
         "fecha": "12/9/2025, 8:30:30 a.m.",
         "ganancia": 11.435000000000002
+      },
+      {
+        "producto": "Rits",
+        "piezas": 1,
+        "costoTotal": 16.38,
+        "fecha": "26/9/2025, 11:34:37 a.m.",
+        "ganancia": 5.463333333333333
+      },
+      {
+        "producto": "Barcel",
+        "piezas": 1,
+        "costoTotal": 17.14,
+        "fecha": "26/9/2025, 11:34:37 a.m.",
+        "ganancia": 5.711428571428572
       }
     ],
     "Marcos": [
@@ -27348,6 +27362,13 @@
         "costoTotal": 18.75,
         "fecha": "25/9/2025, 5:03:24 p.m.",
         "ganancia": 6.25
+      },
+      {
+        "producto": "Tubirones",
+        "piezas": 1,
+        "costoTotal": 39.38,
+        "fecha": "26/9/2025, 11:35:26 a.m.",
+        "ganancia": 13.130000000000003
       }
     ],
     "Rafael": [
@@ -32001,14 +32022,14 @@
       ]
     },
     {
-      "codigo": "Tubi",
+      "codigo": "7503007176769",
       "descripcion": "Tubirones",
       "precioCompra": 26.25,
       "precioVenta": 39.38,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 26.25
         }
       ]
@@ -32200,10 +32221,10 @@
       "descripcion": "Rits",
       "precioCompra": 10.92,
       "precioVenta": 16.38,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 10.916666666666666
         }
       ]
@@ -32213,10 +32234,10 @@
       "descripcion": "Barcel",
       "precioCompra": 11.43,
       "precioVenta": 17.14,
-      "piezas": 27,
+      "piezas": 26,
       "stockParciales": [
         {
-          "cantidad": 27,
+          "cantidad": 26,
           "costoUnitario": 11.428571428571429
         }
       ]
@@ -35296,6 +35317,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 65532.20000000002,
-  "inversionRecuperada": 57829.76692222271,
-  "gananciasTotales": 28931.9230777784
+  "inversionRecuperada": 57878.36216031795,
+  "gananciasTotales": 28956.22783968316
 }
