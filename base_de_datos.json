@@ -24,15 +24,15 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 311.97,
-      "ganancia": 926.013069488536,
+      "adeudo": 361.82000000000005,
+      "ganancia": 942.6297361552026,
       "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1859.0600000000009,
-      "ganancia": 1380.5035726631402,
+      "adeudo": 1897.3100000000009,
+      "ganancia": 1393.2535726631402,
       "saldoFavor": 0
     },
     {
@@ -45,15 +45,15 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 204.94999999999987,
-      "ganancia": 1895.3479337742538,
+      "adeudo": 223.69999999999987,
+      "ganancia": 1901.5979337742538,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 176.95,
-      "ganancia": 2304.9439491181683,
+      "adeudo": 194.08999999999997,
+      "ganancia": 2310.655377689597,
       "saldoFavor": 0
     },
     {
@@ -66,21 +66,21 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 484.3900000000003,
-      "ganancia": 4977.971164991182,
+      "adeudo": 518.1400000000003,
+      "ganancia": 4989.221164991182,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 2521.660000000002,
-      "ganancia": 2407.8114803351014,
+      "adeudo": 2565.570000000002,
+      "ganancia": 2422.44290890653,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 380.96,
+      "adeudo": 0,
       "ganancia": 539.5007909171073,
       "saldoFavor": 0
     },
@@ -9766,6 +9766,27 @@
         "costoTotal": 5.699999999999999,
         "fecha": "25/9/2025, 9:39:45 a.m.",
         "ganancia": 1.9199999999999997
+      },
+      {
+        "producto": "Sabritas",
+        "piezas": 2,
+        "costoTotal": 27.5,
+        "fecha": "26/9/2025, 2:28:57 p.m.",
+        "ganancia": 9.166666666666668
+      },
+      {
+        "producto": "Bocadin",
+        "piezas": 2,
+        "costoTotal": 3.6,
+        "fecha": "26/9/2025, 2:28:57 p.m.",
+        "ganancia": 1.2000000000000002
+      },
+      {
+        "producto": "Coca de vidrio",
+        "piezas": 1,
+        "costoTotal": 18.75,
+        "fecha": "26/9/2025, 2:28:57 p.m.",
+        "ganancia": 6.25
       }
     ],
     "Irvin": [
@@ -11350,6 +11371,20 @@
         "costoTotal": 23.7,
         "fecha": "26/9/2025, 8:23:21 a.m.",
         "ganancia": 7.899999999999999
+      },
+      {
+        "producto": "Papas chipotle",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "26/9/2025, 12:30:14 p.m.",
+        "ganancia": 6.5
+      },
+      {
+        "producto": "Agua vida",
+        "piezas": 1,
+        "costoTotal": 18.75,
+        "fecha": "26/9/2025, 4:07:50 p.m.",
+        "ganancia": 6.25
       }
     ],
     "Isac": [
@@ -17010,6 +17045,13 @@
         "costoTotal": 23.7,
         "fecha": "26/9/2025, 8:33:26 a.m.",
         "ganancia": 7.899999999999999
+      },
+      {
+        "producto": "Agua vida",
+        "piezas": 1,
+        "costoTotal": 18.75,
+        "fecha": "26/9/2025, 3:46:18 p.m.",
+        "ganancia": 6.25
       }
     ],
     "Karen": [
@@ -19889,6 +19931,13 @@
         "costoTotal": 18.5,
         "fecha": "26/9/2025, 8:49:12 a.m.",
         "ganancia": 6.166666666666666
+      },
+      {
+        "producto": "Barcel",
+        "piezas": 1,
+        "costoTotal": 17.14,
+        "fecha": "26/9/2025, 11:40:38 a.m.",
+        "ganancia": 5.711428571428572
       }
     ],
     "Laura": [
@@ -27369,6 +27418,13 @@
         "costoTotal": 39.38,
         "fecha": "26/9/2025, 11:35:26 a.m.",
         "ganancia": 13.130000000000003
+      },
+      {
+        "producto": "Gatorade azul",
+        "piezas": 1,
+        "costoTotal": 33.75,
+        "fecha": "26/9/2025, 11:51:54 a.m.",
+        "ganancia": 11.25
       }
     ],
     "Rafael": [
@@ -30647,6 +30703,27 @@
         "costoTotal": 20.16,
         "fecha": "26/9/2025, 9:00:44 a.m.",
         "ganancia": 6.7225
+      },
+      {
+        "producto": "Barcel",
+        "piezas": 1,
+        "costoTotal": 17.14,
+        "fecha": "26/9/2025, 3:00:07 p.m.",
+        "ganancia": 5.711428571428572
+      },
+      {
+        "producto": "Agua vida",
+        "piezas": 1,
+        "costoTotal": 18.75,
+        "fecha": "26/9/2025, 3:00:07 p.m.",
+        "ganancia": 6.25
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 2,
+        "costoTotal": 8.02,
+        "fecha": "26/9/2025, 3:00:07 p.m.",
+        "ganancia": 2.67
       }
     ],
     "Vicente": [
@@ -31684,10 +31761,10 @@
       "descripcion": "Bocadin",
       "precioCompra": 1.2,
       "precioVenta": 1.8,
-      "piezas": 4,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 2,
           "costoUnitario": 1.2
         }
       ]
@@ -31883,10 +31960,10 @@
       "descripcion": "Agua vida",
       "precioCompra": 12.5,
       "precioVenta": 18.75,
-      "piezas": 11,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 8,
           "costoUnitario": 12.5
         }
       ]
@@ -31909,10 +31986,10 @@
       "descripcion": "Coca de vidrio",
       "precioCompra": 12.5,
       "precioVenta": 18.75,
-      "piezas": 24,
+      "piezas": 23,
       "stockParciales": [
         {
-          "cantidad": 24,
+          "cantidad": 23,
           "costoUnitario": 12.5
         }
       ]
@@ -31948,10 +32025,10 @@
       "descripcion": "Papas chipotle",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 13
         }
       ]
@@ -32117,10 +32194,10 @@
       "descripcion": "Gatorade azul",
       "precioCompra": 22.5,
       "precioVenta": 33.75,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 22.5
         }
       ]
@@ -32234,10 +32311,10 @@
       "descripcion": "Barcel",
       "precioCompra": 11.43,
       "precioVenta": 17.14,
-      "piezas": 26,
+      "piezas": 24,
       "stockParciales": [
         {
-          "cantidad": 26,
+          "cantidad": 24,
           "costoUnitario": 11.428571428571429
         }
       ]
@@ -32247,10 +32324,10 @@
       "descripcion": "Sabritas",
       "precioCompra": 9.17,
       "precioVenta": 13.75,
-      "piezas": 30,
+      "piezas": 28,
       "stockParciales": [
         {
-          "cantidad": 30,
+          "cantidad": 28,
           "costoUnitario": 9.166666666666666
         }
       ]
@@ -32338,10 +32415,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 2.67,
       "precioVenta": 4.01,
-      "piezas": 174,
+      "piezas": 172,
       "stockParciales": [
         {
-          "cantidad": 174,
+          "cantidad": 172,
           "costoUnitario": 2.675
         }
       ]
@@ -35317,6 +35394,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 65532.20000000002,
-  "inversionRecuperada": 57878.36216031795,
-  "gananciasTotales": 28956.22783968316
+  "inversionRecuperada": 58012.80263650843,
+  "gananciasTotales": 29023.43736349268
 }
