@@ -16,6 +16,7 @@ html, body {
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overscroll-behavior-y: none;
 }
 
 /************************************
@@ -249,6 +250,8 @@ html, body {
   border: 1px solid rgba(0, 158, 227, 0.1);
   -webkit-overflow-scrolling: touch;
   max-height: 70vh;
+  touch-action: pan-x pan-y;
+  overscroll-behavior: contain;
 }
 
 

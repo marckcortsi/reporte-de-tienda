@@ -41,27 +41,64 @@ window.onload = () => {
       // Llenar el select
       llenarSelectUsuarios("select-usuario-consulta");
 
-      // Reemplazar el state inicial
-      const initialSection = window.location.hash.substring(1) || 'main-menu';
-      history.replaceState({ section: initialSection }, "", "#" + initialSection);
+      // Inicializar la aplicación correctamente
+      const hashSection = window.location.hash.substring(1);
+      const initialSection = hashSection && document.getElementById(hashSection) ? hashSection : 'main-menu';
+      
+      // Asegurar que todas las secciones estén ocultas primero
+      document.querySelectorAll(".section").forEach(s => {
+        s.classList.remove("active", "slide-in");
+        s.classList.add("slide-out");
+      });
+      
+      // Mostrar la sección inicial
       showSection(initialSection, false);
+      history.replaceState({ section: initialSection }, "", "#" + initialSection);
+      
+      // Si es consulta global, actualizar datos
+      if (initialSection === 'consulta-inversion') {
+        setTimeout(() => {
+          actualizarConsultaInversion();
+        }, 100);
+      }
+      
+      // Si es inventario, mostrar inventario
+      if (initialSection === 'inventario') {
+        setTimeout(() => {
+          mostrarInventario();
+        }, 100);
+      }
     })
     .catch(err => console.error("Error al cargar base_de_datos.json:", err));
 
-  // Pull-to-refresh casero
+  // Pull-to-refresh mejorado - solo en el menú principal
   document.addEventListener('touchstart', e => {
-    if (document.documentElement.scrollTop === 0) {
+    // Solo permitir pull-to-refresh en el menú principal y cuando esté en el top
+    const currentSection = document.querySelector('.section.active');
+    const isMainMenu = currentSection && currentSection.id === 'main-menu';
+    const isTableContainer = e.target.closest('.table-container');
+    
+    if (isMainMenu && !isTableContainer && document.documentElement.scrollTop === 0) {
       touchStartY = e.touches[0].clientY;
       isPulling = true;
     } else {
       isPulling = false;
     }
   });
+  
   document.addEventListener('touchmove', e => {
     if (!isPulling) return;
+    
+    // Evitar pull-to-refresh si estamos dentro de una tabla
+    const isTableContainer = e.target.closest('.table-container');
+    if (isTableContainer) {
+      isPulling = false;
+      return;
+    }
+    
     const currentY = e.touches[0].clientY;
     const diff = currentY - touchStartY;
-    if (diff > 80) {
+    if (diff > 120) { // Aumenté el umbral para hacerlo menos sensible
       isPulling = false;
       location.reload();
     }
@@ -71,12 +108,36 @@ window.onload = () => {
   window.addEventListener('popstate', e => {
     if (e.state && e.state.section) {
       showSection(e.state.section, false);
+      
+      // Actualizar contenido específico de la sección
+      if (e.state.section === 'consulta-inversion') {
+        setTimeout(() => actualizarConsultaInversion(), 50);
+      } else if (e.state.section === 'inventario') {
+        setTimeout(() => mostrarInventario(), 50);
+      }
     } else {
       // Si no hay estado, ir al menú principal
       showSection('main-menu', false);
       history.replaceState({ section: 'main-menu' }, "", "#main-menu");
     }
   });
+
+  // Prevenir pull-to-refresh nativo del navegador
+  document.addEventListener('touchmove', e => {
+    if (e.target.closest('.table-container')) {
+      // Permitir scroll normal en tablas
+      return;
+    }
+    
+    // Solo prevenir si estamos en el top y tirando hacia abajo
+    if (document.documentElement.scrollTop === 0 && e.touches[0].clientY > touchStartY) {
+      // Solo prevenir si no estamos en el menú principal
+      const currentSection = document.querySelector('.section.active');
+      if (currentSection && currentSection.id !== 'main-menu') {
+        e.preventDefault();
+      }
+    }
+  }, { passive: false });
 };
 
 /************************************
