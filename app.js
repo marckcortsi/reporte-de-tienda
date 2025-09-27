@@ -42,7 +42,9 @@ window.onload = () => {
       llenarSelectUsuarios("select-usuario-consulta");
 
       // Reemplazar el state inicial
-      history.replaceState({ section: 'main-menu' }, "", "#main-menu");
+      const initialSection = window.location.hash.substring(1) || 'main-menu';
+      history.replaceState({ section: initialSection }, "", "#" + initialSection);
+      showSection(initialSection, false);
     })
     .catch(err => console.error("Error al cargar base_de_datos.json:", err));
 
@@ -70,7 +72,9 @@ window.onload = () => {
     if (e.state && e.state.section) {
       showSection(e.state.section, false);
     } else {
+      // Si no hay estado, ir al menú principal
       showSection('main-menu', false);
+      history.replaceState({ section: 'main-menu' }, "", "#main-menu");
     }
   });
 };
@@ -85,6 +89,21 @@ function navigateTo(sectionId) {
 
 function navigateBack() {
   history.back();
+}
+
+function irAConsultaGlobal() {
+  // Asegurar que el menú principal esté en el historial
+  if (!history.state || history.state.section !== 'main-menu') {
+    history.replaceState({ section: 'main-menu' }, "", "#main-menu");
+  }
+  
+  // Navegar a consulta global
+  navigateTo('consulta-inversion');
+  
+  // Actualizar datos después de la navegación
+  setTimeout(() => {
+    actualizarConsultaInversion();
+  }, 50);
 }
 
 /************************************

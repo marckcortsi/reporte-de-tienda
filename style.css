@@ -248,6 +248,7 @@ html, body {
   overflow: auto;
   border: 1px solid rgba(0, 158, 227, 0.1);
   -webkit-overflow-scrolling: touch;
+  max-height: 70vh;
 }
 
 
@@ -259,10 +260,10 @@ table {
   min-width: 400px;
 }
 thead {
-  position: sticky;
-  top: 80px;
   background: linear-gradient(135deg, #009ee3 0%, #00b4e8 100%);
-  z-index: 10;
+  position: sticky;
+  top: 0;
+  z-index: 5;
 }
 thead tr th {
   color: #ffffff;
@@ -281,6 +282,10 @@ tbody tr td {
   color: #333;
   font-weight: 500;
   font-size: 0.85rem;
+}
+
+tbody tr:first-child td {
+  border-top: none;
 }
 tbody tr:hover {
   background: linear-gradient(135deg, #f8fcff 0%, #f0f8ff 100%);
@@ -534,6 +539,7 @@ tbody tr:hover {
     border-radius: 10px;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
+    max-height: 60vh;
   }
   
 
@@ -544,7 +550,7 @@ tbody tr:hover {
   }
   
   thead {
-    top: 60px;
+    top: 0;
   }
   
   thead tr th {
@@ -614,7 +620,7 @@ tbody tr:hover {
   }
   
   thead {
-    top: 50px;
+    top: 0;
   }
   
   thead tr th {
