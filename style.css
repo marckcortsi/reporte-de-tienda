@@ -10,8 +10,12 @@ html, body {
   width: 100%;
   height: 100%;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  background-color: #ecf9fa; /* verde claro */
+  background: linear-gradient(135deg, #ecf9fa 0%, #d4f1f4 100%);
   text-align: center;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /************************************
@@ -41,18 +45,21 @@ html, body {
  * Header
  ************************************/
 .header {
-  background-color: #009ee3;
-  padding: 1rem;
+  background: linear-gradient(135deg, #0099d8 0%, #00b4e8 100%);
+  padding: 1.2rem;
   text-align: center;
   position: sticky;
   top: 0;
   width: 100%;
   z-index: 10;
+  box-shadow: 0 2px 15px rgba(0, 158, 227, 0.2);
+  backdrop-filter: blur(10px);
 }
 .header h1 {
   color: #fff;
   font-size: 1.6rem;
   font-weight: 600;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
 }
 
 /************************************
@@ -93,19 +100,27 @@ html, body {
   margin: 1rem auto;
 }
 .menu-btn {
-  background-color: #e2f7ff;
+  background: linear-gradient(135deg, #ffffff 0%, #f8fcff 100%);
   color: #009ee3;
-  border: 1px solid #00bff5;
-  border-radius: 12px;
+  border: 2px solid #009ee3;
+  border-radius: 15px;
   font-size: 1rem;
-  font-weight: 500;
-  padding: 0.75rem;
+  font-weight: 600;
+  padding: 1rem 1.5rem;
   cursor: pointer;
-  transition: transform 0.25s, background-color 0.25s;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(0, 158, 227, 0.1);
+  position: relative;
+  overflow: hidden;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }
-.menu-btn:hover {
-  background-color: #c8f1ff;
-  animation: hoverPop 0.3s ease-out;
+.menu-btn:hover,
+.menu-btn:active {
+  background: linear-gradient(135deg, #009ee3 0%, #00b4e8 100%);
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 158, 227, 0.3);
 }
 .menu-btn:active {
   transform: scale(0.96);
@@ -115,20 +130,26 @@ html, body {
  * Botones
  ************************************/
 .btn, .btn-cancel {
-  background-color: #009ee3;
+  background: linear-gradient(135deg, #009ee3 0%, #00b4e8 100%);
   color: #fff;
   border: none;
-  border-radius: 8px;
-  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  padding: 0.6rem 1.2rem;
   margin: 0.3rem;
   cursor: pointer;
   font-size: 0.9rem;
-  transition: background-color 0.2s, transform 0.2s;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  font-weight: 500;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(0, 158, 227, 0.2);
+  position: relative;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }
-.btn:hover, .btn-cancel:hover {
-  background-color: #007eb5;
-  animation: hoverPop 0.4s ease-out;
+.btn:hover, .btn-cancel:hover,
+.btn:active, .btn-cancel:active {
+  background: linear-gradient(135deg, #007eb5 0%, #0099d8 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 158, 227, 0.3);
 }
 .btn:active, .btn-cancel:active {
   transform: scale(0.98);
@@ -151,26 +172,40 @@ html, body {
 }
 .form-inline-row select,
 .form-inline-row input[type=date] {
-  padding: 0.4rem;
-  border-radius: 6px;
-  border: 1px solid #ccc;
+  padding: 0.6rem;
+  border-radius: 10px;
+  border: 2px solid rgba(0, 158, 227, 0.2);
   font-size: 0.9rem;
+  background: linear-gradient(135deg, #ffffff 0%, #fafcff 100%);
+  transition: all 0.3s ease;
+}
+.form-inline-row select:focus,
+.form-inline-row input[type=date]:focus {
+  border-color: #009ee3;
+  box-shadow: 0 0 0 3px rgba(0, 158, 227, 0.1);
+  outline: none;
 }
 
 /************************************
  * Tarjeta de usuario
  ************************************/
 .usuario-info-card {
-  background-color: #fff;
-  border-radius: 10px;
-  padding: 1rem;
+  background: linear-gradient(135deg, #ffffff 0%, #fafcff 100%);
+  border-radius: 20px;
+  padding: 1.5rem;
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 1.5rem;
   margin: 1rem auto;
   max-width: 500px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 8px 30px rgba(0, 158, 227, 0.1);
   justify-content: center;
+  border: 1px solid rgba(0, 158, 227, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.usuario-info-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 40px rgba(0, 158, 227, 0.15);
 }
 .usuario-info-card .info-text {
   display: flex;
@@ -193,57 +228,80 @@ html, body {
   height: 130px;
   border-radius: 50%;
   object-fit: cover;
+  border: 4px solid #009ee3;
+  box-shadow: 0 4px 15px rgba(0, 158, 227, 0.2);
+  transition: transform 0.3s ease;
+}
+.foto-usuario:hover {
+  transform: scale(1.05);
 }
 
 /************************************
  * Tablas
  ************************************/
 .table-container {
-  border-radius: 12px;
-  background-color: #fff;
+  border-radius: 15px;
+  background: linear-gradient(135deg, #ffffff 0%, #fafcff 100%);
   margin-top: 1rem;
   position: relative;
-  box-shadow: 0 1px 6px rgba(0,0,0,0.1);
-  overflow: auto; /* scroll horizontal/vertical */
+  box-shadow: 0 8px 25px rgba(0, 158, 227, 0.1);
+  overflow: auto;
+  border: 1px solid rgba(0, 158, 227, 0.1);
+  -webkit-overflow-scrolling: touch;
 }
+
+
 table {
   width: 100%;
   border-collapse: collapse;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   border: 1px solid #ccc;
   min-width: 400px;
 }
 thead {
   position: sticky;
-  top: 0;
-  background-color: #e2f7ff;
-  z-index: 2;
+  top: 80px;
+  background: linear-gradient(135deg, #009ee3 0%, #00b4e8 100%);
+  z-index: 10;
 }
 thead tr th {
-  color: #009ee3;
+  color: #ffffff;
   font-weight: 600;
   text-align: center;
-  padding: 0.6rem;
-  border: 1px solid #ccc;
+  padding: 0.7rem 0.4rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  font-size: 0.85rem;
+  white-space: nowrap;
 }
 tbody tr td {
-  border: 1px solid #ccc;
+  border: 1px solid rgba(0, 158, 227, 0.1);
   text-align: center;
-  padding: 0.5rem;
+  padding: 0.6rem 0.4rem;
   color: #333;
+  font-weight: 500;
+  font-size: 0.85rem;
 }
 tbody tr:hover {
-  background-color: #f9f9f9;
+  background: linear-gradient(135deg, #f8fcff 0%, #f0f8ff 100%);
+  transform: scale(1.01);
+  transition: all 0.2s ease;
 }
 
 /************************************
  * Foto redonda en tabla
  ************************************/
 .foto-usuario-tabla {
-  width: 40px;
-  height: 40px;
+  width: 35px;
+  height: 35px;
   border-radius: 50%;
   object-fit: cover;
+  border: 2px solid #009ee3;
+  box-shadow: 0 2px 6px rgba(0, 158, 227, 0.2);
+  transition: transform 0.2s ease;
+}
+.foto-usuario-tabla:hover {
+  transform: scale(1.05);
 }
 
 /************************************
@@ -265,22 +323,75 @@ tbody tr:hover {
 }
 
 /************************************
+ * Dinero a recibir - Estados
+ ************************************/
+.dinero-positivo {
+  color: #34c759 !important;
+  font-weight: bold;
+  text-shadow: 0 1px 2px rgba(52, 199, 89, 0.2);
+}
+
+.dinero-negativo {
+  color: #ff3b30 !important;
+  font-weight: bold;
+  text-shadow: 0 1px 2px rgba(255, 59, 48, 0.2);
+}
+
+/************************************
+ * Adeudo - Intensidad de color
+ ************************************/
+.adeudo-bajo {
+  color: #ff9500 !important;
+  background-color: rgba(255, 149, 0, 0.1) !important;
+}
+
+.adeudo-medio {
+  color: #ff6b35 !important;
+  background-color: rgba(255, 107, 53, 0.15) !important;
+}
+
+.adeudo-alto {
+  color: #ff3b30 !important;
+  background-color: rgba(255, 59, 48, 0.2) !important;
+  font-weight: bold;
+}
+
+.adeudo-muy-alto {
+  color: #d70015 !important;
+  background-color: rgba(215, 0, 21, 0.25) !important;
+  font-weight: bold;
+  text-shadow: 0 1px 2px rgba(215, 0, 21, 0.3);
+}
+
+/************************************
  * Inversión Info
  ************************************/
 .inversion-info {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0.3rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.6rem;
   margin: 1rem auto;
+  max-width: 600px;
+  align-items: start;
 }
 .inversion-info p {
-  background-color: #e2f7ff;
+  background: linear-gradient(135deg, #ffffff 0%, #f0f8ff 100%);
   color: #009ee3;
-  border-radius: 6px;
-  padding: 0.5rem 1rem;
-  margin: 0.2rem;
-  font-size: 1rem;
+  border-radius: 10px;
+  padding: 0.6rem 0.8rem;
+  margin: 0;
+  font-size: 0.9rem;
+  font-weight: 600;
+  border: 2px solid rgba(0, 158, 227, 0.2);
+  box-shadow: 0 3px 10px rgba(0, 158, 227, 0.1);
+  transition: transform 0.2s ease;
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+.inversion-info p:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0, 158, 227, 0.15);
 }
 .saldo-actual {
   color: #34c759 !important;
@@ -292,22 +403,238 @@ tbody tr:hover {
 }
 
 /************************************
- * Responsive
+ * Responsive - Tablet
  ************************************/
-@media (max-width: 720px) {
-  .header h1 {
-    font-size: 1.2rem;
+@media (max-width: 768px) {
+  .container {
+    max-width: 100%;
+    margin: 0;
   }
+  
+  .section {
+    margin: 0.5rem;
+    padding: 0.8rem;
+  }
+  
+  .menu-container {
+    max-width: 100%;
+    margin: 0.5rem auto;
+  }
+  
+  .inversion-info {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.6rem;
+    max-width: 100%;
+  }
+  
+  .inversion-info p {
+    padding: 0.6rem 1rem;
+    font-size: 0.9rem;
+  }
+}
+
+/************************************
+ * Responsive - Mobile
+ ************************************/
+@media (max-width: 480px) {
+  .header {
+    padding: 0.8rem;
+  }
+  
+  .header h1 {
+    font-size: 1.1rem;
+  }
+  
+  .container {
+    min-height: calc(100vh - 60px);
+  }
+  
+  .section {
+    margin: 0.25rem;
+    padding: 0.5rem;
+  }
+  
+  /* Menú principal */
+  .menu-container {
+    gap: 0.8rem;
+    margin: 0.5rem;
+  }
+  
+  .menu-btn {
+    padding: 0.8rem 1rem;
+    font-size: 0.9rem;
+  }
+  
+  /* Tarjeta de usuario */
   .usuario-info-card {
     flex-direction: column;
-    max-width: 90%;
+    max-width: 95%;
+    margin: 0.5rem auto;
+    padding: 1rem;
+    gap: 1rem;
   }
+  
   .foto-usuario {
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
   }
+  
+  .usuario-info-card .info-text h2 {
+    font-size: 1.1rem;
+  }
+  
+  .usuario-info-card .info-text p {
+    font-size: 0.9rem;
+  }
+  
+  /* Información de inversión */
+  .inversion-info {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.4rem;
+    margin: 0.5rem auto;
+  }
+  
+  .inversion-info p {
+    padding: 0.6rem 0.8rem;
+    font-size: 0.85rem;
+    margin: 0.1rem;
+  }
+  
+  /* Formularios */
+  .form-inline-row {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.4rem;
+    margin-bottom: 0.6rem;
+  }
+  
+  .form-inline-row label {
+    text-align: left;
+    font-size: 0.9rem;
+  }
+  
+  .form-inline-row select,
+  .form-inline-row input[type=date] {
+    width: 100%;
+    padding: 0.6rem;
+    font-size: 0.9rem;
+  }
+  
+  .form-inline-row .btn,
+  .form-inline-row .btn-cancel {
+    width: 100%;
+    margin: 0.2rem 0;
+    padding: 0.7rem;
+  }
+  
+  /* Tablas */
+  .table-container {
+    margin: 0.5rem 0;
+    border-radius: 10px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+
+  
   table {
-    min-width: 350px;
+    min-width: 500px;
+    font-size: 0.75rem;
+  }
+  
+  thead {
+    top: 60px;
+  }
+  
+  thead tr th {
+    padding: 0.5rem 0.2rem;
+    font-size: 0.7rem;
+    white-space: nowrap;
+  }
+  
+  tbody tr td {
+    padding: 0.4rem 0.2rem;
+    font-size: 0.75rem;
+  }
+  
+  .foto-usuario-tabla {
+    width: 30px;
+    height: 30px;
+  }
+  
+  /* Botones */
+  .btn, .btn-cancel {
+    font-size: 0.85rem;
+    padding: 0.6rem 1rem;
+    margin: 0.2rem;
+  }
+  
+  /* Pantalla completa en móviles */
+  .table-container .form-inline-row {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .table-container .btn,
+  .table-container .btn-cancel {
+    flex: 1;
+    min-width: 120px;
+    max-width: 200px;
+  }
+}
+
+/************************************
+ * Responsive - Mobile pequeño
+ ************************************/
+@media (max-width: 360px) {
+  .header h1 {
+    font-size: 1rem;
+  }
+  
+  .menu-btn {
+    padding: 0.7rem 0.8rem;
+    font-size: 0.85rem;
+  }
+  
+  .inversion-info {
+    grid-template-columns: 1fr;
+    gap: 0.4rem;
+  }
+  
+  .inversion-info p {
+    padding: 0.5rem 0.6rem;
+    font-size: 0.8rem;
+  }
+  
+  table {
+    min-width: 480px;
+    font-size: 0.7rem;
+  }
+  
+  thead {
+    top: 50px;
+  }
+  
+  thead tr th {
+    padding: 0.4rem 0.15rem;
+    font-size: 0.65rem;
+  }
+  
+  tbody tr td {
+    padding: 0.35rem 0.15rem;
+    font-size: 0.7rem;
+  }
+  
+  .foto-usuario-tabla {
+    width: 25px;
+    height: 25px;
+  }
+  
+  .foto-usuario {
+    width: 70px;
+    height: 70px;
   }
 }
 .hidden {

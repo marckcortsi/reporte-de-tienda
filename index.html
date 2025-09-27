@@ -8,7 +8,7 @@
   <meta http-equiv="Expires" content="0" />
 
   <!-- Ajuste de viewport para móviles -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes"/>
 
   <title>Consultas de ventas</title>
   <meta name="theme-color" content="#009ee3">
@@ -95,6 +95,8 @@
         <p><strong>Saldo Actual:</strong> <span id="inv-saldo" class="saldo-actual">$0.00</span></p>
         <p><strong>Total de Adeudos:</strong> <span id="inv-adeudos" class="adeudos">$0.00</span></p>
         <p><strong>Ganancias Totales:</strong> <span id="inv-ganancias">$0.00</span></p>
+        <p><strong>Total de Ventas:</strong> <span id="inv-ventas">$0.00</span></p>
+        <p><strong>Dinero a Repartir:</strong> <span id="inv-dinero-repartir" class="saldo-actual">$0.00</span></p>
       </div>
 
       <div class="table-container" id="inversion-table-container">
@@ -111,6 +113,7 @@
               <th>Ganancia</th>
               <th>Adeudo</th>
               <th>Saldo a favor</th>
+              <th>Dinero a recibir</th>
             </tr>
           </thead>
           <tbody></tbody>

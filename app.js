@@ -363,18 +363,40 @@ function mostrarVentanaImpresion(content, title) {
  * Consulta Global
  ************************************/
 function actualizarConsultaInversion() {
-  const invTotalEl     = document.getElementById("inv-total");
-  const invGananciasEl = document.getElementById("inv-ganancias");
-  const invSaldoEl     = document.getElementById("inv-saldo");
-  const invAdeudosEl   = document.getElementById("inv-adeudos");
+  const invTotalEl          = document.getElementById("inv-total");
+  const invGananciasEl      = document.getElementById("inv-ganancias");
+  const invSaldoEl          = document.getElementById("inv-saldo");
+  const invAdeudosEl        = document.getElementById("inv-adeudos");
+  const invVentasEl         = document.getElementById("inv-ventas");
+  const invDineroRepartirEl = document.getElementById("inv-dinero-repartir");
 
   let saldoActual  = totalInversion - (gastoEnProductos - inversionRecuperada);
   let totalAdeudos = usuarios.reduce((acum, u) => acum + (u.adeudo || 0), 0);
+  
+  // Calcular total de ventas (suma de todas las compras de todos los usuarios)
+  let totalVentas = 0;
+  usuarios.forEach(u => {
+    (historialCompras[u.nombre] || []).forEach(c => {
+      totalVentas += c.costoTotal;
+    });
+  });
 
-  invTotalEl.textContent     = formatMoney(totalInversion);
-  invGananciasEl.textContent = formatMoney(gananciasTotales);
-  invSaldoEl.textContent     = formatMoney(saldoActual);
-  invAdeudosEl.textContent   = formatMoney(totalAdeudos);
+  // Calcular dinero a repartir (solo valores positivos de dinero a recibir)
+  let dineroARepartir = 0;
+  let usuariosInversionistas = usuarios.filter(u => u.nombre !== "Externo");
+  usuariosInversionistas.forEach(u => {
+    let dineroARecibir = (u.ganancia || 0) - (u.adeudo || 0);
+    if (dineroARecibir > 0) {
+      dineroARepartir += dineroARecibir;
+    }
+  });
+
+  invTotalEl.textContent          = formatMoney(totalInversion);
+  invGananciasEl.textContent      = formatMoney(gananciasTotales);
+  invSaldoEl.textContent          = formatMoney(saldoActual);
+  invAdeudosEl.textContent        = formatMoney(totalAdeudos);
+  invVentasEl.textContent         = formatMoney(totalVentas);
+  invDineroRepartirEl.textContent = formatMoney(dineroARepartir);
 
   const tbody = document.querySelector("#tabla-usuarios-ganancias tbody");
   tbody.innerHTML = "";
@@ -390,6 +412,32 @@ function actualizarConsultaInversion() {
       totalCompras += c.costoTotal;
     });
 
+    // Calcular dinero a recibir: ganancias menos adeudo
+    let dineroARecibir = (u.ganancia || 0) - (u.adeudo || 0);
+    let adeudo = u.adeudo || 0;
+
+    // Determinar clase para dinero a recibir
+    let claseDinero = '';
+    if (dineroARecibir > 0) {
+      claseDinero = 'dinero-positivo';
+    } else if (dineroARecibir < 0) {
+      claseDinero = 'dinero-negativo';
+    }
+
+    // Determinar clase para adeudo basado en intensidad
+    let claseAdeudo = '';
+    if (adeudo > 0) {
+      if (adeudo <= 100) {
+        claseAdeudo = 'adeudo-bajo';
+      } else if (adeudo <= 300) {
+        claseAdeudo = 'adeudo-medio';
+      } else if (adeudo <= 600) {
+        claseAdeudo = 'adeudo-alto';
+      } else {
+        claseAdeudo = 'adeudo-muy-alto';
+      }
+    }
+
     const row = document.createElement("tr");
     row.innerHTML = `
       <td>
@@ -399,12 +447,16 @@ function actualizarConsultaInversion() {
       <td>${u.nombre}</td>
       <td>${formatMoney(totalCompras)}</td>
       <td>${formatMoney(u.ganancia)}</td>
-      <td>${formatMoney(u.adeudo || 0)}</td>
+      <td class="${claseAdeudo}">${formatMoney(adeudo)}</td>
       <td>${formatMoney(u.saldoFavor || 0)}</td>
+      <td class="${claseDinero}">${formatMoney(dineroARecibir)}</td>
     `;
-    if (u.adeudo > 0) {
+    
+    // Mantener la clase con-adeudo para el fondo de toda la fila si hay adeudo
+    if (adeudo > 0) {
       row.classList.add("con-adeudo");
     }
+    
     tbody.appendChild(row);
   });
 }
