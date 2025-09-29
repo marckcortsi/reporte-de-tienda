@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 437.4600000000009,
-      "ganancia": 3932.863412345679,
+      "adeudo": 201.6200000000009,
+      "ganancia": 3939.585912345679,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2191.9800000000023,
-      "ganancia": 5322.606650705477,
+      "adeudo": 2235.8400000000024,
+      "ganancia": 5337.229150705476,
       "saldoFavor": 0
     },
     {
@@ -52,15 +52,15 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 255.14,
-      "ganancia": 2330.9982348324543,
+      "adeudo": 284.14,
+      "ganancia": 2340.664901499121,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 430.32000000000016,
-      "ganancia": 674.0761282186945,
+      "adeudo": 463.47000000000014,
+      "ganancia": 684.3511282186945,
       "saldoFavor": 0
     },
     {
@@ -2284,6 +2284,13 @@
         "costoTotal": 17.5,
         "fecha": "26/9/2025, 4:29:22 p.m.",
         "ganancia": 5.833333333333334
+      },
+      {
+        "producto": "Emperador vainilla",
+        "piezas": 1,
+        "costoTotal": 20.16,
+        "fecha": "29/9/2025, 8:12:49 a.m.",
+        "ganancia": 6.7225
       }
     ],
     "Carlos": [
@@ -6934,6 +6941,20 @@
         "costoTotal": 18.75,
         "fecha": "26/9/2025, 4:28:38 p.m.",
         "ganancia": 6.25
+      },
+      {
+        "producto": "Licuado",
+        "piezas": 1,
+        "costoTotal": 23.7,
+        "fecha": "29/9/2025, 8:11:04 a.m.",
+        "ganancia": 7.899999999999999
+      },
+      {
+        "producto": "Arcoiris",
+        "piezas": 1,
+        "costoTotal": 20.16,
+        "fecha": "29/9/2025, 8:11:04 a.m.",
+        "ganancia": 6.7225
       }
     ],
     "Edgar": [
@@ -20001,6 +20022,27 @@
         "costoTotal": 34.28,
         "fecha": "26/9/2025, 4:27:44 p.m.",
         "ganancia": 11.422857142857143
+      },
+      {
+        "producto": "Canelitas",
+        "piezas": 2,
+        "costoTotal": 11,
+        "fecha": "29/9/2025, 8:12:30 a.m.",
+        "ganancia": 3.666666666666667
+      },
+      {
+        "producto": "Barritas fresa",
+        "piezas": 2,
+        "costoTotal": 9,
+        "fecha": "29/9/2025, 8:12:30 a.m.",
+        "ganancia": 3
+      },
+      {
+        "producto": "Barritas piña",
+        "piezas": 2,
+        "costoTotal": 9,
+        "fecha": "29/9/2025, 8:12:30 a.m.",
+        "ganancia": 3
       }
     ],
     "Laura": [
@@ -20829,6 +20871,13 @@
         "costoTotal": 17.14,
         "fecha": "26/9/2025, 11:34:37 a.m.",
         "ganancia": 5.711428571428572
+      },
+      {
+        "producto": "Cremax chocolate",
+        "piezas": 1,
+        "costoTotal": 33.15,
+        "fecha": "29/9/2025, 8:17:39 a.m.",
+        "ganancia": 10.274999999999999
       }
     ],
     "Marcos": [
@@ -31896,12 +31945,8 @@
       "descripcion": "Cremax chocolate",
       "precioCompra": 22.1,
       "precioVenta": 33.15,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 22.875
-        },
         {
           "cantidad": 8,
           "costoUnitario": 22.1
@@ -32290,10 +32335,10 @@
       "descripcion": "Licuado",
       "precioCompra": 15.8,
       "precioVenta": 23.7,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 15.8
         }
       ]
@@ -32355,10 +32400,10 @@
       "descripcion": "Arcoiris",
       "precioCompra": 13.44,
       "precioVenta": 20.16,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 13.4375
         }
       ]
@@ -32407,10 +32452,10 @@
       "descripcion": "Emperador vainilla",
       "precioCompra": 13.44,
       "precioVenta": 20.16,
-      "piezas": 16,
+      "piezas": 15,
       "stockParciales": [
         {
-          "cantidad": 16,
+          "cantidad": 15,
           "costoUnitario": 13.4375
         }
       ]
@@ -32433,10 +32478,10 @@
       "descripcion": "Barritas fresa",
       "precioCompra": 3,
       "precioVenta": 4.5,
-      "piezas": 10,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 8,
           "costoUnitario": 3
         }
       ]
@@ -32446,10 +32491,10 @@
       "descripcion": "Barritas piña",
       "precioCompra": 3,
       "precioVenta": 4.5,
-      "piezas": 10,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 8,
           "costoUnitario": 3
         }
       ]
@@ -32459,10 +32504,10 @@
       "descripcion": "Canelitas",
       "precioCompra": 3.67,
       "precioVenta": 5.5,
-      "piezas": 12,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 10,
           "costoUnitario": 3.6666666666666665
         }
       ]
@@ -35464,6 +35509,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 65532.20000000002,
-  "inversionRecuperada": 58206.30144603224,
-  "gananciasTotales": 29120.01855396887
+  "inversionRecuperada": 58291.184779365576,
+  "gananciasTotales": 29161.30522063554
 }
