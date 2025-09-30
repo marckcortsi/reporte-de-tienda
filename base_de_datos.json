@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2235.8400000000024,
-      "ganancia": 5337.229150705476,
+      "adeudo": 2354.8400000000024,
+      "ganancia": 5376.8291507054755,
       "saldoFavor": 0
     },
     {
@@ -31,8 +31,8 @@
     {
       "nombre": "Irvin",
       "bloqueado": false,
-      "adeudo": 1897.3100000000009,
-      "ganancia": 1393.2535726631402,
+      "adeudo": 1951.010000000001,
+      "ganancia": 1411.1535726631403,
       "saldoFavor": 0
     },
     {
@@ -45,15 +45,15 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 223.69999999999987,
-      "ganancia": 1901.5979337742538,
+      "adeudo": 247.39999999999986,
+      "ganancia": 1909.4979337742539,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 284.14,
-      "ganancia": 2340.664901499121,
+      "adeudo": 305.28999999999996,
+      "ganancia": 2347.7113300705496,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 522.1500000000003,
-      "ganancia": 4990.556164991182,
+      "adeudo": 563.9200000000003,
+      "ganancia": 5004.4761649911825,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 2565.570000000002,
-      "ganancia": 2422.44290890653,
+      "adeudo": 2584.320000000002,
+      "ganancia": 2428.69290890653,
       "saldoFavor": 0
     },
     {
@@ -6955,6 +6955,34 @@
         "costoTotal": 20.16,
         "fecha": "29/9/2025, 8:11:04 a.m.",
         "ganancia": 6.7225
+      },
+      {
+        "producto": "Shots",
+        "piezas": 20,
+        "costoTotal": 64.4,
+        "fecha": "30/9/2025, 8:23:07 a.m.",
+        "ganancia": 21.400000000000006
+      },
+      {
+        "producto": "Bowl",
+        "piezas": 1,
+        "costoTotal": 26.4,
+        "fecha": "30/9/2025, 8:23:07 a.m.",
+        "ganancia": 8.799999999999997
+      },
+      {
+        "producto": "Barritas piña",
+        "piezas": 1,
+        "costoTotal": 4.5,
+        "fecha": "30/9/2025, 8:23:07 a.m.",
+        "ganancia": 1.5
+      },
+      {
+        "producto": "Licuado",
+        "piezas": 1,
+        "costoTotal": 23.7,
+        "fecha": "30/9/2025, 8:24:58 a.m.",
+        "ganancia": 7.899999999999999
       }
     ],
     "Edgar": [
@@ -11440,6 +11468,27 @@
         "piezas": 1,
         "costoTotal": 18.75,
         "fecha": "26/9/2025, 4:07:50 p.m.",
+        "ganancia": 6.25
+      },
+      {
+        "producto": "Churritos",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "30/9/2025, 8:24:03 a.m.",
+        "ganancia": 3.75
+      },
+      {
+        "producto": "Licuado",
+        "piezas": 1,
+        "costoTotal": 23.7,
+        "fecha": "30/9/2025, 8:25:32 a.m.",
+        "ganancia": 7.899999999999999
+      },
+      {
+        "producto": "Agua vida",
+        "piezas": 1,
+        "costoTotal": 18.75,
+        "fecha": "30/9/2025, 8:25:32 a.m.",
         "ganancia": 6.25
       }
     ],
@@ -17115,6 +17164,13 @@
         "costoTotal": 18.75,
         "fecha": "26/9/2025, 3:46:18 p.m.",
         "ganancia": 6.25
+      },
+      {
+        "producto": "Licuado",
+        "piezas": 1,
+        "costoTotal": 23.7,
+        "fecha": "30/9/2025, 8:22:10 a.m.",
+        "ganancia": 7.899999999999999
       }
     ],
     "Karen": [
@@ -20043,6 +20099,20 @@
         "costoTotal": 9,
         "fecha": "29/9/2025, 8:12:30 a.m.",
         "ganancia": 3
+      },
+      {
+        "producto": "Barcel",
+        "piezas": 1,
+        "costoTotal": 17.14,
+        "fecha": "30/9/2025, 8:23:29 a.m.",
+        "ganancia": 5.711428571428572
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 1,
+        "costoTotal": 4.01,
+        "fecha": "30/9/2025, 8:23:29 a.m.",
+        "ganancia": 1.335
       }
     ],
     "Laura": [
@@ -27544,6 +27614,20 @@
         "costoTotal": 4.01,
         "fecha": "26/9/2025, 4:26:59 p.m.",
         "ganancia": 1.335
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 2,
+        "costoTotal": 8.02,
+        "fecha": "30/9/2025, 8:20:59 a.m.",
+        "ganancia": 2.67
+      },
+      {
+        "producto": "Gatorade azul",
+        "piezas": 1,
+        "costoTotal": 33.75,
+        "fecha": "30/9/2025, 8:20:59 a.m.",
+        "ganancia": 11.25
       }
     ],
     "Rafael": [
@@ -30843,6 +30927,13 @@
         "costoTotal": 8.02,
         "fecha": "26/9/2025, 3:00:07 p.m.",
         "ganancia": 2.67
+      },
+      {
+        "producto": "Agua vida",
+        "piezas": 1,
+        "costoTotal": 18.75,
+        "fecha": "30/9/2025, 8:24:44 a.m.",
+        "ganancia": 6.25
       }
     ],
     "Vicente": [
@@ -32075,10 +32166,10 @@
       "descripcion": "Agua vida",
       "precioCompra": 12.5,
       "precioVenta": 18.75,
-      "piezas": 6,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 4,
           "costoUnitario": 12.5
         }
       ]
@@ -32179,10 +32270,10 @@
       "descripcion": "Churritos",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 7.5
         }
       ]
@@ -32283,10 +32374,10 @@
       "descripcion": "Bowl",
       "precioCompra": 17.6,
       "precioVenta": 26.4,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 17.6
         }
       ]
@@ -32309,10 +32400,10 @@
       "descripcion": "Gatorade azul",
       "precioCompra": 22.5,
       "precioVenta": 33.75,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 22.5
         }
       ]
@@ -32335,10 +32426,10 @@
       "descripcion": "Licuado",
       "precioCompra": 15.8,
       "precioVenta": 23.7,
-      "piezas": 13,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 10,
           "costoUnitario": 15.8
         }
       ]
@@ -32426,10 +32517,10 @@
       "descripcion": "Barcel",
       "precioCompra": 11.43,
       "precioVenta": 17.14,
-      "piezas": 22,
+      "piezas": 21,
       "stockParciales": [
         {
-          "cantidad": 22,
+          "cantidad": 21,
           "costoUnitario": 11.428571428571429
         }
       ]
@@ -32491,10 +32582,10 @@
       "descripcion": "Barritas piña",
       "precioCompra": 3,
       "precioVenta": 4.5,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 3
         }
       ]
@@ -32517,10 +32608,10 @@
       "descripcion": "Shots",
       "precioCompra": 2.15,
       "precioVenta": 3.22,
-      "piezas": 175,
+      "piezas": 155,
       "stockParciales": [
         {
-          "cantidad": 175,
+          "cantidad": 155,
           "costoUnitario": 2.15
         }
       ]
@@ -32530,10 +32621,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 2.67,
       "precioVenta": 4.01,
-      "piezas": 149,
+      "piezas": 146,
       "stockParciales": [
         {
-          "cantidad": 149,
+          "cantidad": 146,
           "costoUnitario": 2.675
         }
       ]
@@ -35509,6 +35600,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 65532.20000000002,
-  "inversionRecuperada": 58291.184779365576,
-  "gananciasTotales": 29161.30522063554
+  "inversionRecuperada": 58476.63835079416,
+  "gananciasTotales": 29253.921649206968
 }
