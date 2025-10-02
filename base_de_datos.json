@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 239.2800000000009,
-      "ganancia": 3952.1417456790123,
+      "adeudo": 308.1900000000009,
+      "ganancia": 3975.114245679012,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2549.0400000000022,
-      "ganancia": 5441.479150705475,
+      "adeudo": 2575.4400000000023,
+      "ganancia": 5450.279150705475,
       "saldoFavor": 0
     },
     {
@@ -53,7 +53,7 @@
       "nombre": "Karen",
       "bloqueado": false,
       "adeudo": 373.91999999999996,
-      "ganancia": 2370.5913300705497,
+      "ganancia": 2381.04133007055,
       "saldoFavor": 0
     },
     {
@@ -66,15 +66,15 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 791.4700000000001,
-      "ganancia": 5080.31902213404,
+      "adeudo": 796.9700000000001,
+      "ganancia": 5082.152355467373,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 2658.810000000002,
-      "ganancia": 2453.5287422398637,
+      "adeudo": 2677.810000000002,
+      "ganancia": 2459.862075573197,
       "saldoFavor": 0
     },
     {
@@ -2305,6 +2305,20 @@
         "costoTotal": 17.5,
         "fecha": "2/10/2025, 8:20:13 a.m.",
         "ganancia": 5.833333333333334
+      },
+      {
+        "producto": "Coca de 3L",
+        "piezas": 1,
+        "costoTotal": 48.75,
+        "fecha": "2/10/2025, 11:03:50 a.m.",
+        "ganancia": 16.25
+      },
+      {
+        "producto": "Emperador vainilla",
+        "piezas": 1,
+        "costoTotal": 20.16,
+        "fecha": "2/10/2025, 1:04:34 p.m.",
+        "ganancia": 6.7225
       }
     ],
     "Carlos": [
@@ -7032,6 +7046,13 @@
         "costoTotal": 22.5,
         "fecha": "2/10/2025, 8:33:21 a.m.",
         "ganancia": 7.5
+      },
+      {
+        "producto": "Bowl",
+        "piezas": 1,
+        "costoTotal": 26.4,
+        "fecha": "2/10/2025, 1:07:07 p.m.",
+        "ganancia": 8.799999999999997
       }
     ],
     "Edgar": [
@@ -20274,6 +20295,20 @@
         "costoTotal": 27,
         "fecha": "2/10/2025, 8:53:18 a.m.",
         "ganancia": 9
+      },
+      {
+        "producto": "Jarritos",
+        "piezas": 1,
+        "costoTotal": 28.13,
+        "fecha": "2/10/2025, 11:03:30 a.m.",
+        "ganancia": 9.379999999999999
+      },
+      {
+        "producto": "Shots",
+        "piezas": 1,
+        "costoTotal": 3.22,
+        "fecha": "2/10/2025, 11:03:30 a.m.",
+        "ganancia": 1.0700000000000003
       }
     ],
     "Laura": [
@@ -27901,6 +27936,13 @@
         "costoTotal": 8.02,
         "fecha": "2/10/2025, 8:20:42 a.m.",
         "ganancia": 2.67
+      },
+      {
+        "producto": "Canelitas",
+        "piezas": 1,
+        "costoTotal": 5.5,
+        "fecha": "2/10/2025, 1:12:21 p.m.",
+        "ganancia": 1.8333333333333335
       }
     ],
     "Rafael": [
@@ -31235,6 +31277,13 @@
         "costoTotal": 13.75,
         "fecha": "1/10/2025, 11:05:49 a.m.",
         "ganancia": 4.583333333333334
+      },
+      {
+        "producto": "Papas natural",
+        "piezas": 1,
+        "costoTotal": 19,
+        "fecha": "2/10/2025, 11:04:18 a.m.",
+        "ganancia": 6.333333333333334
       }
     ],
     "Vicente": [
@@ -32506,10 +32555,10 @@
       "descripcion": "Coca de 3L",
       "precioCompra": 32.5,
       "precioVenta": 48.75,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 32.5
         }
       ]
@@ -32519,10 +32568,10 @@
       "descripcion": "Jarritos",
       "precioCompra": 18.75,
       "precioVenta": 28.13,
-      "piezas": 6,
+      "piezas": 5,
       "stockParciales": [
         {
-          "cantidad": 6,
+          "cantidad": 5,
           "costoUnitario": 18.75
         }
       ]
@@ -32545,10 +32594,10 @@
       "descripcion": "Papas natural",
       "precioCompra": 12.67,
       "precioVenta": 19,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 12.666666666666666
         }
       ]
@@ -32675,13 +32724,8 @@
       "descripcion": "Bowl",
       "precioCompra": 17.6,
       "precioVenta": 26.4,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 17.6
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "036731321008",
@@ -32844,10 +32888,10 @@
       "descripcion": "Emperador vainilla",
       "precioCompra": 13.44,
       "precioVenta": 20.16,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 13.4375
         }
       ]
@@ -32886,10 +32930,10 @@
       "descripcion": "Canelitas",
       "precioCompra": 3.67,
       "precioVenta": 5.5,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 3.6666666666666665
         }
       ]
@@ -32899,10 +32943,10 @@
       "descripcion": "Shots",
       "precioCompra": 2.15,
       "precioVenta": 3.22,
-      "piezas": 129,
+      "piezas": 128,
       "stockParciales": [
         {
-          "cantidad": 129,
+          "cantidad": 128,
           "costoUnitario": 2.15
         }
       ]
@@ -35891,6 +35935,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 65532.20000000002,
-  "inversionRecuperada": 59084.23716031797,
-  "gananciasTotales": 29557.65283968316
+  "inversionRecuperada": 59185.0079936513,
+  "gananciasTotales": 29608.042006349824
 }
