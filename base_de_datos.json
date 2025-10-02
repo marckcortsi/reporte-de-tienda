@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2526.5400000000022,
-      "ganancia": 5433.979150705475,
+      "adeudo": 2549.0400000000022,
+      "ganancia": 5441.479150705475,
       "saldoFavor": 0
     },
     {
@@ -45,15 +45,15 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 128.29999999999987,
-      "ganancia": 1936.4646004409205,
+      "adeudo": 151.99999999999986,
+      "ganancia": 1944.3646004409206,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 346.91999999999996,
-      "ganancia": 2361.5913300705497,
+      "adeudo": 373.91999999999996,
+      "ganancia": 2370.5913300705497,
       "saldoFavor": 0
     },
     {
@@ -7025,6 +7025,13 @@
         "costoTotal": 80.5,
         "fecha": "1/10/2025, 5:42:39 p.m.",
         "ganancia": 26.750000000000007
+      },
+      {
+        "producto": "Barritas piña",
+        "piezas": 5,
+        "costoTotal": 22.5,
+        "fecha": "2/10/2025, 8:33:21 a.m.",
+        "ganancia": 7.5
       }
     ],
     "Edgar": [
@@ -17290,6 +17297,13 @@
         "costoTotal": 33.75,
         "fecha": "1/10/2025, 12:36:51 p.m.",
         "ganancia": 11.25
+      },
+      {
+        "producto": "Licuado",
+        "piezas": 1,
+        "costoTotal": 23.7,
+        "fecha": "2/10/2025, 8:25:34 a.m.",
+        "ganancia": 7.899999999999999
       }
     ],
     "Karen": [
@@ -20253,6 +20267,13 @@
         "costoTotal": 4.66,
         "fecha": "1/10/2025, 4:15:20 p.m.",
         "ganancia": 1.56
+      },
+      {
+        "producto": "Barritas fresa",
+        "piezas": 6,
+        "costoTotal": 27,
+        "fecha": "2/10/2025, 8:53:18 a.m.",
+        "ganancia": 9
       }
     ],
     "Laura": [
@@ -32706,10 +32727,10 @@
       "descripcion": "Licuado",
       "precioCompra": 15.8,
       "precioVenta": 23.7,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 15.8
         }
       ]
@@ -32849,26 +32870,16 @@
       "descripcion": "Barritas fresa",
       "precioCompra": 3,
       "precioVenta": 4.5,
-      "piezas": 6,
-      "stockParciales": [
-        {
-          "cantidad": 6,
-          "costoUnitario": 3
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000392384",
       "descripcion": "Barritas piña",
       "precioCompra": 3,
       "precioVenta": 4.5,
-      "piezas": 5,
-      "stockParciales": [
-        {
-          "cantidad": 5,
-          "costoUnitario": 3
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000392490",
@@ -35880,6 +35891,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 65532.20000000002,
-  "inversionRecuperada": 59035.43716031797,
-  "gananciasTotales": 29533.25283968316
+  "inversionRecuperada": 59084.23716031797,
+  "gananciasTotales": 29557.65283968316
 }
