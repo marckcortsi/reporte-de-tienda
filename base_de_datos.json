@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 417.59000000000094,
-      "ganancia": 4011.514245679012,
+      "adeudo": 437.75000000000097,
+      "ganancia": 4018.236745679012,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2575.4400000000023,
-      "ganancia": 5450.279150705475,
+      "adeudo": 2623.310000000002,
+      "ganancia": 5466.236650705475,
       "saldoFavor": 0
     },
     {
@@ -59,22 +59,22 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 502.47000000000014,
-      "ganancia": 697.3511282186945,
+      "adeudo": 521.4700000000001,
+      "ganancia": 703.6844615520279,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 800.9800000000001,
-      "ganancia": 5083.487355467373,
+      "adeudo": 834.7300000000001,
+      "ganancia": 5094.737355467373,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 2677.810000000002,
-      "ganancia": 2459.862075573197,
+      "adeudo": 2696.560000000002,
+      "ganancia": 2466.112075573197,
       "saldoFavor": 0
     },
     {
@@ -2326,6 +2326,13 @@
         "costoTotal": 109.39999999999999,
         "fecha": "2/10/2025, 4:47:14 p.m.",
         "ganancia": 36.4
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 20.16,
+        "fecha": "3/10/2025, 8:30:20 a.m.",
+        "ganancia": 6.7225
       }
     ],
     "Carlos": [
@@ -7060,6 +7067,27 @@
         "costoTotal": 26.4,
         "fecha": "2/10/2025, 1:07:07 p.m.",
         "ganancia": 8.799999999999997
+      },
+      {
+        "producto": "Arcoiris",
+        "piezas": 1,
+        "costoTotal": 20.16,
+        "fecha": "3/10/2025, 9:40:59 a.m.",
+        "ganancia": 6.7225
+      },
+      {
+        "producto": "Licuado",
+        "piezas": 1,
+        "costoTotal": 23.7,
+        "fecha": "3/10/2025, 9:40:59 a.m.",
+        "ganancia": 7.899999999999999
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 1,
+        "costoTotal": 4.01,
+        "fecha": "3/10/2025, 9:40:59 a.m.",
+        "ganancia": 1.335
       }
     ],
     "Edgar": [
@@ -21242,6 +21270,13 @@
         "costoTotal": 4.5,
         "fecha": "1/10/2025, 4:42:41 p.m.",
         "ganancia": 1.5
+      },
+      {
+        "producto": "Papas natural",
+        "piezas": 1,
+        "costoTotal": 19,
+        "fecha": "3/10/2025, 12:02:56 p.m.",
+        "ganancia": 6.333333333333334
       }
     ],
     "Marcos": [
@@ -28020,6 +28055,13 @@
         "costoTotal": 4.01,
         "fecha": "2/10/2025, 3:24:11 p.m.",
         "ganancia": 1.335
+      },
+      {
+        "producto": "Gatorade azul",
+        "piezas": 1,
+        "costoTotal": 33.75,
+        "fecha": "3/10/2025, 10:55:31 a.m.",
+        "ganancia": 11.25
       }
     ],
     "Rafael": [
@@ -31361,6 +31403,13 @@
         "costoTotal": 19,
         "fecha": "2/10/2025, 11:04:18 a.m.",
         "ganancia": 6.333333333333334
+      },
+      {
+        "producto": "Agua vida",
+        "piezas": 1,
+        "costoTotal": 18.75,
+        "fecha": "3/10/2025, 10:55:18 a.m.",
+        "ganancia": 6.25
       }
     ],
     "Vicente": [
@@ -32593,10 +32642,10 @@
       "descripcion": "Agua vida",
       "precioCompra": 12.5,
       "precioVenta": 18.75,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 12.5
         }
       ]
@@ -32671,10 +32720,10 @@
       "descripcion": "Papas natural",
       "precioCompra": 12.67,
       "precioVenta": 19,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.666666666666666
         }
       ]
@@ -32822,10 +32871,10 @@
       "descripcion": "Gatorade azul",
       "precioCompra": 22.5,
       "precioVenta": 33.75,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 22.5
         }
       ]
@@ -32848,10 +32897,10 @@
       "descripcion": "Licuado",
       "precioCompra": 15.8,
       "precioVenta": 23.7,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 15.8
         }
       ]
@@ -32913,10 +32962,10 @@
       "descripcion": "Arcoiris",
       "precioCompra": 13.44,
       "precioVenta": 20.16,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 13.4375
         }
       ]
@@ -32978,10 +33027,10 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 13.44,
       "precioVenta": 20.16,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 13.4375
         }
       ]
@@ -33033,10 +33082,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 2.67,
       "precioVenta": 4.01,
-      "piezas": 140,
+      "piezas": 139,
       "stockParciales": [
         {
-          "cantidad": 140,
+          "cantidad": 139,
           "costoUnitario": 2.675
         }
       ]
@@ -36012,6 +36061,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 65532.20000000002,
-  "inversionRecuperada": 59351.7829936513,
-  "gananciasTotales": 29691.317006349822
+  "inversionRecuperada": 59444.79966031797,
+  "gananciasTotales": 29737.830339683154
 }
