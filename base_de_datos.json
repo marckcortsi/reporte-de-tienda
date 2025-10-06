@@ -4,84 +4,84 @@
       "nombre": "Arturo",
       "bloqueado": false,
       "adeudo": 599.560000000001,
-      "ganancia": 4072.109245679012,
+      "ganancia": 4072.6694540123453,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
       "adeudo": 2337.560000000002,
-      "ganancia": 5504.236650705475,
+      "ganancia": 5504.796859038808,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 1711.180000000001,
-      "ganancia": 1646.6125819223998,
+      "adeudo": 1761.010000000001,
+      "ganancia": 1663.780568033511,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
       "adeudo": 453.51000000000005,
-      "ganancia": 973.207831393298,
+      "ganancia": 973.7680397266313,
       "saldoFavor": 0
     },
     {
       "nombre": "Irvin",
       "bloqueado": true,
       "adeudo": 1951.010000000001,
-      "ganancia": 1411.1535726631403,
+      "ganancia": 1411.7137809964736,
       "saldoFavor": 0
     },
     {
       "nombre": "Isac",
       "bloqueado": false,
       "adeudo": 3294.1100000000024,
-      "ganancia": 3067.3271052028226,
+      "ganancia": 3067.887313536156,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
       "adeudo": 270.78999999999985,
-      "ganancia": 1983.9546004409206,
+      "ganancia": 1984.5148087742539,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
       "adeudo": 32.77,
-      "ganancia": 2400.6579967372163,
+      "ganancia": 2401.2182050705496,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 521.4700000000001,
-      "ganancia": 703.6844615520279,
+      "adeudo": 542.4700000000001,
+      "ganancia": 711.2446698853612,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
       "adeudo": 838.7400000000001,
-      "ganancia": 5096.072355467373,
+      "ganancia": 5096.6325638007065,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
       "adeudo": 2696.560000000002,
-      "ganancia": 2466.112075573197,
+      "ganancia": 2466.6722839065305,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
       "adeudo": 34.38,
-      "ganancia": 550.9593623456788,
+      "ganancia": 551.5195706790121,
       "saldoFavor": 0
     },
     {
@@ -9043,6 +9043,20 @@
         "costoTotal": 20.75,
         "fecha": "2/10/2025, 2:52:23 p.m.",
         "ganancia": 6.916666666666666
+      },
+      {
+        "producto": "Yogurt piña",
+        "piezas": 1,
+        "costoTotal": 18.5,
+        "fecha": "6/10/2025, 8:46:56 a.m.",
+        "ganancia": 6.166666666666666
+      },
+      {
+        "producto": "Principe",
+        "piezas": 1,
+        "costoTotal": 31.33,
+        "fecha": "6/10/2025, 8:46:56 a.m.",
+        "ganancia": 10.441111111111109
       }
     ],
     "Francisco": [
@@ -21347,6 +21361,13 @@
         "costoTotal": 19,
         "fecha": "3/10/2025, 12:02:56 p.m.",
         "ganancia": 6.333333333333334
+      },
+      {
+        "producto": "Botana surt",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "6/10/2025, 12:00:34 p.m.",
+        "ganancia": 7
       }
     ],
     "Marcos": [
@@ -32408,6 +32429,13 @@
         "costoTotal": 178.85999999999999,
         "fecha": "10/9/2025, 1:04:22 p.m.",
         "ganancia": 59.730000000000004
+      },
+      {
+        "producto": "Emperador vainilla",
+        "piezas": 1,
+        "costoTotal": 20.16,
+        "fecha": "6/10/2025, 8:46:44 a.m.",
+        "ganancia": 6.7225
       }
     ]
   },
@@ -32512,10 +32540,10 @@
       "descripcion": "Principe",
       "precioCompra": 20.89,
       "precioVenta": 31.33,
-      "piezas": 14,
+      "piezas": 13,
       "stockParciales": [
         {
-          "cantidad": 14,
+          "cantidad": 13,
           "costoUnitario": 20.88888888888889
         }
       ]
@@ -32846,14 +32874,14 @@
       ]
     },
     {
-      "codigo": "Bot",
+      "codigo": "7503020760068",
       "descripcion": "Botana surt",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 14
         }
       ]
@@ -33027,10 +33055,10 @@
       "descripcion": "Yogurt piña",
       "precioCompra": 12.33,
       "precioVenta": 18.5,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 12.333333333333334
         }
       ]
@@ -33105,10 +33133,10 @@
       "descripcion": "Emperador vainilla",
       "precioCompra": 13.44,
       "precioVenta": 20.16,
-      "piezas": 13,
+      "piezas": 12,
       "stockParciales": [
         {
-          "cantidad": 13,
+          "cantidad": 12,
           "costoUnitario": 13.4375
         }
       ]
@@ -36152,6 +36180,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 65532.20000000002,
-  "inversionRecuperada": 59721.76216031797,
-  "gananciasTotales": 29876.087839683154
+  "inversionRecuperada": 59782.4218825402,
+  "gananciasTotales": 29906.418117460933
 }
