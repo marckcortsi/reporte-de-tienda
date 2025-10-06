@@ -3,15 +3,15 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 437.75000000000097,
-      "ganancia": 4018.236745679012,
+      "adeudo": 599.560000000001,
+      "ganancia": 4072.109245679012,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2623.310000000002,
-      "ganancia": 5466.236650705475,
+      "adeudo": 2337.560000000002,
+      "ganancia": 5504.236650705475,
       "saldoFavor": 0
     },
     {
@@ -24,8 +24,8 @@
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 436.37000000000006,
-      "ganancia": 967.4964028218694,
+      "adeudo": 453.51000000000005,
+      "ganancia": 973.207831393298,
       "saldoFavor": 0
     },
     {
@@ -45,16 +45,16 @@
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 222.03999999999985,
-      "ganancia": 1967.7046004409206,
+      "adeudo": 270.78999999999985,
+      "ganancia": 1983.9546004409206,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 2389.0279967372167,
-      "saldoFavor": 2.11
+      "adeudo": 32.77,
+      "ganancia": 2400.6579967372163,
+      "saldoFavor": 0
     },
     {
       "nombre": "Laura",
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 834.7300000000001,
-      "ganancia": 5094.737355467373,
+      "adeudo": 838.7400000000001,
+      "ganancia": 5096.072355467373,
       "saldoFavor": 0
     },
     {
@@ -80,8 +80,8 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 0,
-      "ganancia": 539.5007909171073,
+      "adeudo": 34.38,
+      "ganancia": 550.9593623456788,
       "saldoFavor": 0
     },
     {
@@ -2333,6 +2333,34 @@
         "costoTotal": 20.16,
         "fecha": "3/10/2025, 8:30:20 a.m.",
         "ganancia": 6.7225
+      },
+      {
+        "producto": "Churritos",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "3/10/2025, 4:52:33 p.m.",
+        "ganancia": 3.75
+      },
+      {
+        "producto": "Botana surt",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "3/10/2025, 4:52:33 p.m.",
+        "ganancia": 7
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 1,
+        "costoTotal": 20.16,
+        "fecha": "6/10/2025, 8:16:42 a.m.",
+        "ganancia": 6.7225
+      },
+      {
+        "producto": "Marlboro",
+        "piezas": 20,
+        "costoTotal": 109.39999999999999,
+        "fecha": "6/10/2025, 8:16:42 a.m.",
+        "ganancia": 36.4
       }
     ],
     "Carlos": [
@@ -7088,6 +7116,20 @@
         "costoTotal": 4.01,
         "fecha": "3/10/2025, 9:40:59 a.m.",
         "ganancia": 1.335
+      },
+      {
+        "producto": "Shots",
+        "piezas": 25,
+        "costoTotal": 80.5,
+        "fecha": "3/10/2025, 3:48:11 p.m.",
+        "ganancia": 26.750000000000007
+      },
+      {
+        "producto": "Gatorade rojo",
+        "piezas": 1,
+        "costoTotal": 33.75,
+        "fecha": "6/10/2025, 8:15:46 a.m.",
+        "ganancia": 11.25
       }
     ],
     "Edgar": [
@@ -10046,6 +10088,13 @@
         "costoTotal": 16.38,
         "fecha": "2/10/2025, 4:25:37 p.m.",
         "ganancia": 5.463333333333333
+      },
+      {
+        "producto": "Barcel",
+        "piezas": 1,
+        "costoTotal": 17.14,
+        "fecha": "3/10/2025, 12:42:38 p.m.",
+        "ganancia": 5.711428571428572
       }
     ],
     "Irvin": [
@@ -17409,6 +17458,13 @@
         "costoTotal": 5.04,
         "fecha": "2/10/2025, 4:31:53 p.m.",
         "ganancia": 1.6733333333333333
+      },
+      {
+        "producto": "Coca de 3L",
+        "piezas": 1,
+        "costoTotal": 48.75,
+        "fecha": "3/10/2025, 3:48:28 p.m.",
+        "ganancia": 16.25
       }
     ],
     "Karen": [
@@ -20407,6 +20463,20 @@
         "costoTotal": 3.22,
         "fecha": "2/10/2025, 3:23:54 p.m.",
         "ganancia": 1.0700000000000003
+      },
+      {
+        "producto": "Rits",
+        "piezas": 1,
+        "costoTotal": 16.38,
+        "fecha": "6/10/2025, 8:16:24 a.m.",
+        "ganancia": 5.463333333333333
+      },
+      {
+        "producto": "Yogurt fresa",
+        "piezas": 1,
+        "costoTotal": 18.5,
+        "fecha": "6/10/2025, 8:16:24 a.m.",
+        "ganancia": 6.166666666666666
       }
     ],
     "Laura": [
@@ -28062,6 +28132,13 @@
         "costoTotal": 33.75,
         "fecha": "3/10/2025, 10:55:31 a.m.",
         "ganancia": 11.25
+      },
+      {
+        "producto": "Pall mall",
+        "piezas": 1,
+        "costoTotal": 4.01,
+        "fecha": "3/10/2025, 3:48:19 p.m.",
+        "ganancia": 1.335
       }
     ],
     "Rafael": [
@@ -31909,6 +31986,20 @@
         "costoTotal": 49.5,
         "fecha": "26/9/2025, 8:27:09 a.m.",
         "ganancia": 16.5
+      },
+      {
+        "producto": "Coca de vidrio",
+        "piezas": 1,
+        "costoTotal": 18.75,
+        "fecha": "3/10/2025, 3:48:42 p.m.",
+        "ganancia": 6.25
+      },
+      {
+        "producto": "Palimitas",
+        "piezas": 1,
+        "costoTotal": 15.63,
+        "fecha": "3/10/2025, 3:48:42 p.m.",
+        "ganancia": 5.208571428571428
       }
     ],
     "Externo": [
@@ -32326,10 +32417,10 @@
       "descripcion": "Palimitas",
       "precioCompra": 10.42,
       "precioVenta": 15.63,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 10.421428571428573
         }
       ]
@@ -32668,10 +32759,10 @@
       "descripcion": "Coca de vidrio",
       "precioCompra": 12.5,
       "precioVenta": 18.75,
-      "piezas": 21,
+      "piezas": 20,
       "stockParciales": [
         {
-          "cantidad": 21,
+          "cantidad": 20,
           "costoUnitario": 12.5
         }
       ]
@@ -32681,10 +32772,10 @@
       "descripcion": "Coca de 3L",
       "precioCompra": 32.5,
       "precioVenta": 48.75,
-      "piezas": 11,
+      "piezas": 10,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 10,
           "costoUnitario": 32.5
         }
       ]
@@ -32746,10 +32837,10 @@
       "descripcion": "Churritos",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 7.5
         }
       ]
@@ -32759,10 +32850,10 @@
       "descripcion": "Botana surt",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 14
         }
       ]
@@ -32884,10 +32975,10 @@
       "descripcion": "Gatorade rojo",
       "precioCompra": 22.5,
       "precioVenta": 33.75,
-      "piezas": 4,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 3,
           "costoUnitario": 22.5
         }
       ]
@@ -32910,10 +33001,10 @@
       "descripcion": "Yogurt fresa",
       "precioCompra": 12.33,
       "precioVenta": 18.5,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 12.333333333333334
         }
       ]
@@ -32975,10 +33066,10 @@
       "descripcion": "Rits",
       "precioCompra": 10.92,
       "precioVenta": 16.38,
-      "piezas": 10,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 9,
           "costoUnitario": 10.916666666666666
         }
       ]
@@ -32988,10 +33079,10 @@
       "descripcion": "Barcel",
       "precioCompra": 11.43,
       "precioVenta": 17.14,
-      "piezas": 19,
+      "piezas": 18,
       "stockParciales": [
         {
-          "cantidad": 19,
+          "cantidad": 18,
           "costoUnitario": 11.428571428571429
         }
       ]
@@ -33027,10 +33118,10 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 13.44,
       "precioVenta": 20.16,
-      "piezas": 12,
+      "piezas": 11,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 11,
           "costoUnitario": 13.4375
         }
       ]
@@ -33069,10 +33160,10 @@
       "descripcion": "Shots",
       "precioCompra": 2.15,
       "precioVenta": 3.22,
-      "piezas": 127,
+      "piezas": 102,
       "stockParciales": [
         {
-          "cantidad": 127,
+          "cantidad": 102,
           "costoUnitario": 2.15
         }
       ]
@@ -33082,10 +33173,10 @@
       "descripcion": "Pall mall",
       "precioCompra": 2.67,
       "precioVenta": 4.01,
-      "piezas": 139,
+      "piezas": 138,
       "stockParciales": [
         {
-          "cantidad": 139,
+          "cantidad": 138,
           "costoUnitario": 2.675
         }
       ]
@@ -33095,10 +33186,10 @@
       "descripcion": "Marlboro",
       "precioCompra": 3.65,
       "precioVenta": 5.47,
-      "piezas": 60,
+      "piezas": 40,
       "stockParciales": [
         {
-          "cantidad": 60,
+          "cantidad": 40,
           "costoUnitario": 3.65
         }
       ]
@@ -36061,6 +36152,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 65532.20000000002,
-  "inversionRecuperada": 59444.79966031797,
-  "gananciasTotales": 29737.830339683154
+  "inversionRecuperada": 59721.76216031797,
+  "gananciasTotales": 29876.087839683154
 }
