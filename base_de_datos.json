@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2776.6900000000032,
-      "ganancia": 5651.02269237214,
+      "adeudo": 2295.1900000000032,
+      "ganancia": 5657.189359038807,
       "saldoFavor": 0
     },
     {
@@ -7291,6 +7291,13 @@
         "costoTotal": 80.5,
         "fecha": "10/10/2025, 8:28:01 a.m.",
         "ganancia": 26.750000000000007
+      },
+      {
+        "producto": "Yogurt galleta",
+        "piezas": 1,
+        "costoTotal": 18.5,
+        "fecha": "10/10/2025, 8:47:16 a.m.",
+        "ganancia": 6.166666666666666
       }
     ],
     "Edgar": [
@@ -33610,10 +33617,10 @@
       "descripcion": "Yogurt galleta",
       "precioCompra": 12.33,
       "precioVenta": 18.5,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 12.333333333333334
         }
       ]
@@ -36748,6 +36755,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 65532.20000000002,
-  "inversionRecuperada": 60951.80422381009,
-  "gananciasTotales": 30490.77577619109
+  "inversionRecuperada": 60964.137557143426,
+  "gananciasTotales": 30496.94244285776
 }
