@@ -52,9 +52,9 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 209.02999999999997,
+      "adeudo": 0,
       "ganancia": 2459.9413003086456,
-      "saldoFavor": 0
+      "saldoFavor": 0.02
     },
     {
       "nombre": "Laura",
