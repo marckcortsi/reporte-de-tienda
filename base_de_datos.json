@@ -3,29 +3,29 @@
     {
       "nombre": "Arturo",
       "bloqueado": false,
-      "adeudo": 1061.820000000001,
-      "ganancia": 4226.700287345678,
+      "adeudo": 1093.150000000001,
+      "ganancia": 4237.141398456789,
       "saldoFavor": 0
     },
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2551.930000000003,
-      "ganancia": 5875.153763800712,
+      "adeudo": 2609.9800000000027,
+      "ganancia": 5894.504359038808,
       "saldoFavor": 0
     },
     {
       "nombre": "Edgar",
       "bloqueado": false,
-      "adeudo": 1950.4200000000008,
-      "ganancia": 1726.9127902557332,
+      "adeudo": 2011.4200000000008,
+      "ganancia": 1747.2461235890667,
       "saldoFavor": 0
     },
     {
       "nombre": "Francisco",
       "bloqueado": false,
-      "adeudo": 50.030000000000086,
-      "ganancia": 1049.616611155203,
+      "adeudo": 67.17000000000009,
+      "ganancia": 1055.3280397266315,
       "saldoFavor": 0
     },
     {
@@ -38,43 +38,43 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 3586.5500000000034,
-      "ganancia": 3165.3445754409186,
+      "adeudo": 3607.3000000000034,
+      "ganancia": 3172.261242107585,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 732.2599999999998,
-      "ganancia": 2138.347308774254,
+      "adeudo": 147.00999999999976,
+      "ganancia": 2154.597308774254,
       "saldoFavor": 0
     },
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 44.620000000000005,
-      "ganancia": 2474.819395546741,
+      "adeudo": 93.09,
+      "ganancia": 2490.971935229281,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 636.7700000000001,
-      "ganancia": 753.7280032186944,
+      "adeudo": 669.9200000000001,
+      "ganancia": 764.7780032186944,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 1388.6100000000004,
-      "ganancia": 5279.903754276897,
+      "adeudo": 1419.0000000000005,
+      "ganancia": 5290.043754276898,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 2933.840000000003,
-      "ganancia": 2545.7564505731975,
+      "adeudo": 2954.590000000003,
+      "ganancia": 2552.673117239864,
       "saldoFavor": 0
     },
     {
@@ -2480,6 +2480,13 @@
         "costoTotal": 33.15,
         "fecha": "21/10/2025, 10:56:38 a.m.",
         "ganancia": 11.049999999999997
+      },
+      {
+        "producto": "Principe",
+        "piezas": 1,
+        "costoTotal": 31.33,
+        "fecha": "22/10/2025, 8:26:05 a.m.",
+        "ganancia": 10.441111111111109
       }
     ],
     "Carlos": [
@@ -7564,6 +7571,27 @@
         "costoTotal": 20.16,
         "fecha": "21/10/2025, 10:56:52 a.m.",
         "ganancia": 6.7225
+      },
+      {
+        "producto": "Barcel",
+        "piezas": 1,
+        "costoTotal": 17.14,
+        "fecha": "21/10/2025, 12:58:33 p.m.",
+        "ganancia": 5.711428571428572
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 20.75,
+        "fecha": "21/10/2025, 3:22:17 p.m.",
+        "ganancia": 6.916666666666666
+      },
+      {
+        "producto": "Emperador vainilla",
+        "piezas": 1,
+        "costoTotal": 20.16,
+        "fecha": "22/10/2025, 8:36:00 a.m.",
+        "ganancia": 6.7225
       }
     ],
     "Edgar": [
@@ -9547,6 +9575,27 @@
         "costoTotal": 18.75,
         "fecha": "16/10/2025, 3:58:20 p.m.",
         "ganancia": 6.25
+      },
+      {
+        "producto": "Maruchan pikin",
+        "piezas": 1,
+        "costoTotal": 20.75,
+        "fecha": "21/10/2025, 11:02:02 a.m.",
+        "ganancia": 6.916666666666666
+      },
+      {
+        "producto": "Maruchan habanero",
+        "piezas": 1,
+        "costoTotal": 20.75,
+        "fecha": "21/10/2025, 12:56:22 p.m.",
+        "ganancia": 6.916666666666666
+      },
+      {
+        "producto": "Papas chipotle",
+        "piezas": 1,
+        "costoTotal": 19.5,
+        "fecha": "21/10/2025, 12:56:22 p.m.",
+        "ganancia": 6.5
       }
     ],
     "Francisco": [
@@ -10662,6 +10711,13 @@
         "costoTotal": 16.38,
         "fecha": "16/10/2025, 4:19:49 p.m.",
         "ganancia": 5.463333333333333
+      },
+      {
+        "producto": "Barcel",
+        "piezas": 1,
+        "costoTotal": 17.14,
+        "fecha": "21/10/2025, 11:01:50 a.m.",
+        "ganancia": 5.711428571428572
       }
     ],
     "Irvin": [
@@ -16378,6 +16434,13 @@
         "costoTotal": 2.84,
         "fecha": "21/10/2025, 10:53:56 a.m.",
         "ganancia": 0.94
+      },
+      {
+        "producto": "Maruchan pikin",
+        "piezas": 1,
+        "costoTotal": 20.75,
+        "fecha": "21/10/2025, 2:17:54 p.m.",
+        "ganancia": 6.916666666666666
       }
     ],
     "Isrrael": [
@@ -18305,6 +18368,13 @@
         "costoTotal": 33.75,
         "fecha": "16/10/2025, 3:20:35 p.m.",
         "ganancia": 11.25
+      },
+      {
+        "producto": "Coca de 3L",
+        "piezas": 1,
+        "costoTotal": 48.75,
+        "fecha": "21/10/2025, 3:22:27 p.m.",
+        "ganancia": 16.25
       }
     ],
     "Karen": [
@@ -21422,6 +21492,20 @@
         "costoTotal": 27.5,
         "fecha": "21/10/2025, 10:57:37 a.m.",
         "ganancia": 9.166666666666668
+      },
+      {
+        "producto": "Barcel",
+        "piezas": 1,
+        "costoTotal": 17.14,
+        "fecha": "21/10/2025, 11:01:42 a.m.",
+        "ganancia": 5.711428571428572
+      },
+      {
+        "producto": "Principe",
+        "piezas": 1,
+        "costoTotal": 31.33,
+        "fecha": "22/10/2025, 8:25:36 a.m.",
+        "ganancia": 10.441111111111109
       }
     ],
     "Laura": [
@@ -22340,6 +22424,13 @@
         "piezas": 1,
         "costoTotal": 33.15,
         "fecha": "21/10/2025, 10:52:12 a.m.",
+        "ganancia": 11.049999999999997
+      },
+      {
+        "producto": "Cremax chocolate",
+        "piezas": 1,
+        "costoTotal": 33.15,
+        "fecha": "22/10/2025, 8:25:57 a.m.",
         "ganancia": 11.049999999999997
       }
     ],
@@ -29336,6 +29427,13 @@
         "costoTotal": 17.14,
         "fecha": "16/10/2025, 1:07:34 p.m.",
         "ganancia": 5.711428571428572
+      },
+      {
+        "producto": "Trident",
+        "piezas": 3,
+        "costoTotal": 30.39,
+        "fecha": "21/10/2025, 11:29:10 a.m.",
+        "ganancia": 10.140000000000002
       }
     ],
     "Rafael": [
@@ -32782,6 +32880,13 @@
         "costoTotal": 12.03,
         "fecha": "16/10/2025, 1:56:35 p.m.",
         "ganancia": 4.005
+      },
+      {
+        "producto": "Maruchan pikin",
+        "piezas": 1,
+        "costoTotal": 20.75,
+        "fecha": "21/10/2025, 11:04:18 a.m.",
+        "ganancia": 6.916666666666666
       }
     ],
     "Vicente": [
@@ -33896,10 +34001,10 @@
       "descripcion": "Principe",
       "precioCompra": 20.89,
       "precioVenta": 31.33,
-      "piezas": 11,
+      "piezas": 9,
       "stockParciales": [
         {
-          "cantidad": 11,
+          "cantidad": 9,
           "costoUnitario": 20.88888888888889
         }
       ]
@@ -33964,23 +34069,18 @@
       "descripcion": "Trident",
       "precioCompra": 6.75,
       "precioVenta": 10.13,
-      "piezas": 3,
-      "stockParciales": [
-        {
-          "cantidad": 3,
-          "costoUnitario": 6.75
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000612130",
       "descripcion": "Cremax chocolate",
       "precioCompra": 22.1,
       "precioVenta": 33.15,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 22.1
         }
       ]
@@ -34136,10 +34236,10 @@
       "descripcion": "Coca de 3L",
       "precioCompra": 32.5,
       "precioVenta": 48.75,
-      "piezas": 8,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 8,
+          "cantidad": 7,
           "costoUnitario": 32.5
         }
       ]
@@ -34157,10 +34257,10 @@
       "descripcion": "Papas chipotle",
       "precioCompra": 13,
       "precioVenta": 19.5,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 13
         }
       ]
@@ -34233,10 +34333,10 @@
       "descripcion": "Maruchan pikin",
       "precioCompra": 13.83,
       "precioVenta": 20.75,
-      "piezas": 7,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 4,
           "costoUnitario": 13.833333333333334
         }
       ]
@@ -34246,10 +34346,10 @@
       "descripcion": "Maruchan habanero",
       "precioCompra": 13.83,
       "precioVenta": 20.75,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 13.833333333333334
         }
       ]
@@ -34259,10 +34359,10 @@
       "descripcion": "Maruchan camaron",
       "precioCompra": 13.83,
       "precioVenta": 20.75,
-      "piezas": 9,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 9,
+          "cantidad": 8,
           "costoUnitario": 13.833333333333334
         }
       ]
@@ -34388,10 +34488,10 @@
       "descripcion": "Barcel",
       "precioCompra": 11.43,
       "precioVenta": 17.14,
-      "piezas": 10,
+      "piezas": 7,
       "stockParciales": [
         {
-          "cantidad": 10,
+          "cantidad": 7,
           "costoUnitario": 11.428571428571429
         }
       ]
@@ -34414,10 +34514,10 @@
       "descripcion": "Emperador vainilla",
       "precioCompra": 13.44,
       "precioVenta": 20.16,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 13.4375
         }
       ]
@@ -37461,6 +37561,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 65532.20000000002,
-  "inversionRecuperada": 62528.29846984182,
-  "gananciasTotales": 31277.541530159335
+  "inversionRecuperada": 62774.816128572,
+  "gananciasTotales": 31400.803871429176
 }
