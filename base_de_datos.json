@@ -10,7 +10,7 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2630.7300000000027,
+      "adeudo": 2230.7300000000027,
       "ganancia": 5901.421025705475,
       "saldoFavor": 0
     },
@@ -59,15 +59,15 @@
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 210.92000000000007,
-      "ganancia": 778.4446698853611,
+      "adeudo": 222.17000000000007,
+      "ganancia": 782.1946698853611,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 1444.7900000000004,
-      "ganancia": 5298.633754276898,
+      "adeudo": 1512.2900000000004,
+      "ganancia": 5321.133754276898,
       "saldoFavor": 0
     },
     {
@@ -80,8 +80,8 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 307.32,
-      "ganancia": 642.5173087742501,
+      "adeudo": 340.08,
+      "ganancia": 653.4439754409167,
       "saldoFavor": 0
     },
     {
@@ -22509,6 +22509,13 @@
         "costoTotal": 5.5,
         "fecha": "23/10/2025, 12:41:25 p.m.",
         "ganancia": 1.8333333333333335
+      },
+      {
+        "producto": "Churritos",
+        "piezas": 1,
+        "costoTotal": 11.25,
+        "fecha": "24/10/2025, 1:03:29 p.m.",
+        "ganancia": 3.75
       }
     ],
     "Marcos": [
@@ -29525,6 +29532,20 @@
         "costoTotal": 5.04,
         "fecha": "23/10/2025, 3:24:05 p.m.",
         "ganancia": 1.6733333333333333
+      },
+      {
+        "producto": "Coca de vidrio",
+        "piezas": 1,
+        "costoTotal": 18.75,
+        "fecha": "24/10/2025, 1:03:44 p.m.",
+        "ganancia": 6.25
+      },
+      {
+        "producto": "Coca de 3L",
+        "piezas": 1,
+        "costoTotal": 48.75,
+        "fecha": "24/10/2025, 1:03:44 p.m.",
+        "ganancia": 16.25
       }
     ],
     "Rafael": [
@@ -33596,6 +33617,13 @@
         "costoTotal": 18.75,
         "fecha": "23/10/2025, 4:02:28 p.m.",
         "ganancia": 6.25
+      },
+      {
+        "producto": "Rits",
+        "piezas": 2,
+        "costoTotal": 32.76,
+        "fecha": "24/10/2025, 8:23:53 a.m.",
+        "ganancia": 10.926666666666666
       }
     ],
     "Externo": [
@@ -34328,10 +34356,10 @@
       "descripcion": "Coca de vidrio",
       "precioCompra": 12.5,
       "precioVenta": 18.75,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 12.5
         }
       ]
@@ -34341,10 +34369,10 @@
       "descripcion": "Coca de 3L",
       "precioCompra": 32.5,
       "precioVenta": 48.75,
-      "piezas": 7,
+      "piezas": 6,
       "stockParciales": [
         {
-          "cantidad": 7,
+          "cantidad": 6,
           "costoUnitario": 32.5
         }
       ]
@@ -34396,10 +34424,10 @@
       "descripcion": "Churritos",
       "precioCompra": 7.5,
       "precioVenta": 11.25,
-      "piezas": 3,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 3,
+          "cantidad": 2,
           "costoUnitario": 7.5
         }
       ]
@@ -34580,10 +34608,10 @@
       "descripcion": "Rits",
       "precioCompra": 10.92,
       "precioVenta": 16.38,
-      "piezas": 5,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 3,
           "costoUnitario": 10.916666666666666
         }
       ]
@@ -37666,6 +37694,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 65532.20000000002,
-  "inversionRecuperada": 62953.07743809581,
-  "gananciasTotales": 31489.92256190536
+  "inversionRecuperada": 63027.410771429146,
+  "gananciasTotales": 31527.099228572028
 }
