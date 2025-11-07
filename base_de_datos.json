@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 1662.3000000000004,
-      "ganancia": 5371.137087610232,
+      "adeudo": 1870.2000000000005,
+      "ganancia": 5440.441849514994,
       "saldoFavor": 0
     },
     {
@@ -29805,6 +29805,34 @@
         "costoTotal": 18.75,
         "fecha": "7/11/2025, 12:17:53 p.m.",
         "ganancia": 6.25
+      },
+      {
+        "producto": "Min mamut",
+        "piezas": 2,
+        "costoTotal": 5.14,
+        "fecha": "7/11/2025, 12:25:59 p.m.",
+        "ganancia": 1.7114285714285713
+      },
+      {
+        "producto": "Marías azucaradas",
+        "piezas": 1,
+        "costoTotal": 22.75,
+        "fecha": "7/11/2025, 12:25:59 p.m.",
+        "ganancia": 7.583333333333334
+      },
+      {
+        "producto": "Coca de 3L",
+        "piezas": 3,
+        "costoTotal": 146.25,
+        "fecha": "7/11/2025, 12:25:59 p.m.",
+        "ganancia": 48.75
+      },
+      {
+        "producto": "Birria",
+        "piezas": 2,
+        "costoTotal": 33.76,
+        "fecha": "7/11/2025, 12:25:59 p.m.",
+        "ganancia": 11.259999999999998
       }
     ],
     "Rafael": [
@@ -34368,13 +34396,8 @@
       "descripcion": "Min mamut",
       "precioCompra": 1.71,
       "precioVenta": 2.57,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 1.7142857142857142
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7506192510844",
@@ -34491,13 +34514,8 @@
       "descripcion": "Marías azucaradas",
       "precioCompra": 15.17,
       "precioVenta": 22.75,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 15.166666666666666
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7622210532954",
@@ -34627,13 +34645,8 @@
       "descripcion": "Coca de 3L",
       "precioCompra": 32.5,
       "precioVenta": 48.75,
-      "piezas": 3,
-      "stockParciales": [
-        {
-          "cantidad": 3,
-          "costoUnitario": 32.5
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "Jarri",
@@ -34733,13 +34746,8 @@
       "descripcion": "Birria",
       "precioCompra": 11.25,
       "precioVenta": 16.88,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 11.25
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "041789003981",
@@ -37917,6 +37925,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 65532.20000000002,
-  "inversionRecuperada": 63666.28406507995,
-  "gananciasTotales": 31846.55593492124
+  "inversionRecuperada": 63804.879303175185,
+  "gananciasTotales": 31915.860696826
 }
