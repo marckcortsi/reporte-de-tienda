@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2315.2700000000027,
-      "ganancia": 5929.606859038809,
+      "adeudo": 2440.0200000000027,
+      "ganancia": 5971.1901923721425,
       "saldoFavor": 0
     },
     {
@@ -38,8 +38,8 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 3772.990000000003,
-      "ganancia": 3234.406599250442,
+      "adeudo": 3835.240000000003,
+      "ganancia": 3255.156599250442,
       "saldoFavor": 0
     },
     {
@@ -52,36 +52,36 @@
     {
       "nombre": "Karen",
       "bloqueado": false,
-      "adeudo": 110.23,
-      "ganancia": 2496.6833638007097,
+      "adeudo": 134.98000000000002,
+      "ganancia": 2504.9333638007097,
       "saldoFavor": 0
     },
     {
       "nombre": "Laura",
       "bloqueado": false,
-      "adeudo": 302.64000000000004,
-      "ganancia": 809.0257809964722,
+      "adeudo": 335.79,
+      "ganancia": 820.0757809964722,
       "saldoFavor": 0
     },
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 1544.2900000000004,
-      "ganancia": 5331.800420943565,
+      "adeudo": 1565.0400000000004,
+      "ganancia": 5338.717087610232,
       "saldoFavor": 0
     },
     {
       "nombre": "Rafael",
       "bloqueado": false,
-      "adeudo": 2954.590000000003,
-      "ganancia": 2552.673117239864,
+      "adeudo": 2975.340000000003,
+      "ganancia": 2559.5897839065306,
       "saldoFavor": 0
     },
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 340.08,
-      "ganancia": 653.4439754409167,
+      "adeudo": 364.83,
+      "ganancia": 661.6939754409167,
       "saldoFavor": 0
     },
     {
@@ -7641,6 +7641,34 @@
         "costoTotal": 22.88,
         "fecha": "5/11/2025, 8:33:40 a.m.",
         "ganancia": 7.629999999999999
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 20.75,
+        "fecha": "5/11/2025, 12:18:05 p.m.",
+        "ganancia": 6.916666666666666
+      },
+      {
+        "producto": "Maruchan habanero",
+        "piezas": 1,
+        "costoTotal": 20.75,
+        "fecha": "5/11/2025, 12:18:05 p.m.",
+        "ganancia": 6.916666666666666
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 3,
+        "costoTotal": 62.25,
+        "fecha": "7/11/2025, 12:09:47 p.m.",
+        "ganancia": 20.75
+      },
+      {
+        "producto": "Botana surt",
+        "piezas": 1,
+        "costoTotal": 21,
+        "fecha": "7/11/2025, 12:10:27 p.m.",
+        "ganancia": 7
       }
     ],
     "Edgar": [
@@ -16602,6 +16630,20 @@
         "costoTotal": 21,
         "fecha": "5/11/2025, 8:33:00 a.m.",
         "ganancia": 7
+      },
+      {
+        "producto": "Maruchan pikin",
+        "piezas": 1,
+        "costoTotal": 20.75,
+        "fecha": "5/11/2025, 12:17:19 p.m.",
+        "ganancia": 6.916666666666666
+      },
+      {
+        "producto": "Maruchan habanero",
+        "piezas": 2,
+        "costoTotal": 41.5,
+        "fecha": "7/11/2025, 12:09:18 p.m.",
+        "ganancia": 13.833333333333332
       }
     ],
     "Isrrael": [
@@ -21681,6 +21723,13 @@
         "costoTotal": 17.14,
         "fecha": "23/10/2025, 3:13:18 p.m.",
         "ganancia": 5.711428571428572
+      },
+      {
+        "producto": "Oreo chocolate",
+        "piezas": 1,
+        "costoTotal": 24.75,
+        "fecha": "5/11/2025, 12:17:54 p.m.",
+        "ganancia": 8.25
       }
     ],
     "Laura": [
@@ -22663,6 +22712,13 @@
         "costoTotal": 32.76,
         "fecha": "5/11/2025, 8:31:06 a.m.",
         "ganancia": 10.926666666666666
+      },
+      {
+        "producto": "Cremax fresa",
+        "piezas": 1,
+        "costoTotal": 33.15,
+        "fecha": "7/11/2025, 12:08:57 p.m.",
+        "ganancia": 11.049999999999997
       }
     ],
     "Marcos": [
@@ -29707,6 +29763,13 @@
         "costoTotal": 11.25,
         "fecha": "29/10/2025, 9:27:24 a.m.",
         "ganancia": 3.75
+      },
+      {
+        "producto": "Maruchan camaron",
+        "piezas": 1,
+        "costoTotal": 20.75,
+        "fecha": "5/11/2025, 12:18:33 p.m.",
+        "ganancia": 6.916666666666666
       }
     ],
     "Rafael": [
@@ -33160,6 +33223,13 @@
         "costoTotal": 20.75,
         "fecha": "21/10/2025, 11:04:18 a.m.",
         "ganancia": 6.916666666666666
+      },
+      {
+        "producto": "Maruchan habanero",
+        "piezas": 1,
+        "costoTotal": 20.75,
+        "fecha": "5/11/2025, 12:17:36 p.m.",
+        "ganancia": 6.916666666666666
       }
     ],
     "Vicente": [
@@ -33785,6 +33855,13 @@
         "costoTotal": 32.76,
         "fecha": "24/10/2025, 8:23:53 a.m.",
         "ganancia": 10.926666666666666
+      },
+      {
+        "producto": "Oreo chocolate",
+        "piezas": 1,
+        "costoTotal": 24.75,
+        "fecha": "6/11/2025, 10:37:20 a.m.",
+        "ganancia": 8.25
       }
     ],
     "Externo": [
@@ -34282,10 +34359,10 @@
       "descripcion": "Cremax fresa",
       "precioCompra": 22.1,
       "precioVenta": 33.15,
-      "piezas": 5,
+      "piezas": 4,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 4,
           "costoUnitario": 22.1
         }
       ]
@@ -34405,10 +34482,10 @@
       "descripcion": "Oreo chocolate",
       "precioCompra": 16.5,
       "precioVenta": 24.75,
-      "piezas": 4,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 2,
           "costoUnitario": 16.5
         }
       ]
@@ -34583,13 +34660,8 @@
       "descripcion": "Botana surt",
       "precioCompra": 14,
       "precioVenta": 21,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 14
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "Oyu",
@@ -34612,39 +34684,24 @@
       "descripcion": "Maruchan pikin",
       "precioCompra": 13.83,
       "precioVenta": 20.75,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 13.833333333333334
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "041789001864",
       "descripcion": "Maruchan habanero",
       "precioCompra": 13.83,
       "precioVenta": 20.75,
-      "piezas": 4,
-      "stockParciales": [
-        {
-          "cantidad": 4,
-          "costoUnitario": 13.833333333333334
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "041789001253",
       "descripcion": "Maruchan camaron",
       "precioCompra": 13.83,
       "precioVenta": 20.75,
-      "piezas": 5,
-      "stockParciales": [
-        {
-          "cantidad": 5,
-          "costoUnitario": 13.833333333333334
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7503020651823",
@@ -37835,6 +37892,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 65532.20000000002,
-  "inversionRecuperada": 63348.844065079946,
-  "gananciasTotales": 31687.83593492124
+  "inversionRecuperada": 63556.27739841329,
+  "gananciasTotales": 31791.55260158791
 }
