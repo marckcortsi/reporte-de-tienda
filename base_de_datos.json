@@ -38,15 +38,15 @@
     {
       "nombre": "Isac",
       "bloqueado": false,
-      "adeudo": 3835.240000000003,
-      "ganancia": 3255.156599250442,
+      "adeudo": 3854.240000000003,
+      "ganancia": 3261.4899325837755,
       "saldoFavor": 0
     },
     {
       "nombre": "Isrrael",
       "bloqueado": false,
-      "adeudo": 180.15999999999977,
-      "ganancia": 2165.6473087742543,
+      "adeudo": 228.90999999999977,
+      "ganancia": 2181.8973087742543,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 1565.0400000000004,
-      "ganancia": 5338.717087610232,
+      "adeudo": 1662.3000000000004,
+      "ganancia": 5371.137087610232,
       "saldoFavor": 0
     },
     {
@@ -16644,6 +16644,13 @@
         "costoTotal": 41.5,
         "fecha": "7/11/2025, 12:09:18 p.m.",
         "ganancia": 13.833333333333332
+      },
+      {
+        "producto": "Papas natural",
+        "piezas": 1,
+        "costoTotal": 19,
+        "fecha": "7/11/2025, 12:16:07 p.m.",
+        "ganancia": 6.333333333333334
       }
     ],
     "Isrrael": [
@@ -18585,6 +18592,13 @@
         "costoTotal": 33.15,
         "fecha": "22/10/2025, 10:06:31 a.m.",
         "ganancia": 11.049999999999997
+      },
+      {
+        "producto": "Coca de 3L",
+        "piezas": 1,
+        "costoTotal": 48.75,
+        "fecha": "7/11/2025, 12:18:30 p.m.",
+        "ganancia": 16.25
       }
     ],
     "Karen": [
@@ -29770,6 +29784,27 @@
         "costoTotal": 20.75,
         "fecha": "5/11/2025, 12:18:33 p.m.",
         "ganancia": 6.916666666666666
+      },
+      {
+        "producto": "Encendedor",
+        "piezas": 4,
+        "costoTotal": 29.76,
+        "fecha": "7/11/2025, 12:16:30 p.m.",
+        "ganancia": 9.920000000000002
+      },
+      {
+        "producto": "Coca de 3L",
+        "piezas": 1,
+        "costoTotal": 48.75,
+        "fecha": "7/11/2025, 12:17:43 p.m.",
+        "ganancia": 16.25
+      },
+      {
+        "producto": "Coca de vidrio",
+        "piezas": 1,
+        "costoTotal": 18.75,
+        "fecha": "7/11/2025, 12:17:53 p.m.",
+        "ganancia": 6.25
       }
     ],
     "Rafael": [
@@ -34414,10 +34449,10 @@
       "descripcion": "Encendedor",
       "precioCompra": 4.96,
       "precioVenta": 7.44,
-      "piezas": 12,
+      "piezas": 8,
       "stockParciales": [
         {
-          "cantidad": 12,
+          "cantidad": 8,
           "costoUnitario": 4.96
         }
       ]
@@ -34584,23 +34619,18 @@
       "descripcion": "Coca de vidrio",
       "precioCompra": 12.5,
       "precioVenta": 18.75,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.5
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "Coca",
       "descripcion": "Coca de 3L",
       "precioCompra": 32.5,
       "precioVenta": 48.75,
-      "piezas": 5,
+      "piezas": 3,
       "stockParciales": [
         {
-          "cantidad": 5,
+          "cantidad": 3,
           "costoUnitario": 32.5
         }
       ]
@@ -34631,13 +34661,8 @@
       "descripcion": "Papas natural",
       "precioCompra": 12.67,
       "precioVenta": 19,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 12.666666666666666
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "Plat",
@@ -37892,6 +37917,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 65532.20000000002,
-  "inversionRecuperada": 63556.27739841329,
-  "gananciasTotales": 31791.55260158791
+  "inversionRecuperada": 63666.28406507995,
+  "gananciasTotales": 31846.55593492124
 }
