@@ -10,8 +10,8 @@
     {
       "nombre": "Carlos",
       "bloqueado": false,
-      "adeudo": 2440.0200000000027,
-      "ganancia": 5971.1901923721425,
+      "adeudo": 2506.320000000003,
+      "ganancia": 5993.290192372143,
       "saldoFavor": 0
     },
     {
@@ -66,8 +66,8 @@
     {
       "nombre": "Marcos",
       "bloqueado": false,
-      "adeudo": 1870.2000000000005,
-      "ganancia": 5440.441849514994,
+      "adeudo": 2126.7500000000005,
+      "ganancia": 5525.955897134041,
       "saldoFavor": 0
     },
     {
@@ -80,8 +80,8 @@
     {
       "nombre": "Vicente",
       "bloqueado": false,
-      "adeudo": 364.83,
-      "ganancia": 661.6939754409167,
+      "adeudo": 389.58,
+      "ganancia": 669.9439754409167,
       "saldoFavor": 0
     },
     {
@@ -7669,6 +7669,20 @@
         "costoTotal": 21,
         "fecha": "7/11/2025, 12:10:27 p.m.",
         "ganancia": 7
+      },
+      {
+        "producto": "Cremax fresa",
+        "piezas": 1,
+        "costoTotal": 33.15,
+        "fecha": "13/11/2025, 11:50:04 a.m.",
+        "ganancia": 11.049999999999997
+      },
+      {
+        "producto": "Cremax fresa",
+        "piezas": 1,
+        "costoTotal": 33.15,
+        "fecha": "13/11/2025, 11:50:27 a.m.",
+        "ganancia": 11.049999999999997
       }
     ],
     "Edgar": [
@@ -29833,6 +29847,41 @@
         "costoTotal": 33.76,
         "fecha": "7/11/2025, 12:25:59 p.m.",
         "ganancia": 11.259999999999998
+      },
+      {
+        "producto": "Emperador chocolate",
+        "piezas": 2,
+        "costoTotal": 40.32,
+        "fecha": "13/11/2025, 11:52:10 a.m.",
+        "ganancia": 13.445
+      },
+      {
+        "producto": "Encendedor",
+        "piezas": 8,
+        "costoTotal": 59.52,
+        "fecha": "13/11/2025, 11:52:10 a.m.",
+        "ganancia": 19.840000000000003
+      },
+      {
+        "producto": "Cremax chocolate",
+        "piezas": 1,
+        "costoTotal": 33.15,
+        "fecha": "13/11/2025, 11:52:10 a.m.",
+        "ganancia": 11.049999999999997
+      },
+      {
+        "producto": "Barcel",
+        "piezas": 4,
+        "costoTotal": 68.56,
+        "fecha": "13/11/2025, 11:52:10 a.m.",
+        "ganancia": 22.845714285714287
+      },
+      {
+        "producto": "Sabritas",
+        "piezas": 4,
+        "costoTotal": 55,
+        "fecha": "13/11/2025, 11:52:10 a.m.",
+        "ganancia": 18.333333333333336
       }
     ],
     "Rafael": [
@@ -33925,6 +33974,13 @@
         "costoTotal": 24.75,
         "fecha": "6/11/2025, 10:37:20 a.m.",
         "ganancia": 8.25
+      },
+      {
+        "producto": "Oreo chocolate",
+        "piezas": 1,
+        "costoTotal": 24.75,
+        "fecha": "13/11/2025, 11:50:14 a.m.",
+        "ganancia": 8.25
       }
     ],
     "Externo": [
@@ -34417,10 +34473,10 @@
       "descripcion": "Cremax fresa",
       "precioCompra": 22.1,
       "precioVenta": 33.15,
-      "piezas": 4,
+      "piezas": 2,
       "stockParciales": [
         {
-          "cantidad": 4,
+          "cantidad": 2,
           "costoUnitario": 22.1
         }
       ]
@@ -34472,13 +34528,8 @@
       "descripcion": "Encendedor",
       "precioCompra": 4.96,
       "precioVenta": 7.44,
-      "piezas": 8,
-      "stockParciales": [
-        {
-          "cantidad": 8,
-          "costoUnitario": 4.96
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "024142020733",
@@ -34501,13 +34552,8 @@
       "descripcion": "Cremax chocolate",
       "precioCompra": 22.1,
       "precioVenta": 33.15,
-      "piezas": 1,
-      "stockParciales": [
-        {
-          "cantidad": 1,
-          "costoUnitario": 22.1
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478035915",
@@ -34535,10 +34581,10 @@
       "descripcion": "Oreo chocolate",
       "precioCompra": 16.5,
       "precioVenta": 24.75,
-      "piezas": 2,
+      "piezas": 1,
       "stockParciales": [
         {
-          "cantidad": 2,
+          "cantidad": 1,
           "costoUnitario": 16.5
         }
       ]
@@ -34852,26 +34898,16 @@
       "descripcion": "Barcel",
       "precioCompra": 11.43,
       "precioVenta": 17.14,
-      "piezas": 4,
-      "stockParciales": [
-        {
-          "cantidad": 4,
-          "costoUnitario": 11.428571428571429
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501011119543",
       "descripcion": "Sabritas",
       "precioCompra": 9.17,
       "precioVenta": 13.75,
-      "piezas": 4,
-      "stockParciales": [
-        {
-          "cantidad": 4,
-          "costoUnitario": 9.166666666666666
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7500478022519",
@@ -34891,13 +34927,8 @@
       "descripcion": "Emperador chocolate",
       "precioCompra": 13.44,
       "precioVenta": 20.16,
-      "piezas": 2,
-      "stockParciales": [
-        {
-          "cantidad": 2,
-          "costoUnitario": 13.4375
-        }
-      ]
+      "piezas": 0,
+      "stockParciales": []
     },
     {
       "codigo": "7501000391974",
@@ -37925,6 +37956,6 @@
   "numInversionistas": 12,
   "totalInversion": 6000,
   "gastoEnProductos": 65532.20000000002,
-  "inversionRecuperada": 63804.879303175185,
-  "gananciasTotales": 31915.860696826
+  "inversionRecuperada": 64036.61525555613,
+  "gananciasTotales": 32031.724744445044
 }
